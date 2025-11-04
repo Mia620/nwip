@@ -1,0 +1,6043 @@
+﻿l_english:
+ gaspe: "Gaspé" #
+ chicchoc: "Chic-Chocs" #
+ marsoui: "Marsoui" #
+ pewjeg: "Pew'jeg" #
+ cascapedia: "Cascapédia" #
+ paspebiac: "Paspébiac" #
+ matapedia: "Matapédia" #
+ chic_choc_mountains: "Chic-Choc Mountains" #
+ matane: "Matane" #
+ rimouski: "Rimouski" #
+ mitis: "Mitis" #
+ amqui: "Amqui" #
+ causapscal: "Causapscal" #
+ kakouna: "Kakouna" #
+ molsemtekw: "Molsemtekw" #
+ temiscouata: "Témiscouata" #
+ kamouraska: "Kamouraska" #
+ northern_notre_dame_mountains: "Notre-Dame Mountains" #
+ kikonteku: "Kikonteku" #
+ kamitsisit: "Kamitsisit" #
+ etchemin: "Etchemins" #
+ wachilmezi: "Wachilmezi" #
+ onkobagag: "Onkobagag" #
+ sartigan: "Sartigan" #
+ wolastoq: "Wolastoq" #
+ stadacona: "Stadacona" #
+ andawaohie: "Andawaohie" #
+ ontaretse: "Ontaretse" #
+ ahwendoe: "Ahwendoe" #
+ ondaonnentakwi: "Ondaonnentakwi" #
+ aunona: "Aunona" #
+ taoondewake: "Taoondewake" #
+ kouate: "Kouate" #
+ laurentian_massif: "Laurentian Massif" #
+ mingan: "Mingan" #
+ pigou: "Pigou" #
+ aguanish: "Aguanish" #
+ natashquan: "Natashquan" #
+ manapakuaniskau: "Manapakuaniskau" #
+ uanaman: "Uanaman" #
+ upuahpukau: "Upuahpukau" #
+ magpie_massif: "Magpie Massif" #
+ notiskuan: "Notiskuan" #
+ anticosti: "Anticosti" #
+ natigostec: "Natigostec" #
+ mecatina: "Mécatina" #
+ kegaska: "Kegaska" #
+ coacoachou: "Coacoachou" #
+ napetipi: "Napetipi" #
+ mecatina_hills: "Mécatina Hills" #
+ uashat: "Uashat" #
+ nipisso: "Nipisso" #
+ nipissis: "Nipissis" #
+ caopacho: "Caopacho" #
+ opocopa: "Opocopa" #
+ mistecapiu: "Mistecapiu" #
+ sainte_marguerite_plateau: "Sainte-Marguerite Plateau" #
+ ouiauirabugu: "Ouiauirabugu" #
+ toulnustouc: "Toulnustouc" #
+ capotigamau: "Capotigamau" #
+ manicouagan: "Manicouagan" #
+ mouchalagane: "Mouchalagane" #
+ kapuameut: "Kapuameut" #
+ piletisipuk: "Piletisipuk" #
+ manicouagan_plateau: "Manicouagan Plateau" #
+ manicouagan_depression: "Manicouagan Depression" #
+ lake_manicouagan: "Lake Manicouagan" #
+ lake_mouchalagane: "Lake Mouchalagane" #
+ pessamit: "Pessamit" #
+ betsiamites: "Betsiamites" #
+ pipmuacan: "Pipmuacan" #
+ itomamo: "Itomamo" #
+ kitchesatsiou: "Kitchesatsiou" #
+ manouanis: "Manouanis" #
+ tetepisca: "Tetepisca" #
+ essipit: "Essipit" #
+ manouane: "Manouane" #
+ manouanis_massif: "Manouanis Massif" #
+ lake_pipmuacan: "Lake Pipmuacan" #
+ chicoutimi: "Chicoutimi" #
+ shipshaw: "Shipshaw" #
+ onatchiway: "Onatchiway" #
+ outapimiskou: "Outapimiskou" #
+ metabetchouane: "Métabetchouane" #
+ valin_mountains: "Valin Mountains" #
+ tadoussac: "Tadoussac" #
+ opiticiwan: "Opiticiwan" #
+ oskelaneo: "Oskelaneo" #
+ minkaniciciw: "Minkaniciciw" #
+ wemotaci: "Wemotaci" #
+ maskotci: "Maskotci" #
+ metabeskega: "Métabeskega" #
+ kokokachi: "Kokokachi" #
+ cikakw_sipi: "Cikakw Sipi" #
+ kiskissink: "Kiskissink" #
+ wayagamac: "Wayagamac" #
+ windigo_massif: "Windigo Massif" #
+ kitigan_zibi: "Kitigan Zibi" #
+ baskatong: "Baskatong" #
+ poigan: "Poigan" #
+ picanoc: "Picanoc" #
+ gatineau_hills: "Gatineau Hills" #
+ tapani: "Tapani" #
+ kiamika: "Kiamika" #
+ kanegaok: "Kanegaok" #
+ temiscamingue: "Témiscamingue" #
+ maganasipi: "Maganasipi" #
+ kippawa: "Kippawa" #
+ winneway: "Winneway" #
+ kinojevis: "Kinojévis" #
+ osisko: "Osisko" #
+ kitcisakik: "Kitcisakik" #
+ kakibonga: "Kakibonga" #
+ cawassiemica: "Cawassiemica" #
+ capimitchigama: "Capimitchigama" #
+ chochocouane_hills: "Chochocouane Hills" #
+ dumoine_plateau: "Dumoine Plateau" #
+ lake_temiscamingue: "Lake Témiscamingue" #
+ quinze_lake: "Quinze Lake" #
+ preissac_lake: "Preissac Lake" #
+ mistassibi: "Mistassibi" #
+ samaqua: "Samaqua" #
+ ouasimesca: "Ouasimesca" #
+ nestaocano: "Nestaocano" #
+ tchitogama: "Tchitogama" #
+ peribonka: "Péribonka" #
+ onistagane: "Onistagane" #
+ machisque: "Machisque" #
+ eastern_peribonka_hills: "Péribonka Hills" #
+ peribonka_hills: "Péribonka Hills" #
+ ashuapmushuan: "Ashuapmushuan" #
+ kanishushteu: "Kanishushteu" #
+ chigoubiche: "Chigoubiche" #
+ nicabau: "Nicabau" #
+ ouiatchouaniche: "Ouiatchouaniche" #
+ ashuapmushuan_hills: "Ashuapmushuan Hills" #
+ lake_saint_jean: "Lake Saint-Jean" #
+ wigwomadensis: "Wigwomadensis" #
+ masolian: "Masolian" #
+ yamaska: "Yamaska" #
+ wdpesek: "Wdpesek" #
+ lake_champlain: "Lake Champlain" #
+ hochelaga: "Hochelaga" #
+ kemoimenahan: "Kemoimenahan" #
+ ahkwesasne: "Kanatakon" #
+ otennienontant: "Otennienontant" #
+ makigotekw: "Makigotekw" #
+ loigan_sibo: "Loigan Sibo" #
+ lake_of_two_mountains: "Lake of Two Mountains" #
+ kiwetin_sipi: "Kiwetin Sipi" #
+ mikiwam: "Mikiwam" #
+ outaragasipi: "Outaragasipi" #
+ tremblant_massif: "Tremblant Massif" #
+ alsigontekw: "Alsigontekw" #
+ wolinak: "Wolinak" #
+ wabanaki: "Wabanaki" #
+ arthabaska: "Arthabaska" #
+ nebesek: "Nebesek" #
+ nikitotegwak: "Nikitotegwak" #
+ megantic: "Mégantic" #
+ maskikogamak: "Maskikogamak" #
+ coaticook: "Coaticook" #
+ memphremagog: "Memphrémagog" #
+ wigwomadenek: "Wigwomadenek" #
+ wagowategok: "Wagowategok" #
+ lake_memphremagog: "Lake Memphrémagog" #
+ ekwentondie: "Ekwentondie" #
+ yamachiche: "Yamachiche" #
+ shawinigan: "Shawinigan" #
+ mekinac: "Mékinac" #
+ matawin: "Matawin" #
+ lake_saint_pierre: "Lake Saint-Pierre" #
+ nagatinong: "Nagatinong" #
+ weskarini: "Weskarini" #
+ okaisipi: "Okaisipi" #
+ quyon: "Quyon" #
+ nichabau: "Nichabau" #
+ malartic_lake: "Malartic Lake" #
+ malartic: "Malartic" #
+ wasakin: "Wasakin" #
+ chicobi: "Chicobi" #
+ harricana: "Harricana" #
+ obaska: "Obaska" #
+ megiscane: "Megiscane" #
+ matagami_depression: "Matagami Depression" #
+ matagami_lake: "Matagami Lake" #
+ waswanipi_lake: "Waswanipi Lake" #
+ poncheville_lake: "Poncheville Lake" #
+ opawica: "Opawica" #
+ opemisca: "Opemisca" #
+ waswanipi: "Waswanipi" #
+ maicasagi: "Maicasagi" #
+ soscumica: "Soscumica" #
+ nottaway: "Nottaway" #
+ missicabi: "Missicabi" #
+ waskaganish: "Waskaganish" #
+ kaipeshimushich: "Kapieshimushich" #
+ nemasca: "Nemsca" #
+ kapitukamach: "Kapitukamach" #
+ kauakiekamatsh: "Kauakiekamatsh" #
+ natastan: "Natastan" #
+ nistam: "Nistam" #
+ kamashikamach: "Kamashikamach" #
+ ouagama: "Ouagama" #
+ rupert_plateau: "Rupert Plateau" #
+ lake_evans: "Lake Evans" #
+ mistissini: "Mistassini" #
+ cawachagamite: "Cawachagamite" #
+ shipastouk: "Shipastouk" #
+ mistassiniish: "Mistassiniish" #
+ chibougamau: "Chibougamau" #
+ temiscamie: "Témiscamie" #
+ mistassini_hills: "Mistassini Hills" #
+ lake_chibougamau: "Lake Chibougamau" #
+ lake_mistassini: "Lake Mistassini" #
+ lake_albanel: "Lake Albanel" #
+ pitchibourenik: "Pitchibourenik" #
+ caisaboscai: "Caisaboscai" #
+ chistamikap: "Chistamikap" #
+ nasacauso: "Nasacauso" #
+ neoskweskau: "Neoskweskau" #
+ cauouatstacau: "Cauouatstacau" #
+ eastmain_hills: "Eastmain Hills" #
+ mistimakan: "Mistimakan" #
+ chisasibi: "Chisasibi" #
+ maquatua: "Maquatua" #
+ atikuan: "Atikuan" #
+ la_grande_hills: "La Grande Hills" #
+ lake_sakami: "Lake Sakami" #
+ nichicun: "Nichicun" #
+ misask: "Misask" #
+ wahemen: "Wahemen" #
+ naococane: "Naococane" #
+ otish_mountains: "Otish Mountains" #
+ lake_nichicun: "Lake Nichicun" #
+ lake_naococane: "Lake Naococane" #
+ kuujjuarapik: "Kuujjuarapik" #
+ qingaaluk: "Qingaaluk" #
+ tupialuviniq: "Tupiluviniq" #
+ wiyashakimi: "Wiyashakimi" #
+ nastapoka: "Nastapoka" #
+ great_whale_plateau: "Great Whale Plateau" #
+ lake_bienville: "Lake Bienville" #
+ lake_tasiujaq: "Lake Tasiujaq" #
+ lake_wiyashakami: "Lake Wiyashakami" #
+ seal_lake: "Seal Lake" #
+ kuujjuaq: "Kujjuaq" #
+ kuuvik: "Kuuvik" #
+ natuak: "Natuak" #
+ kasuswapaskau: "Kasuswapaskau" #
+ koskoak: "Koskoak" #
+ ungava_peninsula: "Ungava Peninsula" #
+ larch_plateau: "Larch Plateau" #
+ sanikiluaq: "Sanikiluaq" #
+ southampton_island: "Southampton Island" #
+ amadjuak_lake: "Amadjuak Lake" #
+ lake_minto: "Lake Minto" #
+ lake_payne: "Lake Payne" #
+ pangnirtung: "Pangnirtung" #
+ iglunga: "Iglunga" #
+ iqaluit: "Iqaluit" #
+ kimmirut: "Kimmirut" #
+ amadjuak: "Amadjuak" #
+ kinngait: "Kinngait" #
+ baffin_island: "Baffin Island" #
+ caniapiscau: "Caniapiscau" #
+ kasakaupuyau: "Kasakaupuyau" #
+ wayustikw: "Wayustikw" #
+ mistanipi: "Mistanipi" #
+ chipisipi: "Chipisipi" #
+ katataskatikw: "Katataskatikw" #
+ misinichikw: "Misinichikw" #
+ otelnuk: "Otelnuk" #
+ kawachisakau: "Kawachisakau" #
+ kawachikamasu: "Kawachikamasu" #
+ enchukamao: "Enchukamao" #
+ caniapiscau_plateau: "Caniapiscau Plateau" #
+ opiscoteo_hills: "Opiscoteo Hills" #
+ lake_caniapiscau: "Lake Caniapiscau" #
+ qikirtajuaq: "Qikirtajuaq" #
+ kamusawawasich: "Kamusawasich" #
+ kawawasukutisich: "Kawawasukutisich" #
+ kaypikupau: "Kaypikupau" #
+ mistinatwayasu: "Mistinitwayasu" #
+ kamiskayachuuch: "Kamiskayachuuch" #
+ qurlutuq: "Qurlutuq" #
+ labrador_hills: "Labrador Hills" #
+ whale_lowlands: "Whale Lowlands" #
+ kangiqsualujjuaq: "Kangiqsualujjuaq" #
+ imaapik: "Imaapik" #
+ siimitalik: "Siimitalik" #
+ uashekanau: "Uashekanau" #
+ mistinatuakamau: "Mistinatuakamau" #
+ mushuau: "Mushuau" #
+ kausseskait: "Kausseskait" #
+ tupirvialuit: "Tupirvialuit" #
+ koroc: "Koroc" #
+ quebec_torngats: "Torngat Mountains" #
+ george_river_plateau: "George Plateau" #
+ nunainguk: "Nunainguk" #
+ navchak: "Navchak" #
+ kingmirtok: "Kingmirtok" #
+ napaktok: "Napaktok" #
+ okak: "Okak" #
+ aulatsivik: "Aulatsivik" #
+ ukasikalik: "Ukusikalik" #
+ agvituk: "Agvituk" #
+ kaipokok: "Kaipokok" #
+ aillik: "Aillik" #
+ tessuialluk: "Tessuialluk" #
+ torngat_mountains: "Torngat Mountains" #
+ misha_shipu: "Misha Shipu" #
+ tikigaksuagusik: "Tikigaksuagusik" #
+ aivitok: "Aivitok" #
+ kenamu: "Kenamu" #
+ sheshatshiu: "Sheshatshiu" #
+ kauipushkakamat: "Kauipushkakamat" #
+ kamassekutinat: "Kamassekutinat" #
+ labrador_highlands: "Labrador Highlands" #
+ hamilton_inlet: "Hamilton Inlet" #
+ grand_lake: "Grand Lake" #
+ shabogamo: "Shabogamo" #
+ ashuanipi: "Ashuanipi" #
+ kepimits: "Kepimits" #
+ muhaukamau: "Muhaukamau" #
+ atikonak: "Atikonak" #
+ kamassekuakamat: "Kamasseekuakamat" #
+ nipissu: "Nipissu" #
+ winokapau: "Winokapau" #
+ mecatina_plateau: "Mécatina Plateau" #
+ ashuanipi_lake: "Ashuanipi Lake" #
+ shabogamo_lake: "Shabogamo Lake" #
+ mishikamau: "Mishikamau" #
+ menutinau: "Menutinau" #
+ ushkau_nipi: "Ushkau Nipi" #
+ attikamagen: "Attikamagen" #
+ petitsikapau: "Petitsikapau" #
+ hamilton_highlands: "Hamilton Highlands" #
+ attikamagen_lake: "Attikamagen Lake" #
+ lake_petitsikapau: "Lake Petitsikapau" #
+ catucto: "Catucto" #
+ red_bay: "Red Bay" #
+ ikkatuluk: "Ikkatuluk" #
+ uivvatok: "Uivvatok" #
+ natsitok: "Natsitok" #
+ inutsualak: "Inutsualak" #
+ mealy_mountains: "Mealy Mountains" #
+ belle_isle: "Belle Isle" #St. Anthony
+ wipetikil: "Wipetikil" #Roddickton
+ naskwotchu: "Naskwotchu" #Flowers Cove
+ mekapisk: "Mekapisk" #Port au Choix
+ long_range_mountains: "Long Range Mountains" #⠀
+ eimastukwek: "Eimastukwek" #Corner Brook
+ epwikek: "Epwikek" #Codroy
+ kutapuskuj: "Kutapusku'j" #Stephenville
+ pgotapesg: "Pgotapesg" #Buchans
+ upsukdaskooch: "Upsukdaskooch" #Pollard's Point
+ wli_qospem: "Wli' Qospem" #Deer Lake
+ gosaoie: "Gosaoie" #Channel-Port aux Basques
+ nogamsig: "Nogamsig" #Burgeo
+ meelpaeg: "Meelpaeg" #⠀
+ amasipukwek: "Amasipukwek" #St. Alban's
+ sibook: "Sibook" #Harbour Breton
+ annieopsquotch_mountains: "Annieopsquotch Mountains" #⠀
+ baie_verte: "Baie Verte" #⠀
+ walnaypek: "Walnaypek" #Lewisporte
+ akilasiewakik: "Akilasie'wa'kik" #Twilingate
+ newfoundland_highlands: "Newfoundland Highlands" #⠀
+ cape_spear: "Cape Spear" #St. John
+ bacalhieu: "Bacalhieu" #Carbonear
+ mekwiskajk: "Mekwiskajk" #Gambo
+ mollyhuajeck: "Mollyhuajeck" #Bonavista
+ placentia: "Placentia" #Placentia
+ cape_race: "Cape Race" #Trepassey
+ maqtewey: "Maqtewey" #Arnold's Cove
+ nukamkiajijk: "Nukamkia'ji'jk" #Marystown
+ miquelon: "Miquelon" #Saint-Pierre
+ elsiktuk: "Elsiktuk" #
+ tignish: "Tignish" #
+ malpeque: "Malpeque" #
+ tapu_tuitn: "Tapu Tuitn" #
+ pukusamkek: "Puku'samtek" #
+ menageesenog: "Menageesenog" #
+ ainslie_lake: "Ainslie Lake" #
+ askataliank: "Sule'katik" #
+ cheticamp: "Wiaqajk" #
+ ingonish: "Nikanisk" #
+ qospemk: "Qospemk" #
+ apaqtukowatek: "Apaqtukowatek" #
+ sipuk: "Sipuk" #
+ kluskapewiktuk: "Kluskapewiktuk" #
+ bras_dor_lake: "Bras d'Or Lake" #
+ pictou: "Piktuk" #
+ chignecto: "Sikniktuk" #
+ maccan: "Akumaqnuk" #
+ tatamagouche: "Taqamiku'jk" #
+ antigonish: "Nalikitquniejk" #
+ canso: "Qamso'q" #
+ kekwapskuk: "Kekwapskuk" #
+ wikipoq: "Wikipoq" #
+ weljuik: "Weljuik" #
+ jijkwtuk: "Jijkwtuk" #
+ cobequid: "We'kopektik" #
+ shubenacadie: "Sipekne'katik" #
+ kennetook: "Knetkuk" #
+ kjipuktuk: "Punamu'kwati'jk" #
+ wetewatoqsik: "Kjipuktuk" #
+ musquedoboit: "Muskito'pukwek" #
+ aspotogan: "Kpiteskaqnk" #
+ esekatik: "E'se'katik" #
+ nmejuaqnek: "Nme'juaqnek" #
+ nictaux: "Niktaq" #
+ wekwayik: "We'kwayik" #
+ chebogue: "Tkipok" #
+ muinawamek: "Muinawamek" #
+ nisiamk: "Nisiamk" #
+ oqumkikiak: "Oqumkikiak" #
+ petitcodiac: "Petitcodiac" #
+ memramcook: "Memramcook" #
+ richibucto: "Richibucto" #
+ kouchibouguac: "Kouchibouguac" #
+ miramichi: "Miramichi" #
+ neguac: "Neguac" #
+ anagance: "Anagance" #
+ seeboosis: "Seeboosis" #
+ nepisiguit: "Nepisiguit" #
+ tracadie: "Tracadie" #
+ caraquet: "Caraquet" #
+ restigouche: "Restigouche" #
+ maleagit: "Maleagit" #
+ pogomeg: "Pogomeg" #
+ asoqasqoq: "Asoqasqoq" #
+ matapedia_highlands: "Matapédia Highlands" #
+ madawaska: "Madawaska" #
+ negoot: "Negoot" #
+ becaguimec: "Becaguimec" #
+ siegas: "Siegas" #
+ menahkwesk: "Menahkwesk" #
+ mispec: "Mispec" #
+ kennebecasis: "Kennebecasis" #
+ washademoak: "Washademoak" #
+ otnabog: "Otnabog" #
+ kcheeminpink: "Kcheeminpink" #
+ canaan_bog: "Canaan Bog" #
+ grand_lake_ca: "Grand Lake" #
+ nashwaak: "Nahswaak" #
+ oromocto: "Oromocto" #
+ meductic: "Meductic" #
+ welamooktook: "Welamooktook" #
+ pokiok: "Pokiok" #
+ grand_manan: "Manan Archipelago" #
+ pocologan: "Pocologan" #
+ chamcook: "Chamcook" #
+ magaguadavic: "Magaguadavic" #
+ cataraqui: "Cataraqui" #
+ kahwenoke: "Kahwenoke" #
+ toniato: "Toniato" #
+ gananoque: "Gananoque" #
+ opinicon: "Opinicon" #
+ kitchissippi: "Kitchissippi" #
+ pasapkedjinawong: "Pasapkejinawong" #
+ onontchataronon: "Onontchataronon" #
+ maizinaazibi: "Maizinaazibi" #
+ matoueska: "Matoueska" #
+ kinozhesipi: "Kinozhesipi" #
+ pikwakanagan: "Pikwanagan" #
+ petawawa: "Petawawa" #
+ napanee: "Napanee" #Napanee, # Still called Napanee, or well Greater Napanee.
+ ganneious: "Ganneious" #
+ ganaraska: "Ganaraska" #
+ quinte: "Quinte" #
+ otonabee: "Otonabee" #
+ kawartha: "Kawartha" #
+ mazinaw: "Mazinaw" #
+ skootamatta: "Skootamatta" #
+ kamaniskeg: "Kamaniskeg" #
+ catchacoma: "Catchacoma" #
+ kashagawigamog: "Kashagawigamog" #
+ macassa: "Macassa" #
+ niagara: "Niagara" #Niagara
+ nissouri: "Nissouri" #
+ kandoucho: "Kandoucho" #
+ kenhionatatie: "Kenhionatatie" #
+ tekahionhake: "Tekahhionhake" #
+ kanagio: "Kanagio" #
+ ganatchio: "Ganatchio" #
+ bkwejanong: "Bkwejanong" #
+ menesetung: "Menesetung" #
+ saugeen: "Saugeen" #
+ dehskan_ziibi: "Dehskan Ziibi" #
+ nochemoweniing: "Nochemoweniing" #
+ etharita: "Etharita" #
+ ehwae: "Ehwae" #
+ garafraxa: "Garafraxa" #
+ eramosa: "Eramosa" #
+ ouentarionk: "Ouentarionk" #
+ cahiague: "Cahiague" #
+ kaotia: "Kaotia" #
+ scanonaenrat: "Scanonaenrat" #
+ ossossane: "Ossossane" #
+ lake_simcoe: "Lake Simcoe" #
+ tkaronto: "Tkaronto" #Toronto, # Largest City in Canada now
+ oshawa: "Oshawa" #Oshawa, # Still Called Oshawa
+ scugog: "Scugog" #
+ haskaont: "Haskaont" #
+ missinihe: "Missinihe" #
+ tetioneshohon: "Tetioneshohon" #
+ shawanaga: "Shawanaga" #
+ cognashene: "Cognashene" #
+ kahshe: "Kahshe" #
+ magnetawan: "Magnetawan" #
+ opeongo_hills: "Opeongo Hills" #
+ nosbonsing: "Nosbonsing" #
+ nipissing: "Nipissing" #
+ powassan: "Powassan" #
+ memesagamesing: "Mmesagamesing" #
+ nemag: "Nemag" #
+ lake_nipissing: "Lake Nipissing" #
+ wanapitei: "Wanapitei" #
+ onaping: "Onaping" #
+ pogamasing: "Pogamasing" #
+ temagami: "Temagami" #
+ ishpatina_ridge: "Ishpatina Ridge" #
+ wanapitei_lake: "Wanapitei Lake" #
+ manitoulin: "Manitoulin" #
+ wemitigoj: "Wemitigoj" #
+ eskimanetigon: "Eskimanetigon" #
+ mississagi: "Mississagi" #
+ matabichuan: "Matabichuan" #
+ matachewan: "Matachewan" #
+ sessekinika: "Sesekinika" #
+ mattawa: "Mattawa" #
+ opimika: "Opimika" #
+ baawitigong: "Baawitigong" #
+ batchawana: "Batchawana" #
+ michipicoten: "Michipicoten" #
+ agawa_superior: "Agawa" #
+ manitowik: "Manitowik" #
+ pekatek: "Pekatek" #
+ aguasabon: "Aguasabon" #
+ wawa_uplands: "Wawa Uplands" #
+ penokean_hills: "Penokean Hills" #
+ nipigon: "Nipigon" #
+ namewaminikan: "Namewaminikan" #
+ ombabika: "Ombabika" #
+ wabinosh: "Wabinosh" #
+ kaitotikwia: "Kabitotikwia" #
+ onaman_lake: "Onaman Lake" #
+ lake_nipigon: "Lake Nipigon" #
+ kaministiquia: "Kaministiquia" #
+ kakabeka: "Kakabeka" #
+ neebing: "Neebing" #
+ minong: "Minong" #
+ kapuskasing: "Kapuskasing" #
+ missinaibi: "Missinaibi" #
+ nemegosenda: "Nemegosenda" #
+ otapingshewee: "Otapingshewee" #
+ tionaga: "Tionaga" #
+ wakusimi: "Wakusimi" #
+ mattawishkwia: "Mattawishkwia" #
+ nemegosenda_uplands: "Nemegosenda Uplands" #
+ kenogamissi: "Kenogamissi" #
+ mattagami: "Mattagami" #
+ buskegau: "Buskegau" #
+ mistango: "Mistango" #
+ nahma: "Nahma" #
+ piscoutagami: "Piscoutagami" #
+ mattawasaga: "Mattawasaga" #
+ lake_abitibi: "Lake Abitibi" #
+ nagagami: "Nagagami" #
+ watistiguam: "Watistiguam" #
+ achikamii: "Achikamii" #
+ kabinakagami: "Kabinakagami" #
+ pagwachuan: "Pagwachuan" #
+ ginoogaming: "Ginoogaming" #
+ croix_lake: "Croix Lake" #
+ basswood_lake: "Basswood Lake" #
+ atikwa: "Atikwa" #
+ saganaga: "Saganaga" #
+ quetico: "Quetico" #
+ namakan: "Namakan" #
+ gojijin: "Gojijin" #
+ kakagi: "Kakagi" #
+ wabaseemong: "Wabaseemong" #
+ winnange: "Winnange" #
+ wabigoon: "Wabigoon" #
+ obishikokaang: "Obishikokaang" #
+ waaninaawangang: "Waaninawawangang" #
+ wabigoon_uplands: "Wabigoon Uplands" #
+ lac_seul: "Lac Seul" #
+ lake_of_the_woods: "Lake of the Woods" #
+ rainy_lake: "Rainy Lake" #
+ ogoki: "Ogoki" #
+ miniss: "Miniss" #
+ atikokiwam: "Atikokiwam" #
+ matapesatakun: "Matapesatakun" #
+ petawanga: "Petawanga" #
+ pichinamei: "Pichinamei" #
+ makokibatan: "Makokabitan" #
+ kagianagami: "Kagianagami" #
+ ogoki_uplands: "Ogoki Uplands" #
+ ogoki_lake: "Ogoki Lake" #
+ lake_saint_joseph: "Lake Saint-Joseph" #
+ winisk: "Winisk" #
+ kinusheo: "Kinusheo" #
+ wabuk: "Wabuk" #
+ asheweig: "Asheweig" #
+ tabasokwia: "Tabasokwia" #
+ shibogama: "Shibogama" #
+ wapikopa: "Wapikopa" #
+ wunnumin: "Wunnumin" #
+ wapitotem: "Wapitotem" #
+ hudson_bay_lowlands: "Hudson Bay Lowlands" #
+ winisk_uplands: "Winisk Uplands" #
+ attawapiskat_lake: "Attawapiskat Lake" #
+ lake_wunnumin: "Lake Wunnumin" #
+ washeo: "Washeo" #
+ niskibi: "Niskibi" #
+ shagamu: "Shagamu" #
+ ministik: "Ministik" #
+ severn_uplands: "Severn Uplands" #
+ big_trout_lake: "Big Trout Lake" #
+ attawapiskat: "Attaapiskat" #
+ ekwan: "Ekwan" #
+ otadaonanis: "Otadonanis" #
+ patchepawapoka: "Patchepawapoka" #
+ lakitusaki: "Lakitusaki" #
+ attawapiskat_lowlands: "Attawapiskat Lowlands" #
+ kashechewan: "Kashechewan" #
+ wabimeig: "Wabimeig" #
+ mammamattawa: "Mammamattawa" #
+ wapiskau: "Wapiskau" #
+ kinosheo: "Kinosheo" #
+ pagashi: "Pagashi" #
+ tchakashapug: "Tchakashapug" #
+ james_bay_lowlands: "James Bay Lowlands" #
+ english_river_uplands: "English River Uplands" #
+ moosonee: "Moosonee" #
+ abimatinu: "Abimatinu" #
+ takwata: "Takwata" #
+ wawiyastan: "Wawiyastan" #
+ kwetabohigan: "Kwetabohigan" #
+ kagawask: "Kagawask" #
+ mesagami: "Mesagami" #
+ olimisk: "Olimisk" #
+ abitibi_uplands: "Abitibi Uplands" #
+ kesagami_lake: "Kesagami Lake" #
+ mahnahwoonan: "Mahnahwooman" #
+ sivukutaitiarruvik: "Sivukutaitiarruvik" #
+ akimiski: "Akimiski" #
+ bay_of_quinte: "Bay of Quinte" #
+ central_lake_ontario: "Central Lake Ontario" #
+ niagara_basin: "Niagara Basin" #
+ eastern_erie_basin: "Eastern Erie Basin" #
+ central_erie_basin: "Central Erie Basin" #
+ pelee_island: "Pelee Island" #
+ lake_st_clair: "Lake St Clair" #
+ northern_lake_huron: "Northern Lake Huron" #
+ deadmans_point: "Deadmans Point" #
+ cunningham_point: "Cunningham Point" #
+ georgian_bay: "Georgian Bay" #
+ manitoulin_channel: "Manitoulin Channel" #
+ southern_lake_huron: "Southern Lake Huron" #
+ clark_point: "Clark Point" #
+ blue_point: "Blue Point" #
+ whitefish_point: "Whitefish Point" #
+ saginaw_bay: "Saginaw Bay" #
+ green_bay: "Green Bay" #
+ strait_of_makinac: "Strait of Makinac" #
+ traverse_bay: "Traverse Bay" #
+ middle_lake_michigan: "Central Lake Michigan" #
+ south_lake_michigan: "Southern Lake Michigan" #
+ wind_point: "Wind Point" #
+ au_sable_point: "Au Sable Point" #
+ whitefish_bay: "Whitefish Bay" #
+ michipicoten_bay: "Michipicoten Bay" #
+ pukaskwa_point: "Pukaskwa Point" #
+ keweenaw_bay: "Keweenaw Bay" #
+ schreiber_channel: "Schreiber Channel" #
+ black_bay: "Black Bay" #
+ chequamegon_bay: "Chequamegon Bay" #
+ thunder_bay: "Thunder Bay" #
+ keweenaw_coast: "Keweenaw Coast" #
+ copper_harbor: "Copper Harbor" #
+ aulatsivik_island: "Aulatsivik Island" #
+ sloop_harbour_point: "Sloop Harbour Point" #
+ hawke_island: "Hawke Island" #
+ black_bear_bay: "Black Bear Bay" #
+ kaipokok_bay: "Kaipokok Bay" #
+ labrador_sea: "Labrador Sea" #
+ canada_high_sea9: "Canada High Sea" #
+ canada_high_sea6: "Canada High Sea" #
+ canada_high_sea7: "Canada High Sea" #
+ frobisher_bay: "Frobisher Bay" #
+ cumberland_sound: "Cumberland Sound" #
+ north_aulatsivik_island: "North Aulatsivik Island" #
+ okak_bay: "Okak Bay" #
+ hatten_headland: "Hatten Headland" #
+ edgell_island: "Edgell Island" #
+ popham_bay: "Popham Bay" #
+ angijak_island: "Angijak Island" #
+ dyer_cape: "Dyer Cape" #
+ baffin_bay: "Baffin Bay" #
+ baffin_high_sea2: "Baffin High Sea" #
+ baffin_high_sea4: "Baffin High Sea" #
+ canada_high_sea2: "Canada High Sea" #
+ canada_high_sea4: "Canada High Sea" #
+ anticosti_channel: "Anticosti Channel" #
+ grosse_island: "Grosse Island" #
+ saint_lawrence_gulf: "Saint Lawrence Gulf" #
+ gulf_of_saint_lawrence: "Gulf of Saint-Lawrence" #
+ saint_georges_bay: "Saint Georges Bay" #
+ st_george_bay: "St George's Bay" #
+ cabot_strait: "Cabot Strait" #
+ bay_of_islands: "Bay of Islands" #
+ esquiman_channel: "Esquiman Channel" #
+ amour_point: "Amour Point" #
+ mouth_of_saint_lawrence: "Mouth of the Saint-Lawrence" #
+ saguenay_fjord: "Fjord of the Saguenay" #
+ saint_lawrence_estuary: "Saint-Lawrence Estuary" #
+ boisvert_point: "Boisvert Point" #
+ anglais_point: "Anglais Point" #
+ cartier_point: "Cartier Point" #
+ coast_of_gaspe: "Gaspe Coast" #
+ sept_iles_bay: "Sept-Iles Bay" #
+ gamache_bay: "Gamache Bay" #
+ honguedo_strait: "Strait of Honguedo" #
+ mingan_islands: "Mingan Islands" #
+ lake_island: "Lake Island" #
+ bilodeau_point: "Bilodeau Point" #
+ anticosti_coast: "Anticosti Coast" #
+ mecatina_islands: "Mécatina Islands" #
+ saint_agustin_bay: "Saint Agustin Bay" #
+ les_blacklands: "Les Blacklands" #
+ vieux_poste_point: "Vieux Poste Point" #
+ rouge_cape: "Rouge Cape" #
+ quero_bank: "Quero Bank" #
+ havre_aubert_cape: "Havre Aubert Cape" #
+ northumberland_strait: "Northumberland Strait" #
+ tatamagouche_bay: "Tatamagouche Bay" #
+ pictou_banks: "Pictou Banks" #
+ strait_of_canso: "Strait of Canso" #
+ malpeque_bay: "Malpeque Bay" #
+ abegweit_passage: "Abegweit Passage" #
+ miramichi_bay: "Miramichi Bay" #
+ gaspe_bay: "Bay of Gaspé" #
+ chaleur_bay: "Chaleur Bay" #
+ bradelle_valley: "Bradelle Valley" #
+ laurentian_channel: "Laurentian Channel" #
+ burgeo_bank: "Burgeo Bank" #
+ hermitage_channel: "Hermitage Channel" #
+ hermitage_bay: "Hermitage Bay" #
+ fortune_bay: "Fortune Bay" #
+ st_pierre_bank: "Saint Pierre Bank" #
+ canada_high_sea16: "Canada High Sea" #
+ placentia_bay: "Placentia Bay" #
+ green_bank: "Green Bank" #
+ trepassey_bay: "Trepassey Bay" #
+ conception_bay: "Conception Bay" #
+ bonavista_bay: "Bonavista Bay" #
+ canada_high_sea13: "Canada High Sea" #
+ canada_high_sea14: "Canada High Sea" #
+ canada_high_sea15: "Canada High Sea" #
+ canada_high_sea11: "Canada High Sea" #
+ canada_high_sea12: "Canada High Sea" #
+ groais_island: "Groais Island" #
+ notre_dame_bay: "Notre Dame Bay" #
+ freels_cape: "Freels Cape" #
+ notre_dame_channel: "Notre-Dame Channel" #
+ grey_islands: "Grey Islands" #
+ canada_high_sea10: "Canada High Sea" #
+ brown_bank: "Brown Bank" #
+ bacarro_bank: "Bacarro Bank" #
+ lahave_bank: "LaHave Bank" #
+ emerald_bank: "Emerald Bank" #
+ canada_high_sea19: "Canada High Sea" #
+ canada_high_sea20: "Canada High Sea" #
+ canada_high_sea21: "Canada High Sea" #
+ sydney_bight: "Sydney Bight" #
+ misaine_bank: "Misaine Bank" #
+ middle_bank: "Middle Bank" #
+ canso_bank: "Canso Bank" #
+ canada_high_sea17: "Canada High Sea" #
+ canada_high_sea18: "Canada High Sea" #
+ grand_manan_basin: "Grand Manan Basin" #
+ bay_of_fundy: "Bay of Fundy" #
+ chignecto_bay: "Chignecto Bay" #
+ minas_basin: "Minas Basin" #
+ pen_islands: "Pen Islands" #
+ mouth_of_the_winisk: "Mouth of the Winisk" #
+ shagamu_coast: "Shagamu Coast" #
+ kamisak_coast: "Kamisak Coast" #
+ mouth_of_thlewiaza: "Mouth of the Thlewiaza" #
+ thompson_point: "Thompson Point" #
+ churchill_shoal: "Churchill Shoal" #
+ dawson_inlet: "Dawson Inlet" #
+ rankin_inlet: "Rankin Inlet" #
+ chesterfield_inlet: "Chesterfield Inlet" #
+ hudson_bay1: "Hudson Bay" #
+ hudson_bay_high_sea11: "Hudson Bay High Sea" #
+ hudson_bay_high_sea12: "Hudson Bay High Sea" #
+ hudson_bay_high_sea14: "Hudson Bay High Sea" #
+ salluit_fjord: "Salluit Fjord" #
+ charles_island: "Charles Island" #
+ king_george_sound: "King George Sound" #
+ diana_bay: "Diana Bay" #
+ akpatok_island1: "Akpatok Island" #
+ akpatok_island2: "Akpatok Island" #
+ aquiatulavik_bay: "Aquiatulavik Bay" #
+ jubilee_island: "Jubilee Island" #
+ glencoe_island: "Glencoe Island" #
+ big_island: "Big Island" #
+ saddleback_island: "Saddleback Island" #
+ keglo_bay: "Keglo Bay" #
+ alukpaluk_bay: "Alukpaluk Bay" #
+ forbes_sound: "Forbes Sound" #
+ ungava_bay_high_sea: "Ungava Bay High Sea" #
+ northwestern_passage: "Northwestern Passage" #
+ vauquelin_point: "Vauquelin Point" #
+ belcher_islands_coast5: "Belcher Islands Coast" #
+ salikuit_islands: "Salikuit Islands" #
+ mctavish_island: "Mctavish Island" #
+ drayton_island: "Drayton Island" #
+ kongaluk_bay: "Kongaluk Bay" #
+ cape_smith: "Cape Smith" #
+ digges_island: "Digges Island" #
+ gods_mercy_bay: "Gods Mercy Bay" #
+ netcheck_cape: "Netcheck Cape" #
+ evans_strait: "Evans Strait" #
+ santianna_point: "Santianna Point" #
+ coats_island3: "Coats Island" #
+ leyson_point: "Leyson Point" #
+ mansel_island3: "Mansel Island" #
+ hudson_bay_high_sea4: "Hudson Bay High Sea" #
+ hudson_bay_high_sea5: "Hudson Bay High Sea" #
+ hudson_bay_high_sea9: "Hudson Bay High Sea" #
+ hudson_bay_high_sea16: "Hudson Bay High Sea" #
+ hudson_bay2: "Hudson Bay" #
+ hudson_bay3: "Hudson Bay" #
+ kakachischuan_point: "Kakachischuan Point" #
+ cape_hope_islands: "Cape Hope Islands" #
+ cape_henrietta_maria: "Cape Henrietta Maria" #
+ bear_islands: "Bear Islands" #
+ samana_cay: "Samana Cay" #
+ west_colorados_archipelago: "West Colorados Archipelago" #
+ east_colorados_archipelago: "East Colorados Archipelago" #
+ havana_bay: "Havana Bay" #
+ cape_corrientes: "Cape Corrientes" #
+ gulf_mexico10: "Gulf of Mexico" #
+ trinity_lagoon: "Trinity Lagoon" #
+ barataria_bay: "Barataria Bay" #
+ chandeleur_sound: "Chandeleur Sound" #
+ atchafalaya_bay: "Atchafalaya Bay" #
+ vermillion_bay: "Vermillion Bay" #
+ gulf_mexico14: "Gulf of Mexico" #
+ gulf_mexico15: "Gulf of Mexico" #
+ gulf_mexico17: "Gulf of Mexico" #
+ gulf_mexico18: "Gulf of Mexico" #
+ chavarria_bar: "Chavarria Bar" #
+ tamaulipas_coast: "Tamaulipas Coast" #
+ madre_lagoon: "Madre Lagoon" #
+ grande_delta: "Grande Delta" #
+ gulf_mexico3: "Gulf of Mexico" #
+ padre_island: "Padre Island" #
+ corpus_christi_bay: "Corpus Christi Bay" #
+ matagorda_bay: "Matagorda Bay" #
+ brazos_mouth: "Brazos Mouth" #
+ gulf_mexico1: "Gulf of Mexico" #
+ gulf_mexico2: "Gulf of Mexico" #
+ gulf_mexico22: "Gulf of Mexico" #
+ waccasassa_bay: "Waccassassa Bay" #
+ tampa_bay: "Tampa Bay" #
+ san_carlos_bay: "San Carlos Bay" #
+ chokoloskee_bay: "Chocoloskee Bay" #
+ florida_keys: "Florida Keys" #
+ gulf_mexico11: "Gulf of Mexico" #
+ gulf_mexico12: "Gulf of Mexico" #
+ gulf_mexico19: "Gulf of Mexico" #
+ tamiahua_lagoon: "Tamiahua Lagoon" #
+ tuxpan_coast: "Tuxpan Coast" #
+ nauhtlan_coast: "Nauhtlan Coast" #
+ chachalacas_coast: "Chachalacas Coast" #
+ sontecomapan_lagoon: "Sontecomapan Lagoon" #
+ coatzacoalcos_bay: "Coatzacoalcos Bay" #
+ mecoacan_lagoon: "Mecoacan Lagoon" #
+ gulf_mexico4: "Gulf of Mexico" #
+ gulf_mexico5: "Gulf of Mexico" #
+ xicalango_point: "Xicallanco Point" #
+ campeche_bay: "Campeche Bay" #
+ lastre_point: "Lastre Point" #
+ sisal_coast: "Sisal Coast" #
+ dzilam_coast: "Dzilam Coast" #
+ lagartos_coast: "Lagartos Coast" #
+ holbox_island: "Holbox Island" #
+ gulf_mexico6: "Gulf of Mexico" #
+ gulf_mexico7: "Gulf of Mexico" #
+ gulf_mexico8: "Gulf of Mexico" #
+ gulf_mexico9: "Gulf of Mexico" #
+ gulf_mexico20: "Gulf of Mexico" #
+ gulf_mexico21: "Gulf of Mexico" #
+ gulf_mexico23: "Gulf of Mexico" #
+ gulf_mexico16: "Gulf of Mexico" #
+ biloxi_bay: "Biloxi Bay" #
+ mobile_bay: "Mobile Bay" #
+ pensacola_bay: "Pensacola Bay" #
+ saint_andrew_bay: "Saint Andrew Bay" #
+ apalachee_bay: "Apalachee Bay" #
+ gulf_mexico13: "Gulf of Mexico" #
+ windward_passage: "Windward Passage" #
+ guantanamo_bay: "Guantanamo Bay" #
+ coast_sierra_maestra: "Coast of Sierra Maestra" #
+ gulf_gonave: "Gulf of Gonave" #
+ gonave_channel: "Gonave Channel" #
+ navassa_island: "Navassa Island" #
+ cruz_cape: "Cruz Cape" #
+ port_royal: "Port Royal" #
+ negril_point: "Negril Point" #
+ montego_bay: "Montego Bay" #
+ long_bay: "Long Bay" #
+ jamaica_channel: "Jamaica Channel" #
+ caribe_sea7: "Caribbean Sea" #
+ caribe_sea8: "Caribbean Sea" #
+ guna_yala_coast: "Guna Yala Coast" #
+ darien_gulf: "Darien Gulf" #
+ morrosquillo_gulf: "Morrosquillo Gulf" #
+ cartagena_bay: "Cartagena Bay" #
+ galerazamba_coast: "Galerazamba Coast" #
+ santa_maria_bay: "Santa Maria Bay" #
+ camarones_mouth: "Camarones Mouth" #
+ caribe_sea21: "Caribbean Sea" #
+ caribe_sea22: "Caribbean Sea" #
+ caribe_sea23: "Caribbean Sea" #
+ caribe_sea30: "Caribbean Sea" #
+ honduras_cape: "Honduras Cape" #
+ limon_coast: "Limon Coast" #
+ brus_lagoon: "Brus Lagoon" #
+ caratasca_lagoon: "Caratasca Lagoon" #
+ bismuna_lagoon: "Bismuna Lagoon" #
+ pahara_lagoon: "Pahara Lagoon" #
+ wounta_lagoon: "Wounta Lagoon" #
+ caribe_sea1: "Caribbean Sea" #
+ caribe_sea27: "Caribbean Sea" #
+ caribe_sea28: "Caribbean Sea" #
+ pearl_lagoon: "Pearl Lagoon" #
+ monkey_point: "Monkey Point" #
+ tortuguero_coast: "Tortuguero Coast" #
+ caribaro_bay: "Caribaro Bay" #
+ calovebora_coast: "Calovebora Coast" #
+ limon_bay: "Limon Bay" #
+ guna_yala_gulf: "Guna Yala Gulf" #
+ caribe_sea24: "Caribbean Sea" #
+ caribe_sea25: "Caribbean Sea" #
+ caribe_sea29: "Caribbean Sea" #
+ amatique_bay: "Amatique Bay" #
+ turneffe_atoll: "Turneffe Atoll" #
+ xcalak_point: "Xcalak Point" #
+ mahahual_coast: "Mahahual Coast" #
+ ascension_bay: "Ascension Bay" #
+ cozumel_island: "Cozumel Island" #
+ cancun_point: "Cancun Point" #
+ caribe_sea3: "Caribbean Sea" #
+ caribe_sea6: "Caribbean Sea" #
+ batabano_gulf: "Gulf of Batabanó" #
+ cochinos_bay: "Bay of Pigs" #
+ ana_maria_gulf: "Gulf of Ana María" #
+ guacanayabo_gulf: "Gulf of Guacanayabo" #
+ cienfuegos_bay: "Cienfuegos Bay" #
+ east_canarreos_archipelago: "East Canarreos Archipelago" #
+ jardines_reina: "Jardines de la Reina" #
+ west_cayman_islands: "West Cayman Islands" #
+ east_cayman_islands: "East Cayman Islands" #
+ caribe_sea2: "Caribbean Sea" #
+ caribe_sea4: "Caribbean Sea" #
+ caribe_sea5: "Caribbean Sea" #
+ margarita_island: "Margarita Island" #
+ triste_gulf: "Triste Gulf" #
+ caracas_coast: "Caracas Coast" #
+ araya_point: "Araya Point" #
+ los_roques: "Los Roques" #
+ blanquilla_island: "La Blanquilla Island" #
+ bonaire_coast: "Bonaire Coast" #
+ tucanca_coast: "Tucanca Coast" #
+ caribe_sea17: "Caribbean Sea" #
+ caribe_sea18: "Caribbean Sea" #
+ manaure_bay: "Manaure Bay" #
+ espada_point: "Espada Point" #
+ cosinetas_bay: "Cosinetas Bay" #
+ maracaibo_lake: "Maracaibo Lake" #
+ cabimas_coast: "Cabimas Coast" #
+ cumarebo_coast: "Cumarebo Coast" #
+ aruba_coast: "Aruba Coast" #
+ caribe_sea19: "Caribbean Sea" #
+ caribe_sea20: "Caribbean Sea" #
+ saona_island: "Saona Island" #
+ gravois_point: "Gravois Point" #
+ jacmel_cape: "Jacmel Cape" #
+ cape_beata: "Cape Beata" #
+ ocoa_bay: "Ocoa Bay" #
+ bay_santo_domingo: "Bay of Santo Domingo" #
+ caribe_sea9: "Caribbean Sea" #
+ caribe_sea10: "Caribbean Sea" #
+ caribe_sea11: "Caribbean Sea" #
+ isla_caja_muertos: "Isla Caja de Muertos" #
+ rincon_bay: "Rincon Bay" #
+ anegada_passage: "Anegada Passage" #
+ st_croix_coast: "Saint Croix Coast" #
+ st_kitts_coast: "Saint Kitts Coast" #
+ guadaloupe_coast: "Guadaloupe Coast" #
+ caribe_sea12: "Caribbean Sea" #
+ caribe_sea13: "Caribbean Sea" #
+ caribe_sea16: "Caribbean Sea" #
+ manzanillo_bay: "Manzanillo Bay" #
+ cape_macorote: "Cape Macorote" #
+ escocesa_bay: "Escocesa Bay" #
+ bay_samana: "Bay of Samana" #
+ western_atlantic_high_sea8: "Western Atlantic" #
+ inagua_coast: "Inagua Coast" #
+ turks_islands_passage: "Turks Islands Passage" #
+ tortuga_island: "Tortuga Island" #
+ western_atlantic_high_sea5: "Western Atlantic" #
+ western_atlantic_high_sea6: "Western Atlantic" #
+ western_atlantic_high_sea7: "Western Atlantic" #
+ west_sabana_archipelago: "West Sabana Archipelago" #
+ east_sabana_archipelago: "East Sabana Archipelago" #
+ camaguey_archipelago: "Camagüey Archipelago" #
+ sabinal_key: "Sabinal Key" #
+ nipe_bay: "Nipe Bay" #
+ baracoa_bay: "Baracoa Bay" #
+ cay_sal_bank: "Cay Sal Bank" #
+ andros_coast: "Andros Coast" #
+ bimini_channel: "Bimini Channel" #
+ abaco_coast: "Abaco Coast" #
+ san_salvador_coast: "San Salvador Coast" #
+ torque_ocean: "Torque of the Ocean Channel" #
+ central_great_bahama_bank: "Central Great Bahama Bank" #
+ long_island_coast: "Long Island Coast" #
+ south_great_bahama_bank: "South Great Bahama Bank" #
+ western_atlantic_high_sea2: "Western Atlantic" #
+ western_atlantic_high_sea3: "Western Atlantic" #
+ western_atlantic_high_sea4: "Western Atlantic" #
+ western_atlantic_high_sea81: "Western Atlantic" #
+ florida_bay: "Florida Bay" #
+ biscayne_bay: "Biscayne Bay" #
+ palm_beach: "Palm Beach Island" #
+ cape_canaveral: "Cape Canaveral Coast" #
+ st_augustine_inlet: "St Augustine Inlet" #
+ altamaha_sound: "Altamaha Sound" #
+ western_atlantic_high_sea1: "Western Atlantic" #
+ mona_passage: "Mona Passage" #
+ arecibo_port: "Arecibo Port" #
+ bay_san_juan: "Bay of San Juan" #
+ virgin_passage: "Virgin Passage" #
+ western_atlantic_high_sea9: "Western Atlantic" #
+ western_atlantic_high_sea10: "Western Atlantic" #
+ western_atlantic_high_sea11: "Western Atlantic" #
+ goal_point: "Goal Point" #
+ flitches_creek_bay: "Flitches Creek Bay" #
+ martinique_passage: "Martinique Passage" #
+ barbados_coast: "Barbados Coast" #
+ western_atlantic_high_sea12: "Western Atlantic" #
+ western_atlantic_high_sea13: "Western Atlantic" #
+ western_atlantic_high_sea14: "Western Atlantic" #
+ western_atlantic_high_sea15: "Western Atlantic" #
+ karu_pana_coast: "Karu Pana Coast" #
+ paria_gulf: "Paria Gulf" #
+ araguapiche_point: "Araguapiche Point" #
+ grande_mouth: "Grande Mouth" #
+ western_atlantic_high_sea17: "Western Atlantic" #
+ galleons_passage: "Galleons' Passage" #
+ trinidad_coast: "Trinidad Coast" #
+ the_grenadines: "The Grenadines" #
+ tobago_coast: "Tobago Coast" #
+ dominica_coast: "Dominica Coast" #
+ saint_lucia_channel: "Saint Lucia Channel" #
+ grenada_coast: "Grenada Coast" #
+ western_atlantic_high_sea16: "Western Atlantic" #
+ caribe_sea14: "Caribbean Sea" #
+ caribe_sea15: "Caribbean Sea" #
+ shawmut: "Shawmut" #
+ naumkeag: "Naumkeag" #
+ assabet: "Assabet" #
+ quinsigamond: "Quinsigamond" #
+ weshacum: "Weshacum" #
+ patuxet: "Patuxet" #
+ assonet: "Assonet" #
+ nauset: "Nauset" #
+ nantucket: "Nantucket" #
+ agawam: "Agawam" #
+ pocumtuck: "Pocumtuck" #
+ mahaiwe: "Mahaiwe" #
+ pontoosuck: "Pontoosuck" #
+ seekonk: "Seekonk" #
+ woonsocket: "Woonsocket" #
+ pawcatuck: "Pawcatuck" #
+ saukiog: "Saukiog" #
+ siccanemos: "Siccanemos" #
+ willimantic: "Willimantic" #
+ nehantuck: "Nehantuck" #
+ quinnipiac: "Quinnipiac" #
+ rippowam: "Rippowam" #
+ scatacook: "Scatacook" #
+ winooski: "Winooski" #
+ gwenaska: "Gwenaska" #
+ koes: "Koes" #
+ nitamibontegw: "Nitamibontegw" #
+ walloomsac: "Walloomsac" #
+ pecunktuk: "Pecunktuk" #
+ wantastiquet: "Wantastiquet" #
+ ottauquechee: "Ottauquechee" #
+ ompompanusooc: "Ompompanusooc" #
+ passumpsic: "Passumpsic" #
+ cowasuck: "Cowasuck" #
+ amoskeag: "Amoskeag" #
+ nashua: "Nashua" #
+ squamscott: "Squamscott" #
+ pennacook: "Pennacook" #
+ umbagog: "Umbagog" #
+ pemigewasset: "Peimgewasset" #
+ ossipee: "Ossipee" #
+ lake_winnipesaukee: "Lake Winnipesaukee" #
+ monadnock: "Monadnock" #
+ sunapee: "Sunapee" #
+ coos: "Coos" #
+ ammonoosuc: "Amonoosuc" #
+ casco: "Casco" #
+ kennebunk: "Kennebunk" #
+ androscoggin: "Androscoggin" #
+ pequawket: "Pequawket" #
+ sebago_lake: "Sebago Lake" #
+ ammoscongon: "Ammoscongon" #
+ anasagunticook: "Anasagunticook" #
+ kennebec: "Kennebec" #
+ sagadahoc: "Sagadahoc" #
+ messalonskee: "Messalonskee" #
+ norridgewock: "Norridgewock" #
+ kineo: "Kineo" #
+ caratunk: "Caratunk" #
+ kennebango: "Kennebango" #
+ moosehead_lake: "Moosehead Lake" #
+ nanrantsouak: "Nanrantsouak" #
+ mittaywanquam: "Mittaywanquam" #
+ penobscot: "Penobscot" #
+ majabigwaduce: "Majabigwaduce" #
+ piscataquis: "Piscataquis" #
+ passagassawkeag: "Passagassawkeag" #
+ pemetic: "Pemetic" #
+ millinocket: "Millinocket" #
+ katahdin: "Kahtadin" #
+ aroostook: "Aroostook" #
+ meduxnekeag: "Meduxnekeag" #
+ allagash: "Allagash" #
+ passamaquoddy: "Passamaquoddy" #
+ machias: "Machias" #
+ nicatous: "Nicatous" #
+ maatawamkeag: "Maatawamkeag" #
+ manhattan: "Mannahatta" #
+ tappan: "Tappan" #
+ nochpeem: "Nochpeem" #
+ montauk: "Montauk" #
+ unquachog: "Unquachog" #
+ massapequa: "Massapequa" #
+ poughkeepsie: "U-puku-ipi-sing" #
+ ponkhockie: "Ponkhockie" #
+ minisink: "Minisink" #
+ kitchawanc: "Esopus" #
+ mahicannituck: "Mahicannituck" #
+ horicon: "Horicon" #
+ esquatak: "Esquatak" #
+ lenape: "Lenape" #
+ canajoharie: "Canajoharie" #
+ saratoga: "Serachtague" #
+ schenectady: "Schaunaughtada" #
+ teionontatatie: "Tionontatatie" #
+ oneonta: "Oneonta" #
+ ticonderoga: "Tekontaroken" #
+ itekiatonhniarikon: "Itekiatohniarikon" #
+ oskennonton: "Oskennonton" #
+ oronia: "Oronia" #
+ oneyotdehaga: "Oneyotdehaga" #
+ kawenote: "Kawenote" #
+ tsiietsenhtha: "Tsi Ietsenhtha" #
+ adirondacks: "Ratiron:tacks" #
+ kanyengehaga: "Kanyengehaga" #
+ nikahionhwakowa: "Nikahionhwakowa" #
+ oswegatchie: "Oswegatchie" #
+ ahkwesasne_ny: "Ahkwesahsne" #
+ kaniatarahontsi: "Kaniatarahontsi" #
+ ahna_wate: "Ahná:wate" #
+ onenioteke: "Onenioteke" #
+ niiohehsane: "Niiohehsane" #
+ teiehonwahkhkwatha: "Teiehonwahkhkwatha" #
+ oneniote: "Oneniote" #
+ oneida_lake: "Lake Oneida" #
+ tsikahiotsisto: "Tsikahiotsisto" #
+ oswego: "Oswego" #
+ otsiningo: "Otsiningo" #
+ skaniatares: "Skaniatares" #
+ assorodus: "Assorodus" #
+ gahato: "Gahato" #
+ seneca_lake: "Seneca Lake" #
+ skaneateles_lake: "Skaneateles Lake" #
+ caguya_lake: "Caguya Lake" #
+ canadaigua: "Canandaigua" #
+ irondequoit: "Irondequoit" #
+ geneseo: "Geneseo" #
+ tsonentsiio: "Tsonentsiio" #
+ canandaigua_lake: "Canandaigua Lake" #
+ tiotoren: "Tiotoren" #
+ kanentaweron: "Kanentaweron" #
+ thahnawate: "Thahnawate" #
+ cattaraugus: "Cattaraugus" #
+ ahouenro: "Ahouenro" #
+ raritan: "Raritan" #
+ hackensack: "Hackensack" #
+ navisink: "Navisink" #
+ piscopeek: "Piscopeek" #
+ tetamekanch: "Tetamekanch" #
+ kechemeche: "Kechemeche" #
+ cohansey: "Cohansey" #
+ amintonck: "Amintonck" #
+ assunpink: "Assunpink" #
+ muscotnetcong: "Muscotnetcong" #
+ hopatcong: "Hopatcong" #
+ shackamaxon: "Shackamaxon" #
+ wawassan: "Wawassan" #
+ wyomissing: "Wyomissing" #
+ paxtang: "Paxtang" #
+ connatachequa: "Connatachequa" #
+ conewago: "Conewago" #
+ cumberland_mountains_9: "Cumberland Mountains" #
+ lehigh: "Lehigh" #
+ paunacussing: "Paunacussing" #
+ tohickon: "Tohickon" #
+ schuylkill: "Schuylkill" #
+ tesinigh: "Tesinigh" #
+ attaock: "Attaock" #
+ cocalico: "Cocalico" #
+ shamokin: "Shamokin" #
+ mahoning: "Mahoning" #
+ mattawana: "Mattawana" #
+ juniata: "Juniata" #
+ onojutta: "Onojutta" #
+ tuckahoe: "Tuckahoe" #
+ wallenpaupack: "Wallenpauck" #
+ massawomeck: "Massawomeck" #
+ scahentowanen: "Scahentowanen" #
+ lackawanna: "Lackawanna" #
+ atrakwaye: "Atrakwaye" #
+ wappasening: "Wappasening" #
+ lackawaxen: "Lackawaxen" #
+ minguannan: "Minguannan" #
+ tappahanna: "Tappahanna" #
+ assawoman: "Assawoman" #
+ loyalsock: "Loyalsock" #
+ lycoming: "Lycoming" #
+ tangasootack: "Tangasootack" #
+ andastoerrhonon: "Andastoerrhonon" #
+ susquehannock: "Susquehannock" #
+ allegheny: "Allegheny" #
+ loyalhanna: "Loyalhanna" #
+ youghiogheny: "Youghiogheny" #
+ quemahoning: "Quemahoning" #
+ conemaugh: "Conemaugh" #
+ erie: "Erie" #
+ saucunk: "Saucunk" #
+ shenango: "Shenango" #
+ tionesta: "Tionesta" #
+ kittaning: "Kittaning" #
+ punxsutawney: "Punxsutawney" #
+ wicomico: "Wicomico" #
+ chicamacomico: "Chicamacomico" #
+ matapeake: "Matapeake" #
+ patapsco: "Patapsco" #
+ wicontiss: "Wicontiss" #
+ nentego: "Nentego" #
+ patuxent: "Patuxent" #
+ anacostia: "Anacostia" #
+ monocacy: "Monocacy" #
+ potapoco: "Potapoco" #
+ catoctin: "Catoctin" #
+ antietam: "Antietam" #
+ cacapon: "Cacapon" #
+ opequon: "Opequon" #
+ wapocomo: "Wapocomo" #
+ werowocomoco: "Werowocomoco" #
+ patawomeck: "Patawomeck" #
+ wicocomico: "Wicocomico" #
+ nanzatico: "Nanzatico" #
+ rappahannock: "Rappahannock" #
+ kiskiack: "Kiskiack" #
+ accomac: "Accomac" #
+ nansemond: "Nansemond" #
+ chesapeake: "Chesapeake" #
+ weyanock: "Weyanock" #
+ powhatan: "Powahatan" #
+ appamatuck: "Appamatuck" #
+ cheroenhaka: "Cheroenhaka" #
+ waqua: "Waqua" #
+ pamunkey: "Pamunkey" #
+ doeg: "Doeg" #
+ manassas: "Manassas" #
+ tegninateo: "Tenginateo" #
+ rassawek: "Rassawek" #
+ mowhemencho: "Mowhemencho" #
+ appomattox: "Appomatox" #
+ monahassanugh: "Monahassanugh" #
+ massinacak: "Massinacak" #
+ monasukapanough: "Monasukapanough" #
+ saponi: "Saponi" #
+ nessoneick: "Nessoneick" #
+ occaneechi: "Occaneechi" #
+ pintahae: "Pintahae" #
+ meherrin: "Meherrin" #
+ mahock: "Mahock" #
+ chiswell: "Chiswell" #
+ tutelo: "Tutelo" #
+ torope: "Torope" #
+ mondongachate: "Mondongachate" #
+ cumberland_mountains_6: "Cumberland Mountains" #
+ onandagoa: "Onandagoa" #
+ massanutten: "Massanutten" #
+ schinhandowi: "Shinhandowi" #
+ shenandoah: "Shenandoah" #
+ shenandoah_mountains: "Shenandoah Mountains" #
+ cumberland_mountains_8: "Cumberland Mountains" #
+ blue_ridge_mountains_2: "Blue Ridge Mountains" #
+ mosopeleacipi: "Mosopeleacipi" #
+ tazewell: "Tazewell" #
+ bland: "Bland" #
+ kallamuckee: "Kallamuckee" #
+ cumberland_mountains_5: "Cumberland Mountains" #
+ wappacoma: "Wappacoma" #
+ ashby: "Ashby" #
+ conococheague: "Conococheague" #
+ patna_us: "Patna" #
+ calicuas: "Calicuas" #
+ cumberland_mountains_7: "Cumberland Mountains" #
+ moneton: "Monteton" #
+ mohetan: "Mohetan" #
+ kanawha: "Kanawha" #
+ ouasioto: "Ouasioto" #
+ pocatalico: "Pocatalico" #
+ chinquetana: "Chinquetana" #
+ weotowe: "Weotowe" #
+ tsalagi: "Tsalagi" #
+ anigiduwagi: "Anigiduwagi" #
+ wihlink: "Wihlink" #
+ monongahela: "Monongahela" #
+ onimgohow: "Omigohow" #
+ calicua: "Calicua" #
+ roanoke: "Roanoke" #
+ croatan: "Croatan" #
+ hatteras: "Hatteras" #
+ chowanoke: "Chowanoke" #
+ pocosin: "Pocosin" #
+ wiccacon: "Wiccacon" #
+ mattamuskeet_lake: "Mattamuskeet Lake" #
+ phelps_lake: "Phelps Lake" #
+ pamlico: "Pamlico" #
+ coree: "Coree" #
+ corani: "Corani" #
+ neuse: "Neuse" #
+ chicora: "Chicora" #
+ dawhee: "Dawhee" #
+ woccon: "Woccon" #
+ cohari: "Cohari" #
+ sapponah: "Sapponah" #
+ necoes: "Necoes" #
+ gowtano: "Gowtano" #
+ nooherooka: "Nooherooka" #
+ kehaukee: "Kehaukee" #
+ cherohenaka_nc: "Cherohenaka" #
+ pamticough: "Pamticough" #
+ adshusheer: "Adshusheer" #
+ eno: "Eno" #
+ sissipahaw: "Sissipahaw" #
+ uwharrie: "Uwharrie" #
+ waxhaw: "Waxhaw" #
+ saura: "Saura" #
+ alamance: "Alamance" #
+ yadkin: "Yadkin" #
+ keyauwee: "Keyauwee" #
+ joara: "Joara" #
+ iswa: "Iswa" #
+ guaquili: "Guaquili" #
+ eswawpuddenah: "Eswapuddenah" #
+ kituwa: "Kituwa" #
+ nikwasi: "Nikwasi" #
+ guaxule: "Guaxule" #
+ tahkeeosteh: "Tahkeeosteh" #
+ italwa: "Italwa" #
+ wattogee: "Wattogee" #
+ watauga: "Watauga" #
+ shady_valley_wasteland: "Shady Valley" #
+ cumberland_mountains_3: "Cumberland Mountains" #
+ tanasee_ridge: "Tanasee Ridge" #
+ kuwohi: "Kuwohi" #
+ blue_ridge_mountains: "Blue Ridge Mountains" #
+ cumberland_mountains_2: "Cumberland Mountains" #
+ nantahala_forest: "Nantahala Forest" #
+ waccamaw: "Waccamaw" #
+ winyah: "Winyah" #
+ winnee: "Winnee" #
+ peedee: "Peedee" #
+ pocotaligo: "Pocotaligo" #
+ etiwan: "Etiwan" #
+ wando: "Wando" #
+ kiawah: "Kiawah" #
+ coosaw: "Coosaw" #
+ combahee: "Combahee" #
+ wimbee: "Wimbee" #
+ santee: "Santee" #
+ cofitachequi: "Cofitachequi" #
+ hymahi: "Hymahi" #
+ talimeco: "Talimeco" #
+ ilasi: "Ilasi" #
+ catawba: "Catawba" #
+ enoree: "Enoree" #
+ pacolate: "Pacolate" #
+ amoyescheck: "Amoyescheck" #
+ keowee: "Keowee" #
+ oolenoy: "Oolenoy" #
+ generostee: "Generostee" #
+ selkehatchie: "Selkehatchie" #
+ saluda: "Saluda" #
+ congaree: "Congaree" #
+ kosalu: "Kosalu" #
+ capachequi: "Capachequi" #
+ toa: "Toa" #
+ kasihta: "Kasihta" #
+ hitchauta: "Hitchauta" #
+ pallachacola: "Pallachacola" #
+ eufaula: "Eufaula" #
+ ocute: "Ocute" #
+ ichisi: "Ichisi" #
+ altamaha: "Altamaha" #
+ cofaqui: "Cofaqui" #
+ coosa: "Coosa" #
+ ulibahali: "Ulibahali" #
+ apica: "Apica" #
+ talimachusi: "Talimachusi" #
+ itaba: "Itaba" #
+ utsutigway: "Utsutigway" #
+ quanasee: "Quanasee" #
+ chattahoochee_forest: "Chattahoochee Forest" #
+ tugaloo: "Tugaloo" #
+ nacoochee: "Nacoochee" #
+ estatoe: "Estatoe" #
+ etoho: "Etoho" #
+ kiokee: "Kiokee" #
+ wahachee: "Wahachee" #
+ ogeechee: "Ogeechee" #
+ ohoopee: "Ohoopee" #
+ sawokli: "Sawokli" #
+ alapaha: "Alapaha" #
+ mikasuki: "Mikasuki" #
+ alapahoochee: "Alapahoochee" #
+ ocmulgee: "Ocmulgee" #
+ oconee: "Oconee" #
+ hitchiti: "Hitchiti" #
+ mocama: "Mocama" #
+ tacatacaru: "Tacatacaru" #
+ tamathli: "Cascangue" #
+ icafui: "Icafui" #
+ tybee: "Tybee" #
+ ossabaw: "Ossabaw" #
+ sapelo: "Sapelo" #
+ canoochee: "Canoochee" #
+ coweta: "Coweta" #
+ kealedji: "Kealedji" #
+ pakanahuili: "Pakanahuili" #
+ tussahaw: "Tussahaw" #
+ tuckabutche: "Tuckabutche" #
+ tescuntee: "Tescuntee" #
+ chatahoochee: "Chatahoochee" #
+ timucua: "Timucua" #
+ malapaz: "Malapaz" #
+ uriutina: "Uriutina" #
+ napituca: "Napituca" #
+ mayaca: "Mayaca" #
+ utina: "Utina" #
+ itaraholata: "Itaraholata" #
+ crescent_lake: "Crescent Lake" #
+ george_lake_fl: "George Lake" #
+ jororo: "Jororo" #
+ acuera: "Acuera" #
+ surruque: "Surruque" #
+ ho_bay: "Ho Bay" #
+ harris_lake: "Harris Lake" #
+ apopka_lake: "Apopka Lake" #
+ mayaimi: "Mayaimi" #
+ ais: "Ais" #
+ guacata: "Guacata" #
+ tequesta: "Tequesta" #
+ guarungube: "Guarungube" #
+ tequemapo: "Tequemapo" #
+ okeechobee: "Okeechobee" #
+ caloosahatchee: "Caloosahatchee" #
+ uriparacoxi: "Uriparacoxi" #
+ lake_okeechobee: "Lake Okeechobee" #
+ istokpoga_lake: "Istokpoga Lake" #
+ potano: "Potano" #
+ vicela: "Vicela" #
+ uqueten: "Uqueten" #
+ tocaste: "Tocaste" #
+ guazoco: "Guazoco" #
+ mocozo: "Mocozo" #
+ ozita: "Ozita" #
+ apalachee: "Apalachee" #
+ anhayca: "Anhayca" #
+ azile: "Azile" #
+ uzachile: "Uzachile" #
+ pensacola: "Pensacola" #
+ watappo: "Watappo" #
+ choctawhatchee: "Choctawhatchee" #
+ chatot: "Chatot" #
+ pelisipi: "Pelisipi" #
+ shawnee: "Shawnee" #
+ xualae: "Xualae" #
+ maniatique: "Maniatique" #
+ cumberland_mountains: "Cumberland Mountains" #
+ cumberland_mountains_4: "Cumberland Mountains" #
+ amoyeli_gunahita: "Amoyeli Gunahita" #
+ canasoga: "Canasoga" #
+ chiaha: "Chiahaa" #
+ coste: "Coste" #
+ hogohega: "Hogohega" #
+ great_smokies: "Great Smoky Mountains" #
+ chalahume: "Chalahume" #
+ satapo: "Satapo" #
+ tellico: "Tellico" #
+ hiwasee: "Hiwasee" #
+ chatanugi: "Chatanugi" #
+ chestowee: "Chestowee" #
+ walden_ridge: "Walden Ridge" #
+ cohutta_mountains: "Cohutta Mountains" #
+ daguwanalahi: "Dagunwanalahi" #
+ aniyutsi: "Aniyutsi" #
+ shawanoe: "Shawanoe" #
+ spithota: "Spithota" #
+ chucalissa: "Chucalissa" #
+ hatchie: "Hatchie" #
+ obion: "Obion" #
+ chewalla: "Chewalla" #
+ tombigby: "Tombigby" #
+ kaskinampo: "Kaskinampo" #
+ cussate: "Cussate" #
+ chuwalee: "Chuwalee" #
+ tullahoma: "Tullahoma" #
+ choate: "Choate" #
+ tsoyaha: "Tsoyaha" #
+ sequatchie: "Sequatchie" #
+ bledsoe: "Bledsoe" #
+ eskalapia: "Eskalapia" #
+ chattarawa: "Chattarawa" #
+ nepepimmesipi: "Nepepimmesipi" #
+ yuchi: "Yuchi" #
+ kentucky: "Kentucky" #
+ eskippakaithiki: "Eskippakaithiki" #
+ chenoka: "Chenoka" #
+ adena: "Adena" #
+ lewekeomi: "Lewekeomi" #
+ cuttawba: "Cuttawba" #
+ tywhapita: "Tywhapita" #
+ charquis: "Charquis" #
+ kuttawa: "Kuttawa" #
+ aaboukingon: "Aaboukingon" #
+ pennyrile: "Pennyrile" #
+ cuttaway: "Cuttaway" #
+ warioto: "Warioto" #
+ cuyahoga: "Cuyahoga" #
+ ashtabula: "Ashtabula" #
+ mahoning_oh: "Mahoning" #
+ tuscarawas: "Tuscarawas" #
+ muskingum: "Muskingum" #
+ captina: "Captina" #
+ conotton: "Conotton" #
+ olentangy: "Oletangy" #
+ chianouske: "Chianouske" #
+ scioto: "Scioto" #
+ ethapetha: "Ethapetha" #
+ hocking: "Hocking" #
+ kokosing: "Kokosing" #
+ sandusky: "Sandusky" #
+ maumee: "Maumee" #
+ qusquasrundee: "Qusquasrundee" #
+ shapoquate: "Shapoquate" #
+ assereniet: "Assereniet" #
+ mameiwasipi: "Mameiwasipi" #
+ mineami: "Mineami" #
+ pickawillany: "Pickawillany" #
+ oheyandewa: "Oheyandewa" #
+ aankwaahsakwa: "Aankwaahsakwa" #
+ wapinippi: "Wapinippi" #
+ agouasaque: "Agouasaque" #
+ patoka: "Patoqua" #
+ gichthanne: "Gichthanne" #
+ wapahani: "Wapahani" #
+ quiaghtena: "Quiaghtena" #
+ mississinewa: "Mississinewa" #
+ kankakee: "Kankakee" #
+ pakamik: "Pakamik" #
+ wabash: "Wabash" #
+ kociihsasiipi: "Kociihsasiipi" #
+ tippecanoe: "Tippecanoe" #
+ micewehudehik: "Micewehudehik" #
+ kineepikwameekwa: "Kineepikwaameekwa" #
+ waawiiyaataanong: "Waawiiyaataanong" #
+ giwitatigweiasibi: "Numasepee" #
+ osaakiiwaki: "Aumichuanaw" #
+ shiawasee: "Shiawassee" #
+ saginaw: "Saginaw" #
+ shebeon: "Skenchioe" #
+ tittabawassee: "Tittabawassee" #
+ saganing: "Saganing" #
+ cheboygan: "Michilimackinac" #
+ wequetong: "Wequetong" #
+ asiniike: "Asiniike" #
+ manistee: "Majinabeesh" #
+ muskegon: "Muskegon" #
+ onekama: "Notipekago" #
+ mastigon: "Mastigon" #
+ wabenasibi: "Isoco" #
+ owashtanong: "Owashtanong" #
+ kalamazoo: "Kalamazoo" #
+ sakiwasipi: "Sakiwasipi" #
+ wapikisko: "Wapikisko" #
+ mackinac: "Munuscong" #
+ tahquamenon: "Tahquamenon" #
+ manistique: "Manistique" #
+ ishpeming: "Nekomenon" #
+ menominee: "Menominee" #
+ keweenaw: "Keweenaw" #
+ chicagon: "Chicagon" #
+ ontonagon: "Ontonagon" #
+ checagou: "Checagou" #Chicago
+ tiatiki: "Tiatiki" #
+ pisticoui: "Pisticoui" #
+ kishwaukee: "Kishwaukee" #
+ ahsenisiipi: "Ahsenisiipi" #
+ pecatonica: "Pecatonica" #
+ peewareewa: "Peewareewa" #
+ peoria: "Peoria" #Peoria
+ theakeiki: "Theakeiki" #
+ waupecan: "Waupecan" #
+ sangamon: "Sangamon" #
+ matsigame: "Matsigama" #
+ cahokia: "Cahokia" #
+ kaskaskia: "Kaskaskia" #
+ kaskankaham: "Kaskankaham" #
+ amonokoa: "Amonokoa" #
+ macoupin: "Macoupin" #
+ ochechiton: "Ochechiton" #
+ pawwikamsipi: "Pawwikamsipi" #
+ mitchigamea: "Mitchigamea" #Cairo
+ ambraw: "Ambraw" #
+ osanamon: "Osanamon" #
+ okaw: "Okaw" #
+ millioke: "Millioke" #
+ kenosha: "Kenosha" #
+ sheboygan: "Sheboygan" #
+ koshkonong: "Koshkonong" #
+ boojwiikwedong: "Boojwiikwedong" #
+ manitowoc: "Manitowoc" #
+ oconto: "Oconto" #
+ peshtigo: "Peshtigo" #
+ muhwaosipi: "Muahwaosipi" #
+ lake_winnebago: "Lake Winnebago" #
+ meskousing: "Meskousing" #
+ aupuhkirakanewe: "Aupuhkiranewe" #
+ whaypaw: "Whaypaw" #
+ kakaling: "Kakaling" #
+ mendota: "Mendota" #
+ pecatonica_wi: "Pecatonica" #
+ kiwigapawa: "Odeba" #
+ gaamiskwaabikaang: "Gaamiskwaabikaang" #
+ chequamegon: "Chequamegon" #
+ kayeskikan: "Kayestikan" #
+ mishkwagokag: "Mishkwagokag" #
+ kinnickinnic: "Kinnickinnic" #
+ enookwasaneenah: "Enookwasaneenah" #
+ waumandee: "Waumandee" #
+ hahatououadeba: "Hahatouadeba" #
+ pokegama: "Pokegama" #
+ odaawaa: "Odaawaa" #
+ sappah: "Sappah" #
+ abihka: "Abihka" #
+ callamaco: "Callamaco" #
+ ohatchee: "Ohatchee" #
+ tuasi: "Tuasi" #
+ ishtaboli: "Ishtaboli" #
+ hytop: "Hytop" #
+ talisi: "Talisi" #
+ casiste: "Casiste" #
+ caxa: "Caxa" #
+ humati: "Humati" #
+ atahachi: "Atahachi" #
+ piachi: "Piachi" #
+ mabila: "Mabila" #
+ taliepacana: "Taliepacana" #
+ zabusta: "Zabusta" #
+ apafalaya: "Apafalaya" #
+ pakana: "Pakana" #
+ wakokai: "Wakokai" #
+ uchee: "Uchee" #
+ omusee: "Omusee" #
+ mobile: "Mobile" #
+ consha: "Consha" #
+ tombigbee: "Tombigbree" #
+ escatawppa: "Escatawppa" #
+ tohome: "Tohome" #
+ conecuh: "Conecuh" #
+ patsaliga: "Patsaliga" #
+ chootawatchee: "Chootawatchee" #
+ cootcla: "Cootcla" #
+ hogehege: "Hogehege" #
+ koasati: "Cassatees" #
+ apotaka_hacha: "Apotaka Hacha" #
+ napochi: "Napochi" #
+ buddahatchie: "Buddhatchie" #
+ capino: "Capino" #
+ chicksawhe: "Chicksawhe" #
+ biloxi: "Biloxi" #
+ okeloussa: "Okeloussa" #
+ eiowane: "Eiowane" #
+ pascagoula: "Pascagoula" #
+ mosco: "Mosco" #
+ caftacha: "Caftacha" #
+ eianamogola: "Eianamogola" #
+ yaneka: "Yaneka" #
+ tchoukafala: "Tchoufakafla" #
+ chatata: "Chatata" #
+ ongoulastoga: "Ongoulastoga" #
+ sacchuma: "Sacchuma" #
+ quizquiz: "Quizquiz" #
+ yazoo: "Yazoo" #
+ tiou: "Tiou" #
+ taposa: "Taposa" #
+ quigualtam: "Quigualtam" #
+ koroa: "Koroa" #
+ natchez: "Natchez" #
+ chittaloosa: "Chittaloosa" #
+ houma: "Houma" #
+ ossabaw_sound: "Ossabaw Sound" #
+ port_royal_sound: "Port Royal Sound" #
+ charleston_harbor: "Charleston Harbor" #
+ long_bay_us: "Long Bay" #
+ onslow_bay: "Onslow Bay" #
+ western_atlantic_high_sea82: "Western Atlantic" #
+ western_atlantic_high_sea83: "Western Atlantic" #
+ pamlico_sound: "Pamlico Sound" #
+ cape_hatteras: "Cape Hatteras Coast" #
+ raleigh_bay: "Raleigh Bay" #
+ albemarle_sound: "Albemarle Sound" #
+ western_atlantic_high_sea84: "Western Atlantic" #
+ western_atlantic_high_sea85: "Western Atlantic" #
+ chesapeake_channel: "Chesapeake Channel" #
+ lower_chesapeake_bay: "Lower Chesapeake Bay" #
+ upper_chesapeake_bay: "Upper Chesapeake Bay" #
+ chincoteague_bay: "Chincoteague Bay" #
+ delaware_bay: "Delaware Bay" #
+ cape_may: "Cape May Coast" #
+ barnegat_bay: "Barnegat Bay" #
+ western_atlantic_high_sea86: "Western Atlantic" #
+ western_atlantic_high_sea87: "Western Atlantic" #
+ long_island_coast_us: "Long Island Coast" #
+ long_island_sound: "Long Island Sound" #
+ raritan_bay: "Raritan Bay" #
+ block_channel: "Block Channel" #
+ western_atlantic_high_sea88: "Western Atlantic" #
+ narragansett_bay: "Narragansett Bay" #
+ nantucket_shoals: "Nantucket Shoals" #
+ pleasant_bay: "Pleasant Bay" #
+ cape_cod_bay: "Cape Cod Bay" #
+ massachusetts_bay: "Massachusetts Bay" #
+ western_atlantic_high_sea89: "Western Atlantic" #
+ western_atlantic_high_sea90: "Western Atlantic" #
+ scantum_basin: "Scantum Basin" #
+ casco_bay: "Casco Bay" #
+ penobscot_bay: "Penobscot Bay" #
+ schoodic_ridge: "Schooding Ridge" #
+ canada_high_sea22: "Canada High Sea" #
+ bulbancha: "Bulbancha" #New Orleans
+ bogue_chitto: "Bogue Chitto" #
+ tangipahoa: "Tangipahoa" #
+ itihumma: "Itihumma" #Baton Rouge
+ lake_pontchartrain: "Lake Pontchartrain" #
+ allemands_lake: "Allemands Lake" #
+ maurepas_lake: "Maurepas Lake" #
+ chawasha: "Chawasha" #
+ atchafalaya: "Atchafalaya" #
+ opelousa: "Opelousa" #
+ fausse_pointe_lake: "Fausse pointe Lake" #
+ verret_lake: "Verret Lake" #
+ salvador_lake: "Salvador Lake" #
+ caillou_lake: "Caillou Lake" #
+ ciwat: "Ciwat" #
+ otse: "Otse" #
+ tsikip: "Tsikip" #
+ calcasieu_lake: "Calcasieu Lake" #
+ grand_lake_tx: "Grand Lake" #
+ white_lake: "White Lake" #
+ ya_ttaish: "Ya'ttaish" #
+ calcasieu: "Calcasieu" #Natchitoches
+ doustioni: "Doustioni" #Shreveport
+ ouachita: "Ouachita" #Monroe
+ kisatchie: "Kisatchie" #Alexandria
+ catahoula: "Catahoula" #
+ tensas: "Tensas" #
+ tunica: "Tunica" #
+ anilco: "Anilco" #
+ guachoyo: "Guachoyo" #
+ ayays: "Ayays" #
+ tutilpinco: "Tutilpinco" #
+ pacaha: "Pacaha" #
+ quigate: "Quigate" #
+ casqui: "Casqui" #
+ coligua: "Coligua" #
+ calpista: "Calpista" #
+ palisema: "Palisema" #
+ nanatsoho: "Nanatsoho" #
+ naguatex: "Naguatex" #
+ catalte: "Catalte" #
+ aguacay: "Aguacay" #
+ amaye: "Amaye" #
+ chaguate: "Chaguate" #
+ ouachita_mts: "Ouachita Mountains" #
+ tanico: "Tanico" #
+ quipana: "Quipana" #
+ tula_ark: "Tula'ark" #
+ utiangue: "Utiangue" #
+ tutilcoya: "Tutilcoya" #
+ anoixi: "Anoixi" #
+ cayas: "Cayas" #
+ satsukhdin: "Satsukhdin" #
+ wahzhazhe: "Wahzhazhe" #
+ unica: "Unica" #
+ tamaroa: "Tamaroa" #
+ wyaconda: "Wyaconda" #
+ oahaha: "Oahaha" #
+ emasulia: "Emasulia" #
+ chariton: "Chariton" #
+ meramec: "Meramec" #
+ pahatsi: "Pahatsi" #
+ tanwakanwakaghe: "Tanwakanwakaghe" #
+ utsehta: "Utsehta" #
+ nikhdhintanwan: "Nihkdintanwan" #
+ intapushe: "Intapushe" #
+ ni_okaska: "Ni Okašką" #
+ towosaghy: "Towosaghy" #
+ chepoussa: "Chepoussa" #
+ cholohollay: "Cholohallay" #
+ st_francois_mts: "Saint Francois Mountains" #
+ nodaway: "Nodaway" #
+ nudarcha: "Nudarcha" #
+ wimihsoorita: "Wimihsoorita" #
+ hokah: "Hokah" #
+ wapkawazioju: "Wapkawazioju" #
+ owatonna: "Owatonna" #
+ hahawakpa: "Hahawakpa" #
+ lahontan: "Lahontan" #
+ minnetonka: "Minnetonka" #
+ wabezi: "Wabezi" #
+ kagiwigwan: "Kagiwigwan" #
+ shingwako: "Shingwako" #
+ winnibigoshish: "Winnibigoshish" #
+ bemidji: "Bemidji" #
+ lake_winnibigoshish: "Lake Winnibigoshish" #
+ mahkato: "Mahkato" #
+ watonwan: "Watonwan" #
+ shetek: "Shetek" #
+ chanshayapi: "Chanshayapi" #
+ tipsinah: "Tipsinah" #
+ kandiyohi: "Kandiyohi" #
+ tchan_sansan: "Tchan Sansan" #
+ kiyuska: "Kiyuska" #
+ pabaska: "Pabaska" #
+ chagu: "Chagu" #
+ oyate_shisha: "Oyate Shisha" #
+ wakmua_oin: "Wakmua Oin" #
+ igmu: "Igmu" #
+ kampeska: "Kampeska" #
+ mnihaha: "Mnihaha" #
+ okobojo: "Okobojo" #
+ pocasse: "Pocasse" #
+ unkpatina: "Unkpatina" #
+ manatara: "Manatara" #
+ maanaagi_iixodagish: "Maanaagi'iisodagish" #
+ ruhptare: "Ruhptare" #
+ moingwena: "Moingwena" #
+ coiracoentanon: "Coircacoentanon" #
+ wapsipinicon: "Wapsipinicon" #
+ ocheyedan: "Ocheydan" #
+ penaca: "Penaca" #
+ moskwawakwa: "Moskwakwa" #
+ iowa: "Iowa" #
+ kiosaquay: "Kiosaquay" #
+ inyanshashawatpa: "Inyanshashawtpa" #
+ pahotcha: "Pahotcha" #
+ nishnabotna: "Nishnabotna" #
+ monona: "Monona" #
+ tchankasndata: "Tchankasndata" #
+ mathoskabde: "Mathoskabde" #
+ ginebig: "Ginebig" #
+ misi_zaaga_igan: "Misi'zaaga'igan" #
+ minnewawa: "Minnewawa" #
+ mille_lacs_lake: "Mille Lacs Lake" #
+ nemadji: "Nemadji" #
+ wissakode: "Gichi-onigamiing" #
+ makoua: "Gaa-giizhikensikaag" #
+ kitchigumi: "Gitchigami-ziib" #
+ koochiching: "Koochiching" #
+ miskwaagamiiwi: "Miskwaagamiiwi" #
+ mesabi: "Mesabi" #
+ neemannee: "Onamanii" #
+ kawishiwi: "Kawishiwi" #
+ red_lake: "Red Lake" #
+ vermillion_lake: "Vermillion Lake" #
+ marapa: "Marapa" #
+ cerwecerna: "Cerwecerna" #
+ shichah: "Shichah" #
+ kaya_paha: "Kaya Paha" #
+ sicangu: "Sicangu" #
+ waziblo: "Waziblo" #
+ wetarhoo: "Wetarhoo" #
+ hinyankaga: "Hinyankaga" #
+ badlands_sd_n: "Badlands" #
+ shanha: "Shanha" #
+ mistaiyohe: "Mistaiyohe" #
+ he_sapa: "He Sapa" #
+ awaxaawi_ishiibisha: "Awaxaawi Ishiibisha" #
+ histahayo: "Histahayo" #
+ neesihushaanu: "Neesihushaanu" #
+ skahuukaawiat: "Skahuukaawiat" #
+ iyawakagapi: "Iyawakagapi" #
+ matootonha: "Matootonha" #
+ nd_badlands: "Badlands" #
+ chakadee_wakpa: "Chakadee Wakpa" #
+ wahasah: "Wahasah" #
+ badlands_mt: "Badlands" #
+ waahukaahaanu: "Waahukaahaanu" #
+ wit_anowi_yohe: "Wit'anowi'yohe" #
+ moehe_yoe: "Moehe'yohe" #
+ ihkowom_iyo_he: "Ihkowom'iyo'he" #
+ ksai_yohe: "Ksai'yohe" #
+ mitsiadazi: "Mitsiadazi" #
+ skaapirox: "Skaapirox" #
+ buaxaxxaashe: "Buaxaxxaashe" #
+ aahkawirahkata: "Aahkawirahkata" #
+ aashbiliihkupe: "Aashbiliihkupe" #
+ iichiilikaaashaashe: "Iichiilikaashaashe" #
+ little_belt_mountains: "Little Belt Mountains" #
+ itkanaahtuusu: "Itkanaahtuusu" #
+ e_ometaeso: "E'ometaeso" #
+ heviksnipahis: "Heviksnipahis" #
+ mo_ohta_vo_honaaeva: "Mo'ohta'vo'ohnaaeva" #
+ notameohmeshehse: "Notameohmeshehse" #
+ iisaxpuatahcheeaashe: "Iisaxpuatahcheeaashe" #
+ aashbikkaashee: "Aashbikkaashee" #
+ ishpiialawaache: "Ishpiialawaache" #
+ bighorn_mountains: "Bighorn Mountains" #
+ awatixa: "Awatixa" #
+ adixoodagoorahareesh: "Adixoodagoorahareesh" #
+ koostaaka: "Koostaaka" #
+ amahami: "Amahami" #
+ suktogeja_o_ipa: "Suktogeja'o'ipa" #
+ patgasa_wakpa: "Patgasa'wakpa" #
+ baliisshe_aashe: "Baliisshe'aashe" #
+ minisose: "Minisose" #
+ ski_iyo_he: "Ski'iyo'he" #
+ hoskitaga: "Hoskitaga" #
+ kinuhsisuht: "Kinuhsisuht" #
+ wase_wakpa: "Wase Wakpa" #
+ caba_wakpa: "Caba Wakpa" #
+ badlands_mt_2: "Badlands" #
+ e_omita_i: "E'omita'i" #
+ xuahceesh_annappiio: "Xuahceesh Annappiio" #
+ huupalikooche: "Huupalikooche" #
+ aluutashe: "Aluutashe" #
+ baashalapache: "Baashalapache" #
+ aashise: "Aashishe" #
+ binmatshua: "Binmatshua" #
+ cuthuhogwa: "Cuthuhogwa" #
+ great_belt_mountains: "Great Belt Mountains" #
+ kinaksisahtai: "Kinaksisahtai" #
+ kyaiyesisahtai: "Kyaiyesisahtai" #
+ onnikisisaahtaayi: "Onnikisisaahtaayi" #
+ mahpahpahazhhah: "Mahpahpahazhhah" #
+ nataeosueti: "Nataeosueti" #
+ rockies_mt: "Rockies Mountains" #
+ poyiitahtai: "Piyiitahtai" #
+ wakpa_juk_ana: "Wakpa'juk'ana" #
+ etzikom: "Etzikom" #
+ kwaskwuti: "Kwaskwuti" #
+ cahe: "Cahe" #
+ canhewincasta: "Canhewincasta" #
+ shuntaneshnanga: "Shuntaneshnanga" #
+ kansas: "Kansas" #
+ monecato: "Monecato" #
+ kirarutah: "Kirarutah" #
+ nepahalla: "Nepahalla" #
+ neosho: "Neosho" #
+ manhukdhintanwan: "Manhukdhitanwan" #
+ nanzewaspe: "Nanzewaspe" #
+ wasetihoge: "Wasetihoge" #
+ etzanoa: "Etzanoa" #
+ quivira: "Quivira" #
+ harahey: "Harahey" #
+ ninescah: "Ninescah" #
+ ayadaldapa: "Ayadaldapa" #
+ ne_shuta: "Ne Shuta" #
+ ne_miskua: "Ne miskua" #
+ kaw: "Kaw" #
+ aahkawiraahkata: "Aahkawiraahkata" #
+ panenetah: "Panenetah" #
+ kaiurskuta: "Kaiurskuta" #
+ headdhetanwan: "Heahdhetanwan" #
+ wakhakukdhin: "Wakhakukdhin" #
+ pasukhdin: "Pasukhdin" #
+ tulsa: "Tulsa" #
+ tawehash: "Tawehash" #
+ chikaskia: "Chikaskia" #
+ guichita: "Guichita" #
+ wewoka: "Wewoka" #
+ washita: "Washita" #
+ ouachita_ok: "Ouachita Mountains" #
+ kiamichi: "Kiamichi" #
+ hawaastatkiicu: "Hawaastatkiicu" #
+ nigitai: "Nigitai" #
+ kicpahat: "Kicpahat" #
+ gulvau: "Gulvau" #
+ oktahutchee: "Oktahutchee" #
+ nixgu: "Nixgu" #
+ niobrara: "Niobrara" #
+ aowa: "Aowa" #
+ waha_tunga: "Waha'tunkuo" #
+ kits_ixta: "Kits'ixta" #
+ kickatari: "Kickatari" #
+ mnitanka: "Mnitaknka" #
+ minatare: "Minatare" #
+ omaha: "Omaha" #
+ nemaha: "Nemaha" #
+ nebraska: "Nebraska" #
+ ni_haunchi_to: "Ni'haunchi'to" #
+ kanpeska: "Kanpeska" #
+ kus_lecha: "Kus'lecha" #
+ kickatus: "Kickatus" #
+ ickari_kitsu: "Ickari Kitsu" #
+ nutanke: "Nutanke" #
+ pitahauerat: "Pitahauerat" #
+ hehvaitaneo: "Hehvaitaneo" #
+ laramie_range: "Laramie Range" #
+ meneeohe: "Meneeohe" #
+ medicine_bow: "Wóó'teenótoyóó'" #
+ wotapio: "Wotapio" #
+ so_taeo_o: "So'taeo'o" #
+ oevemanaho: "Oevemanaho" #
+ ohktouna: "Ohktouna" #
+ hisse_yoyi_yoe: "Hisse'yoyi'yoe" #
+ hisiometaneo: "Hisiometaneo" #
+ paiyo_he: "Paiyo'he" #
+ niineniiniicie: "Niineniiniicie" #
+ neenowuxoote_i: "Neenowuxoote'i" #
+ ce_eiinox: "Ce'einox" #
+ nih_iitkotousi_l: "Nih'iitkotousi'l" #
+ phankeska_wakpa: "Phakeska'wakpa" #
+ ononio_he: "Ononio'he" #
+ wasin_wakpa: "Wasin'wakpa" #
+ veoneohe: "Veoneohe" #
+ mano_iyo_he: "Mano'iyo'he" #
+ mutsisooni_yohe: "Mutsisooni'yohe" #
+ heeyoteyoo: "Heeyoteyoo" #
+ ponoeohe: "Ponoeohe" #
+ wishkahuunu: "Wishkahuunu" #
+ mahohevahoe: "Mahohevahoe" #
+ beesowuunenno: "Beesowuunenno" #
+ minii_yohe: "Minii'yohe" #
+ wiskapella: "Wiskapella" #
+ chitolah: "Chitolah" #
+ nanwacinahaana: "Nanwacinahaana" #
+ opaskwayak: "Opaskwayak" #
+ wapisiw_sipihk: "Wapisiw Sipihk" #
+ winnipegosis: "Winnipegosis" #
+ lake_winnipegosis: "Lake Winnipegosis" #
+ swan_lake: "Swan Lake" #
+ red_deer_lake: "Red Deer Lake" #
+ wazihe: "Wazihe" #
+ minizuahe: "Minizuahe" #
+ wibazoka_wakpa: "Wibazoka Wakpa" #
+ minichinas: "Minichinas" #
+ tugaske: "Tugaske" #
+ notukeu: "Notukeu" #
+ miksiw_sipisis: "Miksiw Sipisis" #
+ kiyiu: "Kiyiu" #
+ manitowi_sakahikanihk: "Manitowi Sakahikanihk" #
+ ye_ya_xabine: "Ye Ya Xabine" #
+ ogiciza_wakpa: "Ogiciza Wakpa" #
+ pimicaskewyashik: "Pimicaskewyashik" #
+ ceepee: "Ceepee" #
+ saskatchewan: "Saskatchewan" #
+ kistapinan: "Kistapinan" #
+ petaigan: "Petaigan" #
+ porcupine_hills: "Porcupine Hills" #
+ notinito_sipiy: "Notinito Sipiy" #
+ wetaskiwin: "Wetaskiwin" #
+ amisk: "Amisk" #
+ kisiskaciwani_sipiy: "Kisiskaciwani Sipiy" #
+ amiskwaciwiy: "Amiskaciwiy" #
+ titaga: "Titaga" #
+ wabamun: "Wabamun" #
+ apahtoksipisskan: "Apahtoksipisskan" #
+ mokowan: "Mokowan" #
+ ijathibe_wapta: "Ijahtibe Wapta" #
+ kananaskis: "Kananaskis" #
+ okotoks: "Okotoks" #
+ inotonniicaah: "Inotonniicaah" #
+ saamis: "Saamis" #
+ insaombi: "Insaombi" #
+ makhabn: "Makhabn" #
+ waskasoo: "Waskasoo" #
+ netook: "Netook" #
+ keoma: "Keoma" #
+ michichi: "Michichi" #
+ wawaskesiw_sipiy: "Wawaskesiw Sipiy" #
+ wastina: "Wastina" #
+ shunda: "Shunda" #
+ pembina_ab: "Pembina" #
+ ya_kti_ki: "Ya'kti'ki" #
+ apetowun: "Apetowun" #
+ onabeesh: "Onabeesh" #
+ tootinaowaziibeeng: "Tootinaowaziibeeng" #
+ kinosota: "Kinosota" #
+ lake_dauphin: "Lake Dauphin" #
+ lake_manitoba: "Lake Manitoba" #
+ kihi: "Kihi" #
+ sihabi: "Sihabi" #
+ sipiweske: "Sipiweske" #
+ waskada: "Waskada" #
+ winnipeg: "Winnipeg" #
+ mnisaton: "Mnisaton" #
+ mihkwakamiwi_sipiy: "Mihkwakamiwi Sipiy" #
+ pikwedina_sagaomam: "Pikwedina Sagomam" #
+ maskwa: "Maskwa" #
+ osukyuze: "Osukyuze" #
+ hepa: "Hepa" #
+ canuba_wakpa: "Canuba Wakpa" #
+ muskiki: "Muskiki" #
+ kinistino: "Kinistino" #
+ etomami: "Etomami" #
+ kamsack: "Kamsack" #
+ quill_lakes: "Quill Lake" #
+ iskwao: "Iskwao" #
+ tacehubana: "Tacehubana" #
+ wascana: "Wascana" #
+ posakanaciwiy: "Posakanaciwiy" #
+ katepwewi: "Katepwewi" #
+ assapasca: "Assapaska" #
+ old_wives_lake: "Old Wives Lake" #
+ pikwedina: "Pikwedina" #
+ kimodakiwi: "Kimodakiwi" #
+ ajawewesitagun: "Ajawewesitagun" #
+ manomin: "Manomin" #
+ gawakomitigweia: "Gawakomitigweia" #
+ mustinka: "Mustinka" #
+ tewaukon: "Tewaukon" #
+ maitomoni_ohe: "Maitonomi'ohe" #
+ mekinock: "Mekinock" #
+ pembina: "Pembina" #
+ minnewaukan: "Minnewaukan" #
+ mirixubaash: "Mirixubaash" #
+ devil_lake: "Devil Lake" #
+ saakak_hukaahaanu: "Saakak'hukaahaanu" #
+ metigoshe: "Metigoshe" #
+ itscheabine: "Itscheabine" #
+ kinosao_sipi: "Kinosao Sipi" #
+ manigotagan: "Manigotagan" #
+ atikaki: "Atikaki" #
+ mukutawa: "Mukutawa" #
+ lake_winnipeg: "Lake Winnipeg" #
+ cross_lake: "Cross Lake" #
+ oceko_sipiy: "Oceko Sipiy" #
+ mantago: "Mantago" #
+ chitek: "Chitek" #
+ kawinaw: "Kawinaw" #
+ mechiso: "Mechiso" #
+ lake_st_martin: "Lake St Martin" #
+ cedar_lake: "Cedar Lake" #
+ pikwitonei: "Pikwitonei" #
+ anipitapiskow: "Anipitapiskow" #
+ poskatinak: "Poskatinak" #
+ silsby_lake_upland: "Silsby Lake Upland" #
+ wekusko_upland: "Wekusko Upland" #
+ sipiwesk_lake: "Sipiwesk Lake" #
+ split_lake: "Split Lake" #
+ cormorant_lake: "Cormorant Lake" #
+ talbot_lake: "Talbot Lake" #
+ nunatonowago: "Nunatonowago" #
+ kanaskipenaski: "Kanaskipenaski" #
+ kaministikowak: "Kaministikowak" #
+ echimamish: "Echimamish" #
+ eyapaysis: "Eyapaysis" #
+ lac_seul_upland: "Lac Seul Upland" #
+ hayes_river_upland: "Hayes River Upland" #
+ island_lake: "Island Lake" #
+ gods_lake: "God's Lake" #
+ molson_lake: "Molson Lake" #
+ oxford_lake: "Oxford Lake" #
+ numaykoos: "Numaykoos" #
+ mistutikumak: "Mistutikumak" #
+ opuskowin: "Opuskowin" #
+ kapuskaywak: "Kapuskaywak" #
+ churchill_river_upland: "Churchill River Upland" #
+ granville_lake: "Granville Lake" #
+ southern_indian_lake: "Southern Indian Lake" #
+ reindeer_lake_upland: "Reindeer Lake Upland" #
+ indian_lake_upland: "Indian Lake Upland" #
+ shethanei: "Shethanei" #
+ tadoule: "Tadoule" #
+ kapuskaypachik: "Kapuskaypachik" #
+ thlewiaza: "Thlewiaza" #
+ mistahi: "Mistahi" #
+ seal_river_upland: "Seel River Upland" #
+ nejanilini_uplands: "Nejanilini Uplands" #
+ tadoule_lake: "Tadoule Lake" #
+ kamisak: "Kamisak" #
+ machichi: "Machichi" #
+ kichekokotic: "Kichekokotic" #
+ sowunusiske: "Sowunusiske" #
+ wapusk: "Wapusk" #
+ des_nedhe: "Des Nedhe" #
+ nunalla: "Nunalla" #
+ nueltin: "Nueltin" #
+ tatinnai: "Tatinnai" #
+ thaolintoa: "Thaolintoa" #
+ tha_anne: "Tha'anne" #
+ kazan_uplands: "Kazan Uplands" #
+ northern_arctic_uplands: "Northern Arctic Uplands" #
+ arctic_archipelago: "Arctic Archipelago" #
+ dubawnt_lake: "Dubawnt Lake" #
+ angikuni_lake: "Angikuni Lake" #
+ tulemalu_lake: "Tulemalu Lake" #
+ yathkyed_lake: "Yathkyed Lake" #
+ tebesjuak_lake: "Tebesjuak Lake" #
+ aberdeen_lake: "Aberdeen Lake" #
+ lake_nueltin: "Lake Nueltin" #
+ baker_lake: "Baker Lake" #
+ tehek_lake: "Tehek Lake" #
+ lake_kasba: "Lake Kasba" #
+ sakwatamau: "Sakwatamau" #
+ tawatinaw: "Tawatinaw" #
+ ayahciyiniw_sakahikan: "Ayahciyiniw Sakahikan" #
+ kamspikihteek: "Kamspikihteek" #
+ asiniwaciy: "Asiniwaciy" #
+ saddle_hills_2: "Saddle Hills" #
+ lodgepole_uplands: "Lodgepole Uplands" #
+ utikuma_uplands: "Utikuma Uplands" #
+ saddle_hills: "Saddle Hills" #
+ lesser_slave_lake: "Lesser Slave Lake" #
+ thilane_hot_ine: "Thilane'hot'ine" #
+ sakawyiniw: "Sakawyiniw" #
+ ot_esh_otchore: "Ot'esh'otchore" #
+ stony_mountain_uplands: "Stony Mountain Uplands" #
+ muskeg_upland: "Muskeg Upland" #
+ birch_mountains: "Birch Mountains" #
+ athabasca: "Athabasca" #
+ kai_theli_ke_hot_inne: "Kai'theli'ke'hot'inne" #
+ tethul: "Tethul" #
+ caribou_mountains: "Caribou Mountains" #
+ lake_claire: "Lake Claire" #
+ mikkwa: "Mikkwa" #
+ wabasca: "Wabasca" #
+ mushikitee: "Mushikitee" #
+ ksituan: "Ksituan" #
+ buffalo_head_hills: "Buffalo Head Hills" #
+ hawk_hills: "Hawk Hills" #
+ amisk_sipi: "Amisk Sipi" #
+ amisk_sakahikan: "Amisk Sakahican" #
+ wawaskesiwisakahikan: "Wwaskesiwisakahikan" #
+ namew: "Namew" #
+ kipahigan: "Kipahigan" #
+ mistahi_sakahikan: "Mistahi Sakahikan" #
+ wapiskau_sk: "Wapiskau" #
+ kiheewapiw: "Kiheewapiw" #
+ foster_upland: "Foster Upland" #
+ reindeer_lake: "Reindeer Lake" #
+ wollaston_lake: "Wollaston Lake" #
+ amisk_lake: "Amisk Lake" #
+ lac_la_ronge: "Lac La Ronge" #
+ sakitawahk: "Sakitawahk" #
+ methye: "Methye" #
+ missinipi: "Missinipi" #
+ kawatinook: "Kawatinook" #
+ mostoos_upland: "Mostoos Upland" #
+ mid_boreal_upland: "Mid-Boreal Uplands" #
+ deschambault_lake: "Deschambault Lake" #
+ dore_lake: "Dore Lake" #
+ montreal_lake: "Montreal Lake" #
+ churchill_lake: "Churchill Lake" #
+ primrose_lake: "Primrose Lake" #
+ gani_koe: "Gani Koe" #
+ tazin: "Tazin" #
+ tipinuwak: "Tipinuwak" #
+ misekumaw: "Misekumaw" #
+ athabasca_plains: "Athabasca Plains" #
+ cree_lake: "Cree Lake" #
+ black_lake: "Black Lake" #
+ lake_athabasca: "Lake Athabasca" #
+ tazin_lake: "Tazin Lake" #
+ klewi: "Klewi" #
+ tu_nedhe: "Tu'nedhe" #
+ tucho: "Tucho" #
+ tidee: "Tidee" #
+ kakisa: "Kakisa" #
+ horn_plateau: "Horn Plateau" #
+ wecho: "Wecho" #
+ soombak_e: "Soombak'e" #
+ utsingi: "Utsingi" #
+ kahochella: "Kahochella" #
+ coppermine_river_upland: "Coppermine River Upland" #
+ great_slave_lake: "Great Slave Lake" #
+ artillery_lake: "Artillery Lake" #
+ napaktulik_lake: "Napaktulik Lake" #
+ contwoyto_lake: "Contwoyto Lake" #
+ mackay_lake: "Mackay Lake" #
+ point_lake: "Point Lake" #
+ lac_de_gras: "Lac de Gras" #
+ thubun: "Thubun" #
+ tronka_chua: "Tronka'chua" #
+ tatsan: "Tatsan" #
+ nonacho: "Nonacho" #
+ lutselk_e: "Lutselk'e" #
+ deskenetlata: "Deskenetlata" #
+ natalkai: "Natalkai" #
+ eynard_upland: "Eynard Upland" #
+ nonacho_lake: "Nonacho Lake" #
+ thoa: "Thoa" #
+ dubawnt: "Dubawnt" #
+ abitau: "Abitau" #
+ kasba: "Kasba" #
+ thelon_river_upland: "Thelon River Upland" #
+ robins_lake_upland: "Robins Lake Upland" #
+ wholdaia_lake: "Wholdaia Lake" #
+ snowbird_lake: "Snowbird Lake" #
+ selwyn_lake: "Selwyn Lake" #
+ xaltocan: "Xaltocan" #San Miguel Jaltocan
+ tehotihuacan: "Teōtīhuacān" #
+ culhuacan: "Culhuacan" #
+ tetzcoco: "Tetzcoco" #Texcoco
+ apan: "Apan" #
+ azcapotzalco: "Azcapotzalco" #
+ chalco: "Chalco" #
+ xochimilco: "Xochimilco" #
+ ajusco_mountains: "Ajusco Mountains" #
+ popocatepetl_mountains: "Popocatepetl Mountains" #
+ texcoco_lake: "Lake Texcoco" #
+ axochiapan: "Axochiapan" #
+ cuauhnahuac: "Cuauhnahuac" #Cuernavaca
+ quauhquechollan: "Quauhquechollan" #Huaquechula
+ huaxtepec: "Huaxtepec" #Oaxtepec
+ itzocan: "Itzocan" #Izúcar de Matamoros, You can keep the short name Izucar
+ amaticoztitlan: "Amaticoztitlan" #
+ tlapan: "Oapan" #San Agustín Oapan, wrong location - this should be renamed to Totomixtlahuacan 
+ ometepec: "Ometepec" #Ometepec
+ oapan: "Tlachinollan" #Tlapa de Comonfort, wrong location - this is the location of Tlapan (Tlapa de Comonfort), which was called Tlachinollan before conquered by the Aztecs. Oapan is located to the west along the Atoyac River, thus falling between Zompanco and Tepecoacuilco
+, located to the west
+ jicayan: "Jicayan" #Jicayan
+ zacatepec: "Zacatepec" #
+ yohualtepec: "Yohualtepec" #San Juan Ihualtepec, wrong location; should be renamed to Acatlan (modern: Acatlan de Osorio; Mixtec: Yucuyuxi)
+ huajuapan: "Huajuapan" #Huajuapan de Leon, You can keep the short name Huajuapan
+ silacayoapam: "Silacayoapam" #
+ chiautla: "Chiautla" #
+ cuauhteopan: "Cuauhteopan" #
+ tlazcozauhtitlan: "Tlazcozauhtitlan" #
+ yopitzinco: "Yopitzinco" #
+ tixtla: "Tixtla" #
+ chilapa: "Chilapa" #
+ tecoanapa: "Tecoanapa" #
+ cihuatlan: "Cihuatlan" #Rancho Alegre del Llano, the prehispanic town of Cihuatlan is not to be confused with Zihuatanejo
+ tecpan: "Tecpan" #
+ ixtapan: "Ixtapan" #Ixtapa
+ zacatollan: "Zacatollan" #Lazaro Cardenas
+ teotepec: "Teotepec" #
+ tlapacoya: "Tlapacoya" #
+ pachyohcan: "Pachyohcan" #Pachuca
+ atocpan: "Atocpan" #
+ zempoala: "Zempoala" #
+ tollantzinco: "Tollantzinco" #Tulancingo
+ axocopan: "Axocopan" #Ajacuba
+ zimapan: "Zimapan" #
+ ixmiquilpan: "Ixmiquilpan" #
+ cadereyta: "Cadereyta" #
+ tecozautla: "Tecozautla" #
+ tututepec: "Tututepec" #
+ coatlan: "Coatlan" #
+ cuauhtolco: "Cuauhtolco" #
+ tonameca: "Tonameca" #Santa Maria Tonameca
+ manialtepec: "Manialtepec" #San Jose Manialtepec
+ comitlan: "Comitlan" #
+ juchatengo: "Juchatengo" #
+ nube_flan: "Nube flan" #
+ tehuantepec: "Tehuantepec" #
+ zanatepec: "Zanatepec" #
+ chimalapan: "Chimalapan" #
+ guiigu_yudxi: "Guiigu yudxi" #Jalapa
+ huamelula: "Huamelula" #
+ juxtlahuaca: "Juxtlahuaca" #
+ tlachquiauhco: "Tlachquiauhco" #Tlaxiaco
+ poctlan: "Poctlan" #Putla
+ tillantonco: "Tillantonco" #Tilantongo
+ amoltepec: "Amoltepec" #, Would be better renamed to Zenzontepec
+ teozacualco: "Teozacualco" #
+ jaltepec: "Jaltepec" #
+ yucucui: "Yucucui" #
+ coixtlahuacan: "Coixtlahuacan" #San Juan Bautista Coixtlahuaca
+ yucundaa: "Yucundaa" #San Juan Teposcolula
+ yucundeq: "Yucundeq" #
+ yodzocahi: "Yodzocahi" #Santo Domingo Yanhuitlán, It could also be Yancuitlan
+ nochixtlan: "Nochixtlan" #Asuncion Nochistlán
+ sosola: "Sosola" #Sosola
+ ixtlan: "Ixtlan" #Ixtlán de Juarez
+ zaachila: "Zaachila" #
+ miahuatlan: "Miahuatlan" #
+ totolapan: "Totolapan" #
+ mictlan: "Mictlan" #San Pablo Villa de Mitla
+ yautepec: "Yautepec" #
+ tlacolula: "Tlacolula" #
+ teotitlan: "Teotitlan" #
+ ixcatlan: "Teutila" #San Pedro Teutila, wrong location - needs to be switched with Teutila
+ oxitlan: "Oxitlan" #San Lucas Ojitlán
+ xicaltepec: "Xicaltepec" #Monte Liberal
+ cuicatlan: "Cuicatlan" #
+ tochtepec: "Tochtepec" #San Juan Bautista Tuxtepec
+ mixtlan: "Mixtlan" #Mixtán
+ tozlan: "Tozlan" #San Andrés Tuxtla
+ tlacotlalpan: "Tlacotlalpan" #Tlacotalpan
+ cosamaloapan: "Cosamaloapan" #
+ iztachacalapan: "Iztachacalapan" #
+ nudo_zempoaltepetl: "Nudo zempoaltepetl" #
+ ozumacin: "Ozumacin" #San Pedro Ozumacín
+ atepec: "Atepec" #, possibly San Ildefonso Villa Alta? but need to double check
+ cuauhcuetzpaltepec: "Cuauhcuetzpaltepec" #Playa Vicente
+ chinantlan: "Chinantlan" #San Juan Bautista Valle Nacional
+ tesechoacan: "Tesechoacan" #
+ cuetlaxtlan: "Cuetlaxtlan" #Cotaxtla
+ xamapan: "Xamapan" #Jamapa
+ nopiloa: "Nopiloa" #
+ teutila: "Ixcatlan" #San Pedro Ixcatlán, wrong location - needs to be switched with Ixcatlan
+ puctlan: "Puctlan" #
+ otatitlan: "Otatitlan" #
+ coatlicamac: "Texintan" #Río Uxpanapa, wrong location - Coatlicamac is located near modern Santiago Jocotepec
+ suchilapan: "Suchilapan" #Suchilapan del Rio, should be renamed to Xaltepec (Jesús Carranza)
+
+ atitlan: "Atitlan" #Santiago Atitlán
+ choapan: "Choapan" #Choapam
+ xochiapa: "Xochiapa" #
+ coatzacoalco: "Coatzacoalco" #Coatzacoalcos
+ atzaccan: "Atzaccan" #
+ acayucan: "Acayucan" #Acayuca
+ texistepec: "Texistepec" #
+ tonala_coatzacoalco: "Tonallan" #Tonala
+ cuauhtochco: "Cuauhtochco" #, see here
+ ahuilizapan: "Ahuilizapan" #Orizaba
+ otlaquiquixtla: "Otlaquiquixtla" #Huatusco, The prehispanic Cuauhtochco does not correspond with the modern Huatusco, as the Spaniards mistakenly applied the name of the province to this settlement.
+ zongolica: "Zongolica" #
+ cempoala: "Cempoala" #
+ itzcalpan: "Itzcalpan" #
+ xicochimalco: "Xicochimalco" #
+ quiahuiztlan: "Quiahuiztlan" #
+ tizatlan: "Tizatlan" #
+ tepeticpac: "Tepeticpac" #
+ ocotelolco: "Ocotelolco" #
+ quiahuixtlan: "Quiahuixtlan" #
+ huexotzinco: "Huexotzinco" #Huejotzingo
+ cholollan: "Cholollan" #Cholula
+ tepozan_mountains: "Tepozan Mountains" #
+ xicotepec: "Xicotepec" #
+ zacatlan: "Zacatlan" #
+ tetela: "Tetela" #
+ ixtacamaxtitlan: "Ixtacamaxtitlan" #
+ tepeyahualco: "Tepeyahualco" #
+ tepeyacac: "Tepeyacac" #Tepeaca
+ tecalco: "Tecalco" #
+ tecamachalco: "Tecamachalco" #
+ tehuacan: "Tehuacan" #
+ tepexi: "Tepexi" #
+ citlaltepetl_mountains: "Citlaltepetl Mountains" #
+ tlatlauquitepec: "Tlatlauquitepec" #
+ nauhtlan: "Nauhtlan" #
+ tuzapan: "Tuzapan" #
+ papantla: "Papantla" #
+ tlapacoyan: "Tlapacoyan" #
+ cuyuxquihui: "Cuyuxquihui" #
+ xalapa: "Xalapa" #
+ xalacinco: "Xalacinco" #
+ mizantla: "Mizantla" #
+ teziutlan: "Teziutlan" #
+ tuxpan: "Tuxpan" #
+ teayotlan: "Teayotlan" #
+ pantepec: "Pantepec" #
+ taximaroa: "Taximaroa" #Ciudad Hidalgo
+ tzitacuaro: "Tzitacuaro" #
+ zinapecuaro: "Zinapecuaro" #
+ guayangareo: "Guayangareo" #Morelia
+ tiripetio: "Tiripetio" #
+ tacambaro: "Tacambaro" #
+ tzintzuntzan: "Tzintzuntzan" #
+ patzcuaro_lake: "Lake Patzcuaro" #
+ cuitzeo: "Cuitzeo" #
+ churumekua: "Churumekua" #Churumuco de Morelos
+ tuzantla: "Tuzantla" #
+ caracuaro: "Caracuaro" #
+ puruaran: "Puruaran" #
+ huandacareo: "Huandacareo" #
+ acambaro: "Acambaro" #
+ maravatio: "Maravatio" #
+ yuririapundaro: "Yuririapundaro" #
+ zacapu: "Zacapu" #
+ cuitzeo_lake: "Lake Cuitzeo" #
+ xacona: "Xacona" #
+ zula_michoacan: "Zula" #
+ tlazazalca: "Tlazazalca" #
+ angamacutiro: "Angamacutiro" #
+ xilotlan: "Xilotlan" #Jilotlán de los Dolores
+ erongaricuaro: "Erongaricuaro" #
+ patzcuaro: "Patzcuaro" #
+ aguacana: "Aguacana" #La Huacana
+ uruapan: "Uruapan" #
+ tinguindin: "Tingüindín" #
+ tancitaro: "Tancitaro" #
+ coliman: "Coliman" #
+ tlacalahuastla: "Tlacalahuastla" #
+ caxitlan: "Caxitlán" #Tecomán
+ coahuayana: "Coahuayana" #
+ chucutitlan: "Chucutitlan" #
+ apatzingan: "Apatzingan" #
+ colima_mountains: "Colima Mountains" #
+ teloloapan: "Teloloapan" #
+ ajuchitlan: "Ajuchitlan" #
+ cutzamala: "Cutzamala" #
+ tepecoacuilco: "Tepecoacuilco" #
+ tetellan: "Tetellan" #
+ zompanco: "Zompanco" #
+ oztoman: "Oztoman" #
+ tlachco: "Tlachco" #Taxco
+ temascaltepec: "Temascaltepec" #Temascaltepec de González
+ zacazonapan: "Zacazonapan" #
+ malinalco: "Malinalco" #
+ tlalpujahua: "Tlalpujahua" #
+ tollohcan: "Tollohcan" #Toluca
+ ixtlahuaca: "Ixtlahuaca" #
+ ninil: "Ninil" #
+ teotenanco: "Teotenanco" #
+ toluca_mountains: "Toluca Mountains" #
+ mixquiahuala: "Mixquiahuala" #
+ tollan: "Tōllān" #Tula de Allende, worth mentioning that Tollan is a complicated term in Mesoamerican history, referring to different places over time
+ cuauhtitlan: "Cuauhtitlan" #
+ xilotepec: "Xilotepec" #
+ ixtachichimecapan: "Ixtachichimecapan" #San Juan del Río
+ kerhiretarhu: "Kerhiretarhu" #Querétaro
+ tetzapotitlan: "Tetzapotitlan" #
+ huayacocotla: "Huayacocotla" #
+ tutotepec: "Tutotepec" #
+ metztitlan: "Metztitlan" #
+ jalpan: "Jalpan" #
+ tziuhcoac: "Huexotlan" #Huejutla de Reyes, Tziuhcoac most likely located more to the east
+ oxtlipan: "Oxtlipan" #, precise location is unsure, but leading hypothesis is south of Ciudad Valles
+ copuz: "Copuz" #
+ cocomacan: "Cocomacan" #
+ mo_o_ti: "Mo o ti" #Guanajuato
+ pechichitane: "Pechichitane" #
+ xiriquitzio: "Xiriquitzio" #
+ nat_tha_hi: "Nat tha hi" #Celaya
+ penlamu: "Penlamu" #Pénjamo
+ lobos_mountains: "Lobos Mountains" #
+ uza: "Uza" #
+ pame: "Pame" #
+ otomi: "Otomitl" #
+ tanchaycha: "Tanchaycha" #
+ tangamanga: "Tangamanga" #San Luis Potosí
+ hnahnu: "Hñähñu" #
+ huaxcama: "Huaxcama" #
+ ozuluama: "Ozuluama" #
+ panuco: "Panuco" #
+ tamtoc: "Tamtoc" #
+ quechula: "Quechula" #, underneath Nezahualcoyotl/Malpaso reservoir, roughly south-southwest of Raudales Malpaso
+ ocosingo: "Ocosingo" #
+ lakam_tun: "Lakam Tun" #, on Laguna Miramar (west side?)
+ tenamitl: "Tenamitl" #Comitán de Domínguez
+ zinacantan: "Zinacantan" #, historically overshadowed in importance during the colonial period by nearby San Cristobal de las Casas, at the time called Ciudad Real
+ pochutla: "Pochutla" #Perla de Acapulco
+ tila: "Tila" #
+ lacandon_jungle: "Lacandon Jungle" #
+ tonala_chiapas: "Tonallan" #Tonalá
+ napinaica: "Napinaica" #Chiapa de Corzo
+ jaltenango: "Jaltenango" #
+ huehuetan: "Huehuetan" #
+ chimalapa_jungle: "Chimalapa Jungle" #
+ baak: "Lakamha" #Palenque
+ cupilco: "Cupilco" #José María Pino Suárez, there were two prehispanic Cupilcos in the region - one here, another in the modern town of Cupilco
+ zahuatan: "Zahuatan" #Jahuacapa
+ tatahuitalpan: "Tatahuitalpan" #
+ mayapan: "Màayapáan" #Mayapán
+ mani: "Mani" #
+ hocabail: "Hocabail" #
+ sotuta: "Sotuta" #
+ maxcanu: "Maxcanú" #
+ hunucma: "Hunucmá" #
+ tho: "T'Hó" #Mérida
+ motul: "Motul" #
+ dzilam: "Dzilam" #
+ titsimin: "Ti'tsimín" #Tizimín
+ chichen_itza: "Chi' ch'e'en its ja'" #Chichén Itzá
+ tases: "Tases" #Tixcancal
+ kalotmul: "Kalotmul" #Calotmul
+ zaci: "Zaci" #Valladolid
+ kaan_peech: "Kaan peech" #Campeche
+ calkini: "Calkiní" #
+ edzna: "Edzna" #
+ hochob: "Hochob" #
+ dzibilnocac: "Dzibilnocac" #
+ chakan_putum: "Chakán Putum" #Champotón
+ tixchel: "Tixchel" #
+ xicallanco: "Xicallanco" #Ciudad del Carmen
+ itzamkanac: "Itzamkanac" #El Tigre
+ nadzcaan: "Nadzca'an" #
+ maya_jungle: "Maya Jungle" #
+ chactemal: "Cháak te' éemal" #Corozal, does not correspond exactly to the modern town of Chetumal
+ colha: "Colha" #
+ nohmul: "Nohmul" #
+ chakanbakan: "Chakanbakán" #
+ xpuhil: "Xpuhil" #
+ dzibanche: "Dzibanche" #
+ bakhalal: "Bakhalal" #
+ tixmul: "Tixmul" #
+ xpaicheil: "Xpaicheil" #
+ telantunich: "Telantunich" #
+ ekab: "Ekab" #
+ labcah: "Labcáh" #
+ zama: "Zama" #Tulum
+ coba: "Coba" #
+ chakan_yucatan: "Chakan" #
+ jootsuuk: "Jo'otsuuk" #
+ noh_peten: "Noj Petén" #Flores
+ namaan: "Namaan" #
+ yax_mutal: "Mutal" #
+ pachan: "Pa'Chan" #
+ wak_kabnal: "Wak Kab'nal" #
+ ceibal: "Seibal" #
+ ixtutz: "Ixtutz" #
+ pusilha: "Pusilha" #
+ campin: "Campin" #
+ tzoite: "Tzoite" #
+ paliac: "Paliac" #
+ cockscomb_jungle: "Cockscomb Jungle" #
+ tzunuun: "Tzunu'un" #
+ altun_ha: "Altun ha" #
+ lamanai: "Lam'an'ain" #
+ xunantunich: "Xunantunich" #
+ uxwitza: "Uxwitza" #
+ acasaguastlan: "Acasaguastlán" #
+ chiquimula: "Chiquimuljá" #Chiquimula
+ cuauhtemallan: "Cuauhtemallan" #, Not to be confused with modern Guatemala City, nor with its previous iterations. Cuauhtemallan is the Nahuatl name for the Kaqchikel Maya capital of Iximche, which wouldn't be founded until the 1470s, previously having their capital in Chichicastenango which is not located within this location.
+ guazacapan: "Guazacapán" #
+ itzalku: "Itzalku" #Izalco
+ minas_mountains: "Minas Mountains" #
+ xelahuh: "Xelahuh" #Quetzaltenango
+ kakol_kiej: "Kakol Kiej" #Mazatenango
+ itzcuintlan: "Itzcuintlan" #Escuintla
+ atitlan_guatemala: "Atitlan" #
+ atitlan_lake: "Atitlan Lake" #
+ chiapas_mountains: "Chiapas Mountains" #
+ jolom_konob: "Jolom konob" #Santa Eulalia
+ zapaluta: "Zapalúta" #La Trinitaria
+ tzunun_kaab: "Tz'unun Kaab" #San Miguel Uspantán
+ otzoya: "Otzoyá" #Totonicapán
+ chinabajul: "Chinabajul" #Huehuetenango
+ pismachi: "Pismachi" #Santa Cruz del Quiché
+ cuchumatanes_mountains: "Cuchumatanes Mountains" #
+ chama: "Chamá" #
+ seacal: "Seacal" #
+ kajyub: "Kajyub" #Rabinal
+ nito: "Nito" #
+ toquegua: "Toquegua" #
+ izabal_lake: "Izabal Lake" #
+ golfete_lake: "Golfete Lake" #
+ talanga: "Talanga" #
+ tecohtzincalpan: "Tecohtzincalpan" #Tegucigalpa
+ comayagua: "Comayagua" #
+ maniani: "Maniani" #
+ tencoa: "Tencoa" #
+ ocotepec: "Ocotepec" #Ocotepeque
+ opoa: "Opoa" #
+ cururu: "Cururu" #
+ shalatenan: "Shalatenan" #
+ chinda: "Chinda" #
+ naco: "Naco" #
+ yoro: "Yoro" #
+ ticamaya: "Ticamaya" #
+ choluteca: "Choluteca" #
+ nacaome: "Nacaome" #
+ texiguat: "Texiguat" #
+ xoxonal: "Xoxonal" #
+ pech: "Pech" #
+ sico: "Sico" #
+ olanchito: "Olanchito" #
+ ollalko: "Ollalko" #
+ papayeca: "Papayeca" #
+ usulutan: "Usulután" #
+ chalchuapa: "Chalchuapa" #
+ metapan: "Metapan" #
+ kuskatan: "Kuskatan" #
+ cojutepeque: "Cojutepeque" #
+ nonualco: "Nonualco" #
+ gotera: "Gotera" #
+ queiquin: "Queiquin" #
+ kukra: "Kukra" #
+ tawahka: "Tawahka" #
+ prinzus: "Prinzus" #
+ boas: "Boas" #
+ bawika: "Bawika" #
+ silam: "Silam" #
+ yuskus: "Yuskus" #
+ ku: "Ku" #
+ panamahkas: "Panamahkas" #
+ tawahka_jungle: "Tawahka Jungle" #
+ matagalpa: "Matagalpa" #
+ rama: "Rama" #
+ ulwas: "Ulwas" #
+ xiotenko: "Xiotenko" #
+ ukutal: "Ukutal" #
+ xalapan: "Xalapan" #
+ danli: "Danlí" #
+ indio_maiz_jungle: "Indio Maiz Jungle" #
+ nagarando: "Nagarando" #
+ nequecheri: "Nequecheri" #
+ diria: "Diria" #
+ cuauhcapolca: "Cuauhcapolca" #
+ tezoatega: "Tezoatega" #
+ guaxenicos: "Guaxenicos" #
+ sutiapan: "Sutiapan" #León
+ koapolkan_lake: "Koapolkan Lake" #
+ xolotlan_lake: "Xolotlan Lake" #
+ karawala: "Karawala" #
+ awastara: "Awastara" #
+ ahuya_yari: "Ahuya yari" #
+ orosi: "Orosi" #
+ bocto: "Bocto" #
+ nekokiaw: "Nekokiaw" #
+ garabito: "Garabito" #
+ uxarraci: "Uxarraci" #
+ coctu: "Coctu" #
+ boruca: "Boruca" #
+ quepos: "Quepos" #
+ pacaca: "Pacaca" #
+ burica: "Burica" #
+ chiriqui: "Chiriqui" #
+ huista: "Huista" #
+ chiriqui_mountains: "Chiriqui Mountains" #
+ chiriqui_jungle: "Chiriqui Jungle" #
+ veragua: "Veragua" #
+ caribaro: "Caribaro" #
+ terbi: "Terbi" #
+ dererri: "Dererri" #
+ tariaca: "Tariaca" #
+ kabeka: "Kabeka" #
+ veragua_jungle: "Veragua Jungle" #
+ tauraba: "Tauraba" #
+ parita: "Parita" #
+ nata: "Nata" #
+ escoria: "Escoria" #
+ chiru: "Chiru" #
+ esquegua: "Esquegua" #
+ panama: "Panama" #
+ careta: "Careta" #
+ pocorosa: "Pocorosa" #
+ comogre: "Comogre" #
+ chochama: "Chochama" #
+ cubiga: "Cubiga" #
+ chepo: "Chepo" #
+ chuchures: "Chuchures" #
+ darien_jungle: "Darien Gap" #
+ cupica_gulf: "Cupica Gulf" #
+ tribuga_gulf: "Tribuga Gulf" #
+ docampado_coast: "Docampado Coast" #
+ malaga_bay: "Malaga Bay" #
+ timbiqui_bay: "Timbiqui Bay" #
+ tumaco_bay: "Tumaco Bay" #
+ manglares_cape: "Manglares Cape" #
+ east_pacific_high_sea32: "Eastern Pacific High Sea" #
+ east_pacific_high_sea16: "Eastern Pacific High Sea" #
+ east_pacific_high_sea17: "Eastern Pacific High Sea" #
+ east_pacific_high_sea18: "Eastern Pacific High Sea" #
+ tonala_coast: "Tonallan Coast" #
+ tapachollan_coast: "Tapachollan Coast" #
+ tehuantepec_isthmus: "Tehuantepec Isthmus" #
+ huamelula_coast: "Huamelula Coast" #
+ huatulco_bays: "Huatulco Bays" #
+ comata_cape: "Comata Cape" #
+ corralero_lagoon: "Corralero Lagoon" #
+ east_pacific_high_sea6: "Eastern Pacific High Sea" #
+ east_pacific_high_sea7: "Eastern Pacific High Sea" #
+ east_pacific_high_sea8: "Eastern Pacific High Sea" #
+ maruata_coast: "Maruata Coast" #
+ coahuayana_delta: "Coahuayana Delta" #
+ nuxco_lagoon: "Nuxco Lagoon" #
+ petacalco_bay: "Petacalco Bay" #
+ chantengo_lagoon: "Chantengo Lagoon" #
+ acapulco_bay: "Acapulco Bay" #
+ east_pacific_high_sea2: "Eastern Pacific High Sea" #
+ east_pacific_high_sea3: "Eastern Pacific High Sea" #
+ east_pacific_high_sea4: "Eastern Pacific High Sea" #
+ east_pacific_high_sea5: "Eastern Pacific High Sea" #
+ kakol_kiej_coast: "Kakol Kiej Coast" #
+ itzcuintlan_coast: "Itzcuintlan Coast" #
+ cobanos_coast: "Cobanos Coast" #
+ jiquilisco_bay: "Jiquilisco Bay" #
+ fonseca_bay: "Fonseca Bay" #
+ poneloya_coast: "Poneloya Coast" #
+ papagayo_bay: "Papagayo Bay" #
+ east_pacific_high_sea9: "Eastern Pacific High Sea" #
+ east_pacific_high_sea10: "Eastern Pacific High Sea" #
+ east_pacific_high_sea11: "Eastern Pacific High Sea" #
+ blanco_cape: "Blanco Cape" #
+ nicoya_gulf: "Nicoya Gulf" #
+ coronado_bay: "Coronado Bay" #
+ pavon_bay: "Pavon Bay" #
+ chiriqui_gulf: "Chiriqui Gulf" #
+ montijo_gulf: "Montijo Gulf" #
+ east_pacific_high_sea12: "Eastern Pacific High Sea" #
+ east_pacific_high_sea13: "Eastern Pacific High Sea" #
+ east_pacific_high_sea14: "Eastern Pacific High Sea" #
+ east_pacific_high_sea15: "Eastern Pacific High Sea" #
+ mala_point: "Mala Point" #
+ parita_gulf: "Parita Gulf" #
+ panama_gulf: "Panama Gulf" #
+ san_miguel_gulf: "San Miguel Gulf" #
+ pinas_bay: "Pinas Bay" #
+ hupenuu: "Hupenuu" #
+ mah_hom: "Mah'hom" #
+ oohkoi_yohe: "Oohkoi'yohe" #
+ kuhtsutuuka: "Khutsutuuka" #
+ hoyu_ao_he: "Hoyu'ao'he" #
+ atarque: "Atarque" #
+ tinde: "Tinde" #
+ kiowa: "Kiowa" #
+ hotoanaohe: "Hotoanahoe" #
+ wahin_wakpa: "Wahin'wakpa" #
+ apispaha: "Apispaha" #
+ chinali: "Chinali" #
+ honih_hiyo_he: "Honih'hiyo'e" #
+ iriirakiicuhat: "Iriirakiicuhat" #
+ tsesh_ke_shende: "Tsésh ke shéndé" #
+ tcha_shka_ozhaye: "Tcha shka-ózhäye" #
+ kwahada: "Kwahada" #
+ tucumcari: "Tucumcari" #
+ natahende: "Natahéndé" #
+ guhlkahende: "Guhlkahéndé" #
+ chlaande: "Ch'laandé" #
+ nitahende: "Nit'ahéndé" #
+ natages: "Natages" #
+ tlayolan: "Tlayolan" #Ciudad Guzmán, called Zapotlan during the colonial period
+ tochpan: "Tochpan" #Tuxpan
+ tlamazolan: "Tlamazolan" #Tamazula de Gordiano
+ sayula: "Sayula" #
+ cuzalapa: "Cuzalapa" #
+ amollan: "Amollan" #San Juan de Amula
+ cocollan: "Cocollan" #
+ cutzalan: "Cutzalan" #
+ tomatlan: "Tomatlan" #
+ xihutla: "Xihutla" #
+ zihuatlan: "Zihuatlan" #
+ melahuacan: "Melahuacan" #
+ cuauhchinanco: "Cuauhchinanco" #
+ tlalpan: "Tlalpan" #
+ amaxacotlan: "Amaxacotlan" #
+ cuautla: "Cuautla" #
+ autlan: "Autlan" #
+ tenamaxtlan: "Tenamaxtlan" #
+ ameca: "Ameca" #
+ huitzquilic: "Huitzquilic" #
+ etzatlan: "Etzatlan" #
+ tala_mx: "Tala" #
+ ahuacatlan: "Ahuacatlan" #
+ tzapotzingo: "Tzapotzingo" #
+ hostoticpac: "Hostoticpac" #
+ hostotipaquillo: "Hostotipaquillo" #
+ xalisco: "Xalisco" #
+ magdalenas: "Magdalenas" #
+ aztatlan: "Aztatlan" #
+ sentispac: "Sentispac" #
+ tonala: "Tonala" #
+ tlaxomulco: "Tlaxomulco" #
+ chapallan: "Chapallan" #
+ acatic: "Acatic" #
+ ixtlahuacan: "Ixtlahuacan" #
+ coinan: "Coinan" #
+ chapala_lake: "Lake Chapala" #
+ mextiacan: "Mextiacan" #
+ mitic: "Mitic" #
+ metzquititlan: "Metzquititlan" #
+ xalostotitlan: "Xalostotitlan" #
+ tepactitlan: "Tecpatitlan" #
+ yahualican: "Yahualican" #
+ yenecamu: "Yenecamú" #
+ guaycura: "Guaycura" #
+ monqui: "Monqui" #
+ cadegomo: "Cadegomo" #
+ mti_pa: "M'Ti-Pa" #
+ guadalupe_island: "Guadalupe" #
+ cochimi: "Cochimi" #
+ nakipa: "Ñakipa" #
+ koleeu: "Koleeu" #
+ akwaala: "Akwaala" #
+ kumeyaay: "Kumeyaay" #
+ salton_lake: "Salton Lake" #
+ salada_lagoon: "Salada Lagoon" #
+ kwapa: "Kwapa" #
+ north_hia_ced_oodham: "Kaav 'Onga" #
+ south_hia_ced_oodham: "Vi'ishañik" #
+ huhuhla: "Chuchk Dodo'ag" #
+ xiica_hai_iic_coii: "Xiica hai iic coii" #
+ koklolodi: "Waw Giwulk" #
+ tohono_oodham: "Hugidag" #
+ himuris: "Wegi Vav" #
+ tahejoc: "Tahejöc" #
+ comcaac: "Comcaac" #
+ cucurpe: "Cucurpe" #
+ xiica_xnaai_iic_coii: "Xiica xnaai iic coii" #
+ pitic: "Pitic" #
+ ures: "Ures" #
+ aconchi: "Aconchi" #
+ aritpa: "Aritpa" #
+ yoreme: "Yoreme" #
+ huatabampo: "Huatabampo" #
+ chinipas: "Chinipas" #
+ makurawe: "Makuráwe" #
+ cosihuiriachi: "Cosihuiriachi" #
+ matape: "Matape" #
+ guaimas: "Guaimas" #
+ soyopa: "Soyopa" #
+ sahuaripa: "Sahuaripa" #
+ batuco: "Batuco" #
+ oposura: "Oposura" #
+ papigochic: "Papigochic" #
+ babicora: "O'oba" #
+ corodehuachi: "Corodehuachi" #
+ sinaloa: "Sinaloa" #
+ baborigame: "Baborigame" #
+ badiraguato: "Badiraguato" #
+ ahome: "Ahome" #
+ cerocahui: "Cerocahui" #
+ gonogochi: "Gonogochi" #
+ culiacan: "Culiacan" #
+ quetzalla: "Quetzalla" #
+ piaxtla: "Piaxtla" #
+ mazatlan: "Mazatlan" #
+ tamazula: "Tamazula" #
+ otaez: "Otaez" #
+ topia: "Topia" #
+ tayoltita: "Tayoltita" #
+ madre_mountains: "Madre Mountains" #
+ chiametlan: "Chiametlan" #
+ maloya: "Maloya" #
+ guarisamey: "Guarisamey" #
+ acaponeta: "Acaponeta" #
+ nayarit: "Nayarit" #
+ mezquital: "Mezquital" #
+ nilapohuana: "Nilapohuana" #
+ odam: "O'dam" #
+ canatlan: "Canatlan" #
+ atanagunypacam: "Atanagunypacam" #
+ tamaulipeco: "Tamaholipa" #
+ maratine: "Maratine" #
+ coospacam: "Coospacam" #
+ magueyes: "Magueyes" #
+ hualahuises: "Hualahuises" #
+ galeana: "Galeana" #
+ pilon: "Pilon" #
+ pantlan: "Pantlan" #
+ tula: "Tula" #
+ mante: "Mante" #
+ ypoa: "Ypoa" #
+ ma_tehua_llan: "Ma Tehua Llan" #
+ guanchenis: "Guanchenis" #
+ mazatlpilli: "Mazatlpilli" #
+ mazatepec: "Mazatepec" #
+ guachichil: "Cuauchichil" #
+ miopacoas: "Miopacoas" #
+ coneto: "Coneto" #
+ papanton: "Papanton" #
+ cuencame: "Cuencame" #
+ alamamas: "Alamamas" #
+ irritila: "Irritila" #
+ tepehuan: "Tepehuan" #
+ inde: "Inde" #
+ guanacevi: "Guanacevi" #
+ papasquiaro: "Papasquiaro" #
+ mapimi: "Mapimi" #
+ sisimbles: "Sisimbles" #
+ osatayogliglas: "Osatayogliglas" #
+ cacalotito: "Cacalotito" #
+ julime: "Julime" #
+ tu_e_dine_de: "Tú é diné Ndé" #
+ baopapas: "Baopapas" #
+ babonoyaba: "Babonoyaba" #
+ guajoquilla: "Guajoquilla" #
+ mesquite: "Mesquite" #
+ guiaquitas: "Guiaquitas" #
+ nonoava: "Nonoava" #
+ cocoyome: "Cocoyome" #
+ coyame: "Coyame" #
+ sainapuchi: "Sainapuchi" #
+ yoli: "Yoli" #
+ jae_aaya: "Jâ'é ãâyá" #
+ alazapa: "Alazapa" #
+ cuanales: "Cuanales" #
+ masacuajulam: "Masacuajulam" #
+ gualeguas: "Gualeguas" #
+ tilijais: "Tilijais" #
+ guazapayogliglas: "Guazapayogliglas" #
+ huajuco: "Huajuco" #
+ viga_mountains: "Viga Mountains" #
+ chisos: "Chisos" #
+ espopolames: "Espopolames" #
+ gueiquesales: "Gueiquesales" #
+ muruam: "Muruam" #
+ chichitames: "Chichitames" #
+ cauitaome: "Cauitaome" #
+ yeme: "Yeme" #
+ east_hanos: "East hanos" #
+ west_hanos: "West hanos" #
+ manso: "Manso" #
+ hue_hue_ri_gi_ta: "Hue hue ri gi ta" #
+ tehua: "Tehua" #
+ suma: "Suma" #
+ namiquipa: "Namiquipa" #
+ xicahua: "Xicahua" #
+ pinanaca: "Pinanaca" #
+ dzithinahnde: "Dzithinahndé" #
+ xumani: "Xumani" #
+ patarabueye: "Patarabueye" #
+ chinaitih: "Ch'íná'itíh" #
+ tahuunde: "Tahuundé" #
+ tseichi: "Tséichí" #
+ tugumlepen: "Tugumlepen" #
+ estok_gna: "Esto'k Gna" #
+ cachopostales: "Cachopostales" #
+ cacaxtles: "Cacaxtles" #
+ cabias: "Cabias" #
+ tsel_tatli_dsha: "Tsél tátli dshä" #
+ tinapihuaya: "Tinapihuaya" #
+ piguique: "Piguique" #
+ capoque: "Capoque" #
+ karankawa: "Karankawa" #Matagorda
+ copane: "Copane" #
+ mariame: "Mariame" #Victoria
+ tu_sis_nde: "Tú sis Ndé" #
+ bobole: "Bobole" #
+ ndawe_qoha: "Ndáwe qóhä" #
+ tonkawa: "Tonkawa" #
+ kanahatino: "Kanahatino" #
+ sha_ia_nde: "Shá i'a Nde" #
+ kol_kuka: "Kó'l kukä" #
+ teyas: "Teyas" #
+ mashgalende: "Mashgalénde" #
+ melenudo: "Melenudo" #
+ waco: "Waco" #Waco
+ nokoni: "Nokoni Nʉʉ" #
+ tanimuu: "Tanimʉʉ" #
+ kitsai: "Kitsai" #
+ taovaya: "Taovaya" #
+ tawakoni: "Tawakoni" #
+ aays: "Aays" #
+ yscani: "Yscani" #
+ tses_tsembai: "Tsés tsembai" #
+ tenawa: "Tenawa" #
+ tchokana: "Tchó'kanä" #
+ penatuka: "Penatʉka Nʉʉ" #
+ kwaaru: "Kwaarʉ Nʉʉ" #
+ paruhuya: "Parʉhʉya" #
+ atajal: "Atajal" #
+ aranama: "Aranama" #Goliad
+ saxop_wan_pupako: "Saxop wan pupako" #New Braunfels
+ chayopin: "Chayopin" #
+ yanaguana: "Yanaguana" #San Antonio
+ nasoni: "Nishone" #Texarkana
+ lacane: "Nasoni" #
+ nisohone: "Nisohone" #
+ nadakuh: "Nadákuh" #
+ nabiti: "Nabiti" #
+ nacao: "Nacao" #
+ nacogdoches: "Nacogdoches" #Nacogdoches
+ naconiche: "Naconiche" #
+ ayish: "Ayish" #San Augustine
+ haynay: "Haynay" #
+ nacachau: "Nacachau" #
+ nabaydacu: "Nabaydacu" #
+ nakono: "Nakono" #
+ deadose: "Deadose" #
+ bidai: "Bidai" #
+ patiri: "Patiri" #Conroe
+ ishak: "Ishak" #
+ han: "Han" #Galveston
+ orcoquisac: "Orcoquisac" #Anahuac
+ caux: "Caux" #Liberty
+ toyal: "Toyal" #Houston
+ pachina: "Pachina" #Beaumont
+ sabine_lake: "Sabine Lake" #
+ palaquechare: "Palaquechare" #Brenham
+ mayeye: "Mayeye" #
+ yojuane: "Yojuane" #Bastrop
+ cantona: "Cantona" #
+ toho: "Toho" #
+ ajehuac_yana: "Ajehuac yana" #San Marcos
+ sana_tx: "Sana" #Gonzales
+ tza_wan_pupako: "Tza wan pupako" #Austin
+ tickanwatic: "Tickanwatic" #
+ tih_go_tel: "Tih-go-tel" #
+ teypana: "Teypana" #
+ shiewhibak: "Shiewhibak" #
+ aaku: "Áak'u" #
+ halona_idiwana: "Halona Idiwan'a" #
+ tsiya: "Tsi'ya" #
+ tuf_shur_tia: "Tuf Shur Tia" #
+ than_u_ge: "T'han-u-ge" #
+ ohkweeo_owingeh: "Ohkwee Ówîngeh" #
+ ialophaybo: "Iałopháybo" #
+ dinetah: "Dinétah" #
+ nde_nda_i: "Nde-nda-i" #
+ tsezhin_deezahi: "Tsézhin Deez'áhí" #
+ kin_ligaai: "Homolovi" #
+ ni_alniigi: "Ni' Ałníi'gi" #
+ tselgaii: "Tséłgaii" #
+ tse_bitai: "Tsé Bit'a'í" #
+ chinili: "Ch'ínílį́" #
+ orayvi: "Lenaytupqa" #
+ walpi: "Orayvi" #
+ shungopavi: "Moenkopi" #
+ kwatsaan: "Kwatsaan" #
+ halchidoma: "Halchidoma" #
+ aha_macav: "Aha macav" #
+ hwalbay: "Hwalbay" #
+ havasubaaja: "Havasubaaja" #
+ tu_dotlizh_ndee: "Pasiwvi" #
+ grand_canyon: "Ongtupqa" #
+ piipaash: "Piipaash" #
+ akimel_oodham: "Akimeḍ" #
+ sobaipuri: "Sobaipuri" #
+ jocome: "Jocome" #
+ tsoka_ne_nde: "Tsoka-ne-nde" #
+ bidanku: "Bi-dan-ku" #
+ dzil_nchaa_sian: "Dził Nchaa Sí'an" #
+ tse_binestie: "Tsé Binest'i'é" #
+ totokwan: "Chuk Ṣon" #
+ kohatk: "Kohatk" #
+ dzil_ligai_mountains: "Dzil Ligai Mountains" #
+ guwevkabaya: "Guwevkabaya" #
+ dolkabaya: "Ɖo:lkabaya" #
+ liinabaha: "Łįįnábáha" #
+ nadah_dogalnine: "Nadah dogalnine" #
+ yavpe: "Yavpe" #
+ wipukba: "Wi:pukba" #
+ dzil_taadn: "Dzil taadn" #
+ dilzhee: "Dilzhee" #
+ tlacuitlapan: "Tlacuitlapan" #
+ yamanquex: "Yamanquex" #
+ zain: "Zain" #
+ tepecan: "Tepecan" #
+ yuac: "Yuac" #
+ nochistlan: "Nochistlan" #
+ xochipillan: "Xochipillan" #
+ teulinchan: "Tlaltenango" #
+ xochitepec: "Xochitepec" #
+ huaxtla: "Huaxtla" #
+ fria_mountains: "Fria Mountains" #
+ sauzas: "Sauzas" #
+ guaxaban: "Guaxaban" #
+ xiconaque: "Xiconaque" #
+ cuxtaque: "Cuxtaque" #
+ colorado_delta: "Colorado Delta" #
+ tecopa_cape: "Tecopa Cape" #
+ sahuimaro_coast: "Sahuimaro Coast" #
+ kino_bay: "Kino Bay" #
+ xazl_iimt_island: "Xazl Iimt Island" #
+ concepcion_bay: "Concepcion Bay" #
+ haro_cape: "Haro Cape" #
+ loreto_bay: "Loreto Bay" #
+ talchichintle_island: "Talchichintle Island" #
+ ohuira_bay: "Ohuira Bay" #
+ agiabampo_bay: "Agiabampo Bay" #
+ huivulau_bay: "Huivulau Bay" #
+ mazatlan_coast: "Mazatlan Coast" #
+ lucenilla_peninsula: "Lucenilla Peninsula" #
+ huizache_lagoon: "Huizache Lagoon" #
+ nayarit_coast: "Nayarit Coast" #
+ north_aztatlan: "North Aztatlan" #
+ guayabitos_coast: "Guayabitos Coast" #
+ tenacatita_bay: "Tenacatita Bay" #
+ chamela_bay: "Chamela Bay" #
+ banderas_bay: "Banderas Bay" #
+ east_pacific_high_sea1: "Eastern Pacific High Sea" #
+ east_pacific_high_sea19: "Eastern Pacific High Sea" #
+ east_pacific_high_sea20: "Eastern Pacific High Sea" #
+ pulmo_cape: "Pulmo Cape" #
+ comondu_coast: "Comondu Coast" #
+ eugenia_cape: "Eugenia Cape" #
+ hares_eye_lagoon: "Hares Eye Lagoon" #
+ east_pacific_high_sea21: "Eastern Pacific High Sea" #
+ east_pacific_high_sea22: "Eastern Pacific High Sea" #
+ east_pacific_high_sea23: "Eastern Pacific High Sea" #
+ east_pacific_high_sea24: "Eastern Pacific High Sea" #
+ east_pacific_high_sea25: "Eastern Pacific High Sea" #
+ san_quintin_bay: "San Quintin Bay" #
+ colonet_cape: "Colonet Cape" #
+ todos_santos_bay: "Todos Santos Bay" #
+ san_diego_bay: "San Diego Bay" #
+ pilot_rock: "Pilot Rock" #
+ baja_coast: "Baja Coast" #
+ east_pacific_high_sea26: "Eastern Pacific High Sea" #
+ east_pacific_high_sea27: "Eastern Pacific High Sea" #
+ east_pacific_high_sea28: "Eastern Pacific High Sea" #
+ east_pacific_high_sea29: "Eastern Pacific High Sea" #
+ east_pacific_high_sea31: "Eastern Pacific High Sea" #
+ saanich: "Saanich" #Victoria
+ stz_uminus: "Stz'uminus" #Nanaimo, Nanaimo is older and larger than Chemanius
+ ditidaht: "Ditid'aa'tx" #Port Renfrew
+ pentlatch: "Pentlach" #Courtenay
+ ucluelet: "Ucluelet" #Port Alberni
+ k_omoks: "K'omoks" #Campbell River
+ maaqtusiis: "Maaqtsiis" #
+ yuquot: "Yuquot" #
+ tlatlasikwala: "Tlatlasikwala" #
+ ma_amtagila: "Ma'amtagila" #
+ tanakteuk: "Tanakteuk" #
+ quawshelah: "Quawshelah" #
+ oweekeno: "Oweekeno" #
+ nuxalc: "Nuxalc" #
+ kitasoo: "Kitasoo" #
+ heiltsuk: "Heiltsuk" #
+ haisla: "Xai'sla" #
+ kwakwala_range: "Kwak'wala Range" #
+ sm_algyax: "Sm'álgyax" #
+ nisga_a: "Nisga'a" #
+ gitxsanimaax: "Gitxsanimaax" #
+ kiis_gwaay: "Kiis'gwaay" #
+ gwaay_haanas: "Gwaay'haanas" #
+ saanya: "Saanyaa Kwáan" #
+ taant_a: "Taant'a Kwáan" #
+ shtax_heen: "Shtax'héen Kwáan" #
+ s_awdaan: "S'awdáan Kwáan" #
+ hinyaa: "Hinyaa Kwáan" #
+ keex: "Kéex Kwáan" #
+ t_aaku: "T'aaku Kwáan" #
+ jilkaat: "Jilkáat Kwáan" #
+ aa_kw: "Aa'kw Kwáan" #
+ xunaa: "Xunaa Kwáan" #
+ shee_t_ika: "Shee't'iká Kwáan" #
+ xutsnoowu: "Xutsnoowü Kwáan" #
+ gunaaxoo: "Gunaaxoo Kwáan" #
+ yaakwdaat: "Yaakwdáat Kwáan" #
+ laaxaayik: "Laaxaayík Kwáan" #
+ yakataga: "Yakataga Kwáan" #
+ galyax: "Galyáx Kwáan" #
+ daxunhyuu: "daXunhyuu" #
+ taatiilaaq: "Taatiilaaq" #
+ caniqaq: "Caniqaq" #
+ nanwalek: "Nanwalek" #
+ nuciiq: "Nuciiq" #
+ agw_aneq: "Agw'aneq" #
+ su_naq: "Su'naq" #
+ kasukuak: "Kasukuak" #
+ swikshak: "Swikshak" #
+ amalik: "Amalik" #
+ alinchak: "Alinchak" #
+ chignik: "Chignik" #
+ kangi_asinaq: "Kangi'asinaq" #
+ qagiigun: "Qagiigun" #
+ qagaan: "Qagaan" #
+ unimax: "Unimax" #
+ qawalangin: "Qawalangin" #
+ akuugun: "Akuugun" #
+ niigugis: "Niigugis" #
+ naahmigus: "Naahmigus" #
+ qaxun: "Qaxun" #
+ sasignan: "Sasignan" #
+ amiq: "Amiq" #
+ aniakchak: "Aniakchak" #
+ ugashik: "Ugashik" #
+ egegik: "Egegik" #
+ qarr_unaq: "Qarr unaq" #
+ igiugig: "Igiugig" #
+ nuuriileng: "Nuuriileng" #
+ iliamna_lake: "Iliamna Lake" #
+ naknelk_lake: "Naknelk Lake" #
+ becharof_lake: "Becharof Lake" #
+ ugashik_lake: "Ugashik Lake" #
+ aguyaq: "Aguyaq" #
+ akokpaq: "Akokpaq" #
+ koliaganeq: "Koliaganeq" #
+ baleknagiq: "Baleknagiq" #
+ igushiq: "Igushiq" #
+ togiaq: "Togiaq" #
+ togiagamiut_forest: "Togiagamiut Forest" #
+ mamterat: "Mamterat" #
+ quinhagaq: "Quinhagaq" #
+ iiq: "Iiq" #
+ mamterilleq: "Mamterilleq" #
+ kwigilingoq: "Kwigilingoq" #
+ kalskaq: "Kalskaq" #
+ eek_lake: "Eek Lake" #
+ whitefish_lake: "Whitefish Lake" #
+ dall_lake: "Dall Lake" #
+ nunapichuq: "Nunapichuq" #
+ tununaq: "Tununaq" #
+ kaghasuq: "Kaghasuq" #
+ niugtaq: "Niugtaq" #
+ ce_vaq: "Ce'vaq" #
+ mekoryuq: "Mekoryuq" #
+ dall_plains: "Dall PPlains" #
+ kegum_kagati_lake: "Kegum Kagati Lake" #
+ nunavakpak_lake: "Nunavakpak Lake" #
+ kayigyalik_lake: "Kayigyalik Lake" #
+ takslesluk_lake: "Takslesluk Lake" #
+ puk_palik_lake: "Puk Palik Lake" #
+ marayaarmiut: "Marayaarmiut" #
+ imangaq: "Imangaq" #
+ qerrulliiq: "Qerrulliiq" #
+ tapqaq: "Tapqaq" #
+ unalakleet: "Unalakleet" #
+ ungaliq: "Ungaliq" #
+ yukkhana: "Yukkhana" #
+ aropuk_lake: "Aropuk Lake" #
+ arhymot_lake: "Arhymot Lake" #
+ kgun_lake: "Kgun Lake" #
+ nuigalak_lake: "Nuigalak Lake" #
+ nunavakanak_lake: "Nunavakanak Lake" #
+ nanvaranak_lake: "Nanvaranak Lake" #
+ malemiut: "Malemiut" #
+ kuuyuk: "Kuuyuk" #
+ qikiqtagruk: "Qikiqtagruk" #
+ kuugaaluk: "Kuugaaluk" #
+ kongashuk: "Kongashuk" #
+ malemiut_plains: "Malemiut Plains" #
+ sinjik: "Sinjik" #
+ nachirvik: "Nachirvik" #
+ kigluaik: "Kigluaik" #
+ anakovik: "Anakovik" #
+ kugirukuk: "Kugirukuk" #
+ imuruk_basin: "Imuruk Basin" #
+ imuruk_lake: "Imuruk Lake" #
+ kachemak: "Niqnalchint" #
+ kenai: "Kenaitze" #
+ dgheyaytnu: "Eklutna" #
+ k_enakatnu: "K'enakatnu" #
+ tyonek: "Tyonek" #
+ iliamna: "Iliamna" #
+ susitna: "Susitna" #
+ dena_ina_uplands: "Dena'ina Uplands" #
+ chuathbaluk: "Chuathbaluk" #
+ qipcarpak: "Qipcarpak" #
+ tovisq_ol: "Tovisq ol" #
+ digenegh: "Digenegh" #
+ deloy_ges: "Deloy'ges" #
+ deloy_chet: "Deloy'chet" #
+ deg_xit_an_forest: "Deg'xit'an Forest" #
+ grayling: "Sixno' Xidakagg" #
+ kaltag: "Ggaal Doh" #
+ koyukuk: "Meneelghaadze' T'oh" #
+ ruby: "Tl'aa'ologhe" #
+ birches: "Hochandochtla" #
+ yukonikhotana: "Yukonikhotana" #
+ koyukuk_forest: "Koyukuk Forest" #
+ koyukon_forest: "Koyukon Forest" #
+ grant_creek: "Tuklukyet" #
+ tanana: "Hohudodetlaatl Denh" #
+ rampart: "Dleł Taaneets" #
+ allakaket: "Aalaa Kkaakk'et" #
+ beaver: "Ts'aahudaaneekk'onh" #
+ manley: "Too Naaleł Denh" #
+ minto: "Menhti" #
+ nenana: "Nina Noʼ" #
+ chena: "Ch'eno'" #
+ salcha: "Sol Chaget" #
+ tanana_forest: "Tanana Forest" #
+ paxson: "Tsiis Tl'edze' Caegge" #
+ kahiltna: "Kahiltna" #
+ slana: "Sti'ana'" #
+ anderson: "Toklat" #
+ denali: "Denali" #
+ cantwell: "Yidateni Na'in" #
+ kantishna: "Kantishna" #
+ alaska_range: "Alaska Range" #
+ deltana: "Deltana" #
+ goodpaster: "Tok" #
+ gakona: "Ggax Kuna" #
+ klutina: "Tl'atii Na'" #
+ chitina: "Tsedi Na'" #
+ mendetna: "Bendilna'" #
+ matanuska: "Ts'itonhna'" #
+ atnatuu: "Atna'tuu" #
+ chugach_mtns: "Chugach Mountains" #
+ wrangell_mtns: "Wrangell Mountains" #
+ ahtna_lake: "Ahtna Lake" #
+ tanacross: "Taats'altey" #
+ tetlin: "Teełay" #
+ northway: "K'ehtthiign" #
+ sixtymile: "Khel Dëk" #
+ nabesna_forest: "Nabesna Forest" #
+ nuurvik: "Nuurvik" #
+ uataaq: "Uataaq" #
+ kivualinagmut: "Kivualinagmut" #
+ uivvak: "Uivvak" #
+ kali: "Kali" #
+ kugmiut_uplands: "Kugmiut Uplands" #
+ selawik_lake: "Selawik Lake" #
+ gwazhal_mountains: "Gwazhał Mountains" #
+ yukon_flats: "Yukon Flats" #
+ gwazhal_hills: "Gwazhal Hills" #
+ kobuk: "Kobuk" #
+ noatak: "Noatak" #
+ utqiagvik: "Utqiagvik" #
+ kluane: "Lù'àn Män Ku Dän" #
+ kwachal: "Kwächä̀l kwächʼǟn" #
+ asheyi: "Äshèyi kwächʼǟn" #
+ ta_an: "Ta'an Kwäch'än" #
+ dezadeash_trail: "Dezadeash Trail" #
+ chilkootg_trail: "Chilkootg Trail" #
+ kynocks_forest: "Kynocks Forest" #
+ shushtone_forest: "Shushtone Forest" #
+ kluane_lake: "Lake Kluane" #
+ aishihik_lake: "Lake Aishihik" #
+ lake_laberge: "Tàa'an Män" #
+ dezadeash_lake: "Lake Dezadeash" #
+ white_horse: "White Horse" #
+ carmacks: "Tagé Cho Hudän" #
+ hucha_hudan: "Hućha Hudän" #
+ donjek: "Donjek" #
+ dan_ki_forest: "Dan'ki Forest" #
+ upper_yukon: "Chu Kon'Dëk" #
+ klondike: "Tr'on'Dëk" #
+ bonanza: "Gàh Dëk" #
+ mayo: "Na-Cho Nyäk Dun" #
+ na_choo_ndek: "Nä`chòo ndek" #
+ haen_uplands: "Haen Uplands" #
+ pelly_faro: "Pelly Faro" #
+ pelly_river: "Ts'ekínyäk Chú" #
+ ross_river: "Ross River" #
+ tuchitua: "Tuchitua" #
+ kaska_forest: "Kaska Forest" #
+ mackenzie_mtns: "Mackenzie Mountains" #
+ wha_ti: "Wha'Tì" #
+ game_ti: "Gamè'Tì" #
+ wekwee_ti: "Wekweè'Tì" #
+ hottah_ti: "Hottah'Tì" #
+ tlicho_uplands: "Tlicho Uplands" #
+ rae_lakes: "Rae Lakes" #
+ hottah_lake: "Hottah Lake" #
+ snare_lakes: "Snare Lakes" #
+ wekweeti_lake: "Wekweeti Lake" #
+ deline: "Deline" #
+ mahony: "Mahony" #
+ sahoyue: "Sahoyue" #
+ turili: "Turili" #
+ kwita_tla: "Kwita'tla" #
+ sahtu_uplands: "Sahtu Uplands" #
+ turili_uplands: "Turili Uplands" #
+ keller_lake: "Keller Lake" #
+ blackwater_lake: "Blackwater Lake" #
+ marten_lakes: "Marten Lakes" #
+ tugacho: "Tugacho" #
+ edaula: "Edaula" #
+ ehdacho: "Ehdacho" #
+ tirato: "Tirato" #
+ colville: "K'áhbamítúé" #
+ horton_uplands: "Horton Uplands" #
+ mackenzie_uplands: "Mackenzie Uplands" #
+ colville_lakes: "Colville Lakes" #
+ sahtu_lake: "Sathú" #
+ good_hope: "K'asho Got'ine" #
+ norman_wells: "Tłegóhłi" #
+ tuyetah: "Ts'ude'hlitine" #
+ tulita: "Tulita" #
+ blackwater: "Blackwater" #
+ qurliqtuq: "Qurliqtuq" #
+ kogluktok: "Kogluktok" #
+ kamut: "Kamut" #
+ nunavut_uplands: "Nunavut Uplands" #
+ nunavut_lakes: "Nunavut Lakes" #
+ mackenzie: "Mackenzie" #
+ tsiigehtchik: "Tsiigehtchik" #
+ aklaviq: "Aklaviq" #
+ inuviq: "Inuviq" #
+ tuktoyukiuq: "Tuktoyukiuq" #
+ inuvialuit_uplands: "Inuvialuit Uplands" #
+ inuit_lakes: "Inuit Lakes" #
+ circle: "Danzhit Khànlai" #
+ venetie: "Viihtaii" #
+ birch_creek: "Denduu" #
+ chalkyitsik: "Jałgiitsik" #
+ eagle: "Tthee T'äwdlenn" #
+ central_forest: "Central Forest" #
+ chandalar_forest: "Chandalar Forest" #
+ gwichin_uplands: "Gwich'in Uplands" #
+ ulkatchot_en: "Ulkatchot'en" #
+ nazkot_en: "Nazkot'en" #
+ lhoosk_uzt_en: "Lhoosk'uzt'en" #
+ saik_uz: "Saik'uz" #
+ cheslattat_en: "Cheslattat'en" #
+ nechakot_en: "Nechakot'en" #
+ lheidlit_en: "Lheidlit'en" #
+ nat_oot_en: "Nat'oot'en" #
+ nadleh_whuten: "Nadleh'whuten" #
+ yekooche: "Yekooche" #
+ nak_azdlit_en: "Nak'azdlit'en" #
+ tl_azt_en: "Tl'azt'en" #
+ khelhghubunt_en: "Khelhghubunt'en" #
+ a_taw_bun_kut_en: "A'taw'bun'kut'en" #
+ nidabun: "Nidabun" #
+ nadlehbun: "Nadlehbun" #
+ burns_lake: "Burns Lake" #
+ na_taw_bun_kut: "Na'taw'bun'kut" #
+ nak_albun: "Nak'albun" #
+ lake_pinchi: "Lake Pinchi" #
+ lake_terreron: "Lake Terreron" #
+ dzindlat_bun: "Dzindlat'bun" #
+ khelhghubun: "Khelhghubun" #
+ nadleht_en: "Nadleht en" #
+ goat_creek: "Goat Creek" #
+ lanezi: "Lanezi" #
+ crescent_spur: "Cescent Spur" #
+ willmore: "Willmore" #
+ hutton: "Hutton" #
+ dakelh_range: "Dakelh Range" #
+ ts_il_kaz_koh: "Ts'il'kaz'koh" #
+ witset: "Witset" #
+ hagwilget: "Hagwilget" #
+ skin_tyee: "Skin'tyee" #
+ nee_tahi_buhn: "Nee'tahi'buhn" #
+ wet_suwet_en: "Wet'suwet'en" #
+ sguuxs: "Sgüüxs" #
+ kwadacha: "Kwadacha" #
+ thutade: "Thutade" #
+ tse_khene: "Tse'khene" #
+ takla: "Takla" #
+ sekani_forest: "Sekani Forest" #
+ hominka: "Hominka" #
+ ingenika: "Ingenika" #
+ mesilinka: "Mesilinka" #
+ yutuwichan: "Yutuwichan" #
+ tsekani: "Tsekani" #
+ williston: "Williston" #
+ unjegah: "Unjegah" #
+ tsa_tinne: "Tsa'tinne" #
+ chinchaga: "Chinchaga" #
+ beatton: "Beatton" #
+ beaver_forest: "Beaver Forest" #
+ beaver_plain: "Beaver Plains" #
+ southern_plains: "Southern Plains" #
+ tsay_keh: "Tsay'keh" #
+ tyagacho: "Tyagacho" #
+ ozanna: "Ozanna" #
+ tsay_iona: "Tsay'iona" #
+ teslin_trail: "Teslin Trail" #
+ kechika_trail: "Kechika Trail" #
+ kahntah_trail: "Kahntah Trail" #
+ cassiar_mountains: "Cassiar Mountains" #
+ omineca_mountains: "Omineca Mountains" #
+ k_alii_xkalaan: "K'alii'xkalaan" #
+ chiyone: "Chiyone" #
+ tses_kiya_trail: "Tses'kiya Trail" #
+ ediziza_trail: "Ediziza Trail" #
+ kinaskan_trail: "Kinaskan Trail" #
+ ediziza_forest: "Ediziza Forest" #
+ spatsizi_forest: "Spatsizi Forest" #
+ tahltan_forest: "Tahltan Forest" #
+ ford_liard: "Acho Dene Koe" #
+ nahanni: "Nah'a Dehé Dene" #
+ fort_simpson: "Łı́ı́dlii Kúé" #
+ jean_marie_river: "Tthets'ék'ehdéli" #
+ wrigley: "Pehdzeh Ki" #
+ dehcho_plains: "Dehcho Plains" #
+ dehcho_uplands: "Dehcho Uplands" #
+ dehcho_range: "Dehcho Range" #
+ trout_lake: "Trout Lake" #
+ moresby_coast: "Moresby Coast" #
+ kiusta_point: "Kiusta Point" #
+ masset_inlet: "Masset Inlet" #
+ lax_kw_alaams: "Lax'kw'alaams" #
+ metlakatla_sound: "Metlakatla Sound" #
+ alexander_point: "Alexander Point" #
+ east_pacific_high_sea50: "Eastern Pacific High Sea" #
+ east_pacific_high_sea52: "Eastern Pacific High Sea" #
+ keku_strait: "Keku Strait" #
+ stephens_passage: "Stephens Passage" #
+ funter_bay: "Funter Bay" #
+ yakobi_coast: "Yakobi Coast" #
+ lituya_bay: "Lituya Bay" #
+ yakutat_bay: "Yakutat Bay" #
+ galyax_coast: "Galyax Coast" #
+ east_pacific_high_sea53: "Eastern Pacific High Sea" #
+ north_pacific_high_sea2: "North Pacific High Sea" #
+ hinchinbrook_bay: "Hinchinbrook Bay" #
+ middleton_island: "Middleton Island" #
+ kenai_fjords: "Kenai Fjords" #
+ ursus_cove: "Ursus Cove" #
+ marmot_bay: "Marmot Bay" #
+ larsen_bay: "Larsen Bay" #
+ chirikof_island: "Chirikof Island" #
+ north_pacific_high_sea5: "North Pacific High Sea" #
+ north_pacific_high_sea6: "North Pacific High Sea" #
+ north_pacific_high_sea8: "North Pacific High Sea" #
+ chiginagak_fjords: "Chiginagak Fjords" #
+ unga_sea: "Unga Sea" #
+ sanak_island: "Sanak Island" #
+ derby_point: "Derby Point" #
+ north_creek_coast: "North Creek Coast" #
+ herendeen_bay: "Herendeen Bay" #
+ kvichak_bay: "Kvichak Bay" #
+ north_pacific_high_sea17: "North Pacific High Sea" #
+ north_pacific_high_sea19: "North Pacific High Sea" #
+ north_pacific_high_sea11: "North Pacific High Sea" #
+ north_pacific_high_sea13: "North Pacific High Sea" #
+ north_pacific_high_sea15: "North Pacific High Sea" #
+ kagamil_sland: "Kagamil Island" #
+ seguam_coast1: "Seguam Coast" #
+ gareloi_island: "Gareloi Island" #
+ amchitka_island2: "Amchitka Island" #
+ agattu_island1: "Agattu Island" #
+ north_pacific_high_sea56: "North Pacific High Sea" #
+ north_pacific_high_sea59: "North Pacific High Sea" #
+ north_pacific_high_sea63: "North Pacific High Sea" #
+ north_pacific_high_sea64: "North Pacific High Sea" #
+ north_pacific_high_sea67: "North Pacific High Sea" #
+ north_pacific_high_sea69: "North Pacific High Sea" #
+ north_pacific_high_sea72: "North Pacific High Sea" #
+ north_pacific_high_sea74: "North Pacific High Sea" #
+ north_pacific_high_sea75: "North Pacific High Sea" #
+ north_pacific_high_sea78: "North Pacific High Sea" #
+ togiak_harbour: "Togiak Harbour" #
+ kwigillinok_coast: "Kwigillinok Coast" #
+ kinak_bay: "Kinak Bay" #
+ dooksook_harbour: "Dooksook Harbour" #
+ scammon_bay: "Scammon Bay" #
+ nunam_iqua_cove: "Nunam Iqua Cove" #
+ pastol_bay: "Pastol Bay" #
+ north_pacific_high_sea22: "North Pacific High Sea" #
+ north_pacific_high_sea23: "North Pacific High Sea" #
+ north_pacific_high_sea37: "North Pacific High Sea" #
+ norton_bay: "Norton Bay" #
+ nome_coast: "Nome Coast" #
+ clarence_gulf: "Clarence Gulf" #
+ shishmarev_inlet: "Shishmarev Inlet" #
+ north_pacific_high_sea40: "North Pacific High Sea" #
+ north_pacific_high_sea42: "North Pacific High Sea" #
+ hotham_inlet: "Hotham Inlet" #
+ krusenstern_lagoon: "Krusenstern Lagoon" #
+ point_hope: "Point Hope" #
+ wevok_point: "Wevok Point" #
+ amiq_coast5: "Amiq Coast" #
+ stmatthew_coast3: "St Matthew Coast" #
+ kialegak_cape: "Kialegak Cape" #
+ sevuokuk_point: "Sevuokuk Point" #
+ kongkok_bay: "Kongkok Bay" #
+ north_pacific_high_sea35: "North Pacific High Sea" #
+ north_pacific_high_sea24: "North Pacific High Sea" #
+ north_pacific_high_sea27: "North Pacific High Sea" #
+ north_pacific_high_sea25: "North Pacific High Sea" #
+ north_pacific_high_sea29: "North Pacific High Sea" #
+ north_pacific_high_sea31: "North Pacific High Sea" #
+ north_pacific_high_sea44: "North Pacific High Sea" #
+ north_pacific_high_sea47: "North Pacific High Sea" #
+ north_pacific_high_sea52: "North Pacific High Sea" #
+ north_pacific_high_sea50: "North Pacific High Sea" #
+ north_pacific_high_sea55: "North Pacific High Sea" #
+ payomkawichum: "Payomkawichum" #
+ kukamonga: "Kukamonga" #
+ yaanga: "Yaanga" #
+ ventureno: "Ventureno" #
+ ineseno: "Ineseno" #
+ pimuu_nga: "Pimuu Nga" #
+ channel_islands: "Channel Islands" #
+ chumash_ranges: "Chumash Range" #
+ tepotahal: "Tepotahal" #
+ mutsun: "Mutsun" #
+ awaswas: "Awaswas" #
+ chochenyo: "Chochenyo" #
+ tawalimni: "Tawalimni" #
+ chawchila: "Chawchila" #
+ yashikumne: "Yashikumne" #
+ noptinte: "Noptinte" #
+ gashowu: "Gashowu" #
+ tachi: "Tachi" #
+ pitkachi: "Pitkachi" #
+ koyeti: "Koyeti" #
+ yawdanshi: "Yawdanshi" #
+ tulumni: "Tulumni" #
+ hometwoli: "Hometwoli" #
+ sierra_nevada_s: "Sierra Nevada" #
+ tulare_lake: "Tulare Lake" #
+ mewuk: "Mewuk" #
+ onasatis: "Onasatis" #
+ kashaya: "Kashaya" #
+ kulanapan: "Kulanapan" #
+ ukomno_om: "Ukomno Om" #
+ tlokyhan: "Tlokyhan" #
+ koloma: "Koloma" #
+ nochu_ci: "Nochu Ci" #
+ tuolomne: "Tuolomne" #
+ mokelumne: "Mokelumne" #
+ kasumne: "Kasumne" #
+ sierra_nevada_c: "Sierra Nevada" #
+ suisin: "Suisin" #
+ korusi: "Korusi" #
+ yo_loy: "Yo Loy" #
+ hill_nomlaki: "Hill Nomlaki" #
+ river_nomlaki: "River Nomlaki" #
+ nomlaki_range: "Nomlaki Range" #
+ koyoongkawi: "Koyoongkawi" #
+ mechoopda: "Mechoopda" #
+ maidu: "Maidu" #
+ yupu: "Yupu" #
+ nisenan: "Nisenan" #
+ konkow: "Konkow" #
+ yahi: "Yahi" #
+ mountain_maidu: "Mountain Maidu" #
+ atsugewi: "Atsugewi" #
+ yana: "Yana" #
+ chumawi_range: "Chumawi Range" #
+ sinkyone: "Sinkyone" #
+ mattole: "Mattole" #
+ nongatl: "Nongatl" #
+ jaroujiji: "Jaroujiji" #
+ wailaki: "Wailaki" #
+ hoilkut: "Hoilkut" #
+ oohl: "Oohl" #
+ chidkhu: "Chidkhu" #
+ tututni: "Tututni" #
+ ko_kwel: "Ko Kwel" #
+ natinixwe: "Natinixwe" #
+ amblu_kai: "Amblu Kai" #
+ tsnungwe: "Tsnungwe" #
+ wintu: "Wintu" #
+ okwanuchu: "Okwanuchu" #
+ waika: "Waika" #
+ siskiyou: "Siskiyou" #
+ karuk: "Karuk" #
+ yulalona: "Yulalona" #
+ tak_elam: "Tak Elam" #
+ etnemitane: "Etnemitane" #
+ klamath_range: "Klamath Range" #
+ achomawi: "Achomawi" #
+ tollin: "Tollin" #
+ mbosaksawaas: "Mbosaksawaas" #
+ ewksikni: "Ewksikni" #
+ modokni: "Modokni" #
+ iviatim: "Iviatim" #
+ kitanemuk: "Kitanemuk" #
+ taaqtam: "Taaqtam" #
+ vanyume: "Vanyume" #
+ kawaiisu: "Kawaiisu" #
+ tubatulabam: "Tubatulabam" #
+ timbisha: "Timbisha" #
+ kuzedika: "Kuzedika" #
+ fish_lake: "Fish Lake" #
+ inyo_mountains: "Inyo Mountains" #
+ tumpisa: "Tümpisa" #
+ havasu: "Havasu" #
+ ivanpah: "Ivanpah" #
+ pah_rimpi: "Pah rimpi" #
+ moapa: "Moapa" #
+ sebit: "Sebit" #
+ amargosa: "Amargosa" #
+ nuwuvi_desert: "Nuwuvi Desert" #
+ parrusit: "Parrusit" #
+ uinkaret: "Uinkaret" #
+ kaibab: "Kaibab" #
+ quitchupah: "Quitchupah" #
+ kaiparowit: "Kaiparowit" #
+ nuwuvi_wasteland: "Nuwuvi" #
+ koosharem: "Koosharem" #
+ pierruiat: "Pierruiat" #
+ tooele: "Tooele" #
+ unkagarit: "Unkagarit" #
+ pio_gwut: "Pio Gwut" #
+ seuhubeogoi: "Seuhubeogoi" #
+ pagayuat: "Pagayuat" #
+ salt_lake: "Salt Lake" #
+ kawich: "Kawich" #
+ akamba: "Akamba" #
+ tsaiduka: "Tsaiduka" #
+ kutsipiuti: "Kutsipiuti" #
+ newe_wasteland: "Newe" #
+ makuhadokado: "Makuhadokado" #
+ sawawaktodo: "Sawawaktodo" #
+ kupadokado: "Kupadokado" #
+ winnemucca: "Winnemucca" #
+ humbokado: "Humbokado" #
+ atsa_kudok_wa: "Atsa Kudok Wa" #
+ tipatikka: "Tipatikka" #
+ tsogwiyuyugi: "Tsogwiyuyugi" #
+ kuyatikka: "Kuyatikka" #
+ mahaguatikka: "Mahaguatikka" #
+ watatikka: "Watatikka" #
+ tosa_konoki: "Tosa Konoki" #
+ tanalelti: "Tanalelti" #
+ powalu: "Powalu" #
+ toedokado: "Toedokado" #
+ tovusidokado: "Tovusidokado" #
+ waitikka: "Waitikka" #
+ reno: "Reno" #
+ toyabe: "Toyabe" #
+ agai_ticutta: "Agai Ticutta" #
+ koop_ticutta: "Koop Ticutta" #
+ cui_yui_ticutta: "Cui yui Ticutta" #
+ kamu_ticutta: "Kamu Ticutta" #
+ panina_ticutta: "Panina Ticutta" #
+ tsitsiadi: "Tsitsiadi" #
+ gidi_tika: "Gidi Tika" #
+ malheur: "Malheur" #
+ wadadokado: "Wadadokado" #
+ tagotoka: "Tagotoka" #
+ moadokado: "Moadokado" #
+ yakwahnim_paa: "Yakwahnim'paa" #
+ panati: "Panati" #
+ tipanuk: "Tipanuk" #
+ king_hill: "King hill" #
+ yahandeka: "Yahandeka" #
+ toponisw: "Toponisw" #
+ seneca: "Seneca" #
+ arock: "Arock" #
+ juntura: "Juntura" #
+ nyssa: "Nyssa" #
+ payette: "Payette" #
+ yam_pah_pa: "Yam Pah Pa" #
+ buenaventura: "Buenaventura" #
+ morgan: "Morgan" #
+ yoov_we_teuh: "Yoov We Teuh" #
+ so_so_goiw: "So So Goiw" #
+ randolph: "Randolph" #
+ boa_ogoi: "Boa Ogoi" #
+ yuttahih: "Yuttahih" #
+ bear_river_w: "Bear River" #
+ bear_river_e: "Bear River" #
+ hazelton: "Hazelton" #
+ richfield: "Richfield" #
+ pohoko_ikkatee: "Pohoko Ikkatee" #
+ wapi: "Wapi" #
+ dembimbosaage: "Dembimbosaage" #
+ jefferson: "Jefferson" #
+ lemhi: "Lemhi" #
+ pohogwe: "Pohogwe" #
+ koa_aga_itoka: "Koa-Aga-Itoka" #
+ shohopanaiti: "Shohopanaiti" #
+ yambadika: "Yambadika" #
+ waradika: "Waradika" #
+ bannock_range: "Bannock Range" #
+ sahpeech: "Sahpeech" #
+ yoowetum: "Yoowetum" #
+ pahva_nits: "Pahva Nits" #
+ cumumba: "Cumumba" #
+ toompahnahwach: "Toompahnahwach" #
+ nuchiu_range: "Nuchiu Range" #
+ sweetwater: "Sweetwater" #
+ guchuntikka: "Guchuntikka" #
+ tondzaosha: "Tondzaosha" #
+ kuccuntikka: "Kuccuntikka" #
+ teewinot: "Teewinot" #
+ grand_teton: "Grand Teton" #
+ shoshonne: "Shoshonne" #
+ leadore: "Leadore" #
+ kamodika: "Kamodika" #
+ doyahinee: "Doyahinee" #
+ red_rock: "Red Rock" #
+ agaidika: "Agaidika" #
+ elkhorn: "Elkhorn" #
+ penointikara: "Penointikara" #
+ agaidika_range: "Agaidika Range" #
+ ruby_valley: "Ruby Valley" #
+ beaverhead: "Beaverhead" #
+ tukudika: "Tukudika" #
+ mitse_adazi: "Mitse Adazi" #
+ fremont: "Fremont" #
+ gazzllatin: "Gazzllatin" #
+ ashalaho: "Ashalaho" #
+ dukundeka: "Dukundeka" #
+ kahpota: "Kahpota" #
+ moghwachi: "Moghwachi" #
+ taviwac: "Taviwac" #
+ na_isha: "Na isha" #
+ arapaho: "Arapaho" #
+ colorado: "Colorado" #
+ moanunts: "Moanunts" #
+ winimuc: "Winimuc" #
+ to_aheedliinii: "To'aheedliinii" #
+ wasatch: "Wasatch" #
+ uncompaghre: "Uncompaghre" #
+ nuchiu: "Nuchiu" #
+ tavaputs: "Tavaputs" #
+ uintah: "Uintah" #
+ taveewach: "Taveewach" #
+ pahdteeahnooch: "Pahdteeahnooch" #
+ yapudttka: "Yapudttka" #
+ c_nuchiu_range: "Nuchiu Range" #
+ ouray: "Ouray" #
+ moffat: "Moffat" #
+ routt: "Routt" #
+ dagett: "Dagett" #
+ savery: "Savery" #
+ basawunena: "Basawunena" #
+ bridger: "Bridger" #
+ rock_springs: "Sííyoho'nookéí'i" #
+ flaming_gorge: "Flaming Gorge" #
+ sinclair: "Héso'oobóóne'" #
+ point_of_rocks: "Point of Rocks" #
+ wamsutter: "Wamsutter" #
+ milk_creek: "Milk Creek" #
+ east_yuttahih: "Yuttahih" #
+ pushroot: "Héetínowúnoo'óó'" #
+ split_rock: "Kooh'oúúte'" #
+ washakie: "Washakie" #
+ hinono_ei: "Hinono'ei" #
+ moneta: "Moneta" #
+ grass_creek: "Héetíii'e'éiite" #
+ hot_springs: "Xonoúú'oo'" #
+ quuiich: "Quuiich" #
+ yaquina: "Yaquina" #Yaquina/Newport, The name is retained for the Bay, but the big city in the area is called Newport
+ umpqua: "Umpqua" #
+ kalapuya: "Kalapuya" #
+ south_molala: "South Molala" #
+ giiwas: "Giiwas" #
+ meli_lema: "Meli lema" #
+ tukspush: "Tukspush" #
+ south_cascade: "Cascade" #
+ central_cascade: "Cascade" #
+ tillamook: "Tillamook" #Tillamook, Still a settlement
+ atfalati: "Atfalati" #Tualatin, Direct translation, there are other settlements in the area but this is the one that should be retained, Salem could be used.
+ chinook: "Chinook" #Astoria, Should only be used by Americans
+ multnomah: "Multnomah" #Portland, Portland was only chosen as the name in 1844 following a coin toss. Should NOT be used.
+ watlala: "Watlala" #Oregon City, Technically Gresham is here too but it was settled after the timeframe, also technically named after the group in Skamania but picking more prominent sites here
+ stlpulmsh: "Stlpulmsh" #
+ chehalis: "Chehalis" #
+ chala_at: "Chala'at" #
+ sklallam: "S'Klallam" #
+ twana: "Twana" #
+ makah: "Qwidichcha'atx" #
+ tayxlama: "Tayxlama" #
+ takspaslama: "Takspaslama" #
+ waluulapam: "Waluulapam" #
+ umatilla: "Umatilla" #
+ liksiyu: "Liksiyu" #
+ wishram: "Wishram" #
+ klikitat: "Klikitat" #
+ mamachatpam: "Mamachatpam" #
+ pa_kiut_lema: "Pa'kiut'lema" #
+ wanapum: "Wanapum" #
+ north_cascade: "Cascade" #
+ silver_lake: "Silver Lake" #
+ chewaucan: "Chewaucan" #
+ kidutokado: "Kidutokado" #
+ tinainu: "Tinainu" #
+ crook: "Crook" #
+ grant: "Grant" #
+ towarnehiooks: "Towarnehiooks" #
+ wallowa: "Wallowa" #
+ alpowna: "Alpowna" #
+ hinsepu: "Hinsepu" #
+ kamiahpu: "Kamiahpu" #
+ asahkaiowaipu: "Asahkaiowaipu" #
+ lamatama: "Lamatama" #
+ iyeesnime: "Iyeesnime" #
+ bitterroot: "Bitterrrot" #
+ deer_lodge: "Deer Lodge" #
+ granite: "Granite" #
+ missoula: "Missoula" #
+ turah: "Turah" #
+ selish_range_s: "Selish Range" #
+ saleesh: "Selish" #
+ niarada: "Niarada" #
+ bad_rock: "Bad Rock" #
+ epixyu: "Epixyu" #
+ hungry_horse: "Hungry HGorse" #
+ selish_range_n: "Selish Range" #
+ kaniksu: "Kaniksu" #
+ skitswish: "Skitswich" #
+ benewah: "Benewah" #
+ kalispel: "Kalispel" #
+ qlispe: "Qlispe" #
+ sletewsi: "Sletewsi" #
+ aqanqmi: "aq'anqmi" #
+ yaqan_nukiy: "Yaqan Nu'kyi" #
+ akinkumasnuqit: "akinkum asnuq'it" #
+ aq_am: "aq'am" #
+ akisq_nuk: "akisq'nuk" #
+ kananmituk: "Kananmituk" #
+ sw_ktunaxa_ranges: "Ktunaxa Range" #
+ se_ktunaxa_ranges: "Ktunaxa Range" #
+ ce_ktunaxa_ranges: "Ktunaxa Range" #
+ akinka_nup: "akinka'nuk" #
+ aqyam_nup: "aqyam'up" #
+ ainu_nik: "ainu'nik" #
+ ktunwakanmituk: "Ktunwakanmituk" #
+ aknuq_uk: "aknuq'uk" #
+ yakyu_ki: "Yakyu'ki" #
+ ne_ktunaxa_ranges: "Ktunaxa Range" #
+ nc_ktunaxa_ranges: "Ktunaxa Range" #
+ cw_ktunaxa_ranges: "Ktunaxa Range" #
+ puyallup: "Puyallup" #
+ kittikas: "Kittikas" #
+ duwamish: "Duwamish" #
+ snohomish: "Snohomish" #
+ skagit: "Skagit" #
+ nisqually: "Nisqually" #
+ nooksack: "Nuxwsa'aq" #Langley
+ lhaq_temish: "Lhaq'temish" #
+ sto_lo: "Sto'lo" #Chilliwack
+ sts_ailes: "Sts'ailes" #
+ whonnock: "Whonnock" #Vancouver
+ katzie: "Katzie" #
+ squamish: "Sko-ko-mish" #Squamish
+ sechelt: "Shishalh" #
+ sliammon: "Tla'amin" #
+ klahoose: "Kla'oos" #
+ homalco: "Xwémalhkwu" #
+ strathacona_range: "Strathacona Range" #
+ alpo_wa: "Alpo'wa" #
+ pa_lus_sa: "Pa'lus'sa" #
+ nkee_us: "Nkee'us" #
+ stata_ketux: "Stata'ketux" #
+ scqescilni: "Scqescilni" #
+ snt_t_ulix: "Snt't'ulix" #
+ wenatchi: "Wenatchi" #
+ chelan: "Chelan" #
+ osoyoos: "Osoyoos" #
+ similkameen: "Similkameen" #
+ okanagan: "Okanagan" #
+ spaxomin: "Spaxomin" #
+ n_pooh_le: "N'pooh-le" #
+ enselxcin: "Enselxcin" #
+ swarakxen: "Swarakxen" #
+ ntiltxitk: "Ntiltxitk" #
+ stxtilusten: "Stxtilusten" #
+ snk_mip: "Snk'mip" #
+ q_espiea: "Q'espiea" #
+ illecillewaet: "Illecillewaet" #
+ sinixt_range: "Sinixt Mountains" #
+ skuppah: "Skuppah" #
+ nlaka_pamux: "Nlaka'pamux" #
+ scw_exmx: "Scw'exmx" #
+ st_at_imcets: "St'at'imcets" #
+ tsala_ihmec: "Tsala'ihmec" #
+ leel_watr_ool: "Leel-watr-ool" #
+ thompson_mtns: "Thompson Mountains" #
+ tsi_del_del: "Tsi'del'del" #
+ tl_etinqox_t_in: "Tls'etinqox" #
+ tl_esqox: "Tls'esqox" #
+ yunesit_in: "Yunesit'in" #
+ elhdaqox_t_in: "elhdaqox't'in" #
+ chilcotin_mtns: "Chilcotin Mountains" #
+ sk_atsin: "Sk'atsin" #
+ skitsetsen: "Skitsetsen" #
+ st_uxwtews: "St'uxwtews" #
+ splatsin: "Splatsin" #
+ tk_emlups: "Tk'emlups" #
+ qw_ewt: "Qw'ewt" #
+ stil_qw: "Stil'qw" #
+ s_shuswap_mtns: "South Shuswap Mountains" #
+ esk_el: "Esk'el" #
+ stswecen_c: "Stswecen'c" #
+ llenllenet_ten: "Llenllenet'ten" #
+ sexqeltqin: "Sexqeltqin" #
+ simpcw: "Simpcw" #
+ xat_sull: "Xat'sull" #
+ n_shuswap_mtns: "North Shuswap Mountains" #
+ mica_creek: "Mica Creek" #
+ kinbasket: "Kinbasket" #
+ karluk_peak: "Karluk Peak" #
+ moose_river: "Moose River" #
+ monashee: "Monashee" #
+ cariboo: "Cariboo" #
+ e_shuswap_mtns: "East Shuswap Mountains" #
+ orange_cove: "Orange Cove" #
+ los_angeles_bay: "Los Angeles Bay" #
+ san_catalina_island: "San Catalina Island" #
+ south_canal: "South Canal" #
+ north_canal: "North Canal" #
+ santa_barbara_coast: "Santa Barbara Coast" #
+ east_pacific_high_sea30: "Eastern Pacific High Sea" #
+ east_pacific_high_sea33: "Eastern Pacific High Sea" #
+ east_pacific_high_sea34: "Eastern Pacific High Sea" #
+ monterey_coast: "Monterey Coast" #
+ santa_cruz_cove: "Santa Cruz Cove" #
+ elkhorn_bay: "Elkhorn Bay" #
+ san_francisco_bay: "San Francisco Bay" #
+ marin_coast: "Marin Coast" #
+ sonoma_coast: "Sonoma Coast" #
+ east_pacific_high_sea35: "Eastern Pacific High Sea" #
+ east_pacific_high_sea36: "Eastern Pacific High Sea" #
+ east_pacific_high_sea37: "Eastern Pacific High Sea" #
+ mendocino_cape: "Mendocino Cape" #
+ lost_coast: "Lost Coast" #
+ humboldty_bay: "Humboldty Bay" #
+ shleter_cove: "Shleter Cove" #
+ nesika_beach: "Nesika Beach" #
+ coos_bay: "Coos Bay" #
+ east_pacific_high_sea38: "Eastern Pacific High Sea" #
+ east_pacific_high_sea39: "Eastern Pacific High Sea" #
+ east_pacific_high_sea41: "Eastern Pacific High Sea" #
+ east_pacific_high_sea42: "Eastern Pacific High Sea" #
+ newport_cove: "Newport Cove" #
+ tillamook_bay: "Tillamook Bay" #
+ chinook_bay: "Chinook Bay" #
+ grays_harbour: "Grays Harbour" #
+ olympic_coast: "Olympic Coast" #
+ east_pacific_high_sea43: "Eastern Pacific High Sea" #
+ east_pacific_high_sea44: "Eastern Pacific High Sea" #
+ fuca_strait: "Fuca Strait" #
+ kitsap_bay: "Kitsap Bay" #
+ haro_strait: "Haro Strait" #
+ georgia_strait: "Georgia Strait" #
+ oyster_bay: "Oyster Bay" #
+ flattery_strait: "Flattery Strait" #
+ hot_springs_cove: "Hot Springs Cove" #
+ east_pacific_high_sea45: "Eastern Pacific High Sea" #
+ cheleset_coast: "Cheleset Cove" #
+ raft_cove: "Raft Cove" #
+ beaver_cove: "Beaver Cove" #
+ queen_charlotte_sound: "Queen Charlotte Sound" #
+ hakai_coast: "Hakai Coast" #
+ banks_coast: "Banks Coast" #
+ east_pacific_high_sea46: "Eastern Pacific High Sea" #
+ east_pacific_high_sea47: "Eastern Pacific High Sea" #
+ simiti: "Simiti" #
+ macaregua: "Macaregua" #
+ tora: "Tora" #
+ camacota: "Camacota" #
+ hacaritamas: "Hacaritamas" #
+ duitama: "Duitama" #
+ boiaca: "Boiaca" #
+ tama_mountains: "Tama Mountains" #
+ yariguies_mountains: "Yariguies Mountains" #
+ jurisdicciones_mountain: "Jurisdicciones Mountain" #
+ tauramena: "Tauramena" #
+ upia: "Upia" #
+ humadea: "Humadea" #
+ yopo: "Yopo" #
+ tame: "Tame" #
+ guadual: "Guadual" #
+ arauca: "Arauca" #
+ cubara: "Cubara" #
+ cocuy_mountains: "Cocuy Mountains" #
+ atanari: "Atanari" #
+ cumaribo: "Cumaribo" #
+ maracoa: "Maracoa" #
+ orocue: "Orocue" #
+ metica: "Metica" #
+ chayrama: "Chayrama" #
+ teyuna: "Teyuna" #
+ yaharo: "Yaharo" #
+ upar: "Upar" #
+ sicarate: "Sicarate" #
+ ariguani: "Ariguani" #
+ curumanao: "Curumanao" #
+ tayrona_mountains: "Tayrona Mountains" #
+ mompoj: "Mompoj" #
+ norosi: "Norosi" #
+ tamalameque: "Tamalameque" #
+ mahates: "Mahates" #
+ calamari: "Calamari" #
+ mocana: "Mocana" #
+ kamach: "Kamach" #
+ zarate: "Zarate" #
+ ayapel_swamp: "Ayapel Swamp" #
+ zapatosa_swamp: "Zapatosa Swamp" #
+ necocli: "Necocli" #
+ upper_sinu: "Upper Sinu" #
+ zenues: "Zenues" #
+ sinu: "Sinu" #
+ sincel: "Sinçel" #
+ one: "One" #
+ paramillo_jungle: "Paramillo Jungle" #
+ paramillo_mountains: "Paramillo Mountains" #
+ ichitki: "Ichitki" #
+ suchiimma: "Süchiimma" #
+ marakaaya: "Marakaaya" #
+ perija: "Perija" #
+ catatumbo: "Catatumbo" #
+ jauregui: "Jauregui" #
+ chitagaes: "Chitagaes" #
+ kukuta: "Kuku-ta" #
+ babichas: "Babichas" #
+ yukpa: "Yukpa" #
+ perija_mountains: "Perija Mountains" #
+ catatumbo_jungle: "Catatumbo Jungle" #
+ coro: "Coro" #
+ paraguana: "Paraguana" #
+ tucanca: "Tucanca" #
+ chama_venezuela: "Chama" #
+ arapuey: "Arapuey" #
+ mukas: "Mukas" #
+ cabimas: "Cabimas" #
+ capatarida: "Capatarida" #
+ merida_mountains: "Merida Mountains" #
+ aragua: "Aragua" #
+ tirgua: "Tirgua" #
+ cura: "Cura" #
+ caracas: "Caracas" #
+ batey: "Batey" #
+ onoto: "Onoto" #
+ tacarigua_lake: "Tacarigua Lake" #
+ carora: "Carora" #
+ barquisimeto: "Barquisimeto" #
+ yaracuy: "Yaracuy" #
+ gayon: "Gayon" #
+ nirgua: "Nirgua" #
+ gayon_mountains: "Gayon Mountains" #
+ guarico: "Guarico" #
+ guamontey: "Guamontey" #
+ ipire: "Ipire" #
+ guaquire: "Guaquire" #
+ cumanagoto: "Cumanagoto" #
+ cumana: "Cumana" #
+ paraguachoa: "Paraguachoa" #
+ turuepano: "Turuepano" #
+ araya: "Araya" #
+ karu_pana: "Karu Pana" #
+ cumanacoa: "Cumanacoa" #
+ lesser_antilles_wastelands: "Lesser Antilles" #
+ orinucu: "Orinucu" #
+ uyapari: "Uyapari" #
+ guanipa: "Guanipa" #
+ tucupita: "Tucupita" #
+ kalina: "Kali'na" #
+ maturin: "Maturin" #
+ anaco: "Anaco" #
+ orinoco_delta_jungle: "Orinoco Delta Jungle" #
+ kalina_jungle: "Kalina Jungle" #
+ monagua_jungle: "Monagua Jungle" #
+ caroni: "Caroni" #
+ parepona: "Parepona" #
+ aro: "Aro" #
+ kai_kara: "Kai Kara" #
+ cachamay: "Cachamay" #
+ tumeremo: "Tumeremo" #
+ kumarakapay: "Kumarakapay" #
+ macuxi: "Macuxi" #
+ ingariko: "Ingariko" #
+ takutu: "Takutu" #
+ mucajai: "Mucajai" #
+ apure: "Apure" #
+ guajobos: "Guajobos" #
+ arechuna: "Arechuna" #
+ sarare: "Sarare" #
+ suripa: "Suripa" #
+ caparo: "Caparo" #
+ tachira: "Tachira" #
+ cania: "Cania" #
+ guanare: "Guanare" #
+ guaritico: "Guaritico" #
+ barinas: "Barinas" #
+ tampacal: "Tampacal" #
+ hacarigua: "Hacarigua" #
+ tapo: "Tapo" #
+ andaki: "Andaki" #
+ chaira: "Chaira" #
+ caguan: "Caguan" #
+ papamane: "Papamane" #
+ guayupes: "Guayupes" #
+ ariari: "Ariari" #
+ guaviare: "Guaviare" #
+ mocoa: "Mocoa" #
+ guacharos_jungle: "Guacharos Jungle" #
+ tinigua_jungle: "Tinigua Jungle" #
+ pasca: "Pasca" #
+ timana: "Timana" #
+ purace: "Purace" #
+ otas: "Otas" #
+ coyaima: "Coyaima" #
+ yaporox: "Yaporox" #
+ quicuima: "Quicuima" #
+ leiva_mountains: "Leiva Mountains" #
+ norcacia_jungle: "Norcacia Jungle" #
+ suamox: "Suamox" #
+ leyva: "Leyva" #
+ chicaquicha: "Chicaquicha" #
+ choconta: "Choconta" #
+ chunsua: "Chunsua" #
+ caqueza: "Caqueza" #
+ funza: "Funza" #
+ bosa_colombia: "Bosa" #
+ tablazo_mountains: "Tablazo Mountains" #
+ chingaza_mountains: "Chingaza Mountains" #
+ sumapaz_maountains: "Sumapaz Mountains" #
+ chipata: "Chipata" #
+ yacupipizote: "Yacupipizote" #
+ ondaimas: "Ondaimas" #
+ paribari: "Paribari" #
+ guarinoes: "Guarinoes" #
+ colombayma: "Colombayma" #
+ guaduas: "Guaduas" #
+ tocaima: "Tocaima" #
+ mayaba: "Mayaba" #
+ noris: "Noris" #
+ sotachiro: "Sotachiro" #
+ yolombo: "Yolombo" #
+ nechi: "Nechi" #
+ pantagoras: "Pantagoras" #
+ cocorna: "Cocorna" #
+ guarzo: "Guarzo" #
+ aburra: "Aburra" #
+ santa_ines_mountains: "Santa Ines Mountains" #
+ iscuande: "Iscuande" #
+ narino: "Narino" #
+ tumaco: "Tumaco" #
+ tapaje: "Tapaje" #
+ hatunllacta: "Hatunllacta" #
+ inga: "Inga" #
+ patia: "Patia" #
+ central_mountain_range: "Central Mountain Range" #
+ nambue_jungle: "Nambue Jungle" #
+ pimempiro_mountains: "Pimempiro Mountains" #
+ caly: "Caly" #
+ buga: "Buga" #
+ caloto: "Caloto" #
+ micay: "Micay" #
+ timbiqui: "Timbiqui" #
+ yauto: "Yauto" #
+ munchique: "Munchique" #
+ cali_jungle: "Cali Jungle" #
+ cali_mountain: "Cali Mountain" #
+ naya_mountains: "Naya Mountains" #
+ munchique_mountains: "Munchique Mountains" #
+ napiu_jungle: "Napiu Jungle" #
+ vijes: "Vijes" #
+ sonso: "Sonso" #
+ gorrones: "Gorrones" #
+ tahamies: "Tahamies" #
+ cauroma: "Cauroma" #
+ umbra: "Umbra" #
+ otun: "Otun" #
+ tulua: "Tulua" #
+ cauca_jungle: "Cauca Jungle" #
+ calima_mountains: "Calima Mountains" #
+ baudo: "Baudo" #
+ choco: "Choco" #
+ quibdo: "Quibdo" #
+ gioro: "Gioro" #
+ tatama: "Tatama" #
+ noanama: "Noanama" #
+ tado_colombia: "Tado" #
+ novita: "Novita" #
+ torra_jungle: "Torra Jungle" #
+ tamana_mountains: "Tamana Mountains" #
+ acanti: "Acanti" #
+ curiche: "Curiche" #
+ kuna: "Kuna" #
+ murri: "Murri" #
+ catios: "Catios" #
+ bojaya: "Bojaya" #
+ amaga: "Amaga" #
+ xundabe: "Xundabe" #
+ ebejico: "Ebejico" #
+ choco_jungle: "Choco Jungle" #
+ murri_jungle: "Murri Jungle" #
+ frontino_mountains: "Frontino Mountains" #
+ bebaramau_jungle: "Bebaramau Jungle" #
+ ebejico_mountains: "Ebejico Mountains" #
+ citara_mountains: "Citara Mountains" #
+ concondia_mountain: "Concondia Mountain" #
+ guayana: "Guayana" #
+ waini: "Waini" #
+ essequibo: "Essequibo" #
+ demerara: "Demerara" #
+ berbice: "Berbice" #
+ tumatumari: "Tumatumari" #
+ neekeari: "Neekeari" #
+ essequibo_jungle: "Essequibo Jungle" #
+ witagron: "Witagron" #
+ paramaribo: "Paramaribo" #
+ pereru_tepu: "Pe'reru Tepu" #
+ ndyuka: "Ndyuka" #
+ iaremappo: "Iaremappo" #
+ kourou: "Kourou" #
+ cayenne: "Cayenne" #
+ palikur: "Palikur" #
+ guayana_jungle: "Guayana Jungle" #
+ guayana_coast: "Guayana Coast" #
+ essequibo_mouth: "Essequibo Mouth" #
+ demerara_coast: "Demerara Coast" #
+ coppename_mouth: "Coppename Mouth" #
+ paramaribo_mouth: "Paramaribo Mouth" #
+ maroni_mouth: "Maroni Mouth" #
+ iaremappo_coast: "Iaremappo Coast" #
+ western_atlantic_high_sea18: "Western Atlantic" #
+ western_atlantic_high_sea19: "Western Atlantic" #
+ western_atlantic_high_sea20: "Western Atlantic" #
+ marapanim: "Marapanim" #Maraparim
+ tupinamba: "Tupinamba" #Bragança
+ samauma: "Samauma" #Samaúma
+ mairi: "Mairi" #Belém do Pará
+ curumu: "Curumu" #
+ ananatuba: "Ananatuba" #
+ anajas: "Anajas" #
+ arari: "Arari" #
+ marajoara: "Marajoara" #
+ pixipixi: "Pixipixi" #
+ marajoara_jungle: "Marajoara Jungle" #
+ ariste: "Ariste" #
+ lokono: "Lokono" #
+ araguari: "Araguari" #
+ mazagao: "Mazagao" #Mazagão
+ arua_amazon: "Arua" #
+ nheengaiba: "Nheengaiba" #
+ mariocai: "Mariocai" #Gurupá
+ itatupa_jungle: "Itatupa Jungle" #
+ piratuba_jungle: "Piratuba Jungle" #
+ oiampi: "Oiampi" #
+ wayampi: "Wayampi" #
+ paru: "Paru" #Almeirim
+ kuruaya: "Kuruaya" #
+ prainha: "Prainha" #Prainha
+ gurupatuba: "Gurupatuba" #Monte Alegre
+ surubiu: "Surubiu" #Alenquer
+ obidos: "Obidos" #Óbidos
+ zoe: "Zoe" #
+ curuai_lake: "Curuai Lake" #
+ itandeua_lake: "Itandeua Lake" #
+ itarim_lake: "Itarim Lake" #
+ monte_alegre_lake: "Monte Alegre Lake" #
+ caxiuana_bay: "Caxiuana Bay" #
+ xingu_amazon_jungle: "Amazon Jungle" #
+ anambe: "Anambe" #Camutá
+ asurini: "Asurini" #
+ para_gaviao: "Para Gaviao" #
+ parkateje: "Parkatejê" #
+ parakana: "Parakana" #
+ saraua_jungle: "Saraua Jungle" #
+ tocantis_amazon_jungle: "Amazon Jungle" #
+ tapajo: "Tapajo" #
+ tupinambarana: "Tupinambarana" #
+ uatuma: "Uatuma" #
+ urucurituba: "Urucurituba" #
+ apoquitaua: "Apoquitaua" #
+ juris: "Juris" #
+ turas: "Turas" #
+ urubu: "Urubu" #
+ munduruku: "Munduruku" #
+ amazon_jungle: "Amazon Jungle" #
+ manues_jungle: "Manues Jungle" #
+ canacari_lake: "Canacari Lake" #
+ turere_lake: "Turere Lake" #
+ mariua: "Mariua" #
+ waiwai: "Waiwai" #
+ kinja: "Kinja" #
+ bares: "Bares" #
+ manaos: "Manaos" #Manaus
+ maues: "Maues" #
+ mura: "Mura" #
+ kambeba: "Kambeba" #
+ arua: "Arua" #
+ miranha: "Miranha" #
+ negro_amazon_jungle: "Amazon Jungle" #
+ purus_amazon_jungle: "Amazon Jungle" #
+ solimoes_amazon_jungle: "Amazon Jungle" #
+ cabaliana_lake: "Cabaliana Lake" #
+ mundurukania: "Mundurukânia" #
+ satere_mawe: "Satere Mawe" #
+ curuai: "Curuai" #
+ tupulicus: "Tupulicus" #Santarém
+ ukarangma: "Ukarãngmã" #
+ kuben_kran_ken: "Kuben Kran Ken" #Altamira
+ oro_win: "Oro Win" #
+ karipuna: "Karipuna" #
+ pakaasnovos: "Pakaasnovos" #
+ yjxa: "Yjxa" #
+ ahe: "Ahe" #
+ wari: "Wari" #
+ kaxarari: "Kaxarari" #
+ madeira_amazon_jungle: "Amazon Jungle" #
+ bakairi: "Bakairi" #
+ kukuro_kalapalo: "Kukuro Kalapalo" #
+ kuhikugu: "Kuhikugu" #
+ irantxe: "Irantxe" #
+ enawene: "Enawene" #
+ kajkwakratxi: "Kajkwakratxi" #
+ apiaka: "Apiaka" #
+ kayabi: "Kayabi" #
+ rikbaktsa: "Rikbaktsa" #
+ manoki: "Manoki" #
+ apiaka_jungle: "Apiaka Jungle" #
+ kayabi_jungle: "Kayabi Jungle" #
+ kura: "Kura" #
+ kajabi: "Kajabi" #
+ kaiabi: "Kaiabi" #
+ panara: "Panara" #
+ apiacas: "Apiacas" #
+ ikpeng: "Ikpeng" #
+ tapajos_amazon_jungle: "Amazon Jungle" #
+ evuevi: "Evuevi" #Coxim
+ sucuriu: "Sucuriu" #
+ piquiri: "Piquiri" #
+ camapua: "Camapua" #
+ ytykyra: "Ytykyra" #Itiquira
+ pantanal_swamp: "Pantanal Swamp" #
+ pantanal_forest: "Pantanal Forest" #
+ mebengokre: "Mebengokre" #
+ aquidauana: "Aquidauana" #
+ kadiweu: "Kadiweu" #
+ piripucu: "Piripucu" #
+ terena: "Terena" #
+ nioac: "Nioac" #
+ dawande: "Dawande" #
+ balotipone: "Balotipone" #
+ parecis: "Parecis" #
+ haliti: "Haliti" #
+ ikuiapa: "Ikuiapa" #Cuiabá
+ guato: "Guato" #
+ otuques: "Otuques" #Jaciara
+ paranaiba: "Paranaiba" #Paranaíba
+ porekry: "Porekry" #
+ opaye: "Opaye" #
+ ofaie: "Ofaie" #
+ taquarucu: "Taquarucu" #
+ anhandui: "Anhandui" #
+ kaiowa: "Kaiowa" #
+ kaiwa: "Kaiwa" #
+ chiripa: "Chiripa" #
+ maracaju: "Maracaju" #Maracaju
+ tacuru_jungle: "Tacuru Jungle" #
+ uru_pa_in: "Uru Pa In" #
+ jiparana: "Jiparana" #
+ uru_eu_wau_wau: "Uru Eu Wau Wau" #
+ amundava: "Amundava" #
+ itarap: "Itarap" #
+ djeoromitxi: "Djeoromitxi" #
+ kwaza: "Kwaza" #
+ akana: "Akana" #
+ latunde: "Latunde" #
+ nambikwara: "Nambikwara" #
+ surui_paiter: "Surui Paiter" #
+ kawahib: "Kawahib" #
+ sakirabia: "Sakirabia" #
+ wajuru: "Wajuru" #
+ towa_panka: "Towa Panka" #
+ purubora: "Purubora" #
+ aikana: "Aikana" #
+ makurap: "Makurap" #
+ mequens_jungle: "Mequens Jungle" #
+ massaco_jungle: "Massaco Jungle" #
+ sabanes: "Sabanes" #
+ guarasugwe: "Guarasugwe" #
+ kabixi: "Kabixi" #
+ marmainde: "Marmainde" #
+ tawande: "Tawande" #
+ anunsu: "Anunsu" #
+ nambikuara: "Nambikuara" #
+ guarasugwa: "Guarasugwa" #
+ guarasugwe_forest: "Guarasugwe Forest" #
+ baure: "Baure" #
+ moxos: "Moxos" #
+ tsimanes: "Tsimanes" #
+ kanisianas: "Kanisianas" #
+ siriono: "Siriono" #
+ itonama: "Itonama" #
+ movima: "Movima" #
+ cayubaba: "Cayubaba" #
+ pacahuara: "Pacahuara" #
+ eseejja: "Eseejja" #
+ takana: "Takana" #
+ paranoa: "Paranoa" #Brasilia
+ corumba: "Corumba" #Corumbá
+ cayapo: "Cayapo" #
+ javaes: "Javaes" #
+ goroti_kumrenhtx: "Goroti Kumrenhtx" #
+ araripocone: "Araripocone" #
+ iranmranhre: "Iranmranhre" #
+ utugo_kuri_doge: "Utugo Kuri Doge" #
+ morrinhos: "Paranã-aíb-a" #Caldas Novas
+ bororos: "Bororos" #Uberlandia
+ uberaba: "Uberaba" #Uberaba
+ bagagem: "Bagagem" #Romaria
+ aratu: "Aratu" #Patos de Minas
+ pium_i: "Pium I" #Piumhi
+ pyti: "Pyti" #
+ macauba: "Macauba" #
+ caraja: "Caraja" #
+ kricatije: "Krĩcatijê" #
+ tocantis: "Tocantis" #
+ mehin: "Mehin" #
+ paranaidji: "Paranaidji" #
+ acroas: "Acroas" #
+ kraho: "Kraho" #
+ ava_canoeiro: "Ava Canoeiro" #
+ uracu: "Uracu" #Uruaçu
+ crixas: "Crixas" #
+ guatacuba: "Guatacuba" #
+ porangatu: "Porangatu" #
+ arraias: "Arraias" #
+ gameleira: "Gameleira" #
+ funil: "Funil" #
+ xerente: "Xerente" #
+ akwe: "Akwê" #
+ mansinha: "Mansinha" #
+ guiratinga: "Guiratinga" #
+ araguaia: "Araguaia" #
+ boe: "Boe" #
+ awen: "Awen" #
+ awa_brazil: "Ãwa" #
+ itapirapua: "Itapirapua" #Itapirapuá
+ areia: "Areia" #
+ xavante: "Xavante" #
+ araes: "Araes" #
+ kiriras: "Kiriras" #
+ auwe_jungle: "Auwe Jungle" #
+ para: "Para" #
+ tupirama: "Tupirama" #
+ apyawa: "Apyãwa" #
+ karaja: "Karaja" #
+ itya_mahadu: "Itya Mahãdu" #
+ gurupi: "Gurupi" #
+ canastra: "Canastra" #
+ coco: "Coco" #
+ tapirape: "Tapirape" #
+ auwe: "Auwe" #
+ iny_karaja: "Iny Karajá" #
+ urubu_jungle: "Urubu Jungle" #
+ kaapor: "Kaapor" #
+ kururupu: "Kururupu" #
+ tapuitapera: "Tapuitapera" #Alcântara
+ miritiba: "Miritiba" #Humberto de Campos
+ itapecuru: "Itapecuru" #
+ gurgueia: "Gurgueia" #
+ uruaitis: "Uruaitis" #Itapecuru-Mirim
+ timbira: "Timbira" #Caxias
+ tapuios: "Tapuios" #Barreirinhas
+ guaja: "Guaja" #
+ guajajara: "Guajajara" #
+ caru: "Caru" #
+ krenye: "Krenye" #
+ upaon_acu: "Upaon Acu" #São Luís
+ guajara: "Guajara" #
+ pykopcateje: "Pykopcatejê" #
+ canela_apanyekra: "Canela Apanyekrá" #
+ canela_ramkokamekra: "Canela Ramkokamekrá" #
+ arariboia_jungle: "Arariboia Jungle" #
+ itaueira: "Itaueira" #
+ boi: "Boi" #
+ parnagua: "Parnagua" #
+ medonho: "Medonho" #
+ jacu: "Jacu" #
+ manuais: "Manuais" #
+ piaui_jungle: "Piaui Jungle" #
+ igaracu: "Igaracu" #Parnaíba
+ potyguara: "Potyguara" #
+ tacariju: "Tacariju" #
+ poti: "Poti" #
+ cais: "Cais" #
+ tabajara: "Tabajara" #
+ aroas: "Aroas" #
+ kalabaca: "Kalabaca" #Ibiapaba
+ caninde: "Caninde" #
+ piaui: "Piaui" #
+ kaapiuara: "Kaapiuara" #
+ tubiba: "Tubiba" #Tamboril
+ quixara: "Quixara" #Quixeramobim
+ utuva: "Utuva" #Icó
+ monxoro: "Monxoro" #Mossoró
+ jucas: "Jucas" #Aiuaba
+ telha: "Telha" #Crato
+ paiaco: "Paiaco" #Caraúbas
+ jenipaboacu: "Jenipaboacu" #Coreaú
+ acarau: "Acarau" #Ibiapaba
+ tapuia: "Tapuia" #Ibiapina
+ tremembe: "Tremembe" #
+ arerius: "Arerius" #Sobral
+ reriu: "Reriu" #Guaraciaba
+ payaku: "Payaku" #Aquiraz
+ pitaguari: "Pitaguari" #Fortaleza
+ kaninde: "Kaninde" #Canindé
+ tapeba: "Tapeba" #Caucaia
+ anace: "Anace" #Itapipoca
+ paraiba: "Paraiba" #
+ pegas: "Pegas" #Patos
+ coremas: "Coremas" #
+ quincu: "Quincu" #Sousa
+ xukuru: "Xukuru" #Monteiro
+ caxanga: "Caxanga" #João Pessoa
+ kaaysara: "Kaaysara" #Touros
+ potiguara: "Potiguara" #Natal
+ caico: "Caico" #Caicó
+ fernando_noronha: "Fernando de Noronha" #
+ yapuata: "Yapuata" #Recife
+ ipojuca: "Ipojuca" #
+ fulni_o: "Fulni O" #
+ iate: "Iate" #
+ kambiwa: "Kambiwa" #
+ kariri: "Kariri" #Arapiraca
+ caete: "Caete" #Santana do Ipanema
+ karapoto: "Karapoto" #Maceió
+ ouricuri: "Ouricuri" #
+ truka: "Truka" #
+ paranabuku: "Paranabuku" #
+ jaguarari: "Jaguarari" #
+ pankara: "Pankara" #
+ atikum: "Atikum" #
+ pipipa: "Pipipa" #
+ pankararu: "Pankararu" #
+ acoroazes: "Acoroazes" #Remanso
+ ipueira: "Ipueira" #Xique-Xique
+ itajui: "Itajui" #
+ itaboca: "Itaboca" #São João das Barreiras
+ ibotirama: "Ibotirama" #Ibotirama
+ kayapo: "Kayapo" #Cariranha
+ pataxo: "Pataxo" #Vera Cruz
+ nac_nanuk: "Nac Nanuk" #Porto Seguro
+ tapuy: "Tapuy-ú" #Caraiva
+ jucuru: "Jucuru" #Prado
+ caravelas: "Caravelas" #Caravelas
+ vicosa: "Viçosa" #Viçosa
+ hahahae: "Hahahae" #Ilhéus
+ tanhacu: "Tanhacu" #Tanhaçu
+ tupiniquim: "Tupiniquim" #Itacaré
+ jiboia_jungle: "Jiboia Jungle" #
+ itapicuru: "Itapicuru" #Queimadas
+ jiribatuba: "Jiribatuba" #Salvador
+ sauipe: "Sauipe" #Conde
+ tuxa: "Tuxa" #
+ kaimbe: "Kaimbe" #
+ tumbalala: "Tumbalala" #
+ uaua: "Uaua" #Uauá
+ kiriri: "Kiriri" #Tucano
+ itabaiana: "Itabaiana" #Itabaiana
+ guanambi: "Guanambi" #Guanambi
+ itaberaba: "Itaberaba" #
+ itaitu: "Itaitu" #
+ irece: "Irece" #Irecê
+ andarai: "Andarai" #
+ xoko: "Xoko" #
+ arakaiu: "Arakaiu" #Aracaju
+ aimore: "Aimore" #São Mateus
+ kiri_kere: "Kiri-Kerê" #
+ malalis: "Malalis" #
+ coutins: "Coutins" #Coutins
+ guaitaca: "Guaitaca" #Aracruz
+ jose_calcado: "Sâo José do Calçado" #Sâo José do Calçado
+ itapemirim: "Itapemirim" #Itapemirim
+ guarapiri: "Guará-parim" #Guarapari
+ itaparica: "Itaparica" #Vitória
+ nandu: "Nandú" #Colatina
+ itaperuna: "Itaperuna" #Itaperuna
+ guaitaka: "Guaîtaká" #Campos dos Goitacazes
+ sao_fidelis: "São Fidélis" #São Fidélis
+ cantagalo: "Cantagalo" #Cantagalo
+ mokaie: "Mokaîé" #Macaé
+ nova_friburgo: "Nova Friburgo" #Nova Friburgo
+ feia_lake: "Feia Lake" #Lagoa Feia
+ goitaca: "Goitaca Forest" #
+ kapiwary: "Kapi'war'y" #Rio das Ostras
+ ararayu_aba: "Arara'y'u-aba" #Cabo Frio
+ nheteroia: "Nheterõia" #Niterói
+ mage: "Magé" #Magé
+ y_uasu: "Y-ûasu" #Nova Iguaçu
+ goana_para: "Goaná-Pará" #Rio de Janeiro
+ ita_kua_y: "Itá-kûa-y" #Mangaratiba
+ cunhambebe: "Cunhambebe" #Angra dos Reis
+ coropo: "Coropo" #
+ praiba_sul: "Paraiba do Sul" #
+ tampruns: "Tampruns" #
+ piray: "Piraí" #Piraí
+ ita_atiaia: "Itá-atîaîa" #Resende
+ gouveia: "Gouveia" #
+ conceicao: "Conceição" #Conceição
+ itabira: "Itá-byra" #Itabira
+ serro: "Serro" #Serro
+ porte: "Porte" #
+ santa_barbara: "Santa Barbara" #Santa Bárbara
+ caete_brasil: "Ka'a-eté" #Caeté
+ itacolomi: "Itacolomi" #Itacolomi
+ mariana: "Mariana" #Mariana
+ ponte_nova: "Ponte Nova" #Ponte Nova
+ piranga: "Gûará-pirang-a" #Piranga
+ santo_antonio_monte: "Santo Antônio do Monte" #Santo Antônio do Monte
+ formiga: "Formiga" #Formiga
+ piumhi: "Piawa'y" #Piumhi
+ tres_pontas: "Três Pontas" #Três Pontas
+ passos: "Passos" #Passos
+ sao_sebastiao_paraiso: "São Sebastião do Paraiso" #São Sebastião do Paraiso
+ cabo_verde: "Cabo Verde" #Cabo Verde
+ cataguas: "Cataguas" #Cataguás
+ alfenas: "Alfenas" #Alfenas
+ mandiyu: "Mandi-yu" #
+ camanducaia: "Komandá-kaî-a" #Camanducaia
+ parapopeba: "Pará-popeba" #Paráopeba
+ sao_joao_rei: "São João del Rei" #São João del Rei
+ oliveira: "Oliveira" #Oliveira
+ lavras: "Lavras" #Lavras
+ porto_turvo: "Turvo" #
+ baependi: "Mba'epina'y" #São Lourenço
+ campanha: "Campanha" #Campanha
+ itajuba: "Itá-îybá" #Itajubá
+ baependi_forest: "Baependi Forest" #
+ itajuba_forest: "Itajuba Forest" #
+ rio_preto: "Rio preto" #Rio Preto
+ juiz_fora: "Juiz de Fora" #Juiz de Fora
+ barbacena: "Barbacena" #Barbacena
+ leopoldina: "Leopoldina" #Leopoldina
+ rio_pomba: "Rio Pomba" #Rio Pomba
+ muriae: "Meruim-hu" #Muriaé
+ jequitinhonha: "Jequitinhonha" #
+ maxakali: "Maxakali" #
+ itakangapyra: "Itakangapyra" #
+ almenara: "Almenara" #Almenara
+ salinas: "Salinas" #Salinas
+ rio_pardo: "Rio Pardo" #Rio Pardo
+ itaratim: "Itaratim" #Itaratim
+ maxakali_jungle: "Maxakali Jungle" #
+ bocaiuva: "Bocaiuva" #Bocaiuva
+ tijuco: "Tijuco" #
+ itamarandiba: "Itamarandiba" #
+ pecanha: "Peçanha" #
+ borun: "Borun" #
+ mucuri: "Mucuri" #
+ urucu: "Urucu" #
+ fanado: "Fanado" #Diamantina
+ aracuai: "Araçuaí" #
+ nanuque: "Nanuque" #Nanuque
+ krenak: "Krenak" #
+ itanhomi: "Itá-nhomima" #
+ caratinga: "Aka'ratin'ga" #Caratinga
+ mutum: "Mutũ" #Mutum
+ manhuacu: "Aman'y-ûasu" #Manhuaçu
+ matipo: "Abati-poó" #
+ paracatu: "Pará-katu" #Paracatu
+ buriti: "Buriti" #Buritis
+ itapiracaba: "Itapiracaba" #
+ akwen: "Akwen" #
+ xakriaba: "Xakriaba" #
+ anais: "Anais" #São Francisco
+ jaiba: "Ya'yba" #Jaiba
+ janauba: "Janauba" #Janauba
+ montes_claros: "Montes Claros" #Montes Claros
+ cataguases: "Cataguases" #Pitangui
+ kaxixo: "Kaxixo" #
+ pinheiro: "Pinheiro" #João Pinheiro
+ curvelo: "Curvelo" #Curvelo
+ sabarabucu: "Sabarabucu" #Sabará
+ santa_luzia: "Santa Luzia" #Santa Luzia
+ sete_lagoas: "Sete Lagoas" #Sete Lagoas
+ goianas: "Goianas" #Belo Horizonte
+ pirapora: "Pirapora" #Pirapora
+ tamoio: "Tamoio" #Itanhaém
+ iguape: "Iguape" #Iguape
+ cananeia: "Mara-tayama" #Registro
+ marataiama: "Marataiama" #Cananéia
+ gohayo: "Gu-ai-óg" #Santos
+ sao_sebastiao: "Mboîa-su-kanga" #Caraguatatuba
+ mogi_forest: "Mogi Forest" #Serra do Mar
+ tamoio_forest: "Tamoio Forest" #Serra do Mar Sul
+ marataiama_forest: "Marataiama Forest" #
+ itu: "Itu" #Itu
+ sorocaba: "Sorok-aba" #Sorocaba
+ araritaguaba: "Araritaguaba" #Porto Feliz
+ mogi_mirim: "Moî'ymirim" #Mogi Mirim
+ campinas: "Campinas" #Campinas
+ jundiai: "Jundiai" #Jundiai
+ atibaia: "Atyb-aia" #Bragança Paulista
+ sao_roque: "Sao Roque" #São Roque
+ jerubatuba: "Jerubatuba" #Itapecerica da Serra
+ parnaiba: "Pan-n-eeí-bo" #Osasco
+ piratininga: "Pirá-tininga" #São Paulo
+ aruja: "Aru-îá" #Guarulhos
+ mogi_das_cruzes: "Mboîa" #Mogi das Cruzes
+ jundiai_forest: "Jundiai Forest" #
+ atibaia_forest: "Atibaia Forest" #
+ camanducaia_forest: "Camanducaia Forest" #
+ sao_luis_do_paraitinga: "Sao Luis do Paraitinga" #São Luis do Paraitinga
+ lorena: "Guâ-upa-caré" #Lorena
+ guaratingueta: "Guaratingueta" #Aparecida do Norte
+ taubate: "Taba-ybaté" #Taubaté
+ paraibuna: "Pará-y-b'una" #Paraibuna
+ jacarei: "Îakare'y" #Jacarei
+ cunhambebe_forest: "Cunhambebe Forest" #Serra da Bocaina
+ paraibuna_forest: "Paraibuna Forest" #
+ lapa: "Lapa" #
+ ponta_grossa: "Pitangui" #Ponta Grossa
+ curitiba: "Kurí tyba" #Curitiba
+ bocaiuva_do_sul: "Mokaîe'yba" #Bocaiuva do Sul
+ palmeira_brasil: "Palmeira" #
+ sao_jose_pinhais: "São José dos Pinhais" #São José dos Pinhais
+ parnanguara: "Parnanguara" #
+ pinhais_forest: "Pinhais Forest" #
+ bocaiuva_forest: "Bocaiuva Forest" #
+ santo_antonio: "Santo Antonio" #Santo Antonio
+ chopim: "Chopim" #Chopim
+ chapeco: "Chapeco" #Chapecó
+ palmas: "Palmas" #Palmas
+ taquara: "Taquara" #
+ umuarama: "Umuarama" #
+ mbya: "Mbya" #
+ campo_mourao: "Campo Mourão" #
+ iguazu: "Iguazú" #
+ guarapuava: "Guarapuava" #
+ mbai_yuru: "Mbai Yuru" #Bauru
+ bauru: "Mbai-yurú" #Assis
+ botucatu: "Ybytyra-katu" #Botucatu
+ kaingang: "Kaingang" #Marilia
+ porto_tibirica: "Porto Tibiriça" #Presidente Prudente
+ valparaiso: "Valparaiso" #Andradina
+ tiete: "Tietê" #Araçatuba
+ sapukaia: "Sapukaia" #Franca
+ mantiqueira: "Mantiqueira" #São João da Boa Vista
+ caiapo: "Caiapo" #Ribeirão Preto
+ itapeva: "Itapeva" #Itapeva
+ itapetininga: "Itapetininga" #Itapetininga
+ abare_i: "Abare I" #Avaré
+ itaporanga: "Itá-porang-a" #Itaporanga
+ apiai: "Apya'y" #Apiaí
+ capao_bonito: "Capão" #Capão Bonito
+ barretos: "Barretos" #Barretos
+ jaboticabal: "Jaboticabal" #Jaboticabal
+ tanabi: "Tanambi" #Tanambi
+ sao_jose_preto: "São José do Rio Preto" #São José do Rio Preto
+ brotas: "Brotas" #Brotas
+ piracicaba: "Piracicaba" #Piracicaba
+ sao_carlos: "Sao Carlos" #São Carlos
+ araquara: "Araquara" #Araraquara
+ guaiana: "Guaiana" #Itararé
+ imbau: "Imbau" #Imbau
+ jataizinho: "Jataizinho" #Jataizinho
+ apucarana: "Apócaaranã" #Apucarana
+ itarare: "Itararé" #Itararé
+ karai_yo: "Karai Yo" #
+ xokleng: "Xokleng" #
+ itapocu: "Itapocu" #
+ itajai: "Itajaí" #Itajaí
+ mafra: "Mafra" #
+ curitibanos: "Curitibanos" #
+ lages: "Lages" #Lages
+ sao_joaquim: "Sao Joaquim" #São Joaquim
+ urubici: "Urubici" #
+ kariio: "Kariîó" #
+ apytere: "Apyteré" #
+ tubarao: "Tubá-Nharô" #Tubarão
+ sambaqui: "Sambaqui" #
+ iaguarauna: "Iaguarauna" #
+ nononai_forest: "Nononai Forest" #
+ cruz_alta: "Cruz Alta" #
+ palmeira: "Palmeira" #
+ nandeva: "Ñandeva" #
+ lagoa_vermelha: "Lagoa Vermelha" #Lagoa Vermelha
+ passo_fundo: "Passo Fundo" #Passo Fundo
+ vacaria: "Vacaria" #Vacaria
+ carijo: "Carijo" #
+ piratinin: "Piratinin" #
+ piratini: "Piratini" #
+ jaguarao: "Jaguarao" #
+ cangucu: "Cangucu" #
+ chuy: "Chuy" #
+ mirim_lake: "Mirim Lake" #
+ mangueira_lake: "Mangueira Lake" #
+ negra_lagoon: "Negra Lagoon" #
+ icabaqua: "Icabaqua" #
+ tupancireta: "Tupancireta" #
+ umbu: "Umbu" #
+ cacapava: "Caçapava" #Caçapava do Sul
+ vacacai: "Vacacai" #Santa Maria
+ tapes: "Tapes" #Gravataí
+ patos: "Patos" #Patos
+ jacui: "Jacui" #Jacui
+ sao_leopoldo: "Sao Leopoldo" #São Leopoldo
+ san_antonio_patrulha: "San Antonio da Patrulha" #Santo Antonio da Patrulha
+ arroio: "Arroio" #
+ buzare_point: "Buzare Point" #
+ approuage_mouth: "Approuage Mouth" #
+ cassipore_mouth: "Cassipore Mouth" #
+ maraca_island: "Maraca Island" #
+ araguari_mouth: "Araguari Mouth" #
+ santa_rosa_bay: "Santa Rosa Bay" #
+ maguary_point: "Maguary Point" #
+ western_atlantic_high_sea23: "Western Atlantic" #
+ western_atlantic_high_sea24: "Western Atlantic" #
+ western_atlantic_high_sea21: "Western Atlantic" #
+ western_atlantic_high_sea22: "Western Atlantic" #
+ amazonas_mouth: "Amazonas Mouth" #
+ santana_island: "Santana Island" #
+ vieira_grande_bay: "Vieira Grande Bay" #
+ fura_dos_araiolos: "Fura Dos Araiolos" #
+ furo_santa_maria: "Furo Santa Maria" #
+ marapata_bay: "Marapata Bay" #
+ marajo_bay: "Marajo Bay" #
+ maracana_bay: "Maracana Bay" #
+ caete_bay: "Caete Bay" #
+ turiacu_bay: "Turiacu Bay" #
+ cuma_bay: "Cuma Bay" #
+ sao_marcos_bay: "Sao Marcos Bay" #
+ preguicas_mouth: "Preguicas Mouth" #
+ parnaiba_delta: "Parnaiba Delta" #
+ western_atlantic_high_sea27: "Western Atlantic" #
+ western_atlantic_high_sea25: "Western Atlantic" #
+ western_atlantic_high_sea26: "Western Atlantic" #
+ pedra_furada: "Pedra Furada" #
+ almofala_coast: "Almofala Coast" #
+ praia_mansa: "Praia Mansa" #
+ pontal_point: "Pontal Point" #
+ mel_point: "Mel Point" #
+ tourinhos_coast: "Tourinhos Coast" #
+ pititinga_coast: "Pititinga Coast" #
+ western_atlantic_high_sea28: "Western Atlantic" #
+ western_atlantic_high_sea29: "Western Atlantic" #
+ western_atlantic_high_sea30: "Western Atlantic" #
+ western_atlantic_high_sea31: "Western Atlantic" #
+ fernando_noronha_coast: "Fernando Noronha Coast" #
+ fernando_noronha_high_sea2: "Fernando Noronha High Sea" #
+ fernando_noronha_high_sea1: "Fernando Noronha High Sea" #
+ negra_point: "Negra Point" #
+ cabedello_point: "Cabedello Point" #
+ itamaraca_island: "Itamaraca Island" #
+ mangue_point: "Mangue Point" #
+ mundau_lagoon: "Mundau Lagoon" #
+ western_atlantic_high_sea32: "Western Atlantic" #
+ western_atlantic_high_sea33: "Western Atlantic" #
+ western_atlantic_high_sea34: "Western Atlantic" #
+ sao_francisco_mouth: "Sao Francisco Mouth" #
+ salvador_cape: "Salvador Cape" #
+ all_saints_bay: "All Saints Bay" #
+ mamoa_coast: "Mamoa Coast" #
+ jequitinhonha_delta: "Jequitinhonha Delta" #
+ coroa_alta_reef: "Coroa Alta Reef" #
+ areia_reef: "Areia Reef" #
+ western_atlantic_high_sea35: "Western Atlantic" #
+ western_atlantic_high_sea36: "Western Atlantic" #
+ western_atlantic_high_sea37: "Western Atlantic" #
+ western_atlantic_high_sea38: "Western Atlantic" #
+ mucuri_delta: "Mucuri Delta" #
+ guriri_coast: "Guriri Coast" #
+ doce_delta: "Doce Delta" #
+ vitoria_bay: "Vitoria Bay" #
+ paraiba_delta: "Paraiba Delta" #
+ acu_lagoon: "Acu Lagoon" #
+ frio_cape: "Frio Cape" #
+ western_atlantic_high_sea39: "Western Atlantic" #
+ western_atlantic_high_sea40: "Western Atlantic" #
+ western_atlantic_high_sea41: "Western Atlantic" #
+ western_atlantic_high_sea42: "Western Atlantic" #
+ western_atlantic_high_sea43: "Western Atlantic" #
+ guanabara_bay: "Guanabara Bay" #
+ grande_island: "Grande Island" #
+ caraguatatuba_bay: "Caraguatatuba Bay" #
+ boi_point: "Boi Point" #
+ guarau_island: "Guarau Island" #
+ small_sea: "Small Sea" #
+ paranagua_bay: "Paranagua Bay" #
+ western_atlantic_high_sea44: "Western Atlantic" #
+ western_atlantic_high_sea45: "Western Atlantic" #
+ western_atlantic_high_sea46: "Western Atlantic" #
+ grande_floripa_bay: "Grande Floripa Bay" #
+ santa_catarina_island: "Santa Catarina Island" #
+ imarui_lagoon: "Imarui Lagoon" #
+ sombrio_lagoon: "Sombrio Lagoon" #
+ western_atlantic_high_sea47: "Western Atlantic" #
+ western_atlantic_high_sea48: "Western Atlantic" #
+ guancavilca: "Guancavilca" #
+ manta: "Manta" #
+ guayaquil: "Guayaquil" #
+ daule: "Daule" #
+ yaguachi: "Yaguachi" #
+ puna: "Puna" #
+ chacayacu: "Chacayacu" #
+ machala: "Machala" #
+ yazne: "Yazne" #
+ caran: "Caran" #
+ baba: "Baba" #
+ jama: "Jama" #
+ atacames: "Atacames" #
+ pailon: "Pailon" #
+ babahuyu: "Babahuyu" #
+ quito: "Quitu" #
+ waranka: "Waranka" #
+ panzaleo: "Panzaleo" #
+ imbaguarbak: "Imbaguarbak" #
+ tsachila: "Tsachila" #
+ mindu: "Mindu" #
+ otavalo: "Otavalo" #
+ kayambi: "Kayambi" #
+ tacunga: "Tacunga" #
+ hambatus: "Hambatus" #
+ liribamba: "Liribamba" #
+ llanganates_jungle: "Llanganates Jungle" #
+ sangay_jungle: "Sangay Jungle" #
+ ami_mountains: "Ami Mountains" #
+ chimborazo_volcano: "Chimborazo Volcano" #
+ sangay_volcano: "Sangay Volcano" #
+ alausi: "Alausi" #
+ hatun_kanar: "Hatun Kanar" #
+ shabalula: "Shabalula" #
+ cangochamba: "Cangochamba" #
+ malacatos: "Malacatos" #
+ calvas: "Calvas" #
+ pukamuru: "Pukamuru" #
+ cajas_mountains: "Cajas Mountains" #
+ duco_mountains: "Duco Mountains" #
+ solamaco_mountains: "Solamaco Mountains" #
+ samanga_mountains: "Samanga Mountains" #
+ kofan: "Kofan" #
+ quijos: "Quijos" #
+ siona: "Siona" #
+ napo: "Napo" #
+ kichwa: "Kichwa" #
+ puyu: "Puyu" #
+ sangay: "Sangay" #
+ macas: "Macas" #
+ yaguarzongo: "Yaguarzongo" #
+ napo_jungle: "Napo Jungle" #
+ tumbes: "Tumbes" #
+ chira: "Chira" #
+ nariguala: "Nariguala" #
+ nunura: "Nunura" #
+ xllang: "Xllang" #
+ ayahuacas: "Ayahuacas" #
+ guayacundo: "Guayacundo" #
+ apurlec: "Apurlec" #
+ huancapampa: "Huancapampa" #
+ pakatnamu: "Pakatnamu" #
+ sana: "Sana" #
+ farfan: "Farfan" #
+ chan_chan: "Chan Chan" #
+ chao: "Chao" #
+ huacatambo: "Huacatambo" #
+ manchan: "Manchan" #
+ huarmey: "Huarmey" #
+ ocro: "Ocro" #
+ paramonga: "Paramonga" #
+ guamanmayo: "Guamanmayo" #
+ chancay: "Chancay" #
+ chiprac: "Chiprac" #
+ collique: "Collique" #
+ cantamarca: "Cantamarca" #
+ rimaq: "Rimaq" #
+ huarochiri: "Huarochiri" #
+ ishma: "Ishma" #
+ chilca: "Chilca" #
+ huarco: "Huarco" #
+ naupahuasi: "Ñaupahuasi" #
+ incahuasi: "Incahuasi" #
+ chuqlluqucha: "Chuqlluqucha" #
+ chinchay: "Chinchay" #
+ puka_tampu: "Puka Tampu" #
+ ica: "Ica" #
+ cahuachi: "Cahuachi" #
+ acari: "Acari" #
+ incawasi: "Incawasi" #
+ chullac: "Chullac" #
+ pukiupukio: "Pukiupukio" #
+ yauca: "Yauca" #
+ atico: "Atico" #
+ caraveli: "Caraveli" #
+ ucuna: "Ucuna" #
+ camana: "Camana" #
+ quilca: "Quilca" #
+ yanque: "Yanque" #
+ aruni: "Aruni" #
+ arequipa: "Arequipa" #
+ churajon: "Churajon" #
+ tampo: "Tampo" #
+ puquina: "Puquina" #
+ chaucalana: "Chaucalana" #
+ tacna: "Tacna" #
+ kileqollo: "Kileqollo" #
+ arica: "Arica" #
+ tarapaca: "Tarapaca" #
+ huantajaya: "Huantajaya" #
+ iki_iki: "Iki Iki" #
+ tocopilla: "Tocopilla" #
+ ckara_ama: "Ckara Ama" #
+ tulor: "Tulor" #
+ antofagasta: "Antofagasta" #
+ paposo: "Paposo" #
+ tatal: "Tatal" #
+ chanaral: "Chanaral" #
+ cobija: "Cobija" #
+ atacama_salt_pan: "Atacama Salt Pan" #
+ punta_negra_salt_pan: "Punta Negra Salt Pan" #
+ guandacol: "Guandacol" #
+ talampaya: "Talampaya" #
+ polco: "Polco" #
+ cuyo: "Cuyo" #
+ tamberias: "Tamberias" #
+ fiambalao: "Fiambalao" #
+ pissis: "Pissis" #
+ ischigualasto: "Ischigualasto" #
+ jachal: "Jachal" #
+ pivn_man_antu: "Pivn Man Antu" #
+ angualasto: "Angualasto" #
+ rio_salado_salt_marsh: "Rio Salado Salt Marsh" #
+ colorado_salt_marsh: "Colorado Salt Marsh" #
+ chepes: "Chepes" #
+ ulapes: "Ulapes" #
+ michilingue: "Michilingue" #
+ saleta: "Saleta" #
+ nogolma: "Nogolma" #
+ uco: "Uco" #
+ uspallata: "Uspallata" #
+ huanacache: "Huanacache" #
+ guentota: "Guentota" #
+ jaurua: "Jaurua" #
+ millcayac: "Millcayac" #
+ ullum: "Ullum" #
+ sankancete: "Sankancete" #
+ zonda: "Zonda" #
+ quines: "Quines" #
+ pircas_mountains: "Pircas Mountains" #
+ qupayapu: "Qupayapu" #
+ kellollampu: "Kellollampu" #
+ huasco: "Huasco" #
+ elki: "Elki" #
+ limari: "Limari" #
+ millapel: "Millapel" #
+ liwen: "Liwen" #
+ pissis_mountains: "Pissis Mountains" #
+ inka_llaqta: "Inka Llaqta" #
+ ayopaya: "Ayopaya" #
+ paititi: "Paititi" #
+ yungas: "Yungas" #
+ guanay: "Guanay" #
+ kallawaya: "Kallawaya" #
+ caupolican: "Caupolican" #
+ sarkajpa: "Sarkajpa" #
+ yurakar: "Yurakar" #
+ chimore_jungle: "Chimore Jungle" #
+ tiraque_jungle: "Tiraque Jungle" #
+ altamachi_jungle: "Altamachi Jungle" #
+ challana_jungle: "Challana Jungle" #
+ apolobamba_jungle: "Apolobamba Jungle" #
+ tunari_mountains: "Tunari Mountains" #
+ aqush: "Aqush" #
+ yaino: "Yaino" #
+ huari: "Huari" #
+ rapayan: "Rapayan" #
+ chavin: "Chavin" #
+ japallan: "Japallan" #
+ huacrachuco: "Huacrachuco" #
+ manchac: "Manchac" #
+ garu: "Garu" #
+ wanuco_marka: "Wanuco Marka" #
+ chiquia: "Chiquia" #
+ kotosh: "Kotosh" #
+ atash: "Atash" #
+ ichugan: "Ichugan" #
+ pumpu: "Pumpu" #
+ gochacalla: "Gochacalla" #
+ waqurunchu_mountains: "Waqurunchu Mountains" #
+ andaymarca: "Andaymarca" #
+ pashas: "Pashas" #
+ tumshukaiko: "Tumshukaiko" #
+ waricoto: "Waricoto" #
+ choquerecuay: "Choquerecuay" #
+ kasha_tampu: "Kasha Tampu" #
+ quillahuaca: "Quillahuaca" #
+ willcahuain: "Willcahuain" #
+ yerupaja_mountains: "Yerupaja Mountains" #
+ pampacancha_mountains: "Pampacancha Mountains" #
+ quilpa_hirka_mountains: "Quilpa Hirka Mountains" #
+ quiman_mountains: "Quiman Mountains" #
+ ingapirca: "Ingapirca" #
+ llampqui: "Llampqui" #
+ tarmatambo: "Tarmatambo" #
+ tunanmarca: "Tunanmarca" #
+ hatun_xauxa: "Hatun Xauxa" #
+ pumaruri: "Pumaruri" #
+ quilqi_hirka_mountains: "Quilqi Hirka Mountains" #
+ pariacaca_mountains: "Pariacaca Mountains" #
+ tanranioc_mountains: "Tanranioc Mountains" #
+ wari_willka: "Wari Willka" #
+ willka_ulo: "Willka Ulo" #
+ tampu_machay: "Tampu Machay" #
+ churkampa: "Churkampa" #
+ tayaccasa: "Tayaccasa" #
+ llacsapallanca: "Llacsapallanca" #
+ wasi_qaqa_mountains: "Wasi Qaqa Mountains" #
+ utcohuarco_mountains: "Utcohuarco Mountains" #
+ allpas: "Allpas" #
+ wari_peru: "Wari" #
+ pariahuanca: "Pariahuanca" #
+ pampahuaylla: "Pampahuaylla" #
+ choccalpata: "Choccalpata" #
+ paqwayranra: "Paqwayranra" #
+ quiluta_mountains: "Quiluta Mountains" #
+ ayacucho_jungle: "Ayacucho Jungle" #
+ ayacucho_mountains: "Ayacucho Mountains" #
+ sondor: "Sondor" #
+ auccapana: "Auccapana" #
+ challwanqa: "Challwanqa" #
+ millcca: "Millcca" #
+ tukri_apu_apu: "Tukri Apu Apu" #
+ willkawaman: "Willkawaman" #
+ soras: "Soras" #
+ huaman_karpa: "Huaman Karpa" #
+ caniche: "Caniche" #
+ seqse_qaqa: "Seqse Qaqa" #
+ yanahuara: "Yanahuara" #
+ cotapampa: "Cotapampa" #
+ antabamba: "Antabamba" #
+ tucssa: "Tucssa" #
+ sara_sara: "Sara Sara" #
+ sara_sara_volcano: "Sara Sara Volcano" #
+ qurawiri_mountains: "Qurawiri Mountains" #
+ qilu_urqu_mountains: "Qilu Urqu Mountains" #
+ raqchi: "Raqchi" #
+ sausaya: "Sausaya" #
+ kanamarca: "Kanamarca" #
+ achachiwa: "Achachiwa" #
+ uyo_uyo: "Uyo Uyo" #
+ pampa: "Pampa" #
+ pumanota_mountains: "Pumanota Mountains" #
+ chunkara_mountains: "Chunkara Mountains" #
+ antawilpa_mountains: "Antawilpa Mountains" #
+ andahua_volcanoes: "Andahua Volcanoes" #
+ kunturi_mountains: "Kunturi Mountains" #
+ oruro: "Oruro" #
+ ayaviri: "Ayaviri" #
+ pukara: "Pukara" #
+ macaya: "Macaya" #
+ pumanota: "Pumanota" #
+ puncune: "Puncune" #
+ wankani: "Wankani" #
+ titimani: "Titimani" #
+ iskanwaya: "Iskanwaya" #
+ arapa_lake: "Arapa Lake" #
+ cololo_mountains: "Cololo Mountains" #
+ hatunqulla: "Hatunqulla" #
+ ichuna: "Ichuna" #
+ chucuito: "Chucuito" #
+ contornasa: "Contornasa" #
+ pomata: "Pomata" #
+ titiqaqa_lake: "Titiqaqa Lake" #
+ choquepata_mountains: "Choquepata Mountains" #
+ parwayuni_mountains: "Parwayuni Mountains" #
+ machaqa: "Machaqa" #
+ axawiri: "Axawiri" #
+ achacachi: "Achacachi" #
+ viacha: "Viacha" #
+ tiwanaku: "Tiwanaku" #
+ calamarca: "Calamarca" #
+ chuqiyapu: "Chuqiyapu" #
+ illimani_volcano: "Illimani Volcano" #
+ kori_bara_karaa_ancas: "Kori Bara Karaa Ancas" #
+ callapa: "Callapa" #
+ ayo_ayo: "Ayo Ayo" #
+ sicasica: "Sicasica" #
+ curahuara: "Curahuara" #
+ matarjawira: "Matarjawira" #
+ sura: "Sura" #
+ jaqi_jiwata_mountain: "Jaqi Jiwata Mountain" #
+ aullagas: "Aullagas" #
+ karanka: "Karanka" #
+ uru: "Uru" #
+ carangas: "Carangas" #
+ isluga: "Isluga" #
+ llica: "Llica" #
+ uyuni: "Uyuni" #
+ loa: "Loa" #
+ lipi: "Lipi" #
+ hatun_killaka: "Hatun Killaka" #
+ chak_xana_volcano: "Chak Xana Volcano" #
+ aucanquilcha_volcano: "Aucanquilcha Volcano" #
+ poopo_lake: "Poopo Lake" #
+ coipasa_salt_pan: "Coipasa Salt Pan" #
+ uyuni_salt_pan: "Uyuni Salt Pan" #
+ chumbivilcas: "Chumbivilcas" #
+ maukallaqta: "Maukallaqta" #
+ waqrapukara: "Waqrapukara" #
+ pikillaqta: "Pikillaqta" #
+ qusqu: "Qusqu" #
+ pisaq: "Pisaq" #
+ paucartambo: "Paucartambo" #
+ urupampa: "Urupampa" #
+ quillarumiyoc: "Quillarumiyoc" #
+ sahuasiray_mountains: "Sahuasiray Mountains" #
+ salkantay_mountains: "Salkantay Mountains" #
+ yanatile: "Yanatile" #
+ yunca: "Yunca" #
+ ullantaytampu: "Ullantaytampu" #
+ picchu: "Picchu" #
+ willka_pampa: "Willka Pampa" #
+ chuyapi_jungle: "Chuyapi Jungle" #
+ ilucan: "Ilucan" #
+ chetilla: "Chetilla" #
+ huambos: "Huambos" #
+ chumuch: "Chumuch" #
+ congona: "Congona" #
+ kuelap: "Kuelap" #
+ huamanpata: "Huamanpata" #
+ olan: "Olan" #
+ shin_shin_mountains: "Shin Shin Mountains" #
+ illapa: "Illapa" #
+ kaxa_marca: "Kaxa Marca" #
+ tantaricuy: "Tantaricuy" #
+ chimu: "Chimu" #
+ llucho: "Llucho" #
+ markahuamachuco: "Markahuamachuco" #
+ pirca_pirca: "Pirca Pirca" #
+ huallumarca: "Huallumarca" #
+ milpo_mountains: "Milpo Mountains" #
+ cospan_mountains: "Cospan Mountains" #
+ quiruvilca_mountains: "Quiruvilca Mountains" #
+ huayabamba_mountains: "Huayabamba Mountains" #
+ awajun: "Awajun" #
+ bagua: "Bagua" #
+ utkhupampa: "Utkhupampa" #
+ namballe: "Namballe" #
+ ingatambo: "Ingatambo" #
+ karajia: "Karajia" #
+ huancachaca: "Huancachaca" #
+ moyobamba: "Moyobamba" #
+ lamas: "Lamas" #
+ yurimagua: "Yurimagua" #
+ chatuza: "Chatuza" #
+ cocamas: "Cocamas" #
+ kachi: "Kachi" #
+ rupharupha: "Rupharupha" #
+ huayabamba_jungle: "Huayabamba Jungle" #
+ shunte_jungle: "Shunte Jungle" #
+ yanajanca_jungle: "Yanajanca Jungle" #
+ may_ushin: "May Ushin" #
+ kakataibo: "Kakataibo" #
+ ashaninka: "Ashaninka" #
+ panatahuas: "Panatahuas" #
+ yanesha: "Yanesha" #
+ chanchacc: "Chanchacc" #
+ nomatsigenga: "Nomatsigenga" #
+ katataibo_jungle: "Katataibo Jungle" #
+ piu_piu_forest: "Piu Piu Forest" #
+ mantaro_jungle: "Mantaro Jungle" #
+ isabela_island: "Isabela Island" #
+ santiago_islands: "Santiago Islands" #
+ santa_cruz_islands: "Santa Cruz Islands" #
+ aconca_hue: "Aconca Hue" #Anconcagua
+ qillu_uta: "Qillu Uta" #Quillota
+ waykuche: "Waykuche" #
+ meli_pillan: "Meli Pillan" #Melipilla
+ rangkawe: "Rangkawe" #Rancagua
+ kolchawwe: "Kolchawwe" #Colchagua
+ kuruko: "Kuruko" #Curicó
+ mawlen: "Mawlen" #Maule
+ cauquen: "Cauquen" #Cauquenes
+ pikumche: "Pikumche" #
+ uthan_uthatun: "Uthan Uthatun" #
+ chillan: "Chillan" #Chillan
+ perquilauquen: "Perquilauquen" #Parral
+ puchacay: "Puchacay" #
+ biobio: "Biobio" #Biobío
+ aconcagua_volcano: "Aconcagua Volcano" #Aconcagua
+ huemui_mountains: "Huemui Mountains" #
+ chillan_mountains: "Chillan Mountains" #
+ huemules_forest: "Huemules Forest" #
+ lafkenmapu: "Lafkenmapu" #
+ lelbunmapu: "Lelbunmapu" #
+ wenteche: "Wenteche" #
+ inapiremapu: "Inapiremapu" #
+ pebuenmapu: "Pebuenmapu" #
+ villarica_lake: "Villarica Lake" #
+ collico_lake: "Collico Lake" #
+ pikunwijimapu: "Pikunwijimapu" #
+ caurakawin: "Caurakawin" #
+ ancud: "Ancud" #
+ quiquilhue: "Quiquilhue" #
+ quellon: "Quellon" #
+ piren: "Piren" #
+ villarica_forest: "Villarica Forest" #
+ puyehue_forest: "Puyehue Forest" #
+ piren_forest: "Piren Forest" #
+ llankiwe_lake: "Llankiwe Lake" #
+ alwe_lake: "Alwe Lake" #
+ rupanco_lake: "Rupanco Lake" #
+ puyewe_lake: "Puyewe Lake" #
+ raukolafken_lake: "Raukolafken Lake" #
+ riniwe_lake: "Riniwe Lake" #
+ xailafken_lake: "Xailafken Lake" #
+ kalafken_lake: "Kalafken Lake" #
+ juan_fernandez_islands: "Juan Fernandez Islands" #
+ atacames_cape: "Atacames Cape" #
+ pasado_cape: "Pasado Cape" #
+ lorenzo_cape: "Lorenzo Cape" #
+ sumpa_point: "Sumpa Point" #
+ huancavilca_gulf: "Huancavilca Gulf" #
+ east_pacific_high_sea54: "Eastern Pacific High Sea" #
+ east_pacific_high_sea55: "Eastern Pacific High Sea" #
+ tumpi_coast: "Tumpi Coast" #
+ paita_bay: "Paita Bay" #
+ sec_hura_bay: "Sec Hura Bay" #
+ aguja_point: "Aguja Point" #
+ nampajic_coast: "Nampajic Coast" #
+ malabriga_bay: "Malabriga Bay" #
+ salaverry_coast: "Salaverry Coast" #
+ east_pacific_high_sea56: "Eastern Pacific High Sea" #
+ east_pacific_high_sea57: "Eastern Pacific High Sea" #
+ east_pacific_high_sea58: "Eastern Pacific High Sea" #
+ east_pacific_high_sea59: "Eastern Pacific High Sea" #
+ ferrol_bay: "Ferrol Bay" #
+ huallmi_coast: "Huallmi Coast" #
+ salinas_point: "Salinas Point" #
+ saint_lorenzo_island: "Saint Lorenzo Island" #
+ huarco_coast: "Huarco Coast" #
+ huanu_islands: "Huanu Islands" #
+ tunga_coast: "Tunga Coast" #
+ east_pacific_high_sea60: "Eastern Pacific High Sea" #
+ east_pacific_high_sea61: "Eastern Pacific High Sea" #
+ east_pacific_high_sea62: "Eastern Pacific High Sea" #
+ east_pacific_high_sea63: "Eastern Pacific High Sea" #
+ maracona_gulf: "Maracona Gulf" #
+ yauca_coast: "Yauca Coast" #
+ jihuay_coast: "Jihuay Coast" #
+ hornillos_point: "Hornillos Point" #
+ coles_point: "Coles Point" #
+ sama_point: "Sama Point" #
+ east_pacific_high_sea64: "Eastern Pacific High Sea" #
+ east_pacific_high_sea65: "Eastern Pacific High Sea" #
+ east_pacific_high_sea66: "Eastern Pacific High Sea" #
+ arica_bay: "Arica Bay" #
+ pisagua_point: "Pisagua Point" #
+ chanavaya_bay: "Chanavaya Bay" #
+ loa_mouth: "Loa Mouth" #
+ angamos_point: "Angamos Point" #
+ moreno_point: "Moreno Point" #
+ cobre_coast: "Cobre Coast" #
+ east_pacific_high_sea67: "Eastern Pacific High Sea" #
+ east_pacific_high_sea68: "Eastern Pacific High Sea" #
+ east_pacific_high_sea69: "Eastern Pacific High Sea" #
+ paposo_bay: "Paposo Bay" #
+ chanaral_bay: "Chanaral Bay" #
+ caldera_point: "Caldera Point" #
+ copiapo_bay: "Copiapo Bay" #
+ elki_bay: "Elki Bay" #
+ east_pacific_high_sea70: "Eastern Pacific High Sea" #
+ east_pacific_high_sea71: "Eastern Pacific High Sea" #
+ east_pacific_high_sea72: "Eastern Pacific High Sea" #
+ east_pacific_high_sea73: "Eastern Pacific High Sea" #
+ culebra_point: "Culebra Point" #
+ mataquito_mouth: "Mataquito Mouth" #
+ carranza_cape: "Carranza Cape" #
+ concepcion_bay_plata: "Concepcion Bay Plata" #
+ east_pacific_high_sea75: "East Pacific High Sea" #
+ east_pacific_high_sea76: "East Pacific High Sea" #
+ arauco_bay: "Arauco Bay" #
+ coral_bay: "Coral Bay" #
+ mansa_bay: "Mansa Bay" #
+ coronado_gulf: "Coronado Gulf" #
+ tongol_bay: "Tongol Bay" #
+ ancud_gulf: "Ancud Gulf" #
+ east_pacific_high_sea77: "East Pacific High Sea" #
+ east_pacific_high_sea78: "East Pacific High Sea" #
+ east_pacific_high_sea79: "East Pacific High Sea" #
+ tortuga_bay: "Tortuga Bay" #
+ bucaneer_bay: "Bucaneer Bay" #
+ elizabeth_bay: "Elizabeth Bay" #
+ galapagos_high_sea1: "Galapagos High Sea" #
+ galapagos_high_sea2: "Galapagos High Sea" #
+ galapagos_high_sea3: "Galapagos High Sea" #
+ galapagos_high_sea4: "Galapagos High Sea" #
+ galapagos_high_sea5: "Galapagos High Sea" #
+ galapagos_high_sea6: "Galapagos High Sea" #
+ galapagos_high_sea7: "Galapagos High Sea" #
+ galapagos_high_sea8: "Galapagos High Sea" #
+ galapagos_high_sea9: "Galapagos High Sea" #
+ limari_mouth: "Limari Mouth" #
+ masatierra_coast: "Masatierra Coast" #
+ masafuera_coast: "Masafuera Coast" #
+ conchali_bay: "Conchali Bay" #
+ ligua_bay: "Ligua Bay" #
+ curaimilla_point: "Curaimilla Point" #
+ east_pacific_high_sea74: "East Pacific High Sea" #
+ juan_fernandez_high_sea1: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea2: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea3: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea4: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea5: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea6: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea7: "Juan Fernandez High Sea" #
+ juan_fernandez_high_sea8: "Juan Fernandez High Sea" #
+ kabishi: "Kabishi" #
+ kuruminaka: "Kuruminaka" #
+ paikoneka: "Paikoneka" #
+ saraveka: "Saraveka" #
+ otuke: "Otuke" #
+ koraveka: "Koraveka" #
+ bia_mbya: "Bia Mbya" #
+ mbia: "Mbia" #
+ guarayo: "Guarayo" #
+ cayuvava: "Cayuvava" #
+ yuracare: "Yuracare" #
+ oquiriquia_forest: "Oquiriquia Forest" #
+ zapoco_forest: "Zapoco Forest" #
+ mamorecillo_forest: "Mamorecillo Forest" #
+ conguagua_forest: "Conguagua Forest" #
+ charka: "Charka" #
+ colquechaca: "Colquechaca" #
+ ccantumarcani: "Ccantumarcani" #
+ thumilki: "Thumilki" #
+ oronckota: "Oronckota" #
+ chake: "Chake" #
+ tupiza: "Tupiza" #
+ payacullo: "Payacullo" #
+ camataqui: "Camataqui" #
+ wanaku_imray_mountain: "Wanaku Imray Mountain" #
+ colpanayoc_volcano: "Colpanayoc Volcano" #
+ poposayo_mountains: "Poposayo Mountains" #
+ sumaq_urqu_mountains: "Sumaq Urqu Mountains" #
+ toara: "Toara" #
+ cochinoca: "Cochinoca" #
+ omaguacas: "Omaguacas" #
+ puma: "Puma" #
+ susques: "Susques" #
+ lickanantay: "Lickanantay" #
+ antofalla: "Antofalla" #
+ kolla: "Kolla" #
+ bayo_mountain: "Bayo Mountain" #
+ acay_mountains: "Acay Mountains" #
+ llullaillaco_volcano: "Llullaillaco Volcano" #
+ ojos_del_salado_volcano: "Ojos Del Salado Volcano" #
+ pedernales_salt_pan: "Pedernales Salt Pan" #
+ saipuru: "Saipuru" #
+ muyupampa: "Muyupampa" #
+ tarija: "Tarija" #
+ weenhayek: "Weenhayek" #
+ mrubicha: "Mrubicha" #
+ pilaya_jungle: "Pilaya Jungle" #
+ yungas_jungle: "Yungas Jungle" #
+ muyupampa_forest: "Muyupampa Forest" #
+ pomabamba: "Pomabamba" #
+ huacareta: "Huacareta" #
+ tomina: "Tomina" #
+ takopaya: "Takopaya" #
+ yamparaez: "Yamparaez" #
+ samaipata: "Samaipata" #
+ chuwi: "Chuwi" #
+ mizque: "Mizque" #
+ sachchaa_mukku: "Sachchaa Mukku" #
+ arque: "Arque" #
+ incarraqay: "Incarraqay" #
+ lluska_mountain: "Lluska Mountain" #
+ oma_sacopo: "Oma Sacopo" #
+ angastaco: "Angastaco" #
+ tastil: "Tastil" #
+ salta: "Salta" #
+ jujuy: "Jujuy" #
+ tilcara: "Tilcara" #
+ paya: "Paya" #
+ noques_jungle: "Noques Jungle" #
+ watungasta: "Watungasta" #
+ pipanaco: "Pipanaco" #
+ aconquija: "Aconquija" #
+ shincal: "Shincal" #
+ yukkuman: "Yukkuman" #
+ kilmes: "Kilmes" #
+ tolombon: "Tolombon" #
+ lule: "Lule" #
+ pipanaco_salt_pan: "Pipanaco Salt Pan" #
+ ichukanai: "Ichukanai" #
+ gualamba: "Gualamba" #
+ ashca: "Ashca" #
+ kuska: "Kuska" #
+ ayllu_yacuchiri: "Ayllu Yacuchiri" #
+ auqajikuna: "Auqajikuna" #
+ patay: "Patay" #
+ matara: "Matara" #
+ ocol: "Ocol" #
+ chinipi: "Chinipi" #
+ sinipi: "Sinipi" #
+ qom_toba: "Qom Toba" #
+ atoj_wasin: "Atoj Wasin" #
+ ashca_caycu: "Ashca Caycu" #
+ nemby: "Nemby" #
+ kyyindy: "Kyyindy" #
+ akaray: "Akaray" #
+ kaarendy: "Kaarendy" #
+ canindeyu: "Canindeyu" #
+ takuru_puku: "Takuru Puku" #
+ ycuamandiyu: "Ycuamandiyu" #
+ ayvu_pora: "Ayvu Pora" #
+ pai_tavytera: "Pai Tavytera" #
+ kuarepoti: "Kuarepoti" #
+ curuguaty: "Curuguaty" #
+ kaaguy_jehasapa: "Kaaguy Jehasapa" #
+ yguazu: "Yguazu" #
+ tsiripa: "Tsiripa" #
+ ygana: "Ygana" #
+ enlhet: "Enlhet" #
+ enxet: "Enxet" #
+ guana: "Guana" #
+ nenlhet: "Nenlhet" #
+ enenlhet: "Enenlhet" #
+ tefeyak: "Tefeyak" #
+ aseptiketiheylhets: "Aseptiketiheylhets" #
+ ipholhhelhlhup: "Ipholhhelhlhup" #
+ eexiwa: "Eexiwa" #
+ uechamitogosode: "Uechamitogosode" #
+ eampepaigosode: "Eampepaigosode" #
+ tunupegosode: "Tunupegosode" #
+ yshyr: "Yshyr" #
+ totobiegosode: "Totobiegosode" #
+ gaaigosode: "Gaaigosode" #
+ amomegosode: "Amomegosode" #
+ ijnapuigosode: "Ijnapuigosode" #
+ ayoreo_forest: "Ayoreo Forest" #
+ yshyr_forest: "Yshyr Forest" #
+ chishamnee: "Chishamnee" #
+ yita: "Yita" #
+ tavashay: "Tavashay" #
+ lumnanas: "Lumnanas" #
+ tapiete: "Tapiete" #
+ yalve_sanga: "Yalve Sanga" #
+ sheulec: "Sheulec" #
+ dapiguemlec: "Dapiguemlec" #
+ lanagashec: "Lanagashec" #
+ tacshic: "Tacshic" #
+ pitlaxa: "Pitlaxa" #
+ wichi: "Wichi" #
+ wiznay: "Wiznay" #
+ niyaj: "Niyaj" #
+ eben_ezer: "Eben Ezer" #
+ shichaam: "Shichaam" #
+ alpu: "Alpu" #
+ macaclita: "Macaclita" #
+ noguinet: "Noguinet" #
+ auleta: "Auleta" #
+ siton: "Siton" #
+ naure: "Naure" #
+ sumampa: "Sumampa" #
+ asingasta: "Asingasta" #
+ gualas: "Gualas" #
+ chine: "Chine" #
+ caminigas: "Caminigas" #
+ mogas: "Mogas" #
+ chupilta: "Chupilta" #
+ ambargasta_salt_pan: "Ambargasta Salt Pan" #
+ grandes_salt_pan: "Grandes Salt Pan" #
+ chiquita_sea_lake: "Chiquita Sea Lake" #
+ qom_caia: "Qom Caia" #
+ nonot_daxinic: "Nonot Daxinic" #
+ aim_mocoylek: "Aim Mocoylek" #
+ lalek_cotaa: "Lalek Cotaa" #
+ qar_ka_la: "Qar Ka La" #
+ quisquisacate: "Quisquisacate" #
+ kata_kuna: "Kata Kuna" #
+ chipion: "Chipion" #
+ karendo: "Karendo" #
+ melincue_lake: "Melincue Lake" #
+ coronda_lagoon: "Coronda Lagoon" #
+ san_pedro_lagoon: "San Pedro Lagoon" #
+ raxalaa: "Raxalaa" #
+ ongamira: "Ongamira" #
+ qompi: "Qompi" #
+ qollaxalec: "Qollaxalec" #
+ rukahe: "Rukahe" #
+ yaaucaniga: "Yaaucaniga" #
+ nakaigetergehe: "Nakaigetergehe" #
+ moqoit: "Moqoit" #
+ tilala: "Tilala" #
+ romang: "Romang" #
+ chana: "Chana" #
+ mbegua: "Mbegua" #
+ timbu: "Timbu" #
+ ituzaingo: "Ituzaingo" #
+ tuvicha_mini: "Tuvicha Mini" #
+ yaros: "Yaros" #
+ bohan: "Bohan" #
+ carapachay: "Carapachay" #
+ ombu: "Ombu" #
+ yaguari_guazu: "Yaguari Guazu" #
+ gualeguay: "Gualeguay" #
+ nogoya: "Nogoya" #
+ grande_lagoon: "Grande Lagoon" #
+ jeguakava: "Jeguakava" #
+ ibicui: "Ibicui" #
+ ibirapuita: "Ibirapuita" #
+ cacequi: "Cacequi" #
+ ibaje: "Ibaje" #
+ inhandui: "Inhandui" #
+ charrua: "Charrua" #
+ araicuahita: "Araicuahita" #
+ yi: "Yi" #
+ hum: "Hum" #
+ arachan: "Arachan" #
+ guenoa: "Guenoa" #
+ ita_cuara: "Ita Cuara" #
+ ybiti: "Ybiti" #
+ yacegua: "Yacegua" #
+ mepenes: "Mepenes" #
+ taragui: "Taragui" #
+ agaes: "Agaes" #
+ avaes: "Avaes" #
+ payubre: "Payubre" #
+ yapeyu: "Yapeyu" #
+ itapua: "Itapua" #
+ uruguay: "Uruguay" #
+ cuareim: "Cuareim" #
+ pairindi: "Pairindi" #
+ mandisobi: "Mandisobi" #
+ ibera_swamp: "Ibera Swamp" #
+ tandil: "Tandil" #
+ tapalquen: "Tapalquen" #
+ chivilco: "Chivilco" #
+ calfuleufu: "Calfuleufu" #
+ tubicha_mini: "Tubicha Mini" #
+ pillahuinco: "Pillahuinco" #
+ kla_rome_ko: "Kla Rome Ko" #
+ trenquelauquen: "Trenquelauquen" #
+ wangulen: "Wangulen" #
+ rangkull_mapu: "Rangkull Mapu" #
+ epecuen_lagoon: "Epecuen Lagoon" #
+ monte_lagoon: "Monte Lagoon" #
+ tunas_grandes_lake: "Tunas Grandes Lake" #
+ picasa_lake: "Picasa Lake" #
+ cholle_cholle: "Cholle Cholle" #
+ choele_choel: "Choele Choel" #
+ chadileuvu: "Chadileuvu" #
+ fisque_menuco: "Fisque Menuco" #
+ anelo: "Anelo" #
+ ucaln: "Ucaln" #
+ amarga_lagoon: "Amarga Lagoon" #
+ dulce_lagoon: "Dulce Lagoon" #
+ salinas_grandes_lake: "Salinas Grandes Lake" #
+ chasico_lake: "Chasico Lake" #
+ salinas_grandes_salt_pan: "Salinas Grandes Salt Pan" #
+ popopis: "Popopis" #
+ atuel: "Atuel" #
+ viluco: "Viluco" #
+ mamull_mapu: "Mamull Mapu" #
+ rankulche: "Rankulche" #
+ vuta_chadihue: "Vuta Chadihue" #
+ quemu_quemu: "Quemu Quemu" #
+ chapaleufu: "Chapaleufu" #
+ chical_co: "Chical Co" #
+ lewfuko: "Lewfuko" #
+ bebedero_salt_pan: "Bebedero Salt Pan" #
+ kububu: "Kububu" #
+ gaiman: "Gaiman" #
+ tulshun: "Tulshun" #
+ gan_gan: "Gan Gan" #
+ kashtruk: "Kashtruk" #
+ balcheta: "Balcheta" #
+ shupaw_kulu: "Shupaw Kulu" #
+ makunchawu: "Makunchawu" #
+ newenken: "Newenken" #
+ curu_leufvu: "Curu Leufvu" #
+ elcui: "Elcui" #
+ naupa_huen: "Naupa Huen" #
+ somuncura: "Somuncura" #
+ yaminue: "Yaminue" #
+ cushamen: "Cushamen" #
+ kalfucura: "Kalfucura" #
+ colipilli: "Colipilli" #
+ antinir_pilquinan: "Antinir Pilquinan" #
+ buta_ranquil: "Buta Ranquil" #
+ malal_hue: "Malal Hue" #
+ catan_lil: "Catan Lil" #
+ currumil: "Currumil" #
+ vuriloche: "Vuriloche" #
+ curruhuinca: "Curruhuinca" #
+ norquinco: "Norquinco" #
+ huechulafquen_lake: "Huechulafquen Lake" #
+ lacar_lake: "Lacar Lake" #
+ alumine_lake: "Alumine Lake" #
+ nahuel_huapi_lake: "Nahuel Huapi Lake" #
+ llancanelo_salt_pan: "Llancanelo Salt Pan" #
+ masaks: "Masaks" #
+ nakenk: "Nakenk" #
+ hamenk: "Hamenk" #
+ wai: "Wai" #
+ hamhmam: "Hamhmam" #
+ kolser: "Kolser" #
+ haiyuwel: "Haiyuwel" #
+ kauwes: "Kauwes" #
+ cami_lake: "Cami Lake" #
+ blanco_lake: "Blanco Lake" #
+ ofhidro_lake: "Ofhidro Lake" #
+ colhue_huapi: "Colhue Huapi" #
+ sengel: "Sengel" #
+ puyu_huapi: "Puyu Huapi" #
+ chain_chaitun: "Chain Chaitun" #
+ puel_co: "Puel Co" #
+ futra_lhewfu: "Futra Lhewfu" #
+ nahuelpan: "Nahuelpan" #
+ tecka: "Tecka" #
+ koy_aike: "Koy Aike" #
+ achen: "Achen" #
+ corcovado_forest: "Corcovado Forest" #
+ melimoyu_forest: "Melimoyu Forest" #
+ quelat_forest: "Quelat Forest" #
+ cay_forest: "Cay Forest" #
+ san_rafael_forest: "San Rafael Forest" #
+ otron_lake: "Otron Lake" #
+ colhue_huapi_lake: "Colhue Huapi Lake" #
+ san_rafael_lagoon: "San Rafael Lagoon" #
+ gran_lago_salado_salt_pan: "Gran Lago Salado Salt Pan" #
+ fontana_lake: "Fontana Lake" #
+ la_plata_lake: "La Plata Lake" #
+ palena_lake: "Palena Lake" #
+ yelcho_lake: "Yelcho Lake" #
+ paine: "Paine" #
+ juni_aiken: "Juni Aiken" #
+ camusu_aike: "Camusu Aike" #
+ coyle: "Coyle" #
+ kehek_aike: "Kehek Aike" #
+ ciaike: "Ciaike" #
+ horsh_aiken: "Horsh Aiken" #
+ enoo: "Enoo" #
+ blanca_lagoon: "Blanca Lagoon" #
+ kelta_lake: "Kelta Lake" #
+ del_toro_lake: "Del Toro Lake" #
+ sarmiento_lake: "Sarmiento Lake" #
+ balmaceda_lake: "Balmaceda Lake" #
+ pinto_lake: "Pinto Lake" #
+ lee: "Lee" #
+ kopolque: "Kopolque" #
+ corpen_aike: "Corpen Aike" #
+ patagonia: "Patagonia" #
+ pari_aike: "Pari Aike" #
+ charkamak: "Charkamak" #
+ teem: "Teem" #
+ nehuen_mulfun: "Nehuen Mulfun" #
+ katrawunletuayin: "Katrawunletuayin" #
+ fem_mapu: "Fem Mapu" #
+ chalten: "Chalten" #
+ kelt_aiken: "Kelt Aiken" #
+ viedma_lake: "Viedma Lake" #
+ cardiel_lake: "Cardiel Lake" #
+ charre_lake: "Charre Lake" #
+ strobel_lake: "Strobel Lake" #
+ pueyrredon_lake: "Pueyrredon Lake" #
+ ghio_lake: "Ghio Lake" #
+ chelenko_lake: "Chelenko Lake" #
+ tawokser: "Tawokser" #
+ jautok: "Jautok" #
+ jetarktetqal: "Jetarktetqal" #
+ saelam: "Saelam" #
+ kcewite: "Kcewite" #
+ kelaelkces: "Kelaelkces" #
+ malte: "Malte" #
+ caguatl: "Caguatl" #
+ nansen_forest: "Nansen Forest" #
+ paine_forest: "Paine Forest" #
+ little_wellington_forest: "Little Wellington Forest" #
+ ohiggins_forest: "Ohiggins Forest" #
+ campo_nevado_forest: "Campo Nevado Forest" #
+ ladrillero_forest: "Ladrillero Forest" #
+ parrillar_forest: "Parrillar Forest" #
+ tawokser_forest: "Tawokser Forest" #
+ clarence_forest: "Clarence Forest" #
+ glaciar_lake: "Glaciar Lake" #
+ chuainisin: "Chuainisin" #
+ wakimaala: "Wakimaala" #
+ utumaala: "Utumaala" #
+ yeskumaala: "Yeskumaala" #
+ inalumaala: "Inalumaala" #
+ ilalumaala: "Ilalumaala" #
+ dawson_forest: "Dawson Forest" #
+ agostini_forest: "Agostini Forest" #
+ masaks_forest: "Masaks Forest" #
+ navarino_forest: "Navarino Forest" #
+ ilalumaala_forest: "Ilalumaala Forest" #
+ west_falkland: "West Falkland" #
+ east_falkland: "East Falkland" #
+ georgia_isle: "Georgia Isle" #
+ corcovado_gulf: "Corcovado Gulf" #
+ puyuguapi_channel: "Puyuguapi Channel" #
+ guaitecas_archipelago: "Guaitecas Archipelago" #
+ guamblin_island: "Guamblin Island" #
+ byron_island: "Byron Island" #
+ jungfrauen_island: "Jungfrauen Island" #
+ fajokstai_channel: "Fajokstai Channel" #
+ east_pacific_high_sea81: "East Pacific High Sea" #
+ east_pacific_high_sea83: "East Pacific High Sea" #
+ jolawokstai_channel: "Jolawokstai Channel" #
+ ramirez_island: "Ramirez Island" #
+ stokes_bay: "Stokes Bay" #
+ otway_sound: "Otway Sound" #
+ colcolo_bay: "Colcolo Bay" #
+ nelson_strait: "Nelson Strait" #
+ concepcion_channel: "Concepcion Channel" #
+ east_pacific_high_sea86: "East Pacific High Sea" #
+ east_pacific_high_sea87: "East Pacific High Sea" #
+ cook_bay: "Cook Bay" #
+ hermite_isle: "Hermite Isle" #
+ onashaga_channel: "Onashaga Channel" #
+ aguirre_bay: "Aguirre Bay" #
+ east_pacific_high_sea90: "East Pacific High Sea" #
+ blossom_bay: "Blossom Bay" #
+ lawal_lakwaia_bay: "Lawal Lakwaia Bay" #
+ daua_nuk_cove: "Daua Nuk Cove" #
+ san_carlos_strait: "San Carlos Strait" #
+ san_jose_island: "San Jose Island" #
+ western_atlantic_high_sea70: "Western Atlantic High Sea" #
+ western_atlantic_high_sea72: "Western Atlantic High Sea" #
+ western_atlantic_high_sea73: "Western Atlantic High Sea" #
+ western_atlantic_high_sea75: "Western Atlantic High Sea" #
+ western_atlantic_high_sea66: "Western Atlantic High Sea" #
+ western_atlantic_high_sea77: "Western Atlantic High Sea" #
+ froward_pass: "Froward Pass" #
+ san_sebastian_bay: "San Sebastian Bay" #
+ lomas_bay: "Lomas Bay" #
+ felipe_bay: "Felipe Bay" #
+ admiralty_sound: "Admiralty Sound" #
+ santa_cruz_river_mouth: "Santa Cruz River Mouth" #
+ loyola_point: "Loyola Point" #
+ western_atlantic_high_sea64: "Western Atlantic High Sea" #
+ blanco_cape_plata: "Blanco Cape" #
+ tres_puntas_cape: "Tres Puntas Cape" #
+ bustamante_bay: "Bustamante Bay" #
+ tombo_point: "Tombo Point" #
+ san_julian_bay: "San Julian Bay" #
+ western_atlantic_high_sea59: "Western Atlantic High Sea" #
+ western_atlantic_high_sea63: "Western Atlantic High Sea" #
+ samborombon_bay: "Samborombon Bay" #
+ la_plata_river_mouth: "La Plata River Mouth" #
+ uruguay_river: "Uruguay River" #
+ artilleros_point: "Artilleros Point" #
+ brava_point: "Brava Point" #
+ este_point: "Este Point" #
+ western_atlantic_high_sea52: "Western Atlantic High Sea" #
+ santa_maria_cape: "Santa Maria Cape" #
+ polonio_cape: "Polonio Cape" #
+ barros_lagoon: "Barros Lagoon" #
+ peixe_lagoon: "Peixe Lagoon" #
+ patos_coast: "Patos Coast" #
+ patos_lagoon: "Patos Lagoon" #
+ mirim_lagoon: "Mirim Lagoon" #
+ western_atlantic_high_sea49: "Western Atlantic" #
+ western_atlantic_high_sea50: "Western Atlantic" #
+ western_atlantic_high_sea51: "Western Atlantic" #
+ western_atlantic_high_sea80: "Western Atlantic High Sea" #
+ nuevo_gulf: "Nuevo Gulf" #
+ san_matias_gulf: "San Matias Gulf" #
+ bermeja_point: "Bermeja Point" #
+ anegada_bay: "Anegada Bay" #
+ blanca_bay: "Blanca Bay" #
+ pampa_coast: "Pampa Coast" #
+ tandil_coast: "Tandil Coast" #
+ western_atlantic_high_sea56: "Western Atlantic High Sea" #
+ western_atlantic_high_sea58: "Western Atlantic High Sea" #
+ western_atlantic_high_sea53: "Western Atlantic High Sea" #
+ western_atlantic_high_sea54: "Western Atlantic High Sea" #
+ western_atlantic_high_sea55: "Western Atlantic High Sea" #

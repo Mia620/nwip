@@ -1,0 +1,80 @@
+﻿#jamaica_scripted_country_name = {
+#
+#	# regular old country trigger
+#	country_trigger = {
+#		
+#	}
+#	
+#	# trigger to check country's capital against, has to pass
+#	capital_trigger = {
+#		province_definition = province_definition:xaymaca_province
+#	}
+#	
+#	# trigger to check all the country locations against, all have to pass
+#	location_trigger = {
+#		province_definition = province_definition:xaymaca_province
+#	}
+#}
+#
+#
+#new_granada_scripted_country_name = {
+#
+#	# regular old country trigger
+#	country_trigger = {
+#		OR = {
+#			overlord ?= {
+#				OR = {
+#					tag = GRA
+#					any_primary_or_accepted_culture = { this ?= culture:andalusi }
+#					any_core_location = { area = area:granada_area }
+#					any_subject_or_below = { 
+#						tag = GRA
+#						any_primary_or_accepted_culture = { this ?= culture:andalusi }
+#						any_core_location = { area = area:granada_area }
+#					}
+#				}
+#			}
+#		}
+#	}
+#	
+#	# trigger to check country's capital against, has to pass
+#	capital_trigger = {
+#		region = region:colombia_region
+#	}
+#	
+#	# trigger to check all the country locations against, all have to pass
+#	location_trigger = {
+#	}
+#}
+#
+#
+#new_spain_scripted_country_name = {
+#
+#	# regular old country trigger
+#	country_trigger = {
+#		OR = {
+#			overlord ?= {
+#				OR = {
+#					tag = SPA
+#					culture.language = language:spanish_language
+#				}
+#			}
+#		}
+#	}
+#	
+#	# trigger to check country's capital against, has to pass
+#	capital_trigger = {
+#		sub_continent = sub_continent:north_america
+#		region != region:caribbean_region
+#	}
+#	
+#	# trigger to check all the country locations against, all have to pass
+#	location_trigger = {
+#	}
+#}
+
+#conquistador_scripted_country_name = {
+#	country_trigger = {
+#		has_reform = government_reform:conquistador_country
+#	}
+#}

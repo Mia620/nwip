@@ -1,0 +1,381 @@
+﻿namespace = conquistador
+
+#conquistador arrives to start kicking ass
+conquistador.1 = {
+	hide_portraits = yes
+	type = country_event
+	#called from code when a conquistador construction is completed
+	orphan = yes
+
+	title = conquistador.1.title
+	desc = conquistador.1.desc
+	
+	image = "gfx/interface/illustrations/institutions/new_world.dds"
+
+	immediate = {
+		#create the conquistador
+		
+		if = {
+			limit = {
+				scope:target_location = {
+					is_owned_or_owned_by_subjects_of = scope:actor
+				}
+			}
+
+			#already got this location, so just join them
+			scope:target_location = {
+				owner = {
+					save_scope_as = new_conquistador
+				}
+			}
+		}
+		#NWIP: let's see what happens if merely existing in the area is enough
+		#prioritize a conquistador if available!
+		else_if = {
+			limit = {
+				scope:target_location.area = {
+					any_location_in_area = {
+						has_owner = yes
+						owner.top_overlord ?= scope:actor
+						owner ?= {
+							has_reform = government_reform:conquistador_country
+						}
+					}
+				}
+			}
+			scope:target_location.area = {
+				random_location_in_area = {
+					limit = {
+						has_owner = yes
+						owner.top_overlord ?= scope:actor
+					}
+					owner = {
+						save_scope_as = new_conquistador
+					}
+				}
+			}
+		}
+		#let's not join a regular subject for now
+		#else_if = {
+		#	limit = {
+		#		scope:target_location.area = {
+		#			any_location_in_area = {
+		#				has_owner = yes
+		#				owner.top_overlord = scope:actor
+		#			}
+		#		}
+		#	}
+		#	scope:target_location.area = {
+		#		random_location_in_area = {
+		#			limit = {
+		#				has_owner = yes
+		#				owner.top_overlord = scope:actor
+		#			}
+		#			owner = {
+		#				save_scope_as = new_conquistador
+		#			}
+		#		}
+		#	}
+		#}
+		
+		else = {
+			scope:actor.capital = {
+				create_army_country_in_location = {
+					reforms = {
+						conquistador_country
+					}
+					save_scope_as = new_conquistador
+					set_capital  = scope:target_location
+					set_new_ruler = scope:target
+					make_subject_of = { target = scope:actor type = subject_type:conquistador }
+				}
+				##NWIP give them a proper local name
+				##not working quite yet :(
+				#scope:new_conquistador = {
+				#	change_country_name = CONQ
+				#}
+			}
+		}
+
+		scope:new_conquistador = {
+		
+			#give them some gold so they acn pay for troops
+			set_gold = 200
+			
+			#army them up
+			scope:target_location = {
+				if = {
+					limit = {
+						current_age_or_later = { age = age_3_discovery }
+					}
+					while =  {
+						#count = 2
+						count = 10
+						create_sub_unit_with_owner = {
+							type = a_discovery_conquistadors
+							owner = scope:new_conquistador
+							origin = scope:location
+							experience = 100
+						}
+					}
+				}
+				else = {
+					while =  {
+						#count = 2
+						count = 10
+						create_sub_unit_with_owner = {
+							type = a_renaissance_conquistadors
+							owner = scope:new_conquistador
+							origin = scope:location
+							experience = 100
+						}
+					}
+				}
+			}
+
+			#after giving them the army we need to recalc the country active status
+			force_recalc_country_active_status = scope:new_conquistador
+
+			#move the character into the new country
+			scope:target = {
+				move_country = scope:new_conquistador
+			}
+
+			random_army = {
+				limit = {
+					unit_has_leader = no
+				}
+				set_as_commander = scope:target
+			}
+
+			if = {
+				limit = {
+					scope:target_location = {
+						not = { is_owned_or_owned_by_subjects_of = scope:actor }
+					}
+				}
+				#time to kick some ass
+				add_casus_belli = {	
+					target = scope:target_location.owner
+					type = casus_belli:cb_conquer_province
+					province = scope:target_location.province
+				}
+				declare_war_with_cb = {
+					target = scope:target_location.owner
+					type = casus_belli:cb_conquer_province
+				}
+				
+				##NWIP bring your overlord with you!
+				##TODO it might be better if after 2 years the overlord can join 
+				#every_current_war = {
+				#	save_scope_as = conquistador_war
+				#}
+				
+				#overlord = {
+				#	join_war_with = {
+				#		target = scope:new_conquistador
+				#		war = scope:conquistador_war
+				#	}
+				#}
+				
+				#scope:conquistador_war = {
+				#	if = {
+				#		limit = {
+				#			attacker_leader = scope:new_conquistador
+				#		}
+				#		scope:new_conquistador.overlord ?= {
+				#			join_war_as_attacker = {
+				#				war = prev
+				#				reason = intervene
+				#			}
+				#		}
+				#	}
+				#}
+				
+				
+			}
+		}
+	}
+
+	# bueno!
+	option = {
+		name = conquistador.1.a
+	}
+}
+
+conquistador.10 = {
+	hide_portraits = yes
+	type = location_event	
+
+	title = conquistador.10.title
+	desc = conquistador.10.desc
+	
+	
+	image = "gfx/interface/illustrations/institutions/new_world.dds"
+	
+	
+	trigger = {
+		owner ?= {
+			OR = {
+				has_reform = government_reform:conquistador_country
+				AND = {
+					is_subject_type = colonial_nation
+					country_type = army
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		owner = {
+			overlord = {
+				save_scope_as = former_overlord
+			}
+			save_scope_as = conquistador_country
+		}
+	}
+
+
+	# keep conquering
+	option = {
+		name = conquistador.10.a
+		owner = {
+			add_manpower = { value = scope:former_overlord.monthly_manpower multiply = 3 }
+		}
+		
+		
+		
+		ai_chance = {
+			factor = 2
+			modifier = {
+				factor = -1
+				#NWIP greatly increase this - they should only settle down when they're either huge or in peace
+				#owner.num_locations > 5
+				owner.num_locations > 25
+			}			
+			modifier = {
+				factor = -1
+				#NWIP greatly increase this - they should only settle down when they're either huge or in peace
+				#owner.num_locations > 8
+				owner.num_locations > 40
+			}	
+		}
+
+	}
+
+
+	option = {
+		name = conquistador.10.b
+		
+		scope:former_overlord = {
+			trigger_event_silently = conquistador.11
+		}
+		show_as_tooltip = {
+			owner = {
+				remove_reform = government_reform:conquistador_country
+				make_subject_of = { target = scope:former_overlord type = subject_type:colonial_nation }
+			}
+		}
+		
+		
+		ai_chance = {
+			factor = 0
+			modifier = {
+				factor = 1
+				owner.num_locations > 4
+			}
+			modifier = {
+				factor = 3
+				owner = {
+					any_current_war = {
+						count = 0
+					}
+				}
+			}			
+			
+		}
+	}
+}
+
+
+
+conquistador.11 = {
+	type = country_event	
+
+	title = conquistador.11.title
+	desc = conquistador.11.desc
+	
+	image = "gfx/interface/illustrations/institutions/new_world.dds"
+	
+	immediate = {
+		
+		ordered_subject = {
+			limit = {
+				is_subject_type = colonial_nation
+				capital = {
+					region = scope:conquistador_country.capital.region
+				}
+			}
+			order_by = total_population
+			max = 1
+
+			save_scope_as = potential_join_big_regional_subject
+		}
+		
+		#TODO add the other potential joins
+	}
+	
+	
+	option = {
+		name = conquistador.11.a
+		scope:conquistador_country = {
+			remove_reform = government_reform:conquistador_country
+			make_subject_of = { target = root type = subject_type:colonial_nation }
+		}
+		
+		#historical_option = yes
+		
+		ai_chance = {
+			factor = 1
+		}
+	}
+	
+	option = {
+		name = conquistador.11.b
+		add_prestige = prestige_weak_penalty
+		
+		ai_chance = {
+			factor = 0
+		}
+	}
+	
+	#join nearby colony if available
+	option = {
+		name = conquistador.11.c
+
+		trigger = { 
+			 exists = scope:potential_join_big_regional_subject
+			 #TODO Test: only annex if you're at peace
+			 scope:conquistador_country = {
+				any_current_war = {
+					count = 0
+				}
+			 }
+		}
+		
+		scope:potential_join_big_regional_subject = {
+			annex_country = {
+				country = scope:conquistador_country
+				reason = Diplomatic
+				transfer = yes
+			}
+		}
+		
+		historical_option = yes
+		
+		ai_chance = {
+			factor = 1000
+		}
+	}
+
+}

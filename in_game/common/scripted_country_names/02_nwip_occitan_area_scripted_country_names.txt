@@ -1,0 +1,1350 @@
+﻿occitan_laurentian_area_scripted_country_name = { #Llorençan
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:laurentian_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_jamesie_area_scripted_country_name = { #Sant Jaume
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:jamesie_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_nunavik_area_scripted_country_name = { #Nunavic
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:nunavik_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_newfoundland_area_scripted_country_name = { #Terranova
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:newfoundland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_prince_edward_island_area_scripted_country_name = { #Illa de Príncep
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:prince_edward_island_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_new_brunswick_area_scripted_country_name = { #Sant Joan
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:new_brunswick_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_keewatin_area_scripted_country_name = { #Quevatin
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:keewatin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_hispaniola_area_scripted_country_name = { #Sant Domènec
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hispaniola_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_massachusetts_area_scripted_country_name = { #Masasusets
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:massachusetts_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_vermont_area_scripted_country_name = { #Monvert
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:vermont_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_new_hampshire_area_scripted_country_name = { #Merimac
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:new_hampshire_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_maine_area_scripted_country_name = { #Vabanac
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maine_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_haudenosaunee_area_scripted_country_name = { #Rodenosauni
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:haudenosaunee_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_new_jersey_area_scripted_country_name = { #Novas Balears
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:new_jersey_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_pennsylvania_area_scripted_country_name = { #Susqueran
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:pennsylvania_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_westsylvania_area_scripted_country_name = { #Allegen
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:westsylvania_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_maryland_area_scripted_country_name = { #Santa Maria
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maryland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_west_virginia_area_scripted_country_name = { #Monogarrel
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:west_virginia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_north_carolina_area_scripted_country_name = { #Sant Carles Nord
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:north_carolina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_south_carolina_area_scripted_country_name = { #Sant Carles Sud
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:south_carolina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_tennessee_area_scripted_country_name = { #Tenesi
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tennessee_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_kentucky_area_scripted_country_name = { #Guentac
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:kentucky_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_ohio_area_scripted_country_name = { #Orio
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:ohio_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_illinois_area_scripted_country_name = { #Illina
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:illinois_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_wisconsin_area_scripted_country_name = { #Visconsin
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:wisconsin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_mississippi_area_scripted_country_name = { #Misisip
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mississippi_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_louisiana_area_scripted_country_name = { #Loisian
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:louisiana_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_arkansas_area_scripted_country_name = { #Arcansa
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:arkansas_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_missouri_area_scripted_country_name = { #Misuri
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:missouri_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_iowa_area_scripted_country_name = { #Ayoa
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:iowa_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_central_plains_area_scripted_country_name = { #Cansas
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:central_plains_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:minas_gerais_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_nekokiaw_area_scripted_country_name = { #Necocal
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:nekokiaw_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_baja_area_scripted_country_name = { #Baixa Califòrnia
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:baja_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_alaxsxaq_area_scripted_country_name = { #Alasc
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:alaxsxaq_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_california_area_scripted_country_name = { #Califòrnia
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:california_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_para_area_scripted_country_name = { #Pará
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:para_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_maranhao_area_scripted_country_name = { #Maranyan
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maranhao_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_piaui_area_scripted_country_name = { #Pyaui
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:piaui_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_ceara_area_scripted_country_name = { #Cearà
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:ceara_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_paraiba_area_scripted_country_name = { #Paraib
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:paraiba_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_pernambuco_area_scripted_country_name = { #Pernabuc
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:pernambuco_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_bahia_area_scripted_country_name = { #Badia de Tots Sants
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:bahia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_espirito_santo_area_scripted_country_name = { #Esperit Sant
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:espirito_santo_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_rio_de_janeiro_area_scripted_country_name = { #Riu de Gener
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rio_de_janeiro_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_minas_gerais_area_scripted_country_name = { #Mines Generals
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:minas_gerais_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_sao_paulo_area_scripted_country_name = { #Sant Pau
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:sao_paulo_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_santa_catarina_area_scripted_country_name = { #Santa Catarina
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:santa_catarina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_rio_grande_do_sul_area_scripted_country_name = { #Riu Grand del Sud
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rio_grande_do_sul_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+occitan_la_plata_area_scripted_country_name = { #Riu Argent
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:occitan_language
+					culture.language = language:occitan_language
+					overlord ?= {
+						court_language = language:occitan_language
+					}
+					overlord ?= {
+						culture.language = language:occitan_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:la_plata_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }

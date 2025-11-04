@@ -1,0 +1,405 @@
+﻿russian_quebec_area_scripted_country_name = { #Kvebek, current name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:quebec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_laurentian_area_scripted_country_name = { #Lavrentiya, translation based off of the English name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:laurentian_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_lower_canada_area_scripted_country_name = { #Nizhnyaya Kanada, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:lower_canada_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_newfoundland_area_scripted_country_name = { #Novaya Zemlya, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:newfoundland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_acadia_area_scripted_country_name = { #Akadiya, name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:acadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_keewatin_area_scripted_country_name = { #Kivatin, name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:keewatin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_cuba_area_scripted_country_name = { #Kuba, name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:cuba_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_hispaniola_area_scripted_country_name = { #Gaiti , name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hispaniola_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_hudson_area_scripted_country_name = { #Gudzon, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hudson_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_natahende_area_scripted_country_name = { #Novaya Meksika, mangled this one together
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:natahende_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_saskatchewan_area_scripted_country_name = { #Saskachevan , current name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:saskatchewan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_mexihko_area_scripted_country_name = { #Meksika, name of the country
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mexihko_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_tlaxcala_area_scripted_country_name = { #Tlaskala , current name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tlaxcala_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_alaxsxaq_area_scripted_country_name = { #Alyaska , name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:alaxsxaq_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+russian_hawaii_area_scripted_country_name = { #Gavayi, name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:russian_language
+					culture.language = language:russian_language
+					overlord ?= {
+						court_language = language:russian_language
+					}
+					overlord ?= {
+						culture.language = language:russian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hawaii_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }

@@ -1,0 +1,86 @@
+﻿fall_of_cahokia = {
+
+	image = "gfx/interface/illustrations/disaster/ciompi_revolt.dds"
+	
+	monthly_spawn_chance = monthly_spawn_chance_very_high
+
+	can_start = {
+		tag = CHK
+		OR = {
+			OR = {
+				estate_satisfaction:burghers_estate <= 0.6
+				estate_satisfaction:peasants_estate <= 0.6
+				estate_satisfaction:clergy_estate <= 0.6
+			}
+		}
+		stability < 30
+		has_any_active_disaster = no
+		custom_tooltip = {
+			text = had_csd_disaster_variable_tt
+			NOT = { has_variable = concluded_fall_of_cahokia_variable }
+		}
+
+	}
+	
+
+	can_end = {
+		stability > 50
+		current_age_or_later = { age = age_3_discovery }
+		
+		#always = no
+	}
+	modifier = {
+		#burghers_estate_target_satisfaction = medium_permanent_target_satisfaction_penalty
+		#peasants_estate_target_satisfaction = medium_permanent_target_satisfaction_penalty
+		#clergy_estate_target_satisfaction = medium_permanent_target_satisfaction_penalty
+		#
+		#stability_investment = -0.2
+		#stability_decay = 0.2
+		#
+		#global_monthly_prosperity = -0.1
+		#global_monthly_development = -0.1
+		#
+		#global_max_control = -0.25
+		#global_monthly_control = -0.25
+		#
+		#global_population_growth = -0.1
+		#
+		#global_food_capacity_modifier = -0.25
+		
+		global_monthly_prosperity = -0.01
+		global_max_control = -0.1
+		
+		
+	}
+	
+	on_start = {
+		trigger_event_non_silently = fall_of_cahokia.1
+	}
+	on_end = {
+		set_variable = concluded_fall_of_cahokia_variable
+		trigger_event_non_silently = fall_of_cahokia.10
+	}
+	
+	on_monthly = {
+
+		random_list = {
+			13 = { custom_tooltip = an_event_occurs_tt }
+			87 = { custom_tooltip = no_event_occurs_tt }
+		}
+
+		hidden_effect = {
+			random_list = {
+				#250 = { trigger_event_non_silently = fall_of_cahokia.101 }
+				150 = { trigger_event_non_silently = fall_of_cahokia.101 }
+				#75 = { trigger_event_non_silently = fall_of_cahokia.2 }
+				#75 = { trigger_event_non_silently = fall_of_cahokia.3 }
+				#25 = { trigger_event_non_silently = fall_of_cahokia.4 }
+				#25 = { trigger_event_non_silently = fall_of_cahokia.5 }
+				#25 = { trigger_event_non_silently = fall_of_cahokia.6 }
+				#25 = { trigger_event_non_silently = fall_of_cahokia.7 }
+				1000 = { custom_tooltip = no_event_occurs_tt }
+			}
+		}
+		
+	}
+}

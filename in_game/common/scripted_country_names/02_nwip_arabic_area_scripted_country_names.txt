@@ -1,0 +1,1566 @@
+﻿arabic_greenland_area_scripted_country_name = { #Al-Arḍ al-ẖaḍrā, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:greenland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_quebec_area_scripted_country_name = { #Kībik
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:quebec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_lower_canada_area_scripted_country_name = { #Kanadā as-suflā, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:lower_canada_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_nunavik_area_scripted_country_name = { #Nūnāfīk
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:nunavik_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_acadia_area_scripted_country_name = { #Akādiyā
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:acadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_eastern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šarqiyyah
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:eastern_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_western_ontario_area_scripted_country_name = { #Ūntāriyū al-ġarbiyyah
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:western_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_northern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šimāliyyah
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:northern_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_northwestern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šimāliyyah al-ġarbiyyah
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:northwestern_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_greenstone_belt_area_scripted_country_name = { #Al-Ḥajar al-Aẖḍar, translation of "green stone"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:greenstone_belt_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_cuba_area_scripted_country_name = { #Kūbā, modern name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:cuba_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_hispaniola_area_scripted_country_name = { #Hāyīt, country and singular demonym are the same
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hispaniola_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_lesser_antilles_area_scripted_country_name = { #Juzur al-Antīl aṣ-ṣuġrā, modern name (Antilles might be of Portuguese origin, so could be improved)
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:lesser_antilles_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_panama_area_scripted_country_name = { #Banamā, modern name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:panama_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_massachusetts_area_scripted_country_name = { #Māsāšūsit, took off medial t and final s for a more original name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:massachusetts_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_haudenosaunee_area_scripted_country_name = { #Ḥudinušūn, interpreted original word as adjective, backformed country
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:haudenosaunee_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_westsylvania_area_scripted_country_name = { #Al-Ighayn, interpreted original word as adjective, backformed country
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:westsylvania_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_florida_area_scripted_country_name = { #Al-Muzdahirah, "the flowering one"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:florida_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_mississippi_area_scripted_country_name = { #Musīsib
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mississippi_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_missouri_area_scripted_country_name = { #Misūr, interpreted original word as adjective, backformed country
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:missouri_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_superior_area_scripted_country_name = { #Al-Kubrā, lit. "biggest"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:superior_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_north_dakota_area_scripted_country_name = { #Dākūtā aš-šimāliyyah, modern name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:north_dakota_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_south_dakota_area_scripted_country_name = { #Dākūtā al-janūbiyyah, modern name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:south_dakota_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_central_plains_area_scripted_country_name = { #Bilād Kānsā, "Kansa country"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:central_plains_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_high_plains_area_scripted_country_name = { #As-Suhūl al-ʿuliyā, translation for "high plains"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:high_plains_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_badlands_area_scripted_country_name = { #Al-Arāḍī al-jardāʾ, translation for "barren lands"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:badlands_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_upper_missouri_area_scripted_country_name = { #Misūr al-ʿuliyā
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:upper_missouri_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_red_river_area_scripted_country_name = { #An-Nahr Al-Aḥmar, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:red_river_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_mexihko_area_scripted_country_name = { #Mašīʾkū, invented from Nahuatl
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mexihko_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_tlaxcala_area_scripted_country_name = { #Tilāškallān, invented from Nahuatl
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tlaxcala_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_huaxyacac_area_scripted_country_name = { #Wāš Yakak, invented from Nahuatl
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:huaxyacac_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_michoacan_area_scripted_country_name = { #Mušuwwakān, invented from Nahuatl
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:michoacan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_xilotepec_area_scripted_country_name = { #Kuwānaš Wātū, invented from Purepecha
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:xilotepec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_xalisco_area_scripted_country_name = { #Wādī al-Ḥajārah, Taken from the Arabic etymology of Guadalajara
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:xalisco_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_minas_gerais_area_scripted_country_name = { #Al-Manājim, translation for "mines"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:minas_gerais_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_peten_area_scripted_country_name = { #Balīz
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:peten_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_kuskatan_area_scripted_country_name = { #Kuskatān
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:kuskatan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_baja_area_scripted_country_name = { #Dār al-ẖalīfah as-suflā, invented based on the theory that the name California is related to caliph
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:baja_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_alaxsxaq_area_scripted_country_name = { #Al-Aẖsaq, invented based on Aleut alaxsxaq
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:alaxsxaq_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_california_area_scripted_country_name = { #Dār al-ẖalīfah, invented based on the theory that the name California is related to caliph
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:california_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_great_basin_area_scripted_country_name = { #Al-Ḥawḍ al-ʿaẓīm, actual name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:great_basin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_rockies_area_scripted_country_name = { #Al-Jibāl aṣ-ṣaẖriyyah, actual name/translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rockies_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_hawaii_area_scripted_country_name = { #Juzur al-Hawāʾ, interpreted original word as adjective, backformed country
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hawaii_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_piaui_area_scripted_country_name = { #Biyāwī
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:piaui_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_ceara_area_scripted_country_name = { #Siyārā
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:ceara_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_paraiba_area_scripted_country_name = { #Biʾr Ībah, invented from Tupi, based on misidentification with Biʾr ("well")
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:paraiba_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_bahia_area_scripted_country_name = { #Al-H̱alīj, translation for "bay" (same word as "gulf")
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:bahia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_bogota_area_scripted_country_name = { #Abū Qiṭāʿ, invented using possessor particle "abu"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:bogota_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_andes_area_scripted_country_name = { #Al-Andah, modern name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:andes_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_quitu_area_scripted_country_name = { #Kītū
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:quitu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_atacama_area_scripted_country_name = { #Atakāmā
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:atacama_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_yunga_area_scripted_country_name = { #Yūnkā
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:yunga_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_qullaw_area_scripted_country_name = { #Ṣaʿīd Birū, translation of "Upper Peru"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:qullaw_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_la_plata_area_scripted_country_name = { #Bilād al-Fiḍḍah, ("Country of Silver")
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:la_plata_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_moqoit_area_scripted_country_name = { #Muqayṭ
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:moqoit_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_cordoba_de_tucuman_area_scripted_country_name = { #Qurṭubah
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:cordoba_de_tucuman_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_boiaca_area_scripted_country_name = { #Abū Yakā, invented using possessor particle "abu"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:boiaca_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+arabic_sinu_area_scripted_country_name = { #Qarṭāj, Arabic name for "Carthage"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:arabic_language
+					culture.language = language:arabic_language
+					overlord ?= {
+						court_language = language:arabic_language
+					}
+					overlord ?= {
+						culture.language = language:arabic_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:sinu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }

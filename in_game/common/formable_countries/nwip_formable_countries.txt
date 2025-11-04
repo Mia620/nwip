@@ -1,0 +1,772 @@
+﻿#from vanilla eu5
+USA_f = {
+	level = 4
+	required_locations_fraction = 0.35
+	rule = historical
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+		#let's let everyone form it, and adjust the name accordingly
+		#culture = { has_culture_group = culture_group:british_group }
+	}
+
+	allow = {
+	}
+	
+	name = USA
+	flag = USA
+	adjective = USA_ADJ
+	tag = USA
+	color = map_USA
+
+	regions = {
+		east_coast_region
+	}
+	form_effect = {
+	}
+}
+
+#from vanilla eu5
+CAN_f = {
+	level = 3 #save 4 for Greater Canada?
+	required_locations_fraction = 0.35
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = CAN
+	flag = CAN
+	adjective = CAN_ADJ
+	tag = CAN
+	color = map_CAN
+
+	regions = {
+		canada_region
+	}
+	form_effect = {
+	}
+}
+
+#from vanilla eu5
+MEX_f = {
+	level = 3
+	required_locations_fraction = 0.5
+	rule = historical
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = MEX
+	flag = MEX
+	adjective = MEX_ADJ
+	tag = MEX
+	color = map_MEX
+
+	regions = {
+		mesoamerica_region
+	}
+	form_effect = {
+	}
+}
+
+
+BRZ_f = {
+	level = 4
+	required_locations_fraction = 0.35 #should be enough...?
+	rule = historical
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+		#anyone can form Brazil!
+		#culture = { has_culture_group = culture_group:iberian_group }
+	}
+
+	allow = {
+	}
+	
+	name = BRZ_f
+	flag = BRZ_f
+	adjective = BRZ_f_ADJ
+	tag = BRZ_f
+	color = map_BRZ_f
+
+	regions = {
+		brazil_region
+	}
+	form_effect = {
+	}
+}
+
+NES_f = { #New Spain, greater mexico
+	level = 4
+	required_locations_fraction = 0.35
+	rule = historical
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NES_f
+	#flag = NES_f
+	adjective = NES_f_ADJ
+	tag = NES_f
+	#color = map_NES_f
+
+	regions = {
+		mesoamerica_region
+		aridoamerica_region
+		central_america_region
+	}
+	form_effect = {
+	}
+}
+
+LPL_f = { #Virreinato del Rio de la Plata
+	level = 3
+	required_locations_fraction = 0.5
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = LPL_f
+	#flag = LPL_f #TODO add flag
+	adjective = LPL_f_ADJ
+	tag = LPL_f
+	#color = map_LPL_f
+
+	areas = {
+		la_plata_area
+		paraguay_area
+		cordoba_del_tucuman_area
+		salta_del_tucuman_area
+	}
+	form_effect = {
+	}
+}
+
+CHA_f = { #Audiencia de Charcas
+	level = 2
+	required_locations_fraction = 0.5
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = CHA_f
+	#flag = CHA_f #TODO add flag
+	adjective = CHA_f_ADJ
+	tag = CHA_f
+	#color = map_CHA_f
+
+	areas = {
+		chaco_area
+		charcas_area
+		qullaw_area
+	}
+	form_effect = {
+	}
+}
+
+PAT_f = { #Patagonia, Tierras Magallanicas
+	level = 2
+	required_locations_fraction = 0.5
+	rule = fantasy
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = PAT_f
+	#flag = PAT_f #TODO add flag
+	adjective = PAT_f_ADJ
+	tag = PAT_f
+	#color = map_PAT_f
+
+	areas = {
+		patagonia_area
+		puelmapu_area
+		falklands_area
+		south_georgia_area
+		ngulumapu_area
+	}
+	form_effect = {
+	}
+}
+
+PEU_f = { #Vireinato del Peru
+	level = 3
+	required_locations_fraction = 0.35
+	rule = historical
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = PEU_f
+	#flag = PEU_f #TODO add flag
+	adjective = PEU_f_ADJ
+	tag = PEU_f
+	#color = map_PEU_f 
+
+	areas = {
+		qullaw_area
+		chala_area
+		puna_area
+		yunga_area
+		#there are some missing?
+	}
+	form_effect = {
+	}
+}
+
+NUG_f = { #Nueva Granada
+	level = 3
+	required_locations_fraction = 0.35
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NUG_f
+	#flag = NUG_f #TODO add flag
+	adjective = NUG_f_ADJ
+	tag = NUG_f
+	#color = map_NUG_f
+
+	regions = {
+		colombia_region
+	}
+	form_effect = {
+	}
+}
+
+VZL_f = { #Venezuela
+	level = 2
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = VZL_f
+	#flag = VZL_f #TODO add flag
+	adjective = VZL_f_ADJ
+	tag = VZL_f
+	#color = map_VZL_f
+
+	areas = {
+		caracas_area
+		suchiimma_area
+		apure_area
+	}
+	form_effect = {
+	}
+}
+
+CHL_f = { #Chile
+	level = 2
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = CHL_f
+	#flag = CHL_f #TODO add flag
+	adjective = CHL_f_ADJ
+	tag = CHL_f
+	#color = map_CHL_f
+
+	areas = {
+		ngulumapu_area
+		atacama_area
+		cuyo_area
+	}
+	form_effect = {
+	}
+}
+
+##NA
+NEN_f = { #New England
+	level = 3
+	required_locations_fraction = 0.45
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NEN_f
+	#flag = NEN_f #TODO add flag
+	adjective = NEN_f_ADJ
+	tag = NEN_f
+	#color = map_NEN_f
+
+	areas = {
+		massachusetts_area
+		southern_new_england_area
+		vermont_area
+		new_hampshire_area
+		maine_area
+	}
+	form_effect = {
+	}
+}
+
+NYO_f = { #New York
+	level = 2
+	required_locations_fraction = 0.75
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NYO_f
+	#flag = NYO_f #TODO add flag
+	adjective = NYO_f_ADJ
+	tag = NYO_f
+	#color = map_NYO_f
+
+	areas = {
+		hudson_area
+		haudenosaunee_area
+		new_jersey_area
+	}
+	form_effect = {
+	}
+}
+
+MAR_f = { #Maritimes
+	level = 2
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = MAR_f
+	#flag = MAR_f #TODO add flag
+	adjective = MAR_f_ADJ
+	tag = MAR_f
+	#color = map_MAR_f
+
+	areas = {
+		arcadia_area
+		new_brunswick_area
+		prince_edward_island_area
+	}
+	form_effect = {
+	}
+}
+
+LCA_f = { #Lower Canada
+	level = 2
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = LCA_f
+	#flag = LCA_f #TODO add flag
+	adjective = LCA_f_ADJ
+	tag = LCA_f
+	#color = map_LCA_f
+
+	areas = {
+		lower_canada_area
+		laurentian_area
+		labrador_area
+		quebec_area
+	}
+	form_effect = {
+	}
+}
+
+ONT_f = { #Ontario
+	level = 2
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = ONT_f
+	#flag = ONT_f #TODO add flag
+	adjective = ONT_f_ADJ
+	tag = ONT_f
+	#color = map_ONT_f
+
+	areas = {
+		eastern_ontario_area
+		western_ontario_area
+		northern_ontario_area
+		northwestern_ontario_area
+	}
+	form_effect = {
+	}
+}
+
+CRB_f = { #Caribbean
+	level = 4 #
+	required_locations_fraction = 0.75
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = CRB_f
+	#flag = CRB_f
+	adjective = CRB_f_ADJ
+	tag = CRB_f
+	#color = map_CRB_f
+
+	regions = {
+		caribbean_region
+	}
+	form_effect = {
+	}
+}
+
+AND_f = { #Andes
+	level = 4 #
+	required_locations_fraction = 0.6
+	rule = fantasy
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = AND_f
+	#flag = AND_f
+	adjective = AND_f_ADJ
+	tag = AND_f
+	#color = map_AND_f
+
+	regions = {
+		andes_region
+	}
+	form_effect = {
+	}
+}
+
+FCA_f = { #Federation of Central America, aka colonial Guatemala
+	level = 3 #
+	required_locations_fraction = 0.75
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = FCA_f
+	#flag = FCA_f
+	adjective = FCA_f_ADJ
+	tag = FCA_f
+	#color = map_FCA_f
+
+	regions = {
+		central_america_region
+	}
+	form_effect = {
+	}
+}
+
+NMX_f = { #New Mexico / Northern Mexico / Texas
+	level = 3 #so it can be integrated into Mexico
+	required_locations_fraction = 0.5
+	rule = fantasy
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NMX_f
+	#flag = NMX_f
+	adjective = NMX_f_ADJ
+	tag = NMX_f
+	#color = map_NMX_f
+
+	regions = {
+		aridoamerica_region
+	}
+	form_effect = {
+	}
+}
+
+LOU_f = { #Louisiana / Mississippi / Great Plains
+	level = 4 #
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = LOU_f
+	#flag = LOU_f
+	adjective = LOU_f_ADJ
+	tag = LOU_f
+	#color = map_LOU_f
+
+	regions = {
+		great_plains_region
+	}
+	form_effect = {
+	}
+}
+
+CLF_f = { #California / West Coast
+	level = 4 #
+	required_locations_fraction = 0.6
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = CLF_f
+	#flag = CLF_f
+	adjective = CLF_f_ADJ
+	tag = CLF_f
+	#color = CLF_f_f
+
+	regions = {
+		west_coast_region
+	}
+	form_effect = {
+	}
+}
+
+NTK_f = { #Nutka / Alaska
+	level = 3 #
+	required_locations_fraction = 0.6
+	rule = fantasy
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NTK_f
+	#flag = NTK_f
+	adjective = NTK_f_ADJ
+	tag = NTK_f
+	#color = NTK_f
+
+	regions = {
+		west_coast_region
+	}
+	form_effect = {
+	}
+}
+
+BUA_f = { #Buenos Aires
+	level = 2 #
+	required_locations_fraction = 0.6
+	rule = historical
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = BUA_f
+	#flag = BUA_f
+	adjective = BUA_f_ADJ
+	tag = BUA_f
+	#color = BUA_f
+
+	areas = {
+		la_plata_area
+	}
+	form_effect = {
+	}
+}
+
+NFL_f = { #Newfoundland
+	level = 2 #
+	required_locations_fraction = 0.65
+	rule = plausible
+
+	potential = {
+		NOT = {
+			culture = { is_culture_native_american =yes }
+		}
+	}
+
+	allow = {
+	}
+	
+	name = NFL_f
+	#flag = NFL_f
+	adjective = NFL_f_ADJ
+	tag = NFL_f
+	#color = NFL_f
+
+	areas = {
+		newfoundland_area
+		labrador_area
+	}
+	form_effect = {
+	}
+}
+
+
+
+#TODO formables
+##Hispanic SA
+#La Plata (LPL_f): la_plata_region, Tier 3
+#Charcas (CHA_f): charcas + chaco + qullaw + chiquitania, Tier 2
+#Peru (PEU_f): qullaw + chala + Puna + yunga?, Tier 3
+#New Grenada (NUG_f): colombia_region, Tier 3
+#Venezuela (VNZ_f): caracas+suchiimma(maracaibo)+apure, Tier 2
+#Chile (CHL_f): ngulumapu+atacama+cuyo, Tier 2
+#Patagonia (PAL_f): ngulumapu
+#BRZ
+#Grao Pará & Maranhao (GPM_f): para + maranhao + piaui (+amazonas), Tier... 3?
+#Confed do Equador (CEQ_f): pernambuco + paraiba + ceara, Tier 2?
+#Paulistania (PAU_f): sao_paulo, mato_grosso, goias, minas gerais, Tier 3
+##NA
+#New England (NEN_f): massachusetts + southern_new_england + vermont + new_hampshire + maine, Tier 3
+#New York (NYO_f): hudson + haudenosaunee + new_jersey, tier 2
+#Pennsylvania (PEN_f): pennsylvania + westsylvania, tier 2? Nah
+#Maritimes, (MAR_f): arcadia + new_brunswick + prince_edward_island, tier 2
+#Newfoundland & Labrador?
+#Greater Quebec? Quebec + Laurentines + the icy bits, Tier 2?
+#Lower Canada? L_Candata + quebec + Laurentines + Labrador, Tier 3
+#Ontario (upper canada): all the ontarios, tier 3
+#New France: quebec, acadia, new_brunswick + ... too vague?
+#Greater Louisiana: louisiana + mississippi + arkansaw + missouri + illinois, tier... 3? 4?
+

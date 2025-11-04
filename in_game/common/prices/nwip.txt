@@ -1,0 +1,8 @@
+nwip_columbian_exchange_ow_to_nw = {
+	scaled_gold = 0.25
+}
+
+nwip_columbian_exchange_nw_to_ow = {
+	scaled_gold = 0.25
+	prestige = 5
+}

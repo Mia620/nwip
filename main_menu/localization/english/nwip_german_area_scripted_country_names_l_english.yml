@@ -1,0 +1,227 @@
+﻿l_english:
+  german_greenland_area_scripted_country_name: "Grönland" #transliteration
+  german_greenland_area_scripted_country_name_ADJ: "Grönländisch"
+  german_quebec_area_scripted_country_name: "Kebeck" #transliteration
+  german_quebec_area_scripted_country_name_ADJ: "Kebeckisch"
+  german_laurentian_area_scripted_country_name: "Lorenzien" #germanized
+  german_laurentian_area_scripted_country_name_ADJ: "Lorenzisch"
+  german_lower_canada_area_scripted_country_name: "Niederkanada" #translation
+  german_lower_canada_area_scripted_country_name_ADJ: "Niederkanadisch"
+  german_jamesie_area_scripted_country_name: "Jakobien" #germanized
+  german_jamesie_area_scripted_country_name_ADJ: "Jakobisch"
+  german_nunavik_area_scripted_country_name: "Eisland" # 'Land of Ice'
+  german_nunavik_area_scripted_country_name_ADJ: "Eisländisch"
+  german_labrador_area_scripted_country_name: "Dorschküste" # 'Cod Coast'
+  german_labrador_area_scripted_country_name_ADJ: "Dorschküstler"
+  german_newfoundland_area_scripted_country_name: "Neufundland" #translation
+  german_newfoundland_area_scripted_country_name_ADJ: "Neufundländisch"
+  german_prince_edward_island_area_scripted_country_name: "Sankt-Heinrich-Insel" #Named after German-born, Saint Heinrich ( Henry II ), canonized before 1337
+  german_prince_edward_island_area_scripted_country_name_ADJ: "Heinrichinseler"
+  german_acadia_area_scripted_country_name: "Akadien" #transliteration
+  german_acadia_area_scripted_country_name_ADJ: "Akadisch"
+  german_new_brunswick_area_scripted_country_name: "Neubraunschweig" #translation
+  german_new_brunswick_area_scripted_country_name_ADJ: "Neubraunschweigisch"
+  german_eastern_ontario_area_scripted_country_name: "Neulüneburg" #Based on actual names used by the german monarchs of the UK
+  german_eastern_ontario_area_scripted_country_name_ADJ: "Neulüneburgisch"
+  german_western_ontario_area_scripted_country_name: "Neuhessen" 
+  german_western_ontario_area_scripted_country_name_ADJ: "Neuhessisch"
+  german_northern_ontario_area_scripted_country_name: "Ruprechtsland" 
+  german_northern_ontario_area_scripted_country_name_ADJ: "Ruprechtsländisch"
+  german_northwestern_ontario_area_scripted_country_name: "Donnerbucht" 
+  german_northwestern_ontario_area_scripted_country_name_ADJ: "Donnerbuchtler"
+  german_greenstone_belt_area_scripted_country_name: "Grünsteingürtel" #translation
+  german_greenstone_belt_area_scripted_country_name_ADJ: "Grünsteinisch"
+  german_keewatin_area_scripted_country_name: "Kiwehtin" #transliteration
+  german_keewatin_area_scripted_country_name_ADJ: "Kiwehtinisch"
+  german_cuba_area_scripted_country_name: "Kuba" #transliteration
+  german_cuba_area_scripted_country_name_ADJ: "Kubanisch"
+  german_hispaniola_area_scripted_country_name: "Sankt Dominikien" 
+  german_hispaniola_area_scripted_country_name_ADJ: "Dominikisch"
+  german_lesser_antilles_area_scripted_country_name: "Inseln des Wind" #Based on historical names of Leeward & Windward Islands
+  german_lesser_antilles_area_scripted_country_name_ADJ: "Windinselisch"
+  german_massachusetts_area_scripted_country_name: "Algonkinien" #see dutch
+  german_massachusetts_area_scripted_country_name_ADJ: "Algonkinisch"
+  german_southern_new_england_area_scripted_country_name: "Rotberg" #see dutch
+  german_southern_new_england_area_scripted_country_name_ADJ: "Rotbergisch"
+  german_vermont_area_scripted_country_name: "Grünberg" #lit. translation
+  german_vermont_area_scripted_country_name_ADJ: "Grünbergisch"
+  german_new_hampshire_area_scripted_country_name: "Weißberg" # 'White Mountain'
+  german_new_hampshire_area_scripted_country_name_ADJ: "Weißbergisch"
+  german_haudenosaunee_area_scripted_country_name: "Irokesien" #translation
+  german_haudenosaunee_area_scripted_country_name_ADJ: "Irokesisch"
+  german_pennsylvania_area_scripted_country_name: "Silvanien" # 'Woodland'
+  german_pennsylvania_area_scripted_country_name_ADJ: "Silvanisch"
+  german_westsylvania_area_scripted_country_name: "Zeisbergien" 
+  german_westsylvania_area_scripted_country_name_ADJ: "Zeisbergien"
+  german_maryland_area_scripted_country_name: "Marienland" #See Terra Mariana
+  german_maryland_area_scripted_country_name_ADJ: "Marienländisch"
+  german_virginia_area_scripted_country_name: "Rolandien" #Sir Roland is a heroic figure in german myth
+  german_virginia_area_scripted_country_name_ADJ: "Roländisch"
+  german_west_virginia_area_scripted_country_name: "Wandalien" #Reference to the Vandalia planned colony
+  german_west_virginia_area_scripted_country_name_ADJ: "Wandalisch"
+  german_north_carolina_area_scripted_country_name: "Nordkarolinien" 
+  german_north_carolina_area_scripted_country_name_ADJ: "Nordkarolinisch"
+  german_south_carolina_area_scripted_country_name: "Südkarolinien" #Semi-transliterated, reinterpreted naming for Carolina, in reference to Emperor Charlemagne & Karlings, of the Holy Roman Empire.
+  german_south_carolina_area_scripted_country_name_ADJ: "Südkarolinisch"
+  german_georgia_us_area_scripted_country_name: "Friedrichsfelden" #Named after Friedrich I & Friedrich II, former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
+  german_georgia_us_area_scripted_country_name_ADJ: "Friedrichsfeldisch"
+  german_florida_area_scripted_country_name: "Osterland" #Named for Easter- as Florida is a named after that.
+  german_florida_area_scripted_country_name_ADJ: "Osterländisch"
+  german_tennessee_area_scripted_country_name: "Tänasi" #transliteration
+  german_tennessee_area_scripted_country_name_ADJ: "Tänasi"
+  german_kentucky_area_scripted_country_name: "Auland" # 'Meadow Land'
+  german_kentucky_area_scripted_country_name_ADJ: "Auländisch"
+  german_ohio_area_scripted_country_name: "Schawanesien" #Shawnee
+  german_ohio_area_scripted_country_name_ADJ: "Schawanesisch"
+  german_indiana_area_scripted_country_name: "Maiamiland" #Miami
+  german_indiana_area_scripted_country_name_ADJ: "Maiamisch"
+  german_michigan_area_scripted_country_name: "Mischigen" #transliteration
+  german_michigan_area_scripted_country_name_ADJ: "Mischigensisch"
+  german_illinois_area_scripted_country_name: "Inokenland" #Inoca
+  german_illinois_area_scripted_country_name_ADJ: "Inokisch"
+  german_wisconsin_area_scripted_country_name: "Meskonien" #see dutch
+  german_wisconsin_area_scripted_country_name_ADJ: "Meskonisch"
+  german_alabama_area_scripted_country_name: "Alabamien" #transliteration - old name was...a choice
+  german_alabama_area_scripted_country_name_ADJ: "Alabamisch"
+  german_mississippi_area_scripted_country_name: "Groß-Laufen" #Renamed to reference the german word for rapids
+  german_mississippi_area_scripted_country_name_ADJ: "Großlaufisch"
+  german_louisiana_area_scripted_country_name: "Ludwigien" #literal translation - Ludwig is popular among german nobles anyways
+  german_louisiana_area_scripted_country_name_ADJ: "Ludwigisch"
+  german_missouri_area_scripted_country_name: "Missurien" #After local Missouri tribe
+  german_missouri_area_scripted_country_name_ADJ: "Missurisch"
+  german_minnesota_area_scripted_country_name: "Hundertseenland" #references the many lakes of the region
+  german_minnesota_area_scripted_country_name_ADJ: "Hundertseenländisch"
+  german_superior_area_scripted_country_name: "Oberland" #translation of "upper land"
+  german_superior_area_scripted_country_name_ADJ: "Oberländisch"
+  german_central_plains_area_scripted_country_name: "Windland" #Kansa are known as 'People of the Winds'
+  german_central_plains_area_scripted_country_name_ADJ: "Windländisch"
+  german_high_plains_area_scripted_country_name: "Hohes Land" 
+  german_high_plains_area_scripted_country_name_ADJ: "Hochländisch"
+  german_badlands_area_scripted_country_name: "Ödland" #translation for "barren lands"
+  german_badlands_area_scripted_country_name_ADJ: "Ödlandisch"
+  german_upper_missouri_area_scripted_country_name: "Obermissurien" 
+  german_upper_missouri_area_scripted_country_name_ADJ: "Obermissurisch"
+  german_athabasca_area_scripted_country_name: "Athapaskien" 
+  german_athabasca_area_scripted_country_name_ADJ: "Athapaskisch"
+  german_saskatchewan_area_scripted_country_name: "Saskätschewan" #transliteration
+  german_saskatchewan_area_scripted_country_name_ADJ: "Saskätschewanisch"
+  german_keewatin_n_area_scripted_country_name: "Nordkiwehtin" 
+  german_keewatin_n_area_scripted_country_name_ADJ: "Nordiwehtinisch"
+  german_red_river_area_scripted_country_name: "Blutwässer" # 'Blood Water'
+  german_red_river_area_scripted_country_name_ADJ: "Blutwässerisch"
+  german_mexihko_area_scripted_country_name: "Aztekenland" 
+  german_mexihko_area_scripted_country_name_ADJ: "Aztekisch"
+  german_tlaxcala_area_scripted_country_name: "Tlaskalenland" # 'Tlaxcala land'
+  german_tlaxcala_area_scripted_country_name_ADJ: "Tlaskalisch"
+  german_huaxyacac_area_scripted_country_name: "Wahakien" #transliteration
+  german_huaxyacac_area_scripted_country_name_ADJ: "Wahakisch"
+  german_tochtepec_area_scripted_country_name: "Segenkreuz" 
+  german_tochtepec_area_scripted_country_name_ADJ: "Segenkreuzisch"
+  german_michoacan_area_scripted_country_name: "Mitschoakanien" #transliteration, Historical - Tarascan actually used but considered offensive by locals
+  german_michoacan_area_scripted_country_name_ADJ: "Mitschoakanisch"
+  german_xilotepec_area_scripted_country_name: "Silberhöhen" #references silver mining
+  german_xilotepec_area_scripted_country_name_ADJ: "Silberhöhisch"
+  german_xalisco_area_scripted_country_name: "Schalisko" #transliteration, important older spanish x = sh
+  german_xalisco_area_scripted_country_name_ADJ: "Schaliskoisch"
+  german_mayaab_area_scripted_country_name: "Yukatanien" 
+  german_mayaab_area_scripted_country_name_ADJ: "Yukatekische"
+  german_chilapan_area_scripted_country_name: "Tschilapan" 
+  german_chilapan_area_scripted_country_name_ADJ: "Tschilapanisch"
+  german_puuk_area_scripted_country_name: "Kampetsche" 
+  german_puuk_area_scripted_country_name_ADJ: "Kampetschisch"
+  german_chactemal_area_scripted_country_name: "Schaktemal " 
+  german_chactemal_area_scripted_country_name_ADJ: "Schaktemalisch"
+  german_peten_area_scripted_country_name: "Monpanland" #Mopan river
+  german_peten_area_scripted_country_name_ADJ: "Monpanländisch"
+  german_tezulutlan_area_scripted_country_name: "Goathemalien" 
+  german_tezulutlan_area_scripted_country_name_ADJ: "Goathemalisch"
+  german_imabite_area_scripted_country_name: "Nikaragua" 
+  german_imabite_area_scripted_country_name_ADJ: "Nikaraguanisch"
+  german_zacatecas_area_scripted_country_name: "Sakatekas" #transliteration
+  german_zacatecas_area_scripted_country_name_ADJ: "Sakatekisch"
+  german_baja_area_scripted_country_name: "Niederkalifornien" 
+  german_baja_area_scripted_country_name_ADJ: "Niederkalifornisch"
+  german_tahejoc_area_scripted_country_name: "Opataland" 
+  german_tahejoc_area_scripted_country_name_ADJ: "Opataländisch"
+  german_shiewhibak_area_scripted_country_name: "Pimaland" 
+  german_shiewhibak_area_scripted_country_name_ADJ: "Pimaländisch"
+  german_california_area_scripted_country_name: "Kalifornien" 
+  german_california_area_scripted_country_name_ADJ: "Kalifornisch"
+  german_great_basin_area_scripted_country_name: "Großes Becken" 
+  german_great_basin_area_scripted_country_name_ADJ: "Großes Becken"
+  german_rockies_area_scripted_country_name: "Felsengebirge" 
+  german_rockies_area_scripted_country_name_ADJ: "Felsenbergisch"
+  german_cascadia_area_scripted_country_name: "Kaskadenland" 
+  german_cascadia_area_scripted_country_name_ADJ: "Kaskadisch"
+  german_amazon_area_scripted_country_name: "Regenwald" 
+  german_amazon_area_scripted_country_name_ADJ: "Regenwäldisch"
+  german_tocantins_area_scripted_country_name: "Tukantinien" #translation
+  german_tocantins_area_scripted_country_name_ADJ: "Tukantinisch"
+  german_uruguay_area_scripted_country_name: "Gartental" #Historical settlement & colony, of North-German & Dutch origin.
+  german_uruguay_area_scripted_country_name_ADJ: "Gartentalisch"
+  german_mato_grosso_area_scripted_country_name: "Dichtwald" # 'Thick Forest'
+  german_mato_grosso_area_scripted_country_name_ADJ: "Dichtwäldisch"
+  german_goias_area_scripted_country_name: "Goldbergen" #translation of Serra Dourada
+  german_goias_area_scripted_country_name_ADJ: "Goldbergisch"
+  german_maranhao_area_scripted_country_name: "Sankt-Markus-Land" #Based on Baía de São Marcos
+  german_maranhao_area_scripted_country_name_ADJ: "Markusländisch"
+  german_piaui_area_scripted_country_name: "Theresienland" #Based on name of capital
+  german_piaui_area_scripted_country_name_ADJ: "Theresianisch"
+  german_ceara_area_scripted_country_name: "Schönburg" #see dutch
+  german_ceara_area_scripted_country_name_ADJ: "Schönburgisch"
+  german_paraiba_area_scripted_country_name: "Friedrichsland" #see dutch
+  german_paraiba_area_scripted_country_name_ADJ: "Friedrichsländisch"
+  german_pernambuco_area_scripted_country_name: "Neusiegen" #see dutch
+  german_pernambuco_area_scripted_country_name_ADJ: "Neusiegisch"
+  german_bahia_area_scripted_country_name: "Neunassau" #see dutch
+  german_bahia_area_scripted_country_name_ADJ: "Neunassauisch"
+  german_espirito_santo_area_scripted_country_name: "Neupommern" #references local diaspora 
+  german_espirito_santo_area_scripted_country_name_ADJ: "Neupommersch"
+  german_rio_de_janeiro_area_scripted_country_name: "Jännermünd" # 'January Delta'
+  german_rio_de_janeiro_area_scripted_country_name_ADJ: "Jännermündisch"
+  german_minas_gerais_area_scripted_country_name: "Reichböden" #Rich Ground' -> translation of OG name
+  german_minas_gerais_area_scripted_country_name_ADJ: "Reichbödisch"
+  german_sao_paulo_area_scripted_country_name: "Sankt Paulus" #translation
+  german_sao_paulo_area_scripted_country_name_ADJ: "Paulanisch"
+  german_santa_catarina_area_scripted_country_name: "Sankt Katharinen " #translation
+  german_santa_catarina_area_scripted_country_name_ADJ: "Katharinisch"
+  german_rio_grande_do_sul_area_scripted_country_name: "Neuhunsrück " #References local diaspora 
+  german_rio_grande_do_sul_area_scripted_country_name_ADJ: "Neuhunsrückisch"
+  german_bogota_area_scripted_country_name: "Kazikenland" # 'Land of Caciques' Bogota capital of Muisca 
+  german_bogota_area_scripted_country_name_ADJ: "Kazikenländisch"
+  german_andes_area_scripted_country_name: "Anden" #Historical
+  german_andes_area_scripted_country_name_ADJ: "Andisch"
+  german_qullaw_area_scripted_country_name: "Oberperu" 
+  german_qullaw_area_scripted_country_name_ADJ: "Oberperu"
+  german_chaco_area_scripted_country_name: "Großschaku" # 'Gran Chaco'
+  german_chaco_area_scripted_country_name_ADJ: "Großschakuanisch"
+  german_la_plata_area_scripted_country_name: "Silberfluss" #Historical German name for the Rio de la Plata.
+  german_la_plata_area_scripted_country_name_ADJ: "Silberflüssisch"
+  german_ngulumapu_area_scripted_country_name: "Araukanien" #Historical 
+  german_ngulumapu_area_scripted_country_name_ADJ: "Araukanisch"
+  german_pampa_area_scripted_country_name: "Die Pampa" #Historical
+  german_pampa_area_scripted_country_name_ADJ: "Pampa"
+  german_patagonia_area_scripted_country_name: "Patagonien" #Historical
+  german_patagonia_area_scripted_country_name_ADJ: "Patagonisch"
+  german_falklands_area_scripted_country_name: "Malwinen " #Historical
+  german_falklands_area_scripted_country_name_ADJ: "Malwinisch"
+  german_south_georgia_area_scripted_country_name: "Klutschak-Inseln" #Named for Austrian explorer of South Georgia
+  german_south_georgia_area_scripted_country_name_ADJ: "Klutschak-Inseler"
+  german_rapa_nui_area_scripted_country_name: "Osterinseln" #Historical
+  german_rapa_nui_area_scripted_country_name_ADJ: "Osterinseler"
+  german_charcas_area_scripted_country_name: "Silberberg" # 'Silver Mountain'
+  german_charcas_area_scripted_country_name_ADJ: "Silberbergisch"
+  german_salta_de_tucuman_area_scripted_country_name: "Sankt-Michaelis-Land" # 'San Miguel'
+  german_salta_de_tucuman_area_scripted_country_name_ADJ: "Michaelisch "
+  german_cordoba_de_tucuman_area_scripted_country_name: "Sankt-Martins-Land" # 'San Martín'
+  german_cordoba_de_tucuman_area_scripted_country_name_ADJ: "Martinisch"
+  german_sinu_area_scripted_country_name: "Magdalenien" #Based on Rio Magdalena
+  german_sinu_area_scripted_country_name_ADJ: "Magdalenisch "
+  german_suchiimma_area_scripted_country_name: "Neu-Nürnberg" #Historical failed settlement
+  german_suchiimma_area_scripted_country_name_ADJ: "Neunürnbergisch"
+  german_caracas_area_scripted_country_name: "Welserland" #Failed, but real, german colony intended to be established (or Klein-Venedig)
+  german_caracas_area_scripted_country_name_ADJ: "Welserisch"
+  german_orinucu_area_scripted_country_name: "Orinoko " 
+  german_orinucu_area_scripted_country_name_ADJ: "Orinokoisch"
+  german_guayana_area_scripted_country_name: "Neuhanau" #Failed colonial scheme
+  german_guayana_area_scripted_country_name_ADJ: "Neuhanauisch"

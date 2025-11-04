@@ -1,0 +1,322 @@
+﻿l_english:
+ USA_f: "America"
+ USA_f_ADJ: "American"
+ USA_f_spanish_language:0 "La Florida"
+ USA_f_spanish_language_ADJ:0 "Floridan"
+ USA_f_scandinavian_language:0 "Hvítramannaland"
+ USA_f_scandinavian_language_ADJ:0 "Hvítramannaland"
+ USA_f_german_language:0 "Brasilien or Papa-
+geienland" #Waldseemüller's intended name
+ USA_f_german_language_ADJ:0 "Brasilianer or Papageienländer"
+ USA_f_dutch_language:0 "Nieuw Nederland" #Historical
+ USA_f_dutch_language_ADJ:0 "Nieuw Nederland"
+
+ CAN_f: "Canada"
+ CAN_f_ADJ: "Canadian"
+ CAN_f_spanish_language:0 "Canadá"
+ CAN_f_spanish_language_ADJ:0 "Canadá"
+ CAN_f_scandinavian_language:0 "Markland"
+ CAN_f_scandinavian_language_ADJ:0 "Markland"
+
+ NES_f: "Greater Mexico" #New Spain
+ NES_f_ADJ: "Mexican"
+ NES_f_portuguese_language:0 "Grande México"
+ NES_f_portuguese_language_ADJ:0 "Grande México"
+ NES_f_spanish_language:0 "Nueva España"
+ NES_f_spanish_language_ADJ:0 "Novohispano"
+
+ MEX_f: "Mexico"
+ MEX_f_ADJ: "Mexican"
+ MEX_f_spanish_language:0 "México"
+ MEX_f_spanish_language_ADJ:0 "Mexicano"
+ MEX_f_russian_language:0 "Meksika"
+ MEX_f_russian_language_ADJ:0 "Meksika"
+
+ BRZ_f: "Brazil"
+ BRZ_f_ADJ: "Brazilian"
+ BRZ_f_portuguese_language:0 "Brasil"
+ BRZ_f_portuguese_language_ADJ:0 "Brasileiro"
+ BRZ_f_spanish_language:0 "Brasil"
+ BRZ_f_spanish_language_ADJ:0 "Brasil"
+ BRZ_f_german_language:0 "Küstenwalden" #Translation of 'Costal Forest'
+ BRZ_f_german_language_ADJ:0 "Küstenwalden"
+ BRZ_f_dutch_language:0 "Nieuw Holland" #Historical
+ BRZ_f_dutch_language_ADJ:0 "Nieuw Holland"
+
+ LPL_f: "Argentina" #Virreinato del Rio de la Plata
+ LPL_f_ADJ: "Platean"
+ LPL_f_portuguese_language:0 "Rio da Prata"
+ LPL_f_portuguese_language_ADJ:0 "Pratense"
+ LPL_f_spanish_language:0 "Río de la Plata"
+ LPL_f_spanish_language_ADJ:0 "Rioplatense"
+ LPL_f_english_language:0 "River Plate"
+ LPL_f_english_language_ADJ:0 "River Plate"
+ LPL_f_north_italian_language:0 "Fiume Argentino"
+ LPL_f_north_italian_language_ADJ:0 "Fiume Argentino"
+ LPL_f_south_italian_language:0 "Fiume Argentino"
+ LPL_f_south_italian_language_ADJ:0 "Fiume Argentino"
+ LPL_f_german_language:0 "Silberland"
+ LPL_f_german_language_ADJ:0 "Silberland"
+
+ CHA_f: "Charcas" #Audiencia de Charcas
+ CHA_f_ADJ: "Charquean"
+ CHA_f_spanish_language:0 "Charcas"
+ CHA_f_spanish_language_ADJ:0 "Charcas"
+
+ PAT_f: "Patagonia" #Patagonia, Tierras Magallanicas
+ PAT_f_ADJ: "Patagonian"
+ PAT_f_portuguese_language:0 "Terras Magalhânicas"
+ PAT_f_portuguese_language_ADJ:0 "Magalhânico"
+ PAT_f_spanish_language:0 "Tierras Magallanicas"
+ PAT_f_spanish_language_ADJ:0 "Magallanico"
+ PAT_f_french_language:0 "Patagonie "
+ PAT_f_french_language_ADJ:0 "Patagonien "
+ PAT_f_german_language:0 "Patagonien, Feuerland"
+ PAT_f_german_language_ADJ:0 "Patagonien, Feuerland"
+
+ PEU_f: "Peru" #Virreinato del Perú 
+ PEU_f_ADJ: "Peruvian"
+ PEU_f_portuguese_language:0 "Peru"
+ PEU_f_portuguese_language_ADJ:0 "Peruano"
+ PEU_f_spanish_language:0 "Perú"
+ PEU_f_spanish_language_ADJ:0 "Peruano"
+
+ NUG_f: "New Granada" #Nueva Granada
+ NUG_f_ADJ: "New Granadine"
+ NUG_f_portuguese_language:0 "Novo Algarve"
+ NUG_f_portuguese_language_ADJ:0 "Novo Algarvean"
+ NUG_f_spanish_language:0 "Nueva Granada"
+ NUG_f_spanish_language_ADJ:0 "Neogranadino"
+ NUG_f_english_language:0 "New Sussex"
+ NUG_f_english_language_ADJ:0 "New Sussex"
+ NUG_f_north_italian_language:0 "Nuova Padania"
+ NUG_f_north_italian_language_ADJ:0 "Nuova Padania"
+ NUG_f_south_italian_language:0 "Nuova Padania"
+ NUG_f_south_italian_language_ADJ:0 "Nuova Padania"
+ NUG_f_french_language:0 "Nouvelle Occitanie"
+ NUG_f_french_language_ADJ:0 "Nouvelle Occitanie"
+ NUG_f_occitan_language:0 "Nova Valencia"
+ NUG_f_occitan_language_ADJ:0 "Nova Valencia"
+ NUG_f_dutch_language:0 "Nieuw Vlaanderen" #After Flanders
+ NUG_f_dutch_language_ADJ:0 "Nieuw Vlaanderen"
+
+ VZL_f: "Venezuela" #Venezuela
+ VZL_f_ADJ: "Venezuelan"
+ VZL_f_spanish_language:0 "Venezuela"
+ VZL_f_spanish_language_ADJ:0 "Venezolano"
+ VZL_f_english_language:0 "New Fens"
+ VZL_f_english_language_ADJ:0 "New Fens"
+ VZL_f_north_italian_language:0 "Veneziola"
+ VZL_f_north_italian_language_ADJ:0 "Veneziola"
+ VZL_f_south_italian_language:0 "Veneziola"
+ VZL_f_south_italian_language_ADJ:0 "Veneziola"
+ VZL_f_french_language:0 "Gascognette"
+ VZL_f_french_language_ADJ:0 "Gascognette"
+ VZL_f_german_language:0 "Klein-Venedig" #Historical
+ VZL_f_german_language_ADJ:0 "Kleinvenediger/Kleinvenedisch"
+
+ CHL_f: "Chile" #Chile
+ CHL_f_ADJ: "Chilean"
+ CHL_f_spanish_language:0 "Chile"
+ CHL_f_spanish_language_ADJ:0 "Chileno"
+ CHL_f_english_language:0 "Chili" #Historical spelling
+ CHL_f_english_language_ADJ:0 "Chili"
+ CHL_f_german_language:0 "Tschile / Kile" #Tschile -SG, Kile -NG
+ CHL_f_german_language_ADJ:0 "Tschile / Kile"
+
+ NEN_f: "Norumbega" #New England, but generic name if not localized
+ NEN_f_ADJ: "New Englander"
+ NEN_f_portuguese_language:0 "Nova Inglaterra"
+ NEN_f_portuguese_language_ADJ:0 "Novo Inglês"
+ NEN_f_spanish_language:0 "Estéban Gomez"
+ NEN_f_spanish_language_ADJ:0 "Estéban Gomez"
+ NEN_f_romance_language_family:0 "Nova Gallia"
+ NEN_f_romance_language_family_ADJ:0 "Nova Gallian"
+ NEN_f_english_language:0 "New England"
+ NEN_f_english_language_ADJ:0 "New Englander"
+ NEN_f_north_italian_language:0 "Vespuccia"
+ NEN_f_north_italian_language_ADJ:0 "Vespuccia"
+ NEN_f_south_italian_language:0 "Vespuccia"
+ NEN_f_south_italian_language_ADJ:0 "Vespuccia"
+ NEN_f_french_language:0 "Neu-Normandie"
+ NEN_f_french_language_ADJ:0 "Neu-Normandie"
+ NEN_f_scandinavian_language:0 "New Scandinavia"
+ NEN_f_scandinavian_language_ADJ:0 "New Scandinavia"
+ NEN_f_german_language:0 "Neugermanien" #Neudeutschland is a mouthful 
+ NEN_f_german_language_ADJ:0 "Neugermanien"
+
+ NYO_f: "Hudsonia" #New York, but generic
+ NYO_f_ADJ: "Hudsoner"
+ NYO_f_portuguese_language:0 "Porto Novo"
+ NYO_f_portuguese_language_ADJ:0 "Porto Novense"
+ NYO_f_spanish_language:0 "Nueva Sevilla"
+ NYO_f_spanish_language_ADJ:0 "Nueva Sevilla"
+ NYO_f_english_language:0 "New York"
+ NYO_f_english_language_ADJ:0 "New York"
+ NYO_f_north_italian_language:0 "Nuova Roma"
+ NYO_f_north_italian_language_ADJ:0 "Nuova Roma"
+ NYO_f_south_italian_language:0 "Nuova Roma"
+ NYO_f_south_italian_language_ADJ:0 "Nuova Roma"
+ NYO_f_french_language:0 "Nouvelle-Angoulême"
+ NYO_f_french_language_ADJ:0 "Nouvelle-Angoulême"
+ NYO_f_scandinavian_language:0 "New Malmö"
+ NYO_f_scandinavian_language_ADJ:0 "New Malmö"
+ NYO_f_dutch_language:0 "Nieuw Amsterdam" #Historical
+ NYO_f_dutch_language_ADJ:0 "Nieuw Amsterdam"
+
+ MAR_f: "Maritimes" #Maritimes
+ MAR_f_ADJ: "Maritimer"
+ MAR_f_romance_language_family:0 "Acadia"
+ MAR_f_romance_language_family_ADJ:0 "Acadian"
+ MAR_f_french_language:0 "Acadie"
+ MAR_f_french_language_ADJ:0 "Acadien"
+ MAR_f_scandinavian_language:0 "Einfœtingjaland"
+ MAR_f_scandinavian_language_ADJ:0 "Einfœtingjaland"
+ MAR_f_german_language:0 "Neubraunschweig" #Translation of New Brunswick
+ MAR_f_german_language_ADJ:0 "Neubraunschweig"
+
+ LCA_f: "Lower Canada" #Lower Canada
+ LCA_f_ADJ: "Lower Canadian"
+ LCA_f_french_language:0 "Québec"
+ LCA_f_french_language_ADJ:0 "Québécois "
+ LCA_f_german_language:0 "Lorenzien" #Translation of Laurentia
+ LCA_f_german_language_ADJ:0 "Lorenzier/Lorenzianisch"
+
+ ONT_f: "Ontario" #Ontario
+ ONT_f_ADJ: "Ontarian"
+ ONT_f_german_language:0 "Großseenland" #After Great Lakes
+ ONT_f_german_language_ADJ:0 "Großseenland"
+
+ CRB_f: "the Caribbean"
+ CRB_f_ADJ: "Caribbean"
+ CRB_f_portuguese_language:0 "Caraibas"
+ CRB_f_portuguese_language_ADJ:0 "Caraibas"
+ CRB_f_spanish_language:0 "Caribe"
+ CRB_f_spanish_language_ADJ:0 "Caribe"
+ CRB_f_english_language:0 "the Caribbean"
+ CRB_f_english_language_ADJ:0 "the Caribbean"
+ CRB_f_north_italian_language:0 "Caraibi"
+ CRB_f_north_italian_language_ADJ:0 "Caraibi"
+ CRB_f_south_italian_language:0 "Caraibi"
+ CRB_f_south_italian_language_ADJ:0 "Caraibi"
+ CRB_f_french_language:0 "Caraïbes"
+ CRB_f_french_language_ADJ:0 "Caraïbes"
+ CRB_f_scandinavian_language:0 "Caribien"
+ CRB_f_scandinavian_language_ADJ:0 "Caribien"
+ CRB_f_german_language:0 "Karibik"
+ CRB_f_german_language_ADJ:0 "Kariber/Karibisch"
+ CRB_f_occitan_language:0 "Carib"
+ CRB_f_occitan_language_ADJ:0 "Carib"
+
+ AND_f: "Andes"
+ AND_f_ADJ: "Andean"
+ AND_f_german_language:0 "Anden"
+ AND_f_german_language_ADJ:0 "Anden"
+
+ FCA_f: "Central America"
+ FCA_f_ADJ: "Central American"
+ FCA_f_portuguese_language:0 "Guatemala"
+ FCA_f_portuguese_language_ADJ:0 "Guatemala"
+ FCA_f_spanish_language:0 "Guatemala"
+ FCA_f_spanish_language_ADJ:0 "Guatemalteco"
+ FCA_f_romance_language_family:0 "Guatemala"
+ FCA_f_romance_language_family_ADJ:0 "Guatemala"
+ FCA_f_german_language:0 "Mittelland"
+ FCA_f_german_language_ADJ:0 "Mittelland"
+ FCA_f_dutch_language:0 "Midden-Amerika" #Translation
+ FCA_f_dutch_language_ADJ:0 "Midden-Amerika"
+
+ NMX_f: "New Mexico"
+ NMX_f_ADJ: "New Mexican"
+ NMX_f_portuguese_language:0 "Rio Grande do México"
+ NMX_f_portuguese_language_ADJ:0 "Rio Grande do México"
+ NMX_f_spanish_language:0 "Nuevo México"
+ NMX_f_spanish_language_ADJ:0 "Neomexicano"
+ NMX_f_english_language:0 "Greater Texas"
+ NMX_f_english_language_ADJ:0 "Greater Texas"
+
+ LOU_f: "Mississippi"
+ LOU_f_ADJ: "Mississippian"
+ LOU_f_portuguese_language:0 "Mississipi"
+ LOU_f_portuguese_language_ADJ:0 "Mississipi"
+ LOU_f_spanish_language:0 "Luisiana"
+ LOU_f_spanish_language_ADJ:0 "Luisiana"
+ LOU_f_english_language:0 "Louisiana"
+ LOU_f_english_language_ADJ:0 "Louisiana"
+ LOU_f_north_italian_language:0 "Luigiana"
+ LOU_f_north_italian_language_ADJ:0 "Luigiana"
+ LOU_f_south_italian_language:0 "Luigiana"
+ LOU_f_south_italian_language_ADJ:0 "Luigiana"
+ LOU_f_french_language:0 "Louisiane"
+ LOU_f_french_language_ADJ:0 "Louisiane"
+ LOU_f_german_language:0 "Neurheinland"
+ LOU_f_german_language_ADJ:0 "Neurheinland"
+ LOU_f_occitan_language:0 "Misisip"
+ LOU_f_occitan_language_ADJ:0 "Misisip"
+ LOU_f_dutch_language:0 "Brabantia" #After Brabant. Alternative: Nieuw Brabant, but for the sake of variation
+ LOU_f_dutch_language_ADJ:0 "Brabantia"
+
+ CLF_f: "California"
+ CLF_f_ADJ: "Californian"
+ CLF_f_german_language:0 "Kalifornien" #Historical
+ CLF_f_german_language_ADJ:0 "Kalifornien"
+
+ NTK_f: "Cascadia"
+ NTK_f_ADJ: "Cascadian"
+ NTK_f_spanish_language:0 "Nutca"
+ NTK_f_spanish_language_ADJ:0 "Nutca"
+ NTK_f_english_language:0 "Cascadia"
+ NTK_f_english_language_ADJ:0 "Cascadian"
+ NTK_f_german_language:0 "Kaskadien"
+ NTK_f_german_language_ADJ:0 "Kaskadien"
+
+ NFL_f: "Newfoundland" #Newfoundland
+ NFL_f_ADJ: "Newfoundlander"
+ NFL_f_portuguese_language:0 "Terra Nova"
+ NFL_f_portuguese_language_ADJ:0 "Terra-novense "
+ NFL_f_spanish_language:0 "Barrachoa "
+ NFL_f_spanish_language_ADJ:0 "Barrachoa "
+ NFL_f_english_language:0 "Newfoundland "
+ NFL_f_english_language_ADJ:0 "Newfie"
+ NFL_f_north_italian_language:0 "Terranova"
+ NFL_f_north_italian_language_ADJ:0 "Terranova"
+ NFL_f_south_italian_language:0 "Terranova"
+ NFL_f_south_italian_language_ADJ:0 "Terranova"
+ NFL_f_french_language:0 "Terre-Neuve"
+ NFL_f_french_language_ADJ:0 "Terre-Neuve"
+ NFL_f_scandinavian_language:0 "Vinland"
+ NFL_f_scandinavian_language_ADJ:0 "Vinland"
+ NFL_f_russian_language:0 "Novaya Zemlya"
+ NFL_f_russian_language_ADJ:0 "Novaya Zemlya"
+ NFL_f_german_language:0 "Neufundland" #Historical
+ NFL_f_german_language_ADJ:0 "Neufundländer/Neufundländisch"
+ NFL_f_occitan_language:0 "Terranova"
+ NFL_f_occitan_language_ADJ:0 "Terranova"
+ NFL_f_dutch_language:0 "Overwater" #Translation of 'Land across the water'
+ NFL_f_dutch_language_ADJ:0 "Overwater"
+
+ BUA_f: "Silver Bay" #Buenos Aires
+ BUA_f_ADJ: "Paranaean"
+ BUA_f_portuguese_language:0 "Bons Ares"
+ BUA_f_portuguese_language_ADJ:0 "Bonarense"
+ BUA_f_spanish_language:0 "Buenos Aires"
+ BUA_f_spanish_language_ADJ:0 "Bonaerense"
+ BUA_f_english_language:0 "Fairwinds"
+ BUA_f_english_language_ADJ:0 "Fairwinder"
+ BUA_f_north_italian_language:0 "Buonaria"
+ BUA_f_north_italian_language_ADJ:0 "Buonaria"
+ BUA_f_south_italian_language:0 "Buonaria"
+ BUA_f_south_italian_language_ADJ:0 "Buonaria"
+ BUA_f_french_language:0 "Paris D'Amerique"
+ BUA_f_french_language_ADJ:0 "Paris D'Amerique"
+ BUA_f_german_language:0 "Schmidlbucht" #Named after this dude.
+ BUA_f_german_language_ADJ:0 "Schmidlbucht"
+ BUA_f_occitan_language:0 "Bonaire"
+ BUA_f_occitan_language_ADJ:0 "Bonaire"
+
+ TAZ_f: "Tasmania"
+ TAZ_f_ADJ: "Tasman"
+ TAZ_f_english_language:0 "Van Diemen's Land"
+ TAZ_f_english_language_ADJ:0 "Van Diemen's Land"
+ TAZ_f_dutch_language:0 "Van Diemensland" #Historical: original name before it was changed by the British to Tasmania, ironically named after the Dutch explorer who discovered the island
+ TAZ_f_dutch_language_ADJ:0 "Van Diemensland"

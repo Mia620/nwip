@@ -1,0 +1,191 @@
+﻿#WLS = {
+#	type = country
+#
+#	text = {
+#		localization_key = WLS_welsh
+#		trigger = {
+#			OR = {
+#				culture ?= { language ?= language:brythonic_language }				
+#				court_language ?= language:brythonic_language
+#			}
+#		}
+#	}
+#
+#	text = {
+#		localization_key = WLS_latin
+#		trigger = {
+#			court_language ?= language:latin_language
+#		}
+#	}
+#	
+#	text = {
+#		localization_key = WLS
+#		fallback = yes
+#	}
+#}
+#WLS_ADJ = { parent = WLS suffix = "_ADJ" }
+
+USA = {
+	type = country
+
+	text = {
+		localization_key = USA_spanish
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+	
+	text = {
+		localization_key = USA
+		fallback = yes
+	}
+}
+USA_ADJ = { parent = USA suffix = "_ADJ" }
+
+#New York
+NYO_f = {
+	type = country
+
+	text = {
+		localization_key = NYO_f_dutch
+		trigger = {
+			OR = {
+				culture ?= { dialect ?= dialect:dutch_dialect }				
+				#court_language ?= language:german_language
+			}
+		}
+	}
+	
+	text = {
+		localization_key = NYO_f_swedish
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				#court_language ?= language:scandinavian_language
+			}
+		}
+	}
+	
+	text = {
+		localization_key = NYO_f
+		fallback = yes
+	}
+}
+NYO_f_ADJ = { parent = NYO_f suffix = "_ADJ" }
+
+#Maritimes / Acadia
+MAR_f = {
+	type = country
+	
+	text = {
+		localization_key = MAR_f_french
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				#court_language ?= language:french_language
+			}
+		}
+	}
+	
+	text = {
+		localization_key = MAR_f_romance
+		trigger = {
+			OR = {
+				culture.language ?= { language_family ?= language_family:romance_language_family }				
+				#court_language ?= language:french_language
+			}
+		}
+	}
+	
+	text = {
+		localization_key = MAR_f
+		fallback = yes
+	}
+}
+MAR_f_ADJ = { parent = MAR_f suffix = "_ADJ" }
+
+#La Plata
+LPL_f = {
+	type = country
+	
+	text = {
+		localization_key = LPL_f_english
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				#court_language ?= language:english_language
+			}
+		}
+	}
+	text = {
+		localization_key = LPL_f_portuguese
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				#court_language ?= language:portuguese_language
+			}
+		}
+	}
+	
+	
+	text = {
+		localization_key = LPL_f
+		fallback = yes
+	}
+}
+LPL_f_ADJ = { parent = LPL_f suffix = "_ADJ" }
+
+#Patagonia
+PAT_f = {
+	type = country
+	
+	text = {
+		localization_key = PAT_f_english
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				#court_language ?= language:english_language
+			}
+		}
+	}
+	text = {
+		localization_key = PAT_f_portuguese
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				#court_language ?= language:portuguese_language
+			}
+		}
+	}
+	
+	
+	text = {
+		localization_key = PAT_f
+		fallback = yes
+	}
+}
+PAT_f_ADJ = { parent = PAT_f suffix = "_ADJ" }
+
+#New England
+NEN_f = {
+	type = country
+	
+	text = {
+		localization_key = NEN_f_romance
+		trigger = {
+			OR = {
+				culture.language ?= { language_family ?= language_family:romance_language_family }				
+				#court_language ?= language:french_language
+			}
+		}
+	}
+	
+	text = {
+		localization_key = NEN_f
+		fallback = yes
+	}
+}
+NEN_f_ADJ = { parent = NEN_f suffix = "_ADJ" }

@@ -1,0 +1,3051 @@
+﻿german_greenland_area_scripted_country_name = { #Grönland, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:greenland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_quebec_area_scripted_country_name = { #Kebeck, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:quebec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_laurentian_area_scripted_country_name = { #Lorenzien, germanized
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:laurentian_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_lower_canada_area_scripted_country_name = { #Niederkanada, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:lower_canada_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_jamesie_area_scripted_country_name = { #Jakobien, germanized
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:jamesie_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_nunavik_area_scripted_country_name = { #Eisland,  'Land of Ice'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:nunavik_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_labrador_area_scripted_country_name = { #Dorschküste,  'Cod Coast'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:labrador_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_newfoundland_area_scripted_country_name = { #Neufundland, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:newfoundland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_prince_edward_island_area_scripted_country_name = { #Sankt-Heinrich-Insel, Named after German-born, Saint Heinrich ( Henry II ), canonized before 1337
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:prince_edward_island_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_acadia_area_scripted_country_name = { #Akadien, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:acadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_new_brunswick_area_scripted_country_name = { #Neubraunschweig, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:new_brunswick_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_eastern_ontario_area_scripted_country_name = { #Neulüneburg, Based on actual names used by the german monarchs of the UK
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:eastern_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_western_ontario_area_scripted_country_name = { #Neuhessen
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:western_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_northern_ontario_area_scripted_country_name = { #Ruprechtsland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:northern_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_northwestern_ontario_area_scripted_country_name = { #Donnerbucht
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:northwestern_ontario_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_greenstone_belt_area_scripted_country_name = { #Grünsteingürtel, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:greenstone_belt_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_keewatin_area_scripted_country_name = { #Kiwehtin, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:keewatin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_cuba_area_scripted_country_name = { #Kuba, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:cuba_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_hispaniola_area_scripted_country_name = { #Sankt Dominikien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:hispaniola_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_lesser_antilles_area_scripted_country_name = { #Inseln des Wind, Based on historical names of Leeward & Windward Islands
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:lesser_antilles_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_massachusetts_area_scripted_country_name = { #Algonkinien, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:massachusetts_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_southern_new_england_area_scripted_country_name = { #Rotberg, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:southern_new_england_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_vermont_area_scripted_country_name = { #Grünberg, lit. translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:vermont_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_new_hampshire_area_scripted_country_name = { #Weißberg,  'White Mountain'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:new_hampshire_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_haudenosaunee_area_scripted_country_name = { #Irokesien, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:haudenosaunee_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_pennsylvania_area_scripted_country_name = { #Silvanien,  'Woodland'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:pennsylvania_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_westsylvania_area_scripted_country_name = { #Zeisbergien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:westsylvania_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_maryland_area_scripted_country_name = { #Marienland, See Terra Mariana
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maryland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_virginia_area_scripted_country_name = { #Rolandien, Sir Roland is a heroic figure in german myth
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:virginia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_west_virginia_area_scripted_country_name = { #Wandalien, Reference to the Vandalia planned colony
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:west_virginia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_north_carolina_area_scripted_country_name = { #Nordkarolinien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:north_carolina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_south_carolina_area_scripted_country_name = { #Südkarolinien, Semi-transliterated, reinterpreted naming for Carolina, in reference to Emperor Charlemagne & Karlings, of the Holy Roman Empire.
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:south_carolina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_georgia_us_area_scripted_country_name = { #Friedrichsfelden, Named after Friedrich I & Friedrich II, former Holy Roman Emperors + feld (field in german) since Georgia is renowned for it's fields & agricultural potential.
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:georgia_us_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_florida_area_scripted_country_name = { #Osterland, Named for Easter- as Florida is a named after that.
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:florida_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_tennessee_area_scripted_country_name = { #Tänasi, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tennessee_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_kentucky_area_scripted_country_name = { #Auland,  'Meadow Land'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:kentucky_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_ohio_area_scripted_country_name = { #Schawanesien, Shawnee
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:ohio_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_indiana_area_scripted_country_name = { #Maiamiland, Miami
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:indiana_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_michigan_area_scripted_country_name = { #Mischigen, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:michigan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_illinois_area_scripted_country_name = { #Inokenland, Inoca
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:illinois_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_wisconsin_area_scripted_country_name = { #Meskonien, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:wisconsin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_alabama_area_scripted_country_name = { #Alabamien, transliteration - old name was...a choice
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:alabama_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_mississippi_area_scripted_country_name = { #Groß-Laufen, Renamed to reference the german word for rapids
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mississippi_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_louisiana_area_scripted_country_name = { #Ludwigien, literal translation - Ludwig is popular among german nobles anyways
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:louisiana_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_missouri_area_scripted_country_name = { #Missurien, After local Missouri tribe
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:missouri_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_minnesota_area_scripted_country_name = { #Hundertseenland, references the many lakes of the region
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:minnesota_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_superior_area_scripted_country_name = { #Oberland, translation of "upper land"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:superior_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_central_plains_area_scripted_country_name = { #Windland, Kansa are known as 'People of the Winds'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:central_plains_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_high_plains_area_scripted_country_name = { #Hohes Land
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:high_plains_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_badlands_area_scripted_country_name = { #Ödland, translation for "barren lands"
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:badlands_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_upper_missouri_area_scripted_country_name = { #Obermissurien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:upper_missouri_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_athabasca_area_scripted_country_name = { #Athapaskien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:athabasca_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_saskatchewan_area_scripted_country_name = { #Saskätschewan, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:saskatchewan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_keewatin_n_area_scripted_country_name = { #Nordkiwehtin
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:keewatin_n_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_red_river_area_scripted_country_name = { #Blutwässer,  'Blood Water'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:red_river_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_mexihko_area_scripted_country_name = { #Aztekenland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mexihko_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_tlaxcala_area_scripted_country_name = { #Tlaskalenland,  'Tlaxcala land'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tlaxcala_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_huaxyacac_area_scripted_country_name = { #Wahakien, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:huaxyacac_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_tochtepec_area_scripted_country_name = { #Segenkreuz
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tochtepec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_michoacan_area_scripted_country_name = { #Mitschoakanien, transliteration, Historical - Tarascan actually used but considered offensive by locals
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:michoacan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_xilotepec_area_scripted_country_name = { #Silberhöhen, references silver mining
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:xilotepec_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_xalisco_area_scripted_country_name = { #Schalisko, transliteration, important older spanish x = sh
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:xalisco_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_mayaab_area_scripted_country_name = { #Yukatanien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mayaab_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_chilapan_area_scripted_country_name = { #Tschilapan
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:chilapan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_puuk_area_scripted_country_name = { #Kampetsche
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:puuk_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_chactemal_area_scripted_country_name = { #Schaktemal 
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:chactemal_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_peten_area_scripted_country_name = { #Monpanland, Mopan river
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:peten_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_tezulutlan_area_scripted_country_name = { #Goathemalien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tezulutlan_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_imabite_area_scripted_country_name = { #Nikaragua
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:imabite_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_zacatecas_area_scripted_country_name = { #Sakatekas, transliteration
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:zacatecas_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_baja_area_scripted_country_name = { #Niederkalifornien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:baja_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_tahejoc_area_scripted_country_name = { #Opataland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tahejoc_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_shiewhibak_area_scripted_country_name = { #Pimaland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:shiewhibak_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_california_area_scripted_country_name = { #Kalifornien
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:california_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_great_basin_area_scripted_country_name = { #Großes Becken
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:great_basin_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_rockies_area_scripted_country_name = { #Felsengebirge
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rockies_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_cascadia_area_scripted_country_name = { #Kaskadenland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:cascadia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_amazon_area_scripted_country_name = { #Regenwald
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:amazon_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_tocantins_area_scripted_country_name = { #Tukantinien, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:tocantins_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_uruguay_area_scripted_country_name = { #Gartental, Historical settlement & colony, of North-German & Dutch origin.
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:uruguay_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_mato_grosso_area_scripted_country_name = { #Dichtwald,  'Thick Forest'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:mato_grosso_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_goias_area_scripted_country_name = { #Goldbergen, translation of Serra Dourada
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:goias_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_maranhao_area_scripted_country_name = { #Sankt-Markus-Land, Based on Baía de São Marcos
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:maranhao_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_piaui_area_scripted_country_name = { #Theresienland, Based on name of capital
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:piaui_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_ceara_area_scripted_country_name = { #Schönburg, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:ceara_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_paraiba_area_scripted_country_name = { #Friedrichsland, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:paraiba_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_pernambuco_area_scripted_country_name = { #Neusiegen, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:pernambuco_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_bahia_area_scripted_country_name = { #Neunassau, see dutch
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:bahia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_espirito_santo_area_scripted_country_name = { #Neupommern, references local diaspora 
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:espirito_santo_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_rio_de_janeiro_area_scripted_country_name = { #Jännermünd,  'January Delta'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rio_de_janeiro_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_minas_gerais_area_scripted_country_name = { #Reichböden, Rich Ground' -> translation of OG name
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:minas_gerais_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_sao_paulo_area_scripted_country_name = { #Sankt Paulus, translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:sao_paulo_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_santa_catarina_area_scripted_country_name = { #Sankt Katharinen , translation
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:santa_catarina_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_rio_grande_do_sul_area_scripted_country_name = { #Neuhunsrück , References local diaspora 
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rio_grande_do_sul_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_bogota_area_scripted_country_name = { #Kazikenland,  'Land of Caciques' Bogota capital of Muisca 
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:bogota_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_andes_area_scripted_country_name = { #Anden, Historical
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:andes_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_qullaw_area_scripted_country_name = { #Oberperu
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:qullaw_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_chaco_area_scripted_country_name = { #Großschaku,  'Gran Chaco'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:chaco_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_la_plata_area_scripted_country_name = { #Silberfluss, Historical German name for the Rio de la Plata.
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:la_plata_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_ngulumapu_area_scripted_country_name = { #Araukanien, Historical 
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:ngulumapu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_pampa_area_scripted_country_name = { #Die Pampa, Historical
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:pampa_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_patagonia_area_scripted_country_name = { #Patagonien, Historical
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:patagonia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_falklands_area_scripted_country_name = { #Malwinen , Historical
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:falklands_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_south_georgia_area_scripted_country_name = { #Klutschak-Inseln, Named for Austrian explorer of South Georgia
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:south_georgia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_rapa_nui_area_scripted_country_name = { #Osterinseln, Historical
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:rapa_nui_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_charcas_area_scripted_country_name = { #Silberberg,  'Silver Mountain'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:charcas_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_salta_de_tucuman_area_scripted_country_name = { #Sankt-Michaelis-Land,  'San Miguel'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:salta_de_tucuman_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_cordoba_de_tucuman_area_scripted_country_name = { #Sankt-Martins-Land,  'San Martín'
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:cordoba_de_tucuman_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_sinu_area_scripted_country_name = { #Magdalenien, Based on Rio Magdalena
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:sinu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_suchiimma_area_scripted_country_name = { #Neu-Nürnberg, Historical failed settlement
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:suchiimma_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_caracas_area_scripted_country_name = { #Welserland, Failed, but real, german colony intended to be established (or Klein-Venedig)
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:caracas_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_orinucu_area_scripted_country_name = { #Orinoko 
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:orinucu_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+german_guayana_area_scripted_country_name = { #Neuhanau, Failed colonial scheme
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:german_language
+					culture.language = language:german_language
+					overlord ?= {
+						court_language = language:german_language
+					}
+					overlord ?= {
+						culture.language = language:german_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:guayana_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }

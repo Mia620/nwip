@@ -1,0 +1,81 @@
+﻿scandinavian_labrador_area_scripted_country_name = { #Markland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:labrador_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_newfoundland_area_scripted_country_name = { #Vinland
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:newfoundland_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }
+scandinavian_south_georgia_area_scripted_country_name = { #Grytvik, Historical name for local bay
+    	# regular old country trigger
+    	country_trigger = {
+    		OR = {
+    			
+					court_language = language:scandinavian_language
+					culture.language = language:scandinavian_language
+					overlord ?= {
+						court_language = language:scandinavian_language
+					}
+					overlord ?= {
+						culture.language = language:scandinavian_language
+					}
+    		}
+    	}
+    	
+    	# trigger to check country's capital against, has to pass
+    	capital_trigger = {
+    		OR = {
+    			area = area:south_georgia_area
+    		}
+    	}
+    	
+    	# trigger to check all the country locations against, all have to pass
+    	location_trigger = {
+    	}
+    }

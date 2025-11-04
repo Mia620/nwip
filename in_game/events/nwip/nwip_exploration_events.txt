@@ -1,0 +1,121 @@
+﻿namespace = nwip_exploration
+
+nwip_exploration.1 = {
+	type = country_event
+
+	title = nwip_exploration.1.title
+	desc = nwip_exploration.1.desc
+
+	trigger = {
+
+		any_owned_location = {
+			is_coastal = no
+			continent = continent:america
+			population > 3
+			any_neighbor_location = {
+				area = {
+					root = {
+						NOT = {
+							has_discovered_area = prev
+						}
+					}
+				}
+			}
+		}
+		
+		current_age_or_later = { age = age_5_absolutism }
+		
+		#TODO check if you can actually do it etc etc
+	}
+	
+	immediate = {
+		save_scope_as = country
+		random_owned_location = {
+			limit = {
+				continent = continent:america
+				population > 3
+				is_coastal = no
+				
+				any_neighbor_location = {
+					area = {
+						root = {
+							NOT = {
+								has_discovered_area = prev
+							}
+						}
+					}
+				}
+			}
+			save_scope_as = launch_location
+			random_neighbor_location = {
+				limit = {
+					area = {
+						scope:country = {
+							NOT = {
+								has_discovered_area = prev
+							}
+						}
+					}
+				}
+				area = {
+					save_scope_as = target
+				}
+			}
+		}
+		
+		##TODO create an explorer (this works, but the exploration doesn't)
+		create_character = {
+			#culture = scope:pop.culture
+			#religion = scope:pop.religion
+			age = {20 35}
+			female = no
+			birth_location = scope:launch_location
+			trait_category = explorer
+			save_scope_as = character
+			create_in_limbo = yes
+		}
+	}
+
+
+
+	option = {
+		name = nwip_exploration.1.a
+		
+		ai_chance = {
+			factor = 1000 
+		}
+		
+		add_gold = {
+			scaled_gold = -0.35
+		}
+
+		##TODO actually explore!
+		scope:character = {
+			move_country = ROOT
+		}
+		
+		#start_exploration = {
+		#	area = scope:target
+		#	location = scope:launch_location
+		#	character = scope:character
+		#	price = 10
+		#	price_modifier = 1
+		#}
+		
+		#DEBUG just discover, since exploration isn't quite working
+		discover_area = scope:target
+		
+	}
+
+	option = {
+		name = nwip_exploration.1.b
+		add_prestige = prestige_weak_bonus 
+		
+		#if the character is created but not used, kill them
+		hidden_effect = {
+			kill_character_silently = {
+				target = scope:character
+			}
+		}
+	}
+}

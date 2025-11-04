@@ -1,0 +1,5 @@
+﻿l_english:
+  nwip_exploration.1.title: "Local Explorer charts the hinterlands"
+  nwip_exploration.1.desc: "An inhabitant from [launch_location.GetName] has recently claimed to have gathered information from the nearby region of [target.getName] and is willing to share their map for a price. [character.getName] is also offering their talents as an explorer to us, should we want to continue venturing deeper and deeper in the continent."
+  nwip_exploration.1.a: "Maps of [target.getName], you say? Sounds interesting!"
+  nwip_exploration.1.b: "We decide when, how and if exploration happens"

@@ -1,0 +1,117 @@
+﻿l_english:
+  arabic_greenland_area_scripted_country_name: "Al-Arḍ al-ẖaḍrā" #translation
+  arabic_greenland_area_scripted_country_name_ADJ: "Al-Arḍ al-ẖaḍrā"
+  arabic_quebec_area_scripted_country_name: "Kībik" 
+  arabic_quebec_area_scripted_country_name_ADJ: "Kībikī"
+  arabic_lower_canada_area_scripted_country_name: "Kanadā as-suflā" #translation
+  arabic_lower_canada_area_scripted_country_name_ADJ: "Kanadā as-suflā"
+  arabic_nunavik_area_scripted_country_name: "Nūnāfīk" 
+  arabic_nunavik_area_scripted_country_name_ADJ: "Nūnāfīkī"
+  arabic_acadia_area_scripted_country_name: "Akādiyā" 
+  arabic_acadia_area_scripted_country_name_ADJ: "Akādī"
+  arabic_eastern_ontario_area_scripted_country_name: "Ūntāriyū aš-šarqiyyah" 
+  arabic_eastern_ontario_area_scripted_country_name_ADJ: "Ūntāriyū aš-šarqiyyah"
+  arabic_western_ontario_area_scripted_country_name: "Ūntāriyū al-ġarbiyyah" 
+  arabic_western_ontario_area_scripted_country_name_ADJ: "Ūntāriyū al-ġarbiyyah"
+  arabic_northern_ontario_area_scripted_country_name: "Ūntāriyū aš-šimāliyyah" 
+  arabic_northern_ontario_area_scripted_country_name_ADJ: "Ūntāriyū aš-šimāliyyah"
+  arabic_northwestern_ontario_area_scripted_country_name: "Ūntāriyū aš-šimāliyyah al-ġarbiyyah" 
+  arabic_northwestern_ontario_area_scripted_country_name_ADJ: "Ūntāriyū aš-šimāliyyah al-ġarbiyyah"
+  arabic_greenstone_belt_area_scripted_country_name: "Al-Ḥajar al-Aẖḍar" #translation of "green stone"
+  arabic_greenstone_belt_area_scripted_country_name_ADJ: "Al-Ḥajar al-Aẖḍar"
+  arabic_cuba_area_scripted_country_name: "Kūbā" #modern name
+  arabic_cuba_area_scripted_country_name_ADJ: "Kūbī"
+  arabic_hispaniola_area_scripted_country_name: "Hāyīt" #country and singular demonym are the same
+  arabic_hispaniola_area_scripted_country_name_ADJ: "Hāyītī"
+  arabic_lesser_antilles_area_scripted_country_name: "Juzur al-Antīl aṣ-ṣuġrā" #modern name (Antilles might be of Portuguese origin, so could be improved)
+  arabic_lesser_antilles_area_scripted_country_name_ADJ: "Juzur al-Antīl aṣ-ṣuġrā"
+  arabic_panama_area_scripted_country_name: "Banamā" #modern name
+  arabic_panama_area_scripted_country_name_ADJ: "Banamānī"
+  arabic_massachusetts_area_scripted_country_name: "Māsāšūsit" #took off medial t and final s for a more original name
+  arabic_massachusetts_area_scripted_country_name_ADJ: "Māsāšūsit"
+  arabic_haudenosaunee_area_scripted_country_name: "Ḥudinušūn" #interpreted original word as adjective, backformed country
+  arabic_haudenosaunee_area_scripted_country_name_ADJ: "Ḥudinušūnī"
+  arabic_westsylvania_area_scripted_country_name: "Al-Ighayn" #interpreted original word as adjective, backformed country
+  arabic_westsylvania_area_scripted_country_name_ADJ: "Ighaynī"
+  arabic_florida_area_scripted_country_name: "Al-Muzdahirah" #"the flowering one"
+  arabic_florida_area_scripted_country_name_ADJ: "Al-Muzdahirah"
+  arabic_mississippi_area_scripted_country_name: "Musīsib" 
+  arabic_mississippi_area_scripted_country_name_ADJ: "Musīsibī"
+  arabic_missouri_area_scripted_country_name: "Misūr" #interpreted original word as adjective, backformed country
+  arabic_missouri_area_scripted_country_name_ADJ: "Misūrī"
+  arabic_superior_area_scripted_country_name: "Al-Kubrā" #lit. "biggest"
+  arabic_superior_area_scripted_country_name_ADJ: "Al-Kubrā"
+  arabic_north_dakota_area_scripted_country_name: "Dākūtā aš-šimāliyyah" #modern name
+  arabic_north_dakota_area_scripted_country_name_ADJ: "Dākūtā aš-šimāliyyah"
+  arabic_south_dakota_area_scripted_country_name: "Dākūtā al-janūbiyyah" #modern name
+  arabic_south_dakota_area_scripted_country_name_ADJ: "Dākūtā al-janūbiyyah"
+  arabic_central_plains_area_scripted_country_name: "Bilād Kānsā" #"Kansa country"
+  arabic_central_plains_area_scripted_country_name_ADJ: "Bilād Kānsā"
+  arabic_high_plains_area_scripted_country_name: "As-Suhūl al-ʿuliyā" #translation for "high plains"
+  arabic_high_plains_area_scripted_country_name_ADJ: "As-Suhūl al-ʿuliyā"
+  arabic_badlands_area_scripted_country_name: "Al-Arāḍī al-jardāʾ" #translation for "barren lands"
+  arabic_badlands_area_scripted_country_name_ADJ: "Al-Arāḍī al-jardāʾ"
+  arabic_upper_missouri_area_scripted_country_name: "Misūr al-ʿuliyā" 
+  arabic_upper_missouri_area_scripted_country_name_ADJ: "Misūr al-ʿuliyā"
+  arabic_red_river_area_scripted_country_name: "An-Nahr Al-Aḥmar" #translation
+  arabic_red_river_area_scripted_country_name_ADJ: "An-Nahr Al-Aḥmar"
+  arabic_mexihko_area_scripted_country_name: "Mašīʾkū" #invented from Nahuatl
+  arabic_mexihko_area_scripted_country_name_ADJ: "Mašīʾkī"
+  arabic_tlaxcala_area_scripted_country_name: "Tilāškallān" #invented from Nahuatl
+  arabic_tlaxcala_area_scripted_country_name_ADJ: "Tilāškallī"
+  arabic_huaxyacac_area_scripted_country_name: "Wāš Yakak" #invented from Nahuatl
+  arabic_huaxyacac_area_scripted_country_name_ADJ: "Wāš Yakak"
+  arabic_michoacan_area_scripted_country_name: "Mušuwwakān" #invented from Nahuatl
+  arabic_michoacan_area_scripted_country_name_ADJ: "Mušuwwakān"
+  arabic_xilotepec_area_scripted_country_name: "Kuwānaš Wātū" #invented from Purepecha
+  arabic_xilotepec_area_scripted_country_name_ADJ: "Kuwānaš Wātū"
+  arabic_xalisco_area_scripted_country_name: "Wādī al-Ḥajārah" #Taken from the Arabic etymology of Guadalajara
+  arabic_xalisco_area_scripted_country_name_ADJ: "Ḥajārī"
+  arabic_minas_gerais_area_scripted_country_name: "Al-Manājim" #translation for "mines"
+  arabic_minas_gerais_area_scripted_country_name_ADJ: "Al-Manājim"
+  arabic_peten_area_scripted_country_name: "Balīz" 
+  arabic_peten_area_scripted_country_name_ADJ: "Balīzī"
+  arabic_kuskatan_area_scripted_country_name: "Kuskatān" 
+  arabic_kuskatan_area_scripted_country_name_ADJ: "Kuskatānī"
+  arabic_baja_area_scripted_country_name: "Dār al-ẖalīfah as-suflā" #invented based on the theory that the name California is related to caliph
+  arabic_baja_area_scripted_country_name_ADJ: "Dār al-ẖalīfah as-suflā"
+  arabic_alaxsxaq_area_scripted_country_name: "Al-Aẖsaq" #invented based on Aleut alaxsxaq
+  arabic_alaxsxaq_area_scripted_country_name_ADJ: "Aẖsaqī"
+  arabic_california_area_scripted_country_name: "Dār al-ẖalīfah" #invented based on the theory that the name California is related to caliph
+  arabic_california_area_scripted_country_name_ADJ: "Dār al-ẖalīfah"
+  arabic_great_basin_area_scripted_country_name: "Al-Ḥawḍ al-ʿaẓīm" #actual name
+  arabic_great_basin_area_scripted_country_name_ADJ: "Al-Ḥawḍ al-ʿaẓīm"
+  arabic_rockies_area_scripted_country_name: "Al-Jibāl aṣ-ṣaẖriyyah" #actual name/translation
+  arabic_rockies_area_scripted_country_name_ADJ: "Al-Jibāl aṣ-ṣaẖriyyah"
+  arabic_hawaii_area_scripted_country_name: "Juzur al-Hawāʾ" #interpreted original word as adjective, backformed country
+  arabic_hawaii_area_scripted_country_name_ADJ: "Hawāʾī"
+  arabic_piaui_area_scripted_country_name: "Biyāwī" 
+  arabic_piaui_area_scripted_country_name_ADJ: "Biyāwī"
+  arabic_ceara_area_scripted_country_name: "Siyārā" 
+  arabic_ceara_area_scripted_country_name_ADJ: "Siyārā"
+  arabic_paraiba_area_scripted_country_name: "Biʾr Ībah" #invented from Tupi, based on misidentification with Biʾr ("well")
+  arabic_paraiba_area_scripted_country_name_ADJ: "Biʾr Ībah"
+  arabic_bahia_area_scripted_country_name: "Al-H̱alīj" #translation for "bay" (same word as "gulf")
+  arabic_bahia_area_scripted_country_name_ADJ: "H̱alījī"
+  arabic_bogota_area_scripted_country_name: "Abū Qiṭāʿ" #invented using possessor particle "abu"
+  arabic_bogota_area_scripted_country_name_ADJ: "Abū Qiṭāʿ"
+  arabic_andes_area_scripted_country_name: "Al-Andah" #modern name
+  arabic_andes_area_scripted_country_name_ADJ: "Al-Andah"
+  arabic_quitu_area_scripted_country_name: "Kītū" 
+  arabic_quitu_area_scripted_country_name_ADJ: "Kītū"
+  arabic_atacama_area_scripted_country_name: "Atakāmā" 
+  arabic_atacama_area_scripted_country_name_ADJ: "Atakāmā"
+  arabic_yunga_area_scripted_country_name: "Yūnkā" 
+  arabic_yunga_area_scripted_country_name_ADJ: "Yūnkā"
+  arabic_qullaw_area_scripted_country_name: "Ṣaʿīd Birū" #translation of "Upper Peru"
+  arabic_qullaw_area_scripted_country_name_ADJ: "Ṣaʿīd Birū"
+  arabic_la_plata_area_scripted_country_name: "Bilād al-Fiḍḍah" #("Country of Silver")
+  arabic_la_plata_area_scripted_country_name_ADJ: "Bilād al-Fiḍḍah"
+  arabic_moqoit_area_scripted_country_name: "Muqayṭ" 
+  arabic_moqoit_area_scripted_country_name_ADJ: "Muqayṭī"
+  arabic_cordoba_de_tucuman_area_scripted_country_name: "Qurṭubah" 
+  arabic_cordoba_de_tucuman_area_scripted_country_name_ADJ: "Qurṭubah"
+  arabic_boiaca_area_scripted_country_name: "Abū Yakā" #invented using possessor particle "abu"
+  arabic_boiaca_area_scripted_country_name_ADJ: "Abū Yakā"
+  arabic_sinu_area_scripted_country_name: "Qarṭāj" #Arabic name for "Carthage"
+  arabic_sinu_area_scripted_country_name_ADJ: "Qarṭāj"

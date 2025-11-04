@@ -1,0 +1,27 @@
+﻿#WLS = {
+#	type = country
+#
+#	text = {
+#		localization_key = WLS_welsh
+#		trigger = {
+#			OR = {
+#				culture ?= { language ?= language:brythonic_language }				
+#				court_language ?= language:brythonic_language
+#			}
+#		}
+#	}
+#
+#	text = {
+#		localization_key = WLS_latin
+#		trigger = {
+#			court_language ?= language:latin_language
+#		}
+#	}
+#	
+#	text = {
+#		localization_key = WLS
+#		fallback = yes
+#	}
+#}
+#WLS_ADJ = { parent = WLS suffix = "_ADJ" }
+#

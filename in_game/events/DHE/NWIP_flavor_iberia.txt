@@ -1,0 +1,326 @@
+﻿namespace = NWIP_flavor_iberia
+
+NWIP_flavor_iberia.1 = { # Conquest of Mexico
+	type = country_event
+	title = NWIP_flavor_iberia.1.title
+	desc = NWIP_flavor_iberia.1.desc
+	image = "gfx/interface/illustrations/institutions/new_world.dds"
+	fire_only_once = yes
+
+	historical_info = flavor_cas.36.historical_info
+
+	dynamic_historical_event = {
+		tag = CAS
+		tag = SPA
+		tag = POR
+		
+		#Let's let it happen at any time, shall we?
+		from = 1450.1.1
+		to = 1650.1.1
+		
+		#1% is too low, what about 5%?
+		monthly_chance = 100
+	}
+
+	trigger = {
+		#has_presence_in = region:mesoamerica_region
+		
+		#has_discovered_area = area:mexihko_area
+		region:mesoamerica_region = {
+			any_area_in_region = {
+				root = {
+					has_discovered_area = prev
+				}
+				any_location_in_area = {
+					is_coastal = yes
+					has_owner = yes
+					NOT = {
+						is_owned_or_owned_by_subjects_of = root
+					}
+				}
+			}
+		}
+		
+		#always = yes
+	}
+
+	immediate = {
+	
+		save_scope_as = colonizer
+		
+		random_core_location = {
+			save_scope_as = birth_location
+			save_scope_as = location #used by the conquistador event
+		}
+		
+		#if withing the expected period, create Cortés
+		if = {
+			limit = {
+				current_date > 1505.1.1
+				current_date < 1550.1.1
+			}
+			
+			if = {
+				limit = {
+					NOT = {
+						dynasty_exists = Cortes
+					}
+				}
+				location:medellin = { create_dynasty_from_location = Cortes }
+			}
+			create_character = {
+				first_name = Hernan
+				last_name = Cortes
+				dynasty = dynasty:Cortes
+				adm = { 50 70 }
+				dip = { 50 70 }
+				mil = 100
+				birth_date = 1485.12.1
+				birth_location = location:medellin
+				culture = culture:castilian
+				estate = estate_type:nobles_estate
+				script = cas_cortes
+				save_scope_as = target_character
+				create_in_limbo = yes
+			}
+		}
+		#otherwise, create a random fitting character
+		else = {
+			create_character = {
+				adm = { 50 70 }
+				dip = { 50 70 }
+				mil = 100
+
+				birth_location = scope:birth_location
+
+				age = { 25 50 }
+				female = no
+				save_scope_as = target_character
+				create_in_limbo = yes
+			}
+		}
+		
+		region:mesoamerica_region = {
+			random_location_in_region = {
+				limit = {
+					is_coastal = yes
+					has_owner = yes
+					is_discovered_by = scope:colonizer
+					NOT = {
+						is_owned_or_owned_by_subjects_of = scope:colonizer
+					}
+				}
+				save_scope_as = target_location
+				area = {
+					save_scope_as = target_area
+				}
+			}
+		}
+		
+		
+	}
+
+	option = {
+		name = flavor_cas.36.a
+		historical_option = yes
+		scope:target_character = {
+			move_country = root
+		}
+		scope:target_character = {
+			add_random_trait_from_category = general
+			add_character_modifier = {
+				modifier = refuses_to_serve_in_cabinet
+				years = -1
+				mode = add_and_extend
+			}
+			
+			save_scope_as = target #used by the conquistador event
+		}
+		#add_casus_belli =  { type = casus_belli:cb_conquer_province target = location:tenochtitlan.owner province = location:tenochtitlan.province }
+		change_gold_effect = { scale = -1 }
+		
+		##First attempt: create a proper conquistador
+		start_conquistador = {
+			area = scope:target_area
+			location = scope:target_location
+			character = scope:target_character
+			price = price:recruit_conquistador
+			#price_modifier = scope:price_modifier
+		}
+		
+		
+		##if this doesn't work, let's create an ABC for them
+		#scope:colonizer = { save_scope_as = actor }
+		#trigger_event_non_silently = {
+		#	id = conquistador.1
+		#}
+
+	
+	}
+
+	option = {
+		name = flavor_cas.36.b
+		add_prestige = prestige_mild_penalty
+		hidden_effect = {
+			kill_character_silently = scope:target_character
+		}
+	}
+}
+
+
+NWIP_flavor_iberia.2 = { # Conquest of the Andes
+	type = country_event
+	title = NWIP_flavor_iberia.2.title
+	desc = NWIP_flavor_iberia.2.desc
+	image = "gfx/interface/illustrations/institutions/new_world.dds"
+	fire_only_once = yes
+
+	historical_info = flavor_cas.35.historical_info
+
+	dynamic_historical_event = {
+		tag = CAS
+		tag = SPA
+		tag = POR
+		
+		#Let's let it happen at any time, shall we?
+		from = 1450.1.1
+		to = 1650.1.1
+		
+		#1% is too low, what about 5%?
+		monthly_chance = 5
+	}
+
+	trigger = {
+		#has_presence_in = region:mesoamerica_region
+		
+		region:andes_region = {
+			any_area_in_region = {
+				root = {
+					has_discovered_area = prev
+				}
+				any_location_in_area = {
+					is_coastal = yes
+					has_owner = yes
+					NOT = {
+						is_owned_or_owned_by_subjects_of = root
+					}
+				}
+			}
+		}
+		
+		#always = yes
+	}
+
+	immediate = {
+	
+		save_scope_as = colonizer
+		
+		random_core_location = {
+			save_scope_as = birth_location
+			save_scope_as = location #used by the conquistador event
+		}
+		
+		#if withing the expected period, create Cortés
+		if = {
+			limit = {
+				current_date > 1505.1.1
+				current_date < 1550.1.1
+			}
+			
+			create_character = {
+				first_name = name_francis
+				last_name = Pizarro
+				adm = { 50 70 }
+				dip = { 50 70 }
+				mil = { 85 95 }
+				birth_date = 1478.3.16
+				birth_location = location:trujillo
+				culture = culture:castilian
+				estate = estate_type:peasants_estate
+				script = cas_pizarro
+				save_scope_as = target_character
+				create_in_limbo = yes
+			}
+		}
+		#otherwise, create a random fitting character
+		else = {
+			create_character = {
+				adm = { 50 70 }
+				dip = { 50 70 }
+				mil = { 85 95 }
+
+				birth_location = scope:birth_location
+
+				age = { 25 50 }
+				female = no
+				save_scope_as = target_character
+				create_in_limbo = yes
+			}
+		}
+		
+		region:andes_region = {
+			random_location_in_region = {
+				limit = {
+					is_coastal = yes
+					has_owner = yes
+					is_discovered_by = scope:colonizer
+					NOT = {
+						is_owned_or_owned_by_subjects_of = scope:colonizer
+					}
+				}
+				save_scope_as = target_location
+				area = {
+					save_scope_as = target_area
+				}
+			}
+		}
+		
+		
+	}
+
+	option = {
+		name = flavor_cas.35.a
+		historical_option = yes
+		scope:target_character = {
+			move_country = root
+		}
+		scope:target_character = {
+			add_random_trait_from_category = general
+			add_character_modifier = {
+				modifier = refuses_to_serve_in_cabinet
+				years = -1
+				mode = add_and_extend
+			}
+			
+			save_scope_as = target #used by the conquistador event
+		}
+		#add_casus_belli =  { type = casus_belli:cb_conquer_province target = location:tenochtitlan.owner province = location:tenochtitlan.province }
+		change_gold_effect = { scale = -1 }
+		
+		##First attempt: create a proper conquistador
+		#start_conquistador = {
+		#	area = scope:target_area
+		#	location = scope:target_location
+		#	character = scope:target_character
+		#	price = price:recruit_conquistador
+		#	#price_modifier = scope:price_modifier
+		#}
+		
+		
+		#if this doesn't work, let's create an ABC for them
+		scope:colonizer = { save_scope_as = actor }
+		trigger_event_non_silently = {
+			id = conquistador.1
+		}
+
+	
+	}
+
+	option = {
+		name = flavor_cas.35.b
+		add_prestige = prestige_mild_penalty
+		hidden_effect = {
+			kill_character_silently = scope:target_character
+		}
+	}
+}

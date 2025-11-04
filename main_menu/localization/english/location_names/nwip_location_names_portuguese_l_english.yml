@@ -1,0 +1,285 @@
+﻿l_english:
+ marapanim.portuguese_language: "Marapanim" #Marapanim (Maraparim)
+ tupinamba.portuguese_language: "Bragança" #Tupinamba (Bragança)
+ samauma.portuguese_language: "Samaúma" #Samauma (Samaúma)
+ mairi.portuguese_language: "Belém do Pará" #Mairi (Belém do Pará)
+ mazagao.portuguese_language: "Mazagão" #Mazagao (Mazagão)
+ mariocai.portuguese_language: "Gurupá" #Mariocai (Gurupá)
+ paru.portuguese_language: "Almeirim" #Paru (Almeirim)
+ prainha.portuguese_language: "Prainha" #Prainha (Prainha)
+ gurupatuba.portuguese_language: "Monte Alegre" #Gurupatuba (Monte Alegre)
+ surubiu.portuguese_language: "Alenquer" #Surubiu (Alenquer)
+ obidos.portuguese_language: "Óbidos" #Obidos (Óbidos)
+ anambe.portuguese_language: "Camutá" #Anambe (Camutá)
+ manaos.portuguese_language: "Manaus" #Manaos (Manaus)
+ tupulicus.portuguese_language: "Santarém" #Tupulicus (Santarém)
+ kuben_kran_ken.portuguese_language: "Altamira" #Kuben Kran Ken (Altamira)
+ evuevi.portuguese_language: "Biliago" #Evuevi (Coxim), ? Coxim
+ ytykyra.portuguese_language: "Itiquira" #Ytykyra (Itiquira), ?
+ ikuiapa.portuguese_language: "Cuiabá" #Ikuiapa (Cuiabá)
+ otuques.portuguese_language: "Jaciara" #Otuques (Jaciara)
+ paranaiba.portuguese_language: "Paranaíba" #Paranaiba (Paranaíba)
+ maracaju.portuguese_language: "Maracaju" #Maracaju (Maracaju)
+ paranoa.portuguese_language: "Paranoá" #Paranoa (Brasilia)
+ corumba.portuguese_language: "Corumbá" #Corumba (Corumbá)
+ morrinhos.portuguese_language: "Morrinhos" #Paranã-aíb-a (Caldas Novas), ?
+ bororos.portuguese_language: "São Pedro de Uberabinha" #Bororos (Uberlandia)
+ uberaba.portuguese_language: "Uberaba" #Uberaba (Uberaba)
+ bagagem.portuguese_language: "Bagagem" #Bagagem (Romaria), or Chapada de Minas
+ aratu.portuguese_language: "Santo Antônio dos Patos" #Aratu (Patos de Minas)
+ pium_i.portuguese_language: "Piauhy" #Pium I (Piumhi)
+ uracu.portuguese_language: "Uruaçu" #Uracu (Uruaçu)
+ itapirapua.portuguese_language: "Itapirapuá" #Itapirapua (Itapirapuá)
+ kururupu.portuguese_language: "Cururupu" #Kururupu ()
+ tapuitapera.portuguese_language: "Alcântara" #Tapuitapera (Alcântara)
+ miritiba.portuguese_language: "São José do Periá" #Miritiba (Humberto de Campos)
+ uruaitis.portuguese_language: "Itapecuru-Mirim" #Uruaitis (Itapecuru-Mirim)
+ timbira.portuguese_language: "Caxias" #Timbira (Caxias)
+ tapuios.portuguese_language: "Santo Inácio" #Tapuios (Barreirinhas)
+ upaon_acu.portuguese_language: "São Luís" #Upaon Acu (São Luís)
+ igaracu.portuguese_language: "Parnaíba" #Igaracu (Parnaíba), ?
+ tacariju.portuguese_language: "Santo Antônio do Surubim" #Tacariju (), closest historical settlement
+ kalabaca.portuguese_language: "Ibiapaba" #Kalabaca (Ibiapaba), ?
+ tubiba.portuguese_language: "Ipu" #Tubiba (Tamboril), or Tamboril
+ quixara.portuguese_language: "Quixeramobim" #Quixara (Quixeramobim)
+ utuva.portuguese_language: "Icó" #Utuva (Icó)
+ monxoro.portuguese_language: "Mossoró" #Monxoro (Mossoró)
+ jucas.portuguese_language: "Campo Alegre" #Jucas (Aiuaba), old name of Aiuaba
+ telha.portuguese_language: "Crato" #Telha (Crato)
+ paiaco.portuguese_language: "Caraúbas" #Paiaco (Caraúbas)
+ jenipaboacu.portuguese_language: "Santa Cruz do Coreaú" #Jenipaboacu (Coreaú), Granja
+ acarau.portuguese_language: "Viçosa do Ceará" #Acarau (Ibiapaba), Ibiapaba
+ tapuia.portuguese_language: "Ibiapina" #Tapuia (Ibiapina)
+ arerius.portuguese_language: "Sobral" #Arerius (Sobral)
+ reriu.portuguese_language: "Guaraciaba" #Reriu (Guaraciaba), Vila Nova Del Rei or Guaraciaba do Norte
+ payaku.portuguese_language: "Aquiraz" #Payaku (Aquiraz)
+ pitaguari.portuguese_language: "Fortaleza" #Pitaguari (Fortaleza)
+ kaninde.portuguese_language: "Canindé" #Kaninde (Canindé)
+ tapeba.portuguese_language: "Caucaia" #Tapeba (Caucaia)
+ anace.portuguese_language: "Itapipoca" #Anace (Itapipoca)
+ paraiba.portuguese_language: "Baía da Traição" #Paraiba ()
+ pegas.portuguese_language: "Patos" #Pegas (Patos)
+ quincu.portuguese_language: "Sousa" #Quincu (Sousa)
+ xukuru.portuguese_language: "Monteiro" #Xukuru (Monteiro), ?
+ caxanga.portuguese_language: "Parahyba" #Caxanga (João Pessoa)
+ kaaysara.portuguese_language: "Touros" #Kaaysara (Touros)
+ potiguara.portuguese_language: "Natal" #Potiguara (Natal)
+ caico.portuguese_language: "Caicó" #Caico (Caicó)
+ yapuata.portuguese_language: "Recife" #Yapuata (Recife), ??
+ fulni_o.portuguese_language: "Carurú" #Fulni O (), ?
+ kariri.portuguese_language: "Arapiraca" #Kariri (Arapiraca)
+ caete.portuguese_language: "Santana do Ipanema" #Caete (Santana do Ipanema), ?
+ karapoto.portuguese_language: "Maceió" #Karapoto (Maceió), ?
+ jaguarari.portuguese_language: "Jaguarari" #Jaguarari ()
+ acoroazes.portuguese_language: "Remanso" #Acoroazes (Remanso), ?
+ ipueira.portuguese_language: "Xique-Xique" #Ipueira (Xique-Xique)
+ itaboca.portuguese_language: "São João das Barreiras" #Itaboca (São João das Barreiras)
+ ibotirama.portuguese_language: "Ibotirama" #Ibotirama (Ibotirama)
+ kayapo.portuguese_language: "Cariranha" #Kayapo (Cariranha), ?
+ pataxo.portuguese_language: "Vera Cruz" #Pataxo (Vera Cruz), ?
+ nac_nanuk.portuguese_language: "Porto Seguro" #Nac Nanuk (Porto Seguro)
+ tapuy.portuguese_language: "Caraiva" #Tapuy-ú (Caraiva), ?
+ jucuru.portuguese_language: "Prado" #Jucuru (Prado), ?
+ caravelas.portuguese_language: "Caravelas" #Caravelas (Caravelas)
+ vicosa.portuguese_language: "Viçosa" #Viçosa (Viçosa)
+ hahahae.portuguese_language: "Ilhéus" #Hahahae (Ilhéus)
+ tanhacu.portuguese_language: "Tanhaçu" #Tanhacu (Tanhaçu), ?
+ tupiniquim.portuguese_language: "Itacaré" #Tupiniquim (Itacaré)
+ itapicuru.portuguese_language: "Queimadas" #Itapicuru (Queimadas), Santo Antonio das Queimadas
+ jiribatuba.portuguese_language: "Salvador" #Jiribatuba (Salvador)
+ sauipe.portuguese_language: "Itapicuru" #Sauipe (Conde), Conde
+ kaimbe.portuguese_language: "Canudos" #Kaimbe (), ?
+ uaua.portuguese_language: "Uauá" #Uaua (Uauá), ?
+ kiriri.portuguese_language: "Tucano" #Kiriri (Tucano), ?
+ itabaiana.portuguese_language: "Jeremoabo" #Itabaiana (Itabaiana), ? not sure?
+ guanambi.portuguese_language: "Guanambi" #Guanambi (Guanambi)
+ itaberaba.portuguese_language: "Itaberaba" #Itaberaba ()
+ itaitu.portuguese_language: "Itaitu" #Itaitu ()
+ irece.portuguese_language: "Irecê" #Irece (Irecê)
+ andarai.portuguese_language: "Andarai" #Andarai ()
+ xoko.portuguese_language: "Curral do Buraco" #Xoko ()
+ arakaiu.portuguese_language: "Aracaju" #Arakaiu (Aracaju)
+ aimore.portuguese_language: "São Mateus" #Aimore (São Mateus), ?
+ kiri_kere.portuguese_language: "Barra de São Mateus" #Kiri-Kerê ()
+ coutins.portuguese_language: "Coutins" #Coutins (Coutins), ?
+ guaitaca.portuguese_language: "Aracruz" #Guaitaca (Aracruz), ?
+ jose_calcado.portuguese_language: "Sâo José do Calçado" #Sâo José do Calçado (Sâo José do Calçado)
+ itapemirim.portuguese_language: "Itapemirim" #Itapemirim (Itapemirim)
+ guarapiri.portuguese_language: "Guarapari" #Guará-parim (Guarapari)
+ itaparica.portuguese_language: "Vitória" #Itaparica (Vitória)
+ nandu.portuguese_language: "Colatina" #Nandú (Colatina), ?
+ itaperuna.portuguese_language: "Itaperuna" #Itaperuna (Itaperuna)
+ guaitaka.portuguese_language: "Campos dos Goitacazes" #Guaîtaká (Campos dos Goitacazes)
+ sao_fidelis.portuguese_language: "São Fidélis" #São Fidélis (São Fidélis)
+ cantagalo.portuguese_language: "Cantagalo" #Cantagalo (Cantagalo)
+ mokaie.portuguese_language: "Macaé" #Mokaîé (Macaé)
+ nova_friburgo.portuguese_language: "Nova Friburgo" #Nova Friburgo (Nova Friburgo)
+ feia_lake.portuguese_language: "Lagoa Feia" #Feia Lake (Lagoa Feia)
+ kapiwary.portuguese_language: "Rio das Ostras" #Kapi'war'y (Rio das Ostras)
+ ararayu_aba.portuguese_language: "Cabo Frio" #Arara'y'u-aba (Cabo Frio)
+ nheteroia.portuguese_language: "Niterói" #Nheterõia (Niterói)
+ mage.portuguese_language: "Magé" #Magé (Magé)
+ y_uasu.portuguese_language: "Nova Iguaçu" #Y-ûasu (Nova Iguaçu), not sure if there's a better historical name
+ goana_para.portuguese_language: "Rio de Janeiro" #Goaná-Pará (Rio de Janeiro)
+ ita_kua_y.portuguese_language: "Mangaratiba" #Itá-kûa-y (Mangaratiba), not sure if there's a better historical name
+ cunhambebe.portuguese_language: "Angra dos Reis" #Cunhambebe (Angra dos Reis)
+ praiba_sul.portuguese_language: "Paraiba do Sul" #Paraiba do Sul ()
+ piray.portuguese_language: "Piraí" #Piraí (Piraí)
+ ita_atiaia.portuguese_language: "Resende" #Itá-atîaîa (Resende)
+ conceicao.portuguese_language: "Conceição" #Conceição (Conceição)
+ itabira.portuguese_language: "Itabira" #Itá-byra (Itabira)
+ serro.portuguese_language: "Serro Frio" #Serro (Serro)
+ santa_barbara.portuguese_language: "Santa Bárbara" #Santa Barbara (Santa Bárbara)
+ caete_brasil.portuguese_language: "Caeté" #Ka'a-eté (Caeté)
+ itacolomi.portuguese_language: "Itacolomi" #Itacolomi (Itacolomi)
+ mariana.portuguese_language: "Mariana" #Mariana (Mariana)
+ ponte_nova.portuguese_language: "Ponte Nova" #Ponte Nova (Ponte Nova)
+ piranga.portuguese_language: "Piranga" #Gûará-pirang-a (Piranga)
+ santo_antonio_monte.portuguese_language: "Santo Antônio do Monte" #Santo Antônio do Monte (Santo Antônio do Monte)
+ formiga.portuguese_language: "Formiga" #Formiga (Formiga)
+ piumhi.portuguese_language: "Piumhi" #Piawa'y (Piumhi)
+ tres_pontas.portuguese_language: "Três Pontas" #Três Pontas (Três Pontas)
+ passos.portuguese_language: "Passos" #Passos (Passos)
+ sao_sebastiao_paraiso.portuguese_language: "São Sebastião do Paraiso" #São Sebastião do Paraiso (São Sebastião do Paraiso)
+ cabo_verde.portuguese_language: "Cabo Verde" #Cabo Verde (Cabo Verde)
+ cataguas.portuguese_language: "Cataguás" #Cataguas (Cataguás)
+ alfenas.portuguese_language: "Alfenas" #Alfenas (Alfenas)
+ camanducaia.portuguese_language: "Camanducaia" #Komandá-kaî-a (Camanducaia)
+ parapopeba.portuguese_language: "Paráopeba" #Pará-popeba (Paráopeba)
+ sao_joao_rei.portuguese_language: "São João del Rei" #São João del Rei (São João del Rei)
+ oliveira.portuguese_language: "Oliveira" #Oliveira (Oliveira)
+ lavras.portuguese_language: "Lavras" #Lavras (Lavras)
+ baependi.portuguese_language: "Baependi" #Mba'epina'y (São Lourenço)
+ campanha.portuguese_language: "Campanha" #Campanha (Campanha)
+ itajuba.portuguese_language: "Itajubá" #Itá-îybá (Itajubá)
+ rio_preto.portuguese_language: "Rio Preto" #Rio preto (Rio Preto)
+ juiz_fora.portuguese_language: "Juiz de Fora" #Juiz de Fora (Juiz de Fora)
+ barbacena.portuguese_language: "Barbacena" #Barbacena (Barbacena)
+ leopoldina.portuguese_language: "Leopoldina" #Leopoldina (Leopoldina)
+ rio_pomba.portuguese_language: "Rio Pomba" #Rio Pomba (Rio Pomba)
+ muriae.portuguese_language: "Muriaé" #Meruim-hu (Muriaé)
+ itakangapyra.portuguese_language: "Itacambira" #Itakangapyra ()
+ almenara.portuguese_language: "Almenara" #Almenara (Almenara)
+ salinas.portuguese_language: "Salinas" #Salinas (Salinas)
+ rio_pardo.portuguese_language: "Rio Pardo" #Rio Pardo (Rio Pardo)
+ itaratim.portuguese_language: "Itaratim" #Itaratim (Itaratim)
+ bocaiuva.portuguese_language: "Bocaiuva" #Bocaiuva (Bocaiuva)
+ itamarandiba.portuguese_language: "São João Batista" #Itamarandiba (Itamarandiba), Original name
+ pecanha.portuguese_language: "Santo Antônio do Peçanha" #Peçanha (Peçanha)
+ mucuri.portuguese_language: "Mucuri" #Mucuri ()
+ fanado.portuguese_language: "Minas Novas" #Fanado (Diamantina), Fanado is the oldest name but Minas Novas is from within the game's timeframe
+ aracuai.portuguese_language: "Araçuaí" #Araçuaí ()
+ nanuque.portuguese_language: "Nanuque" #Nanuque (Nanuque)
+ caratinga.portuguese_language: "Caratinga" #Aka'ratin'ga (Caratinga)
+ mutum.portuguese_language: "Mutum" #Mutũ (Mutum)
+ manhuacu.portuguese_language: "Manhuaçu" #Aman'y-ûasu (Manhuaçu)
+ paracatu.portuguese_language: "Paracatu" #Pará-katu (Paracatu)
+ itapiracaba.portuguese_language: "Itapiraçaba" #Itapiracaba ()
+ anais.portuguese_language: "São Francisco" #Anais (São Francisco)
+ jaiba.portuguese_language: "Jaiba" #Ya'yba (Jaiba), ?
+ janauba.portuguese_language: "Janauba" #Janauba (Janauba)
+ montes_claros.portuguese_language: "Montes Claros" #Montes Claros (Montes Claros)
+ cataguases.portuguese_language: "Pitangui" #Cataguases (Pitangui), ?
+ pinheiro.portuguese_language: "Santana dos Alegres" #Pinheiro (João Pinheiro), João Pinheiro
+ curvelo.portuguese_language: "Curvelo" #Curvelo (Curvelo)
+ sabarabucu.portuguese_language: "Sabará" #Sabarabucu (Sabará)
+ santa_luzia.portuguese_language: "Santa Luzia" #Santa Luzia (Santa Luzia)
+ sete_lagoas.portuguese_language: "Sete Lagoas" #Sete Lagoas (Sete Lagoas)
+ goianas.portuguese_language: "Curral del Rey" #Goianas (Belo Horizonte)
+ pirapora.portuguese_language: "Pirapora" #Pirapora (Pirapora)
+ tamoio.portuguese_language: "Itanhaém" #Tamoio (Itanhaém), Nossa Senhora da Conceição de Itanhaém
+ iguape.portuguese_language: "Iguape" #Iguape (Iguape)
+ cananeia.portuguese_language: "Registro" #Mara-tayama (Registro)
+ marataiama.portuguese_language: "Cananéia" #Marataiama (Cananéia), ?
+ gohayo.portuguese_language: "São Vicente" #Gu-ai-óg (Santos)
+ sao_sebastiao.portuguese_language: "São Sebastião" #Mboîa-su-kanga (Caraguatatuba)
+ itu.portuguese_language: "Itu" #Itu (Itu)
+ sorocaba.portuguese_language: "Sorocaba" #Sorok-aba (Sorocaba)
+ araritaguaba.portuguese_language: "Porto Feliz" #Araritaguaba (Porto Feliz), ?
+ mogi_mirim.portuguese_language: "Mogi Mirim" #Moî'ymirim (Mogi Mirim)
+ campinas.portuguese_language: "Campinas" #Campinas (Campinas)
+ jundiai.portuguese_language: "Jundiai" #Jundiai (Jundiai)
+ atibaia.portuguese_language: "Atibaia" #Atyb-aia (Bragança Paulista)
+ sao_roque.portuguese_language: "São Roque" #Sao Roque (São Roque)
+ jerubatuba.portuguese_language: "Itapecerica da Serra" #Jerubatuba (Itapecerica da Serra)
+ parnaiba.portuguese_language: "Santana do Parnaiba" #Pan-n-eeí-bo (Osasco)
+ piratininga.portuguese_language: "São Paulo" #Pirá-tininga (São Paulo), São Paulo de Piratininga
+ aruja.portuguese_language: "Guarulhos" #Aru-îá (Guarulhos), Nossa Senhora da Conceição dos Guarulhos
+ mogi_das_cruzes.portuguese_language: "Mogi das Cruzes" #Mboîa (Mogi das Cruzes)
+ sao_luis_do_paraitinga.portuguese_language: "São Luis do Paraitinga" #Sao Luis do Paraitinga (São Luis do Paraitinga)
+ lorena.portuguese_language: "Lorena" #Guâ-upa-caré (Lorena)
+ guaratingueta.portuguese_language: "Guaratinguetá" #Guaratingueta (Aparecida do Norte)
+ taubate.portuguese_language: "Taubaté" #Taba-ybaté (Taubaté)
+ paraibuna.portuguese_language: "Paraibuna" #Pará-y-b'una (Paraibuna)
+ jacarei.portuguese_language: "Jacareí" #Îakare'y (Jacarei)
+ lapa.portuguese_language: "Lapa" #Lapa (), ?
+ ponta_grossa.portuguese_language: "Ponta Grossa" #Pitangui (Ponta Grossa)
+ curitiba.portuguese_language: "Curitiba" #Kurí tyba (Curitiba)
+ bocaiuva_do_sul.portuguese_language: "Bocaiuva do Sul" #Mokaîe'yba (Bocaiuva do Sul)
+ palmeira_brasil.portuguese_language: "Palmeira" #Palmeira (), ?
+ sao_jose_pinhais.portuguese_language: "São José dos Pinhais" #São José dos Pinhais (São José dos Pinhais)
+ parnanguara.portuguese_language: "Paranaguá" #Parnanguara ()
+ santo_antonio.portuguese_language: "Santo Antonio" #Santo Antonio (Santo Antonio)
+ chopim.portuguese_language: "Chopim" #Chopim (Chopim), ?
+ chapeco.portuguese_language: "Chapecó" #Chapeco (Chapecó)
+ palmas.portuguese_language: "Palmas" #Palmas (Palmas), ?
+ campo_mourao.portuguese_language: "Campo Mourão" #Campo Mourão ()
+ iguazu.portuguese_language: "Iguassú" #Iguazú ()
+ mbai_yuru.portuguese_language: "Bauru" #Mbai Yuru (Bauru)
+ bauru.portuguese_language: "Assis" #Mbai-yurú (Assis)
+ botucatu.portuguese_language: "Botucatu" #Ybytyra-katu (Botucatu)
+ porto_tibirica.portuguese_language: "Porto Tibiriçá" #Porto Tibiriça (Presidente Prudente)
+ valparaiso.portuguese_language: "Valparaiso" #Valparaiso (Andradina)
+ tiete.portuguese_language: "Araçatuba" #Tietê (Araçatuba)
+ sapukaia.portuguese_language: "Franca" #Sapukaia (Franca), but Pouso dos Bagres is cool as well :p
+ mantiqueira.portuguese_language: "São João da Boa Vista" #Mantiqueira (São João da Boa Vista)
+ caiapo.portuguese_language: "Ribeirão Preto" #Caiapo (Ribeirão Preto), ? that name is from 1845
+ itapeva.portuguese_language: "Itapeva" #Itapeva (Itapeva)
+ itapetininga.portuguese_language: "Itapetininga" #Itapetininga (Itapetininga)
+ abare_i.portuguese_language: "Avaré" #Abare I (Avaré)
+ itaporanga.portuguese_language: "Itaporanga" #Itá-porang-a (Itaporanga)
+ apiai.portuguese_language: "Apiaí" #Apya'y (Apiaí), ?
+ capao_bonito.portuguese_language: "Capão Bonito" #Capão (Capão Bonito)
+ barretos.portuguese_language: "Barretos" #Barretos (Barretos)
+ jaboticabal.portuguese_language: "Jaboticabal" #Jaboticabal (Jaboticabal)
+ tanabi.portuguese_language: "Tanambi" #Tanambi (Tanambi)
+ sao_jose_preto.portuguese_language: "São José do Rio Preto" #São José do Rio Preto (São José do Rio Preto)
+ brotas.portuguese_language: "Brotas" #Brotas (Brotas)
+ piracicaba.portuguese_language: "Piracicaba" #Piracicaba (Piracicaba)
+ sao_carlos.portuguese_language: "São Carlos" #Sao Carlos (São Carlos)
+ araquara.portuguese_language: "Araraquara" #Araquara (Araraquara)
+ guaiana.portuguese_language: "Itararé" #Guaiana (Itararé)
+ imbau.portuguese_language: "Imbau" #Imbau (Imbau), ?
+ jataizinho.portuguese_language: "Jataizinho" #Jataizinho (Jataizinho)
+ apucarana.portuguese_language: "Apucarana" #Apócaaranã (Apucarana)
+ itarare.portuguese_language: "Itararé" #Itararé (Itararé)
+ itapocu.portuguese_language: "Itapocu" #Itapocu ()
+ itajai.portuguese_language: "Itajaí" #Itajaí (Itajaí)
+ lages.portuguese_language: "Lages" #Lages (Lages)
+ sao_joaquim.portuguese_language: "São Joaquim" #Sao Joaquim (São Joaquim)
+ tubarao.portuguese_language: "Tubarão" #Tubá-Nharô (Tubarão)
+ cruz_alta.portuguese_language: "Cruz Alta" #Cruz Alta ()
+ palmeira.portuguese_language: "Palmeira" #Palmeira (), ?
+ lagoa_vermelha.portuguese_language: "Lagoa Vermelha" #Lagoa Vermelha (Lagoa Vermelha)
+ passo_fundo.portuguese_language: "Passo Fundo" #Passo Fundo (Passo Fundo)
+ vacaria.portuguese_language: "Vacaria" #Vacaria (Vacaria)
+ piratinin.portuguese_language: "Piratini" #Piratinin ()
+ piratini.portuguese_language: "Piratini" #Piratini ()
+ jaguarao.portuguese_language: "Jaguarão" #Jaguarao ()
+ cangucu.portuguese_language: "Canguçu" #Cangucu ()
+ chuy.portuguese_language: "Chuí" #Chuy ()
+ mirim_lake.portuguese_language: "Lagoa Mirim" #Mirim Lake (Lagoa Mirim)
+ icabaqua.portuguese_language: "Icabaquã" #Icabaqua ()
+ tupancireta.portuguese_language: "Tupanciretã" #Tupancireta (), ?
+ umbu.portuguese_language: "Umbu" #Umbu ()
+ cacapava.portuguese_language: "Caçapava" #Caçapava (Caçapava do Sul)
+ vacacai.portuguese_language: "Santa Maria" #Vacacai (Santa Maria)
+ tapes.portuguese_language: "Gravataí" #Tapes (Gravataí), ? old name of Canoas
+ patos.portuguese_language: "Patos" #Patos (Patos)
+ jacui.portuguese_language: "Jacui" #Jacui (Jacui)
+ sao_leopoldo.portuguese_language: "São Leopoldo" #Sao Leopoldo (São Leopoldo)
+ san_antonio_patrulha.portuguese_language: "Santo Antonio da Patrulha" #San Antonio da Patrulha (Santo Antonio da Patrulha)
+ ibirapuita.portuguese_language: "Alegrete" #Ibirapuita ()
+ cacequi.portuguese_language: "Cacequi" #Cacequi ()
+ ibaje.portuguese_language: "Bagé" #Ibaje (), - could be called Santa Tecla instead
+ inhandui.portuguese_language: "Inhandui" #Inhandui ()

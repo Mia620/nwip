@@ -1,0 +1,259 @@
+﻿namespace = fall_of_cahokia
+
+fall_of_cahokia.1 = { #The Ciompi Revolts 
+	type = country_event
+	category = disaster_event
+	title = fall_of_cahokia.1.title
+	desc = fall_of_cahokia.1.desc
+	
+	fire_only_once = yes
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+	immediate = {
+		ruler ?= {
+			save_scope_as = target_character
+		}
+		capital = {
+			save_scope_as = target_location
+		}
+		capital = {
+			area = { save_scope_as = target_capital_area }
+		}
+	}
+
+	option = {
+		name = fall_of_cahokia.1.a
+
+		add_stability = stability_extreme_penalty
+	
+	}
+}
+
+fall_of_cahokia.2 = { 
+	type = country_event
+	category = disaster_event
+	title = fall_of_cahokia.2.title
+	desc = fall_of_cahokia.2.desc
+	
+	image = "gfx/interface/illustrations/disaster/peasants_war.dds"
+	
+	trigger = {
+		any_owned_location = {
+			population < 3.0
+		}
+	}
+	immediate = {
+		ruler ?= {
+			save_scope_as = target_character
+		}
+	}
+
+	option = {
+		name = fall_of_cahokia.2.a
+
+		random_owned_location = {
+			limit = {
+				population < 3.0
+			}
+			save_scope_as = selected_location
+		}
+		abandon_location = scope:selected_location
+		
+		historical_option = yes
+		
+		ai_chance = {
+			factor = 1
+		}
+	}
+	
+	option = {
+		name = fall_of_cahokia.2.b
+		
+		scope:selected_location = {
+			change_control = control_radical_penalty
+		}
+
+		add_stability = stability_extreme_penalty
+		
+		ai_chance = {
+			factor = 0
+		}
+	}
+
+
+}
+
+fall_of_cahokia.3 = { 
+	type = country_event
+	category = disaster_event
+	title = fall_of_cahokia.3.title
+	desc = fall_of_cahokia.3.desc
+	
+	trigger = {
+        has_variable = chk_enable_downfall_events
+		area:missouri_area = {
+			any_location_in_area = {
+				owner ?= ROOT
+				count > 2
+			}
+		}
+	}
+	
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:peasants_estate background = estate_type:peasants_estate }
+		ruler ?= {
+            save_scope_as = our_ruler
+        }
+
+		area:iowa_area = {
+			random_location_in_area = {
+				save_scope_as = cahokia_migration
+			}
+		}
+
+		random_owned_location = {
+			save_scope_as = target_location
+		}
+		
+	}	
+	
+	illustration_tags = {
+		10 = angry
+		10 = exterior
+	}	
+
+	option = { # A troubling sign of things to come for Cahokia
+		name = flavor_chk.32.a	
+		historical_option = yes
+		add_stability = stability_mild_penalty
+		add_migration = {
+			owner ?= ROOT #A migration tries to move the owner's own citizens.
+			from = scope:target_location.province_definition
+			to = scope:cahokia_migration.province_definition
+			type = pop_type:peasants
+			amount = 1.0
+			months = 24
+		}
+		add_migration = {
+			owner ?= ROOT #A migration tries to move the owner's own citizens.
+			from = scope:target_location.province_definition
+			to = scope:cahokia_migration.province_definition
+			type = pop_type:tribesmen
+			amount = 1.0
+			months = 24
+		}			
+		
+	}
+
+}
+
+
+fall_of_cahokia.101 = { 
+	hide_portraits = yes
+	type = country_event
+	title = flavor_chk.101.title
+	desc = flavor_chk.101.desc
+
+	trigger = {
+		always = yes
+	}
+	
+	immediate = {
+		event_illustration_estate_effect = { foreground = estate_type:peasants_estate background = estate_type:peasants_estate }
+		ruler ?= {
+            save_scope_as = our_ruler
+        }
+		
+		random_list = {
+			10 = {
+				area:iowa_area = {
+					save_scope_as = cahokia_migration_area
+				}
+			}
+			10 = {
+				area:wisconsin = {
+					save_scope_as = cahokia_migration_area
+				}
+			}
+			15 = {
+				area:arkansas = {
+					save_scope_as = cahokia_migration_area
+				}
+			}
+			5 = {
+				area:mississippi = {
+					save_scope_as = cahokia_migration_area
+				}
+			}
+		}
+		
+		scope:cahokia_migration_area = {
+			random_location_in_area = {
+				save_scope_as = cahokia_migration
+			}
+		}
+
+		random_owned_location = {
+			save_scope_as = target_location
+		}
+		
+	}	
+	
+	illustration_tags = {
+		10 = angry
+		10 = exterior
+	}	
+
+	option = { # A troubling sign of things to come for Cahokia
+		name = flavor_chk.101.a	
+		#historical_option = yes
+		add_stability = stability_mild_penalty
+		add_migration = {
+			owner ?= ROOT #A migration tries to move the owner's own citizens.
+			from = scope:target_location.province_definition
+			to = scope:cahokia_migration.province_definition
+			type = pop_type:peasants
+			amount = 0.33 #1.0
+			months = 24
+		}
+		add_migration = {
+			owner ?= ROOT #A migration tries to move the owner's own citizens.
+			from = scope:target_location.province_definition
+			to = scope:cahokia_migration.province_definition
+			type = pop_type:tribesmen
+			amount = 0.5 #1.0
+			months = 24
+		}	
+		add_migration = {
+			owner ?= ROOT #A migration tries to move the owner's own citizens.
+			from = scope:target_location.province_definition
+			to = scope:cahokia_migration.province_definition
+			type = pop_type:laborers
+			amount = 0.2 #1.0
+			months = 24
+		}	
+
+		ai_chance = {
+			factor = 1
+		}
+		
+	}
+	
+	option = {
+		name = flavor.chk.101.b
+		
+		trigger = {
+			scope:target_location = {
+				population < 3.0
+			}
+		}
+		
+		abandon_location = scope:target_location
+		
+		historical_option = yes
+		
+		ai_chance = {
+			factor = 100
+		}
+	}
+
+}

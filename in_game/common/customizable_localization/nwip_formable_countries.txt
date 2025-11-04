@@ -1,0 +1,1579 @@
+﻿
+USA_f = {
+	type = country
+
+	
+    text = {
+		localization_key = USA_f_spanish_language #La Florida, Floridan
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = USA_f_scandinavian_language #Hvítramannaland, Hvítramannaland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = USA_f_german_language #Brasilien or Papa-
+geienland, Brasilianer or Papageienländer
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = USA_f_dutch_language #Nieuw Nederland, Nieuw Nederland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = USA_f
+		fallback = yes
+	}
+}
+USA_f_ADJ = { parent = USA_f suffix = "_ADJ" }
+    
+
+CAN_f = {
+	type = country
+
+	
+    text = {
+		localization_key = CAN_f_spanish_language #Canadá, Canadá
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CAN_f_scandinavian_language #Markland, Markland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = CAN_f
+		fallback = yes
+	}
+}
+CAN_f_ADJ = { parent = CAN_f suffix = "_ADJ" }
+    
+
+NES_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NES_f_portuguese_language #Grande México, Grande México
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NES_f_spanish_language #Nueva España, Novohispano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NES_f
+		fallback = yes
+	}
+}
+NES_f_ADJ = { parent = NES_f suffix = "_ADJ" }
+    
+
+MEX_f = {
+	type = country
+
+	
+    text = {
+		localization_key = MEX_f_spanish_language #México, Mexicano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MEX_f_russian_language #Meksika, Meksika
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:russian_language }				
+				court_language ?= language:russian_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = MEX_f
+		fallback = yes
+	}
+}
+MEX_f_ADJ = { parent = MEX_f suffix = "_ADJ" }
+    
+
+BRZ_f = {
+	type = country
+
+	
+    text = {
+		localization_key = BRZ_f_portuguese_language #Brasil, Brasileiro
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_spanish_language #Brasil, Brasil
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_german_language #Küstenwalden, Küstenwalden
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BRZ_f_dutch_language #Nieuw Holland, Nieuw Holland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = BRZ_f
+		fallback = yes
+	}
+}
+BRZ_f_ADJ = { parent = BRZ_f suffix = "_ADJ" }
+    
+
+LPL_f = {
+	type = country
+
+	
+    text = {
+		localization_key = LPL_f_portuguese_language #Rio da Prata, Pratense
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LPL_f_spanish_language #Río de la Plata, Rioplatense
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LPL_f_english_language #River Plate, River Plate
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LPL_f_north_italian_language #Fiume Argentino, Fiume Argentino
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LPL_f_south_italian_language #Fiume Argentino, Fiume Argentino
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LPL_f_german_language #Silberland, Silberland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = LPL_f
+		fallback = yes
+	}
+}
+LPL_f_ADJ = { parent = LPL_f suffix = "_ADJ" }
+    
+
+CHA_f = {
+	type = country
+
+	
+    text = {
+		localization_key = CHA_f_spanish_language #Charcas, Charcas
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = CHA_f
+		fallback = yes
+	}
+}
+CHA_f_ADJ = { parent = CHA_f suffix = "_ADJ" }
+    
+
+PAT_f = {
+	type = country
+
+	
+    text = {
+		localization_key = PAT_f_portuguese_language #Terras Magalhânicas, Magalhânico
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = PAT_f_spanish_language #Tierras Magallanicas, Magallanico
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = PAT_f_french_language #Patagonie , Patagonien 
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = PAT_f_german_language #Patagonien, Feuerland, Patagonien, Feuerland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = PAT_f
+		fallback = yes
+	}
+}
+PAT_f_ADJ = { parent = PAT_f suffix = "_ADJ" }
+    
+
+PEU_f = {
+	type = country
+
+	
+    text = {
+		localization_key = PEU_f_portuguese_language #Peru, Peruano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = PEU_f_spanish_language #Perú, Peruano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = PEU_f
+		fallback = yes
+	}
+}
+PEU_f_ADJ = { parent = PEU_f suffix = "_ADJ" }
+    
+
+NUG_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NUG_f_portuguese_language #Novo Algarve, Novo Algarvean
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_spanish_language #Nueva Granada, Neogranadino
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_english_language #New Sussex, New Sussex
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_north_italian_language #Nuova Padania, Nuova Padania
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_south_italian_language #Nuova Padania, Nuova Padania
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_french_language #Nouvelle Occitanie, Nouvelle Occitanie
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_occitan_language #Nova Valencia, Nova Valencia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:occitan_language }				
+				court_language ?= language:occitan_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NUG_f_dutch_language #Nieuw Vlaanderen, Nieuw Vlaanderen
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NUG_f
+		fallback = yes
+	}
+}
+NUG_f_ADJ = { parent = NUG_f suffix = "_ADJ" }
+    
+
+VZL_f = {
+	type = country
+
+	
+    text = {
+		localization_key = VZL_f_spanish_language #Venezuela, Venezolano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = VZL_f_english_language #New Fens, New Fens
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = VZL_f_north_italian_language #Veneziola, Veneziola
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = VZL_f_south_italian_language #Veneziola, Veneziola
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = VZL_f_french_language #Gascognette, Gascognette
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = VZL_f_german_language #Klein-Venedig, Kleinvenediger/Kleinvenedisch
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = VZL_f
+		fallback = yes
+	}
+}
+VZL_f_ADJ = { parent = VZL_f suffix = "_ADJ" }
+    
+
+CHL_f = {
+	type = country
+
+	
+    text = {
+		localization_key = CHL_f_spanish_language #Chile, Chileno
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CHL_f_english_language #Chili, Chili
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CHL_f_german_language #Tschile / Kile, Tschile / Kile
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = CHL_f
+		fallback = yes
+	}
+}
+CHL_f_ADJ = { parent = CHL_f suffix = "_ADJ" }
+    
+
+NEN_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NEN_f_portuguese_language #Nova Inglaterra, Novo Inglês
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_spanish_language #Estéban Gomez, Estéban Gomez
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_romance_language_family #Nova Gallia, Nova Gallian
+		trigger = {
+			OR = {
+				culture ?= { language_family ?= language_family:romance_language_family }				
+				
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_english_language #New England, New Englander
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_north_italian_language #Vespuccia, Vespuccia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_south_italian_language #Vespuccia, Vespuccia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_french_language #Neu-Normandie, Neu-Normandie
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_scandinavian_language #New Scandinavia, New Scandinavia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NEN_f_german_language #Neugermanien, Neugermanien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NEN_f
+		fallback = yes
+	}
+}
+NEN_f_ADJ = { parent = NEN_f suffix = "_ADJ" }
+    
+
+NYO_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NYO_f_portuguese_language #Porto Novo, Porto Novense
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_spanish_language #Nueva Sevilla, Nueva Sevilla
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_english_language #New York, New York
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_north_italian_language #Nuova Roma, Nuova Roma
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_south_italian_language #Nuova Roma, Nuova Roma
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_french_language #Nouvelle-Angoulême, Nouvelle-Angoulême
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_scandinavian_language #New Malmö, New Malmö
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NYO_f_dutch_language #Nieuw Amsterdam, Nieuw Amsterdam
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NYO_f
+		fallback = yes
+	}
+}
+NYO_f_ADJ = { parent = NYO_f suffix = "_ADJ" }
+    
+
+MAR_f = {
+	type = country
+
+	
+    text = {
+		localization_key = MAR_f_romance_language_family #Acadia, Acadian
+		trigger = {
+			OR = {
+				culture ?= { language_family ?= language_family:romance_language_family }				
+				
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MAR_f_french_language #Acadie, Acadien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MAR_f_scandinavian_language #Einfœtingjaland, Einfœtingjaland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = MAR_f_german_language #Neubraunschweig, Neubraunschweig
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = MAR_f
+		fallback = yes
+	}
+}
+MAR_f_ADJ = { parent = MAR_f suffix = "_ADJ" }
+    
+
+LCA_f = {
+	type = country
+
+	
+    text = {
+		localization_key = LCA_f_french_language #Québec, Québécois 
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LCA_f_german_language #Lorenzien, Lorenzier/Lorenzianisch
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = LCA_f
+		fallback = yes
+	}
+}
+LCA_f_ADJ = { parent = LCA_f suffix = "_ADJ" }
+    
+
+ONT_f = {
+	type = country
+
+	
+    text = {
+		localization_key = ONT_f_german_language #Großseenland, Großseenland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = ONT_f
+		fallback = yes
+	}
+}
+ONT_f_ADJ = { parent = ONT_f suffix = "_ADJ" }
+    
+
+CRB_f = {
+	type = country
+
+	
+    text = {
+		localization_key = CRB_f_portuguese_language #Caraibas, Caraibas
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_spanish_language #Caribe, Caribe
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_english_language #the Caribbean, the Caribbean
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_north_italian_language #Caraibi, Caraibi
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_south_italian_language #Caraibi, Caraibi
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_french_language #Caraïbes, Caraïbes
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_scandinavian_language #Caribien, Caribien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_german_language #Karibik, Kariber/Karibisch
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = CRB_f_occitan_language #Carib, Carib
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:occitan_language }				
+				court_language ?= language:occitan_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = CRB_f
+		fallback = yes
+	}
+}
+CRB_f_ADJ = { parent = CRB_f suffix = "_ADJ" }
+    
+
+AND_f = {
+	type = country
+
+	
+    text = {
+		localization_key = AND_f_german_language #Anden, Anden
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = AND_f
+		fallback = yes
+	}
+}
+AND_f_ADJ = { parent = AND_f suffix = "_ADJ" }
+    
+
+FCA_f = {
+	type = country
+
+	
+    text = {
+		localization_key = FCA_f_portuguese_language #Guatemala, Guatemala
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = FCA_f_spanish_language #Guatemala, Guatemalteco
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = FCA_f_romance_language_family #Guatemala, Guatemala
+		trigger = {
+			OR = {
+				culture ?= { language_family ?= language_family:romance_language_family }				
+				
+			}
+		}
+	}
+    
+    text = {
+		localization_key = FCA_f_german_language #Mittelland, Mittelland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = FCA_f_dutch_language #Midden-Amerika, Midden-Amerika
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = FCA_f
+		fallback = yes
+	}
+}
+FCA_f_ADJ = { parent = FCA_f suffix = "_ADJ" }
+    
+
+NMX_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NMX_f_portuguese_language #Rio Grande do México, Rio Grande do México
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NMX_f_spanish_language #Nuevo México, Neomexicano
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NMX_f_english_language #Greater Texas, Greater Texas
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NMX_f
+		fallback = yes
+	}
+}
+NMX_f_ADJ = { parent = NMX_f suffix = "_ADJ" }
+    
+
+LOU_f = {
+	type = country
+
+	
+    text = {
+		localization_key = LOU_f_portuguese_language #Mississipi, Mississipi
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_spanish_language #Luisiana, Luisiana
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_english_language #Louisiana, Louisiana
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_north_italian_language #Luigiana, Luigiana
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_south_italian_language #Luigiana, Luigiana
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_french_language #Louisiane, Louisiane
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_german_language #Neurheinland, Neurheinland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_occitan_language #Misisip, Misisip
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:occitan_language }				
+				court_language ?= language:occitan_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = LOU_f_dutch_language #Brabantia, Brabantia
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = LOU_f
+		fallback = yes
+	}
+}
+LOU_f_ADJ = { parent = LOU_f suffix = "_ADJ" }
+    
+
+CLF_f = {
+	type = country
+
+	
+    text = {
+		localization_key = CLF_f_german_language #Kalifornien, Kalifornien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = CLF_f
+		fallback = yes
+	}
+}
+CLF_f_ADJ = { parent = CLF_f suffix = "_ADJ" }
+    
+
+NTK_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NTK_f_spanish_language #Nutca, Nutca
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NTK_f_english_language #Cascadia, Cascadian
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NTK_f_german_language #Kaskadien, Kaskadien
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NTK_f
+		fallback = yes
+	}
+}
+NTK_f_ADJ = { parent = NTK_f suffix = "_ADJ" }
+    
+
+NFL_f = {
+	type = country
+
+	
+    text = {
+		localization_key = NFL_f_portuguese_language #Terra Nova, Terra-novense 
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_spanish_language #Barrachoa , Barrachoa 
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_english_language #Newfoundland , Newfie
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_north_italian_language #Terranova, Terranova
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_south_italian_language #Terranova, Terranova
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_french_language #Terre-Neuve, Terre-Neuve
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_scandinavian_language #Vinland, Vinland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:scandinavian_language }				
+				court_language ?= language:scandinavian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_russian_language #Novaya Zemlya, Novaya Zemlya
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:russian_language }				
+				court_language ?= language:russian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_german_language #Neufundland, Neufundländer/Neufundländisch
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_occitan_language #Terranova, Terranova
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:occitan_language }				
+				court_language ?= language:occitan_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = NFL_f_dutch_language #Overwater, Overwater
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = NFL_f
+		fallback = yes
+	}
+}
+NFL_f_ADJ = { parent = NFL_f suffix = "_ADJ" }
+    
+
+BUA_f = {
+	type = country
+
+	
+    text = {
+		localization_key = BUA_f_portuguese_language #Bons Ares, Bonarense
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:portuguese_language }				
+				court_language ?= language:portuguese_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_spanish_language #Buenos Aires, Bonaerense
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:spanish_language }				
+				court_language ?= language:spanish_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_english_language #Fairwinds, Fairwinder
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_north_italian_language #Buonaria, Buonaria
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:north_italian_language }				
+				court_language ?= language:north_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_south_italian_language #Buonaria, Buonaria
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:south_italian_language }				
+				court_language ?= language:south_italian_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_french_language #Paris D'Amerique, Paris D'Amerique
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:french_language }				
+				court_language ?= language:french_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_german_language #Schmidlbucht, Schmidlbucht
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:german_language }				
+				court_language ?= language:german_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = BUA_f_occitan_language #Bonaire, Bonaire
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:occitan_language }				
+				court_language ?= language:occitan_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = BUA_f
+		fallback = yes
+	}
+}
+BUA_f_ADJ = { parent = BUA_f suffix = "_ADJ" }
+    
+
+TAZ_f = {
+	type = country
+
+	
+    text = {
+		localization_key = TAZ_f_english_language #Van Diemen's Land, Van Diemen's Land
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:english_language }				
+				court_language ?= language:english_language
+			}
+		}
+	}
+    
+    text = {
+		localization_key = TAZ_f_dutch_language #Van Diemensland, Van Diemensland
+		trigger = {
+			OR = {
+				culture ?= { language ?= language:dutch_language }				
+				court_language ?= language:dutch_language
+			}
+		}
+	}
+    
+
+	
+	text = {
+		localization_key = TAZ_f
+		fallback = yes
+	}
+}
+TAZ_f_ADJ = { parent = TAZ_f suffix = "_ADJ" }
+    
