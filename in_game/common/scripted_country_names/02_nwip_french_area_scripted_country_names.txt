@@ -3,7 +3,7 @@ french_greenland_area_scripted_country_name = { #Terre Verte
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -33,7 +33,7 @@ french_quebec_area_scripted_country_name = { #Québec, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -63,7 +63,7 @@ french_laurentian_area_scripted_country_name = { #Laurentides, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -93,7 +93,7 @@ french_lower_canada_area_scripted_country_name = { #Archipel d'Hochelaga, histor
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -123,7 +123,7 @@ french_jamesie_area_scripted_country_name = { #Baie-James, translation
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -153,7 +153,7 @@ french_nunavik_area_scripted_country_name = { #Nouveau-Québec, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -183,7 +183,7 @@ french_labrador_area_scripted_country_name = { #Nouvelle-Bretagne, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -213,7 +213,7 @@ french_newfoundland_area_scripted_country_name = { #Terre-Neuve, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -243,7 +243,7 @@ french_prince_edward_island_area_scripted_country_name = { #Île Saint-Jean, his
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -273,7 +273,7 @@ french_acadia_area_scripted_country_name = { #Acadie Péninsulaire, historical, 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -303,7 +303,7 @@ french_new_brunswick_area_scripted_country_name = { #Acadie Continentale, histor
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -333,7 +333,7 @@ french_eastern_ontario_area_scripted_country_name = { #Grand-Rivière des Outaou
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -363,7 +363,7 @@ french_western_ontario_area_scripted_country_name = { #Huronie, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -393,7 +393,7 @@ french_northern_ontario_area_scripted_country_name = { #Pays des Nipissing, hist
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -423,7 +423,7 @@ french_northwestern_ontario_area_scripted_country_name = { #Baie du Tonnerre, hi
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -453,7 +453,7 @@ french_greenstone_belt_area_scripted_country_name = { #Abitibi
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -483,7 +483,7 @@ french_keewatin_area_scripted_country_name = { #Baie du Nord, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -513,7 +513,7 @@ french_cuba_area_scripted_country_name = { #Cuba
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -543,7 +543,7 @@ french_hispaniola_area_scripted_country_name = { #Saint-Domingue, historical, al
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -573,7 +573,7 @@ french_lesser_antilles_area_scripted_country_name = { #Petites Antilles
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -603,7 +603,7 @@ french_panama_area_scripted_country_name = { #Panama
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -633,7 +633,7 @@ french_massachusetts_area_scripted_country_name = { #Almouchiquie, see dutch
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -663,7 +663,7 @@ french_southern_new_england_area_scripted_country_name = { #Champlainie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -693,7 +693,7 @@ french_vermont_area_scripted_country_name = { #Vermont
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -723,7 +723,7 @@ french_new_hampshire_area_scripted_country_name = { #Blancmont
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -753,7 +753,7 @@ french_maine_area_scripted_country_name = { #Norembègue, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -783,7 +783,7 @@ french_hudson_area_scripted_country_name = { #Nouvelle-Angoulême, It's the same
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -813,7 +813,7 @@ french_haudenosaunee_area_scripted_country_name = { #Iroquoisie, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -843,7 +843,7 @@ french_new_jersey_area_scripted_country_name = { #Nouvelle-Oléron
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -873,7 +873,7 @@ french_pennsylvania_area_scripted_country_name = { #Andastiane, Andastes
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -903,7 +903,7 @@ french_westsylvania_area_scripted_country_name = { #Alleghenie, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -933,7 +933,7 @@ french_maryland_area_scripted_country_name = { #Terre de Marie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -963,7 +963,7 @@ french_virginia_area_scripted_country_name = { #Notre-Dame de l'Amorce des Terre
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -993,7 +993,7 @@ french_west_virginia_area_scripted_country_name = { #Chavanonie, Historical spel
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1023,7 +1023,7 @@ french_north_carolina_area_scripted_country_name = { #Nouvelle-Aumale, Reference
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1053,7 +1053,7 @@ french_south_carolina_area_scripted_country_name = { #Haute-Caroline, OG french 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1083,7 +1083,7 @@ french_georgia_us_area_scripted_country_name = { #Basse-Caroline
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1113,7 +1113,7 @@ french_florida_area_scripted_country_name = { #La Floride, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1143,7 +1143,7 @@ french_tennessee_area_scripted_country_name = { #Rivière à Margot, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1173,7 +1173,7 @@ french_kentucky_area_scripted_country_name = { #Belle Rivière, Historical name 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1203,7 +1203,7 @@ french_ohio_area_scripted_country_name = { #Vallée de l'Ohio, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1233,7 +1233,7 @@ french_indiana_area_scripted_country_name = { #Potéouatamie, Or Pays des Miamis
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1263,7 +1263,7 @@ french_michigan_area_scripted_country_name = { #Pays-d'en-Haut, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1293,7 +1293,7 @@ french_illinois_area_scripted_country_name = { #Pays des Illinois, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1323,7 +1323,7 @@ french_wisconsin_area_scripted_country_name = { #Pays des Mascoutens, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1353,7 +1353,7 @@ french_alabama_area_scripted_country_name = { #Alibamonie, Based on french histo
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1383,7 +1383,7 @@ french_mississippi_area_scripted_country_name = { #Messipi , Older spelling
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1413,7 +1413,7 @@ french_louisiana_area_scripted_country_name = { #Basse-Louisiane, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1443,7 +1443,7 @@ french_arkansas_area_scripted_country_name = { #Les Arcs, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1473,7 +1473,7 @@ french_missouri_area_scripted_country_name = { #Haute-Louisiane, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1503,7 +1503,7 @@ french_iowa_area_scripted_country_name = { #Le Moingona, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1533,7 +1533,7 @@ french_minnesota_area_scripted_country_name = { #L'étoile du Nord
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1563,7 +1563,7 @@ french_superior_area_scripted_country_name = { #Pays des Renards, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1593,7 +1593,7 @@ french_north_dakota_area_scripted_country_name = { #Sioux du Nord
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1623,7 +1623,7 @@ french_south_dakota_area_scripted_country_name = { #Sioux du Sud
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1653,7 +1653,7 @@ french_central_plains_area_scripted_country_name = { #Grandes Plaines
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1683,7 +1683,7 @@ french_natahende_area_scripted_country_name = { #Nouveau-Méxique
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1713,7 +1713,7 @@ french_high_plains_area_scripted_country_name = { #Pays des Apaches
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1743,7 +1743,7 @@ french_badlands_area_scripted_country_name = { #Pays des Cheyennes
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1773,7 +1773,7 @@ french_upper_missouri_area_scripted_country_name = { #Haut-Missouri, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1803,7 +1803,7 @@ french_athabasca_area_scripted_country_name = { #Athabasca
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1833,7 +1833,7 @@ french_saskatchewan_area_scripted_country_name = { #Pembina
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1863,7 +1863,7 @@ french_keewatin_n_area_scripted_country_name = { #Nord-Ouest
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1893,7 +1893,7 @@ french_red_river_area_scripted_country_name = { #Assiniboia, Historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1923,7 +1923,7 @@ french_mexihko_area_scripted_country_name = { #Méksique
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1953,7 +1953,7 @@ french_tlaxcala_area_scripted_country_name = { #Tlakskala
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1983,7 +1983,7 @@ french_huaxyacac_area_scripted_country_name = { #Ouaraca
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2013,7 +2013,7 @@ french_tochtepec_area_scripted_country_name = { #Sainte Croix
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2043,7 +2043,7 @@ french_michoacan_area_scripted_country_name = { #Nouvelle-Artois
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2073,7 +2073,7 @@ french_xilotepec_area_scripted_country_name = { #Montagnes d'Argent
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2103,7 +2103,7 @@ french_xalisco_area_scripted_country_name = { #Nouvelle-Aquitaine
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2133,7 +2133,7 @@ french_peten_area_scripted_country_name = { #Bellix
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2163,7 +2163,7 @@ french_tezulutlan_area_scripted_country_name = { #Goathemala
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2193,7 +2193,7 @@ french_kuskatan_area_scripted_country_name = { #Les Profondeurs
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2223,7 +2223,7 @@ french_imabite_area_scripted_country_name = { #Nicaragua
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2253,7 +2253,7 @@ french_nekokiaw_area_scripted_country_name = { #Côte d'Or
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2283,7 +2283,7 @@ french_zacatecas_area_scripted_country_name = { #Sacateque
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2313,7 +2313,7 @@ french_baja_area_scripted_country_name = { #Basse-Californie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2343,7 +2343,7 @@ french_tahejoc_area_scripted_country_name = { #Nouvelle-Navarre
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2373,7 +2373,7 @@ french_culiacan_area_scripted_country_name = { #Côte Vermeille
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2403,7 +2403,7 @@ french_tamaulipeco_area_scripted_country_name = { #Terre de Tenec
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2433,7 +2433,7 @@ french_guachichil_area_scripted_country_name = { #Nouvelle-Biscaye
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2463,7 +2463,7 @@ french_texas_area_scripted_country_name = { #Carancaquaca, Karankawas
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2493,7 +2493,7 @@ french_shiewhibak_area_scripted_country_name = { #Beauchêne
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2523,7 +2523,7 @@ french_alaxsxaq_area_scripted_country_name = { #Pay de Aléoute
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2553,7 +2553,7 @@ french_yukon_area_scripted_country_name = { #Liardie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2583,7 +2583,7 @@ french_columbia_interior_area_scripted_country_name = { #Rivière de Broche, His
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2613,7 +2613,7 @@ french_california_area_scripted_country_name = { #Haute-Californie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2643,7 +2643,7 @@ french_great_basin_area_scripted_country_name = { #Bassin de Bonneville
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2673,7 +2673,7 @@ french_rockies_area_scripted_country_name = { #Les Rocheuses
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2703,7 +2703,7 @@ french_hawaii_area_scripted_country_name = { #Îles Pérouse
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2733,7 +2733,7 @@ french_cascadia_area_scripted_country_name = { #Terre de Charbonneau
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2763,7 +2763,7 @@ french_amazon_area_scripted_country_name = { #Amazonie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2793,7 +2793,7 @@ french_tocantins_area_scripted_country_name = { #Toucantine
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2823,7 +2823,7 @@ french_para_area_scripted_country_name = { #Bas Amazonie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2853,7 +2853,7 @@ french_maranhao_area_scripted_country_name = { #France Équinoxiale , historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2883,7 +2883,7 @@ french_piaui_area_scripted_country_name = { #Piauhy
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2913,7 +2913,7 @@ french_ceara_area_scripted_country_name = { #Cèaras
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2943,7 +2943,7 @@ french_paraiba_area_scripted_country_name = { #Parahybas
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -2973,7 +2973,7 @@ french_pernambuco_area_scripted_country_name = { #Pèrnambuque
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3003,7 +3003,7 @@ french_bahia_area_scripted_country_name = { #Baie de Tous les Saints
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3033,7 +3033,7 @@ french_espirito_santo_area_scripted_country_name = { #Saint Esprit
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3063,7 +3063,7 @@ french_rio_de_janeiro_area_scripted_country_name = { #France Antartique, histori
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3093,7 +3093,7 @@ french_minas_gerais_area_scripted_country_name = { #Emboabas
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3123,7 +3123,7 @@ french_sao_paulo_area_scripted_country_name = { #Saint-Paul
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3153,7 +3153,7 @@ french_santa_catarina_area_scripted_country_name = { #Sainte-Catherine
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3183,7 +3183,7 @@ french_la_plata_area_scripted_country_name = { #Argentine
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3213,7 +3213,7 @@ french_ngulumapu_area_scripted_country_name = { #Araucanie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3243,7 +3243,7 @@ french_patagonia_area_scripted_country_name = { #Patagonie
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3273,7 +3273,7 @@ french_falklands_area_scripted_country_name = { #Îles Malouines, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3303,7 +3303,7 @@ french_south_georgia_area_scripted_country_name = { #Île Roché, historical
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3333,7 +3333,7 @@ french_sinu_area_scripted_country_name = { #La Rochelle D'Ouest
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -3363,7 +3363,7 @@ french_guayana_area_scripted_country_name = { #Guyane
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			

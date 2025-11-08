@@ -3,7 +3,7 @@ latin_labrador_area_scripted_country_name = { #Laboratoria
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -33,7 +33,7 @@ latin_newfoundland_area_scripted_country_name = { #Terra Nova
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -63,7 +63,7 @@ latin_prince_edward_island_area_scripted_country_name = { #Sanctus Ioannes
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -93,7 +93,7 @@ latin_acadia_area_scripted_country_name = { #Acadia Paeninsularis
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -123,7 +123,7 @@ latin_new_brunswick_area_scripted_country_name = { #Acadia Continentalis
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -153,7 +153,7 @@ latin_hispaniola_area_scripted_country_name = { #Hispaniola
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -183,7 +183,7 @@ latin_vermont_area_scripted_country_name = { #Mons Viridis
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -213,7 +213,7 @@ latin_maine_area_scripted_country_name = { #Cenomannica
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -243,7 +243,7 @@ latin_new_jersey_area_scripted_country_name = { #Nova Caesarea
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -273,7 +273,7 @@ latin_pennsylvania_area_scripted_country_name = { #Pennsylvania
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -303,7 +303,7 @@ latin_maryland_area_scripted_country_name = { #Terra Mariae
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -333,7 +333,7 @@ latin_virginia_area_scripted_country_name = { #Virginia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -363,7 +363,7 @@ latin_west_virginia_area_scripted_country_name = { #Monogarella
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -393,7 +393,7 @@ latin_north_carolina_area_scripted_country_name = { #Carolina Septentrionalis
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -423,7 +423,7 @@ latin_south_carolina_area_scripted_country_name = { #Carolina Australis
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -453,7 +453,7 @@ latin_georgia_us_area_scripted_country_name = { #Georgia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -483,7 +483,7 @@ latin_florida_area_scripted_country_name = { #Sanctus Augustinus
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -513,7 +513,7 @@ latin_tennessee_area_scripted_country_name = { #Tennesia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -543,7 +543,7 @@ latin_kentucky_area_scripted_country_name = { #Kentukia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -573,7 +573,7 @@ latin_ohio_area_scripted_country_name = { #Ohium
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -603,7 +603,7 @@ latin_indiana_area_scripted_country_name = { #Indiana
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -633,7 +633,7 @@ latin_michigan_area_scripted_country_name = { #Michigania
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -663,7 +663,7 @@ latin_illinois_area_scripted_country_name = { #Illinoesia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -693,7 +693,7 @@ latin_wisconsin_area_scripted_country_name = { #Visconsinia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -723,7 +723,7 @@ latin_alabama_area_scripted_country_name = { #Alabama
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -753,7 +753,7 @@ latin_mississippi_area_scripted_country_name = { #Mississippia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -783,7 +783,7 @@ latin_louisiana_area_scripted_country_name = { #Ludoviciana
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -813,7 +813,7 @@ latin_arkansas_area_scripted_country_name = { #Arcansia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -843,7 +843,7 @@ latin_missouri_area_scripted_country_name = { #Missuria
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -873,7 +873,7 @@ latin_iowa_area_scripted_country_name = { #Iova
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -903,7 +903,7 @@ latin_minnesota_area_scripted_country_name = { #Minnesota
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -933,7 +933,7 @@ latin_mexihko_area_scripted_country_name = { #Mexicum
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -963,7 +963,7 @@ latin_veracruz_area_scripted_country_name = { #Veracrux
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -993,7 +993,7 @@ latin_tochtepec_area_scripted_country_name = { #Veracrux
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1023,7 +1023,7 @@ latin_mayaab_area_scripted_country_name = { #Iucatania
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1053,7 +1053,7 @@ latin_zacatecas_area_scripted_country_name = { #Sanctus Ludovicus
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1083,7 +1083,7 @@ latin_baja_area_scripted_country_name = { #California Inferior
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1113,7 +1113,7 @@ latin_amazon_area_scripted_country_name = { #Amazonae
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1143,7 +1143,7 @@ latin_tocantins_area_scripted_country_name = { #Tocantina
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1173,7 +1173,7 @@ latin_paraguay_area_scripted_country_name = { #Paraquaria
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1203,7 +1203,7 @@ latin_para_area_scripted_country_name = { #Para
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1233,7 +1233,7 @@ latin_mato_grosso_area_scripted_country_name = { #Silva Crassa
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1263,7 +1263,7 @@ latin_goias_area_scripted_country_name = { #Goyas
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1293,7 +1293,7 @@ latin_maranhao_area_scripted_country_name = { #Maragnanum
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1323,7 +1323,7 @@ latin_piaui_area_scripted_country_name = { #Piauhy
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1353,7 +1353,7 @@ latin_ceara_area_scripted_country_name = { #Ceara
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1383,7 +1383,7 @@ latin_paraiba_area_scripted_country_name = { #Parahyba
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1413,7 +1413,7 @@ latin_pernambuco_area_scripted_country_name = { #Fernambocum
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1443,7 +1443,7 @@ latin_bahia_area_scripted_country_name = { #Bahia
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1473,7 +1473,7 @@ latin_espirito_santo_area_scripted_country_name = { #Spiritus Sanctus
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1503,7 +1503,7 @@ latin_rio_de_janeiro_area_scripted_country_name = { #Flumen Ianuarii
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1533,7 +1533,7 @@ latin_minas_gerais_area_scripted_country_name = { #Fodinae Generales
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1563,7 +1563,7 @@ latin_sao_paulo_area_scripted_country_name = { #Sanctus Paulus
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1593,7 +1593,7 @@ latin_santa_catarina_area_scripted_country_name = { #Sancta Catharina
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1623,7 +1623,7 @@ latin_rio_grande_do_sul_area_scripted_country_name = { #Flumen Magnum
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1653,7 +1653,7 @@ latin_la_plata_area_scripted_country_name = { #Argentina
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1683,7 +1683,7 @@ latin_guayana_area_scripted_country_name = { #Guiana
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			

@@ -3,7 +3,7 @@ arabic_greenland_area_scripted_country_name = { #Al-Arḍ al-ẖaḍrā, transla
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -33,7 +33,7 @@ arabic_quebec_area_scripted_country_name = { #Kībik
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -63,7 +63,7 @@ arabic_lower_canada_area_scripted_country_name = { #Kanadā as-suflā, translati
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -93,7 +93,7 @@ arabic_nunavik_area_scripted_country_name = { #Nūnāfīk
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -123,7 +123,7 @@ arabic_acadia_area_scripted_country_name = { #Akādiyā
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -153,7 +153,7 @@ arabic_eastern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šarqiyya
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -183,7 +183,7 @@ arabic_western_ontario_area_scripted_country_name = { #Ūntāriyū al-ġarbiyyah
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -213,7 +213,7 @@ arabic_northern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šimāli
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -243,7 +243,7 @@ arabic_northwestern_ontario_area_scripted_country_name = { #Ūntāriyū aš-šim
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -273,7 +273,7 @@ arabic_greenstone_belt_area_scripted_country_name = { #Al-Ḥajar al-Aẖḍar, 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -303,7 +303,7 @@ arabic_cuba_area_scripted_country_name = { #Kūbā, modern name
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -333,7 +333,7 @@ arabic_hispaniola_area_scripted_country_name = { #Hāyīt, country and singular 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -363,7 +363,7 @@ arabic_lesser_antilles_area_scripted_country_name = { #Juzur al-Antīl aṣ-ṣu
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -393,7 +393,7 @@ arabic_panama_area_scripted_country_name = { #Banamā, modern name
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -423,7 +423,7 @@ arabic_massachusetts_area_scripted_country_name = { #Māsāšūsit, took off med
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -453,7 +453,7 @@ arabic_haudenosaunee_area_scripted_country_name = { #Ḥudinušūn, interpreted 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -483,7 +483,7 @@ arabic_westsylvania_area_scripted_country_name = { #Al-Ighayn, interpreted origi
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -513,7 +513,7 @@ arabic_florida_area_scripted_country_name = { #Az-Zahriyyah, "the flowery one"
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -543,7 +543,7 @@ arabic_mississippi_area_scripted_country_name = { #Musīsib
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -573,7 +573,7 @@ arabic_missouri_area_scripted_country_name = { #Misūr, interpreted original wor
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -603,7 +603,7 @@ arabic_superior_area_scripted_country_name = { #Al-Kubrā, lit. "biggest"
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -633,7 +633,7 @@ arabic_north_dakota_area_scripted_country_name = { #Dākūtā aš-šimāliyyah, 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -663,7 +663,7 @@ arabic_south_dakota_area_scripted_country_name = { #Dākūtā al-janūbiyyah, mo
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -693,7 +693,7 @@ arabic_central_plains_area_scripted_country_name = { #Bilād Kānsā, "Kansa cou
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -723,7 +723,7 @@ arabic_high_plains_area_scripted_country_name = { #As-Suhūl al-ʿuliyā, transl
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -753,7 +753,7 @@ arabic_badlands_area_scripted_country_name = { #Al-Arāḍī al-jardāʾ, transl
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -783,7 +783,7 @@ arabic_upper_missouri_area_scripted_country_name = { #Misūr al-ʿuliyā
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -813,7 +813,7 @@ arabic_red_river_area_scripted_country_name = { #An-Nahr Al-Aḥmar, translation
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -843,7 +843,7 @@ arabic_mexihko_area_scripted_country_name = { #Mašīʾkū, invented from Nahuat
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -873,7 +873,7 @@ arabic_tlaxcala_area_scripted_country_name = { #Tilāškallān, invented from Na
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -903,7 +903,7 @@ arabic_huaxyacac_area_scripted_country_name = { #Wāš Yakak, invented from Nahu
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -933,7 +933,7 @@ arabic_michoacan_area_scripted_country_name = { #Mušuwwakān, invented from Nah
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -963,7 +963,7 @@ arabic_xilotepec_area_scripted_country_name = { #Kuwānaš Wātū, invented from
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -993,7 +993,7 @@ arabic_xalisco_area_scripted_country_name = { #Wādī al-Ḥajārah, Taken from 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1023,7 +1023,7 @@ arabic_minas_gerais_area_scripted_country_name = { #Al-Manājim, translation for
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1053,7 +1053,7 @@ arabic_peten_area_scripted_country_name = { #Balīz
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1083,7 +1083,7 @@ arabic_kuskatan_area_scripted_country_name = { #Kuskatān
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1113,7 +1113,7 @@ arabic_baja_area_scripted_country_name = { #Dār al-ẖalīfah as-suflā, invent
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1143,7 +1143,7 @@ arabic_alaxsxaq_area_scripted_country_name = { #Al-Aẖsaq, invented based on Al
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1173,7 +1173,7 @@ arabic_california_area_scripted_country_name = { #Dār al-ẖalīfah, invented b
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1203,7 +1203,7 @@ arabic_great_basin_area_scripted_country_name = { #Al-Ḥawḍ al-ʿaẓīm, act
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1233,7 +1233,7 @@ arabic_rockies_area_scripted_country_name = { #Al-Jibāl aṣ-ṣaẖriyyah, act
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1263,7 +1263,7 @@ arabic_hawaii_area_scripted_country_name = { #Juzur al-Hawāʾ, interpreted orig
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1293,7 +1293,7 @@ arabic_piaui_area_scripted_country_name = { #Biyāwī
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1323,7 +1323,7 @@ arabic_ceara_area_scripted_country_name = { #Siyārā
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1353,7 +1353,7 @@ arabic_paraiba_area_scripted_country_name = { #Biʾr Ībah, invented from Tupi, 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1383,7 +1383,7 @@ arabic_bahia_area_scripted_country_name = { #Al-H̱alīj, translation for "bay" 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1413,7 +1413,7 @@ arabic_bogota_area_scripted_country_name = { #Abū Qiṭāʿ, invented using pos
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1443,7 +1443,7 @@ arabic_andes_area_scripted_country_name = { #Al-Andah, modern name
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1473,7 +1473,7 @@ arabic_quitu_area_scripted_country_name = { #Kītū
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1503,7 +1503,7 @@ arabic_atacama_area_scripted_country_name = { #Atakāmā
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1533,7 +1533,7 @@ arabic_yunga_area_scripted_country_name = { #Yūnkā
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1563,7 +1563,7 @@ arabic_qullaw_area_scripted_country_name = { #Ṣaʿīd Birū, translation of "U
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1593,7 +1593,7 @@ arabic_la_plata_area_scripted_country_name = { #Bilād al-Fiḍḍah, ("Country 
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1623,7 +1623,7 @@ arabic_moqoit_area_scripted_country_name = { #Muqayṭ
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1653,7 +1653,7 @@ arabic_cordoba_de_tucuman_area_scripted_country_name = { #Qurṭubah
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1683,7 +1683,7 @@ arabic_boiaca_area_scripted_country_name = { #Abū Yakā, invented using possess
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -1713,7 +1713,7 @@ arabic_sinu_area_scripted_country_name = { #Qarṭāj, Arabic name for "Carthage
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			

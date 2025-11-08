@@ -3,7 +3,7 @@ scandinavian_greenland_area_scripted_country_name = { #Grǿnland
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -33,7 +33,7 @@ scandinavian_nunavik_area_scripted_country_name = { #Helluland
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -63,7 +63,7 @@ scandinavian_labrador_area_scripted_country_name = { #Markland
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -93,7 +93,7 @@ scandinavian_newfoundland_area_scripted_country_name = { #Vinland
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -123,7 +123,7 @@ scandinavian_new_jersey_area_scripted_country_name = { #Nya Sverige
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -153,7 +153,7 @@ scandinavian_pennsylvania_area_scripted_country_name = { #Minquasland
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -183,7 +183,7 @@ scandinavian_keewatin_n_area_scripted_country_name = { #Skrælingland
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
@@ -213,7 +213,7 @@ scandinavian_south_georgia_area_scripted_country_name = { #Grytvik, Historical n
     	# regular old country trigger
     	country_trigger = {
             NOT = {
-    			culture = { is_culture_native_american = yes }
+    			any_primary_or_accepted_culture = { is_culture_native_american = yes }
     		}
     		OR = {
     			
