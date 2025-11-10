@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
   #NWIP Added Tags
   ACB: "Atchafalaya"
   ACB_ADJ: "atchafalaya"
@@ -20,10 +20,12 @@ l_english:
   CAC_ADJ: "Chacato"
   CGN: "Chaguate"
   CGN_ADJ: "Chaguate"
-  COA: "Chocotoco"
-  COA_ADJ: "Chocotoco"
+  COA: "Choccolocco"
+  COA_ADJ: "Choccolocco"
   CPK: "Chippecoke"
   CPK_ADJ: "chippecoke"
+  CFI: "Cofaqui"
+  CFI_ADJ: "Cofaqui"
   CGA: "Coligua"
   CGA_ADJ: "Coligua"
   COS: "Coste"
@@ -98,8 +100,8 @@ l_english:
   ULI_ADJ: "Ulibahali"
   UWH: "Uwharrie"
   UWH_ADJ: "Uwharrie"
-  WAH: "Wahatchee"
-  WAH_ADJ: "Wahatchee"
+  WAH: "Wahachee"
+  WAH_ADJ: "Wahachee"
   WEC: "Wechabee"
   WEC_ADJ: "Wechabee"
   YAZ: "Yazoo"

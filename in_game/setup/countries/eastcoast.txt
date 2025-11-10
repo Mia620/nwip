@@ -988,6 +988,16 @@ CFQ = { # Cofitachequi - Vanilla
 
 }
 
+CFI = { # Cofaqui
+	color = map_cofaqui
+	color2 = rgb { 172 138 122 }
+
+	culture_definition = issati_culture
+	religion_definition = mississippian_ceremonial
+
+
+}
+
 COO = { # Coosa - Vanilla
 	color = map_coosa
 	color2 = rgb { 39 228 191 }
@@ -1032,7 +1042,7 @@ QGM = { # Quigualtam - Vanilla
 	color = map_quigualtam
 	color2 = rgb { 141 158 192 }
 
-	culture_definition = taensa_culture
+	culture_definition = natchez_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1053,7 +1063,7 @@ ACB = {
 	color = map_atchafalaya
 	color2 = rgb { 81 179 91 }
 
-	culture_definition = apalachee_culture
+	culture_definition = chitimacha_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1064,7 +1074,7 @@ AKS = {
 	color = map_akansea
 	color2 = rgb { 81 179 91 }
 
-	culture_definition = apalachee_culture
+	culture_definition = kansa_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1086,7 +1096,7 @@ AAE = {
 	color = map_amaye
 	color2 = rgb { 100 183 140 }
 
-	culture_definition = apalachee_culture
+	culture_definition = caddo_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1108,7 +1118,7 @@ APB = {
 	color = map_apalachicola
 	color2 = rgb { 147 124 102 }
 
-	culture_definition = apalachee_culture
+	culture_definition = hitchiti_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1141,7 +1151,7 @@ CAC = {
 	color = map_chacato
 	color2 = rgb { 135 151 114 }
 
-	culture_definition = apalachee_culture
+	culture_definition = chatot_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1152,15 +1162,15 @@ CGN = {
 	color = map_chaguate
 	color2 = rgb { 73 170 175 }
 
-	culture_definition = apalachee_culture
+	culture_definition = caddo_culture
 	religion_definition = mississippian_ceremonial
 
 
 }
 
-#Chocotoco - COA
+#Choccolocco - COA
 COA = {
-	color = map_chocotoco
+	color = map_choccolocco
 	color2 = rgb { 94 198 102 }
 
 	culture_definition = apalachee_culture
@@ -1174,7 +1184,7 @@ CPK = {
 	color = map_chippecoke
 	color2 = rgb { 94 198 102 }
 
-	culture_definition = apalachee_culture
+	culture_definition = piankeshaw_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1251,7 +1261,7 @@ GAC = {
 	color = map_guachoya
 	color2 = rgb { 88 193 195 }
 
-	culture_definition = apalachee_culture
+	culture_definition = tiou_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1284,7 +1294,7 @@ KOB = {
 	color = map_koroa
 	color2 = rgb { 80 178 109 }
 
-	culture_definition = apalachee_culture
+	culture_definition = caddo_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1339,7 +1349,7 @@ NGT = {
 	color = map_naguatex
 	color2 = rgb { 175 164 66 }
 
-	culture_definition = apalachee_culture
+	culture_definition = caddo_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1361,7 +1371,7 @@ NPN = {
 	color = map_napanee
 	color2 = rgb { 121 212 117 }
 
-	culture_definition = apalachee_culture
+	culture_definition = taensa_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1394,7 +1404,7 @@ PAA = {
 	color = map_pensacola
 	color2 = rgb { 143 155 99 }
 
-	culture_definition = apalachee_culture
+	culture_definition = mobile_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1404,7 +1414,7 @@ QTE = { # Quiguate
 	color = map_quiguate
 	color2 = rgb { 141 158 192 }
 
-	culture_definition = taensa_culture
+	culture_definition = tunica_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1414,7 +1424,7 @@ UTI = { # Utiangue
 	color = map_utiangue
 	color2 = rgb { 141 158 192 }
 
-	culture_definition = taensa_culture
+	culture_definition = tiou_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1458,7 +1468,7 @@ SHT = {
 	color = map_she_ti_na_mu
 	color2 = rgb { 104 176 208 }
 
-	culture_definition = apalachee_culture
+	culture_definition = bayagoula_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1491,7 +1501,7 @@ TCG = {
 	color = map_tacaogane
 	color2 = rgb { 163 167 114 }
 
-	culture_definition = apalachee_culture
+	culture_definition = omaha_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1502,7 +1512,7 @@ TNS = {
 	color = map_taensas
 	color2 = rgb { 163 167 114 }
 
-	culture_definition = apalachee_culture
+	culture_definition = avoyel_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1535,7 +1545,7 @@ TOW = {
 	color = map_towosaghy
 	color2 = rgb { 150 126 79 }
 
-	culture_definition = apalachee_culture
+	culture_definition = osage_culture
 	religion_definition = mississippian_ceremonial
 
 
@@ -1585,9 +1595,9 @@ UWH = {
 
 }
 
-#Wahatchee - WAH
+#Wahachee - WAH
 WAH = {
-	color = map_wahatchee
+	color = map_wahachee
 	color2 = rgb { 114 204 186 }
 
 	culture_definition = apalachee_culture
@@ -1612,18 +1622,18 @@ YAZ = {
 	color = map_yazoo
 	color2 = rgb { 198 125 117 }
 
-	culture_definition = apalachee_culture
+	culture_definition = taensa_culture
 	religion_definition = mississippian_ceremonial
 
 
 }
 
 #Yoroniku - YOR
-YAZ = {
+YOR = {
 	color = map_yoroniku
 	color2 = rgb { 198 125 117 }
 
-	culture_definition = apalachee_culture
+	culture_definition = avoyel_culture
 	religion_definition = mississippian_ceremonial
 
 
