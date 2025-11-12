@@ -8,7 +8,7 @@
 			louisiana_area
 			missouri_area
 			arkansas_area
-			georgia_area
+			georgia_us_area
 			south_carolina_area
 			florida_area
 			gulf_of_mexico_area
