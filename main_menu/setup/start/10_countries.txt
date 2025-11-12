@@ -59899,7 +59899,7 @@ countries = {
     		type = pop
 
     		add_pops_from_locations = {
-    			cayguani baoruco yaquimo azua bani
+    			bohio cubao moca cotui cayacoa cayguani baoruco
     		}
     		include = "caribbean_tribe"
     	}
@@ -59909,7 +59909,7 @@ countries = {
     		type = pop
 
     		add_pops_from_locations = {
-    			bohio samana cubao ciguayo bavaro boya
+    			samana ciguayo
     		}
     		include = "caribbean_tribe"
     	}

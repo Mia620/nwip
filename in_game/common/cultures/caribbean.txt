@@ -13,7 +13,7 @@
 }
 
 macorix_culture = {#https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Caribbean#Macorix
-	language = ciguayo_language
+	language = macorix_language
 	
 	color = map_macorix
 	

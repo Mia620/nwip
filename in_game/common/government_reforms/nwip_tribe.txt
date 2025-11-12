@@ -58,9 +58,13 @@ paramount_chiefdom = {
         monthly_towards_conciliatory = societal_value_monthly_move
         subjugation_preference_modifier = 0.25
 
+        #Negatives
+        global_estate_target_satisfaction = large_permanent_target_satisfaction_penalty
+
+
         #Positives
         tribes_estate_levy_size = 0.50
-        global_estate_power = -0.5
+        global_estate_power = -0.5 #The Ruler controls the goverment basically alone as there is no strong states But it is not Absolutism, it is meant to be pre-feudal"
         improve_relation_impact = 0.15              # better “Improve Relations”
     }
 
