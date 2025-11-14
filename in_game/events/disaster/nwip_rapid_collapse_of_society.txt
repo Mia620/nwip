@@ -37,7 +37,24 @@ rapid_collapse_of_society.2 = {
 		random_owned_location = {
 			limit = { population < 3.0 }
 			save_scope_as = selected_location
+			area = {
+				save_scope_as = selected_area
+			}
 		}
+		scope:selected_area = {
+			random_province_definition_in_area = {
+				limit = {
+					NOT = {
+						this = scope:selected_location.province_definition
+					}
+					any_location_in_province_definition = {
+						has_owner = no
+					}
+				}
+				save_scope_as = target_migration_province
+			}
+		}
+		
 	}
 
 	option = { # "Let it go"
@@ -54,14 +71,20 @@ rapid_collapse_of_society.2 = {
 		}
 		add_stability = stability_extreme_penalty
 		# friction costs to "cling on"
-		add_migration = {
-			owner ?= ROOT
-			from = scope:selected_location.province_definition
-			to = scope:selected_location.province_definition
-			type = pop_type:peasants
-			amount = 0.25
-			months = 18
+		if = {
+			limit = {
+				exists = scope:target_migration_province
+			}
+			add_migration = {
+				owner ?= ROOT
+				from = scope:selected_location.province_definition
+				to = scope:target_migration_province
+				type = pop_type:peasants
+				amount = 0.25
+				months = 18
+			}
 		}
+		
 		ai_chance = { factor = 0 }
 	}
 }
@@ -81,7 +104,16 @@ rapid_collapse_of_society.3 = {
 	immediate = {
 		random_owned_location = { save_scope_as = source_location }
 		source_location.area = { save_scope_as = source_area }
-		source_area = { random_location_in_area = { save_scope_as = sink_location } }
+		source_area = {
+			random_province_definition_in_area = {
+				limit = {
+					any_location_in_province_definition = {
+						has_owner = no
+					}
+				}
+				save_scope_as = sink_province
+			}
+		}
 	}
 
 	option = {
@@ -90,17 +122,17 @@ rapid_collapse_of_society.3 = {
 		add_migration = {
 			owner ?= ROOT
 			from = scope:source_location.province_definition
-			to   = scope:sink_location.province_definition
+			to   = scope:sink_province
 			type = pop_type:peasants
-			amount = 0.5
+			amount = 0.33
 			months = 24
 		}
 		add_migration = {
 			owner ?= ROOT
 			from = scope:source_location.province_definition
-			to   = scope:sink_location.province_definition
+			to   = scope:sink_province
 			type = pop_type:tribesmen
-			amount = 0.5
+			amount = 0.67
 			months = 24
 		}
 	}
@@ -159,14 +191,23 @@ rapid_collapse_of_society.101 = {
 		ruler ?= { save_scope_as = our_ruler }
 
 		# pick a plausible neighboring area as a sink
-		random_list = {
-			10 = { area:iowa_area       = { save_scope_as = rcs_area_sink } }
-			10 = { area:wisconsin       = { save_scope_as = rcs_area_sink } }
-			15 = { area:arkansas        = { save_scope_as = rcs_area_sink } }
-			5  = { area:mississippi     = { save_scope_as = rcs_area_sink } }
+		random_neighbor_area = {
+			limit = {
+				any_location_in_area = { has_owner = no }
+			}
+			save_scope_as = rcs_area_sink  
 		}
 
-		rcs_area_sink = { random_location_in_area = { save_scope_as = rcs_sink } }
+		scope:rcs_area_sink = {
+			random_province_definition_in_area = {
+				limit = {
+					any_location_in_province_definition = {
+						has_owner = no
+					}
+				}
+				save_scope_as = rcs_sink
+			}
+		}
 		random_owned_location = { save_scope_as = rcs_source }
 	}
 
@@ -179,7 +220,7 @@ rapid_collapse_of_society.101 = {
 		add_migration = {
 			owner ?= ROOT
 			from = scope:rcs_source.province_definition
-			to   = scope:rcs_sink.province_definition
+			to   = scope:rcs_sink
 			type = pop_type:peasants
 			amount = 0.33
 			months = 24
@@ -187,7 +228,7 @@ rapid_collapse_of_society.101 = {
 		add_migration = {
 			owner ?= ROOT
 			from = scope:rcs_source.province_definition
-			to   = scope:rcs_sink.province_definition
+			to   = scope:rcs_sink
 			type = pop_type:tribesmen
 			amount = 0.50
 			months = 24
@@ -195,7 +236,7 @@ rapid_collapse_of_society.101 = {
 		add_migration = {
 			owner ?= ROOT
 			from = scope:rcs_source.province_definition
-			to   = scope:rcs_sink.province_definition
+			to   = scope:rcs_sink
 			type = pop_type:laborers
 			amount = 0.20
 			months = 24
