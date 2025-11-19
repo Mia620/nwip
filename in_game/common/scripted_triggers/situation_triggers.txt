@@ -901,10 +901,6 @@ is_candidate_for_OW_good = {
 		num_pop_type:laborers > 1000
 		population > 2.0
 	}
-	#NWIP
-	raw_material ?= {
-		exists = yes
-	}
 	#Never replace certain goods
 	NOR = {
 		#Precious
@@ -940,10 +936,18 @@ is_candidate_for_OW_good = {
 	raw_material = {
 		save_temporary_scope_as = good_to_be_replaced_scope
 	}
+	#NWIP
+	scope:good_to_be_replaced_scope = {
+		exists = yes
+	}
 	market = {
 		#These resource are needed in bigger quantities so we require a bigger minimum of RGOs
 		trigger_if = {
 			limit = {
+				#NWIP
+				scope:good_to_be_replaced_scope = {
+					exists = yes
+				}
 				OR = {
 					scope:good_to_be_replaced_scope = goods:copper
 					scope:good_to_be_replaced_scope = goods:tin
