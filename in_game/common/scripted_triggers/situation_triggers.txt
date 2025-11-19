@@ -836,6 +836,10 @@ is_candidate_for_NW_good = {
 		num_pop_type:laborers > 1000
 		population > 2.0
 	}
+	#NWIP
+	raw_material ?= {
+		exists = yes
+	}
 	#Never replace certain goods
 	NOR = {
 		#Precious
@@ -896,6 +900,10 @@ is_candidate_for_OW_good = {
 		num_pop_type:peasants > 1000
 		num_pop_type:laborers > 1000
 		population > 2.0
+	}
+	#NWIP
+	raw_material ?= {
+		exists = yes
 	}
 	#Never replace certain goods
 	NOR = {
