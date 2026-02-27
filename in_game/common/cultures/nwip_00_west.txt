@@ -1,5 +1,5 @@
 tututni_culture = { #https://en.wikipedia.org/wiki/Tututni
-	language = pacific_athabaskan_dialect
+	language = pacific_athabaskan_language
 
 	color = map_tututni
 
@@ -14,7 +14,7 @@ tututni_culture = { #https://en.wikipedia.org/wiki/Tututni
 }
 
 tolowa_culture = { #https://en.wikipedia.org/wiki/Tolowa
-	language = pacific_athabaskan_dialect
+	language = pacific_athabaskan_language
 
 	color = map_tolowa
 
@@ -29,7 +29,7 @@ tolowa_culture = { #https://en.wikipedia.org/wiki/Tolowa
 }
 
 tsnungwe_culture = { #https://en.wikipedia.org/wiki/Tsnungwe
-	language = pacific_athabaskan_dialect
+	language = pacific_athabaskan_language
 
 	color = map_tsnungwe
 
@@ -44,7 +44,7 @@ tsnungwe_culture = { #https://en.wikipedia.org/wiki/Tsnungwe
 }
 
 mattole_culture = {
-	language = pacific_athabaskan_dialect
+	language = pacific_athabaskan_language
 
 	color = map_mattole
 
@@ -59,7 +59,7 @@ mattole_culture = {
 }
 
 nongatl_culture = {
-	language = pacific_athabaskan_dialect
+	language = pacific_athabaskan_language
 
 	color = map_nongatl
 
@@ -74,7 +74,7 @@ nongatl_culture = {
 }
 
 hupa_culture = { #https://en.wikipedia.org/wiki/Hupa
-	language = pacific_athabaskan_dialect
+	language = pacific_athabaskan_language
 
 	color = map_hupa
 
@@ -89,7 +89,7 @@ hupa_culture = { #https://en.wikipedia.org/wiki/Hupa
 }
 
 takelma_culture = { #https://en.wikipedia.org/wiki/Takelma
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_takelma
 
@@ -104,7 +104,7 @@ takelma_culture = { #https://en.wikipedia.org/wiki/Takelma
 }
 
 patwin_culture = {
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_patwin
 
@@ -119,7 +119,7 @@ patwin_culture = {
 }
 
 ohlone_culture = {
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_ohlone
 
@@ -134,7 +134,7 @@ ohlone_culture = {
 }
 
 kalapuyan_culture = { #https://en.wikipedia.org/wiki/Kalapuya
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_kalapuyan
 
@@ -149,7 +149,7 @@ kalapuyan_culture = { #https://en.wikipedia.org/wiki/Kalapuya
 }
 
 chinook_culture = { #https://en.wikipedia.org/wiki/Chinookan_peoples
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_chinook
 
@@ -164,7 +164,7 @@ chinook_culture = { #https://en.wikipedia.org/wiki/Chinookan_peoples
 }
 
 alsea_culture = { #https://en.wikipedia.org/wiki/Alsea
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_alsea
 
@@ -179,7 +179,7 @@ alsea_culture = { #https://en.wikipedia.org/wiki/Alsea
 }
 
 coos_culture = { #https://en.wikipedia.org/wiki/Coos_people
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_coosian
 
@@ -193,23 +193,8 @@ coos_culture = { #https://en.wikipedia.org/wiki/Coos_people
 	}
 }
 
-miwok_culture = {
-	language = outer_penutian_dialect
-
-	color = map_miwok
-
-	tags = { native_american_tag north_american_gfx american_gfx }
-
-	opinions = {
-	}
-
-	culture_groups = {
-		penutian_group
-	}
-}
-
 molalla_culture = {
-	language = outer_penutian_dialect
+	language = outer_penutian_language
 
 	color = map_molalla
 
@@ -223,8 +208,23 @@ molalla_culture = {
 	}
 }
 
+miwok_culture = {
+	language = inner_penutian_language
+
+	color = map_miwok
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		penutian_group
+	}
+}
+
 north_valley_yokut_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_north_valley_yokut
 
@@ -239,7 +239,7 @@ north_valley_yokut_culture = {
 }
 
 south_valley_yokut_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_south_valley_yokut
 
@@ -254,7 +254,7 @@ south_valley_yokut_culture = {
 }
 
 foothill_yokut_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_foothill_yokut
 
@@ -269,7 +269,7 @@ foothill_yokut_culture = {
 }
 
 tulumni_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_tulumni
 
@@ -284,7 +284,7 @@ tulumni_culture = {
 }
 
 maiduan_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_maiduan
 
@@ -299,7 +299,7 @@ maiduan_culture = {
 }
 
 nisenan_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_nisenan
 
@@ -314,7 +314,7 @@ nisenan_culture = {
 }
 
 koyoongkawi_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_koyoongkawi
 
@@ -329,7 +329,7 @@ koyoongkawi_culture = {
 }
 
 wintuan_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_wintuan
 
@@ -344,7 +344,7 @@ wintuan_culture = {
 }
 
 nomlaki_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_nomlaki
 
@@ -359,7 +359,7 @@ nomlaki_culture = {
 }
 
 ewksikni_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_ewksikni
 
@@ -374,7 +374,7 @@ ewksikni_culture = {
 }
 
 modokni_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_modokni
 
@@ -389,7 +389,7 @@ modokni_culture = {
 }
 
 sahaptin_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_sahaptin
 
@@ -404,7 +404,7 @@ sahaptin_culture = {
 }
 
 yakama_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_yakama
 
@@ -419,7 +419,7 @@ yakama_culture = {
 }
 
 nimiipuu_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_nimiipuu
 
@@ -434,7 +434,7 @@ nimiipuu_culture = {
 }
 
 palouse_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_palouse
 
@@ -449,7 +449,7 @@ palouse_culture = {
 }
 
 willetpoos_culture = {
-	language = inner_penutian_dialect
+	language = inner_penutian_language
 
 	color = map_willetpoos
 
@@ -464,7 +464,7 @@ willetpoos_culture = {
 }
 
 karuk_culture = {
-	language = northern_hokan_dialect
+	language = northern_hokan_language
 
 	color = map_karuk
 
@@ -479,7 +479,7 @@ karuk_culture = {
 }
 
 waashiw_culture = {
-	language = northern_hokan_dialect
+	language = northern_hokan_language
 
 	color = map_waashiw
 
@@ -494,7 +494,7 @@ waashiw_culture = {
 }
 
 achomawi_culture = {
-	language = northern_hokan_dialect
+	language = northern_hokan_language
 
 	color = map_achomawi
 
@@ -509,7 +509,7 @@ achomawi_culture = {
 }
 
 shastan_culture = {
-	language = northern_hokan_dialect
+	language = northern_hokan_language
 
 	color = map_shastan
 
@@ -524,7 +524,7 @@ shastan_culture = {
 }
 
 pomo_culture = { #https://en.wikipedia.org/wiki/Pomo
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_pomo
 
@@ -539,7 +539,7 @@ pomo_culture = { #https://en.wikipedia.org/wiki/Pomo
 }
 
 salinan_culture = { #https://en.wikipedia.org/wiki/Salinan
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_salinan
 
@@ -554,7 +554,7 @@ salinan_culture = { #https://en.wikipedia.org/wiki/Salinan
 }
 
 cochimi_culture = { #https://en.wikipedia.org/wiki/Cochim%C3%AD
-	language = southern_hokan_dialect
+	language = cochimi_hokan_language
 
 	color = map_cochimi
 
@@ -569,7 +569,7 @@ cochimi_culture = { #https://en.wikipedia.org/wiki/Cochim%C3%AD
 }
 
 cocopa_culture = { #Xawiƚƚ Kwñchawaay  https://en.wikipedia.org/wiki/Cocopah
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_cocopa
 
@@ -584,7 +584,7 @@ cocopa_culture = { #Xawiƚƚ Kwñchawaay  https://en.wikipedia.org/wiki/Cocopah
 }
 
 xalychidom_culture = { #https://en.wikipedia.org/wiki/Halchidhoma
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_xalychidom
 
@@ -599,7 +599,7 @@ xalychidom_culture = { #https://en.wikipedia.org/wiki/Halchidhoma
 }
 
 quechan_culture = { #https://en.wikipedia.org/wiki/Quechan
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_quechan
 
@@ -614,7 +614,7 @@ quechan_culture = { #https://en.wikipedia.org/wiki/Quechan
 }
 
 piipaash_culture = { #https://en.wikipedia.org/wiki/Maricopa_people
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_piipaash
 
@@ -629,7 +629,7 @@ piipaash_culture = { #https://en.wikipedia.org/wiki/Maricopa_people
 }
 
 guaicura_culture = {  #https://en.wikipedia.org/wiki/Guaycura_people
-	language = southern_hokan_dialect
+	language = waikuri_yukian_language
 
 	color = map_guaicura
 
@@ -644,7 +644,7 @@ guaicura_culture = {  #https://en.wikipedia.org/wiki/Guaycura_people
 }
 
 kiliwa_culture = { #Ko'leew https://en.wikipedia.org/wiki/Kiliwa_people
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_kiliwa
 
@@ -659,7 +659,7 @@ kiliwa_culture = { #Ko'leew https://en.wikipedia.org/wiki/Kiliwa_people
 }
 
 kumiai_culture = { #kumeyaay https://en.wikipedia.org/wiki/Kumeyaay
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_kumiai
 
@@ -674,7 +674,7 @@ kumiai_culture = { #kumeyaay https://en.wikipedia.org/wiki/Kumeyaay
 }
 
 mongui_culture = {
-	language = southern_hokan_dialect
+	language = cochimi_hokan_language
 
 	color = map_mongui
 
@@ -690,7 +690,7 @@ mongui_culture = {
 
 # TODO: Change Culture
 hohokam_culture = { #https://en.wikipedia.org/wiki/Hohokam
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_hohokam
 
@@ -707,7 +707,7 @@ hohokam_culture = { #https://en.wikipedia.org/wiki/Hohokam
 }
 
 paipai_culture = { #https://en.wikipedia.org/wiki/Paipai_people
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_paipai
 
@@ -722,7 +722,7 @@ paipai_culture = { #https://en.wikipedia.org/wiki/Paipai_people
 }
 
 pericu_culture = { #https://en.wikipedia.org/wiki/Peric%C3%BAes
-	language = southern_hokan_dialect
+	language = pericu_yukian_language
 
 	color = map_pericu
 
@@ -738,7 +738,7 @@ pericu_culture = { #https://en.wikipedia.org/wiki/Peric%C3%BAes
 
 # TODO: Change Culture
 seri_culture = { #https://en.wikipedia.org/wiki/Seri_people
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_seri
 
@@ -753,7 +753,7 @@ seri_culture = { #https://en.wikipedia.org/wiki/Seri_people
 }
 
 yavapai_culture = { #https://en.wikipedia.org/wiki/Yavapai
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_yavapai
 
@@ -768,7 +768,7 @@ yavapai_culture = { #https://en.wikipedia.org/wiki/Yavapai
 }
 
 hualapai_culture = { #https://en.wikipedia.org/wiki/Hualapai
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_hualapai
 
@@ -785,7 +785,7 @@ hualapai_culture = { #https://en.wikipedia.org/wiki/Hualapai
 }
 
 guasave_culture = {  #https://es.wikipedia.org/wiki/Guasaves
-	language = southern_hokan_dialect
+	language = yuman_hokan_language
 
 	color = map_guasave
 
@@ -795,5 +795,50 @@ guasave_culture = {  #https://es.wikipedia.org/wiki/Guasaves
 	}
 	culture_groups = {
 		yutonahua_group
+	}
+}
+
+yuki_culture = { #https://en.wikipedia.org/wiki/Yuki_people
+	language = yuki_yukian_language
+
+	color = map_yuki
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		yuki_group
+	}
+}
+
+wappo_culture = { #https://en.wikipedia.org/wiki/Wappo
+	language = wappo_yukian_language
+
+	color = map_wappo
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		yuki_group
+	}
+}
+
+chumash_culture = { #https://en.wikipedia.org/wiki/Chumash_people
+	language = chumashan_yukian_language
+
+	color = map_chumash
+
+	tags = { native_american_tag north_american_gfx american_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		chumashan_group
 	}
 }

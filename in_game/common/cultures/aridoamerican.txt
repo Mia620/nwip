@@ -273,7 +273,7 @@ yoli_culture = {  #https://es.wikipedia.org/wiki/Conchos
 }
 
 xumani_culture = {  #https://en.wikipedia.org/wiki/Jumanos
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_xumani
 	
@@ -287,7 +287,7 @@ xumani_culture = {  #https://en.wikipedia.org/wiki/Jumanos
 }
 
 toboso_culture = { #https://es.wikipedia.org/wiki/Tobosos
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_toboso
 	
@@ -427,7 +427,7 @@ quasmigdo_culture = { #Bidai #https://en.wikipedia.org/wiki/Bidai
 }
 
 ancestral_pueblo_culture = { #Hisatsinom  #https://en.wikipedia.org/wiki/Ancestral_Puebloans
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_ancestral_pueblo
 	

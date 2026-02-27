@@ -1,6 +1,6 @@
 ﻿#Salishan
 chehalis_culture = {
-	language = tsamosan_dialect
+	language = tsamosan_language
 
 	color = map_chehalis
 
@@ -15,7 +15,7 @@ chehalis_culture = {
 }
 
 tillamook_culture = {
-	language = tillamook_dialect
+	language = tillamook_language
 
 	color = map_tillamook
 
@@ -30,7 +30,7 @@ tillamook_culture = {
 }
 
 lushootseed_culture = {
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_lushootseed
 
@@ -45,7 +45,7 @@ lushootseed_culture = {
 }
 
 twana_culture = { #https://en.wikipedia.org/wiki/Twana
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_twana
 
@@ -60,7 +60,7 @@ twana_culture = { #https://en.wikipedia.org/wiki/Twana
 }
 
 halkomelem_culture = { #https://en.wikipedia.org/wiki/Halkomelem
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_halkomelem
 
@@ -75,7 +75,7 @@ halkomelem_culture = { #https://en.wikipedia.org/wiki/Halkomelem
 }
 
 sklallam_culture = { #https://en.wikipedia.org/wiki/Klallam_people
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_sklallam
 
@@ -90,7 +90,7 @@ sklallam_culture = { #https://en.wikipedia.org/wiki/Klallam_people
 }
 
 saanich_culture = { #https://en.wikipedia.org/wiki/Saanich_people
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_saanich
 
@@ -105,7 +105,7 @@ saanich_culture = { #https://en.wikipedia.org/wiki/Saanich_people
 }
 
 lummi_culture = { #https://en.wikipedia.org/wiki/Lummi_Nation
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_lummi
 
@@ -120,7 +120,7 @@ lummi_culture = { #https://en.wikipedia.org/wiki/Lummi_Nation
 }
 
 squamish_culture = {
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_squamish
 
@@ -135,7 +135,7 @@ squamish_culture = {
 }
 
 k_omoks_culture = {
-	language = central_salish_dialect
+	language = central_salish_language
 
 	color = map_k_omoks
 
@@ -150,7 +150,7 @@ k_omoks_culture = {
 }
 
 saleesh_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_saleesh
 
@@ -165,7 +165,7 @@ saleesh_culture = {
 }
 
 alene_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_alene
 
@@ -180,7 +180,7 @@ alene_culture = {
 }
 
 kalispel_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_kalispel
 
@@ -195,7 +195,7 @@ kalispel_culture = {
 }
 
 sinkiuse_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_sinkiuse
 
@@ -210,7 +210,7 @@ sinkiuse_culture = {
 }
 
 spokane_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_spokane
 
@@ -225,7 +225,7 @@ spokane_culture = {
 }
 
 okanagan_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_okanagan
 
@@ -240,7 +240,7 @@ okanagan_culture = {
 }
 
 sinixt_culture = {
-	language = southern_salish_dialect
+	language = southern_salish_language
 
 	color = map_sinixt
 
@@ -255,7 +255,7 @@ sinixt_culture = {
 }
 
 lillooet_culture = {
-	language = northern_salish_dialect
+	language = northern_salish_language
 
 	color = map_lillooet
 
@@ -270,7 +270,7 @@ lillooet_culture = {
 }
 
 nlakapamuk_culture = {
-	language = northern_salish_dialect
+	language = northern_salish_language
 
 	color = map_nlakapamuk
 
@@ -285,7 +285,7 @@ nlakapamuk_culture = {
 }
 
 shuswap_culture = {
-	language = northern_salish_dialect
+	language = northern_salish_language
 
 	color = map_shuswap
 
@@ -300,7 +300,7 @@ shuswap_culture = {
 }
 
 nuxalc_culture = {
-	language = nuxalk_dialect
+	language = nuxalk_language
 
 	color = map_nuxalc
 
@@ -317,7 +317,7 @@ nuxalc_culture = {
 # Wakashan
 
 makah_culture = {
-	language = southern_wakashan_dialect
+	language = southern_wakashan_language
 
 	color = map_makah
 
@@ -332,7 +332,7 @@ makah_culture = {
 }
 
 nootka_culture = {
-	language = southern_wakashan_dialect
+	language = southern_wakashan_language
 
 	color = map_nootka
 
@@ -347,7 +347,7 @@ nootka_culture = {
 }
 
 kwakiutl_culture = {
-	language = northern_wakashan_dialect
+	language = northern_wakashan_language
 
 	color = map_kwakiutl
 
@@ -362,7 +362,7 @@ kwakiutl_culture = {
 }
 
 oowekyala_culture = {
-	language = northern_wakashan_dialect
+	language = northern_wakashan_language
 
 	color = map_oowekyala
 
@@ -377,7 +377,7 @@ oowekyala_culture = {
 }
 
 heiltsuk_culture = {
-	language = northern_wakashan_dialect
+	language = northern_wakashan_language
 
 	color = map_heiltsuk
 
@@ -392,7 +392,7 @@ heiltsuk_culture = {
 }
 
 haisla_culture = {
-	language = northern_wakashan_dialect
+	language = northern_wakashan_language
 
 	color = map_haisla
 
@@ -407,7 +407,7 @@ haisla_culture = {
 }
 
 chilcotin_culture = {
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 
 	color = map_chilcotin
 

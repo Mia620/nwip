@@ -1,5 +1,5 @@
 ﻿tsatsaotine_culture = { 
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_tsatsaotine
 	
@@ -13,7 +13,7 @@
 }
 
 tlicho_culture = { 
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_tlicho
 	
@@ -27,7 +27,7 @@ tlicho_culture = {
 }
 
 dehcho_culture = { 
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_dehcho
 	
@@ -41,7 +41,7 @@ dehcho_culture = {
 }
 
 danezaa_culture = { 
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_danezaa
 	
@@ -111,7 +111,7 @@ nakoda_culture = {
 }
 
 tsuutina_culture = { 
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_tsuutina
 	
@@ -139,7 +139,7 @@ haaninin_culture = {
 }
 
 denesoline_culture = { 
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_denesoline
 	
@@ -612,7 +612,7 @@ inuit_culture = { #https://en.wikipedia.org/wiki/Inuit_culture
 }
 
 tinde_culture = { 
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_tinde
 
@@ -626,7 +626,7 @@ tinde_culture = {
 }
 
 hende_culture = { #Chiricahua Apache
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_hende
 
@@ -640,7 +640,7 @@ hende_culture = { #Chiricahua Apache
 }
 
 naadahende_culture = { #Mescalero Apache
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_naadahende
 
@@ -654,7 +654,7 @@ naadahende_culture = { #Mescalero Apache
 }
 
 lepai_nde_culture = { #Lipan Apache
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_lepai_nde
 
@@ -668,7 +668,7 @@ lepai_nde_culture = { #Lipan Apache
 }
 
 yattinde_culture = { #Plains Apache
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_yattinde
 
@@ -682,7 +682,7 @@ yattinde_culture = { #Plains Apache
 }
 
 inde_culture = { #Western Apache
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 	
 	color = map_inde
 

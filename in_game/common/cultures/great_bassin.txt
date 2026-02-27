@@ -15,7 +15,7 @@ nuuchi_culture = { #https://en.wikipedia.org/wiki/Ute_people
 }
 
 dine_culture = { #https://en.wikipedia.org/wiki/Navajo
-	language = southern_athabaskan_dialect
+	language = southern_athabaskan_language
 
 	color = map_dine
 
@@ -294,21 +294,6 @@ taxliswet_culture = {
 	}
 }
 
-chumash_culture = { #https://en.wikipedia.org/wiki/Chumash_people
-	language = chumashan_language
-
-	color = map_chumash
-
-	tags = { native_american_tag north_american_gfx american_gfx }
-
-	opinions = {
-	}
-
-	culture_groups = {
-		chumashan_group
-	}
-}
-
 tongva_culture = { #https://en.wikipedia.org/wiki/Tongva
 	language = takic_language
 
@@ -366,35 +351,5 @@ wiyot_culture = {
 
 	culture_groups = {
 		algic_group
-	}
-}
-
-yuki_culture = { #https://en.wikipedia.org/wiki/Yuki_people
-	language = yuki_language
-
-	color = map_yuki
-
-	tags = { native_american_tag north_american_gfx american_gfx }
-
-	opinions = {
-	}
-
-	culture_groups = {
-		yuki_group
-	}
-}
-
-wappo_culture = { #https://en.wikipedia.org/wiki/Wappo
-	language = yuki_language
-
-	color = map_wappo
-
-	tags = { native_american_tag north_american_gfx american_gfx }
-
-	opinions = {
-	}
-
-	culture_groups = {
-		yuki_group
 	}
 }

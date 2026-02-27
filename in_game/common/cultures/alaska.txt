@@ -1,6 +1,6 @@
 ﻿
 dakelh_culture = {  #https://en.wikipedia.org/wiki/Dakelh
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_dakelh
 	
@@ -14,7 +14,7 @@ dakelh_culture = {  #https://en.wikipedia.org/wiki/Dakelh
 }
 
 wetsuweten_culture = {  #https://en.wikipedia.org/wiki/Wet%CA%BCsuwet%CA%BCen
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_wetsuweten
 	
@@ -28,7 +28,7 @@ wetsuweten_culture = {  #https://en.wikipedia.org/wiki/Wet%CA%BCsuwet%CA%BCen
 }
 
 sekani_culture = {  #https://en.wikipedia.org/wiki/Sekani
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_sekani
 	
@@ -42,7 +42,7 @@ sekani_culture = {  #https://en.wikipedia.org/wiki/Sekani
 }
 
 dunezza_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_dunezza
 	
@@ -84,7 +84,7 @@ haida_culture = {
 }
 
 ingalik_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_ingalik
 	
@@ -98,7 +98,7 @@ ingalik_culture = {
 }
 
 nahani_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_nahani
 	
@@ -112,7 +112,7 @@ nahani_culture = {
 }
 
 kaska_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_kaska
 	
@@ -126,7 +126,7 @@ kaska_culture = {
 }
 
 tlingit_culture = {  
-	language = tlingit_dialect
+	language = tlingit_language
 	
 	color = map_tlingit
 	
@@ -140,7 +140,7 @@ tlingit_culture = {
 }
 
 eyak_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_eyak
 	
@@ -154,7 +154,7 @@ eyak_culture = {
 }
 
 tanaina_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_tanaina
 	
@@ -169,7 +169,7 @@ tanaina_culture = {
 }
 
 koyukon_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_koyukon
 	
@@ -183,7 +183,7 @@ koyukon_culture = {
 }
 
 tanana_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_tanana
 	
@@ -197,7 +197,7 @@ tanana_culture = {
 }
 
 nabesna_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_nabesna
 	
@@ -212,7 +212,7 @@ nabesna_culture = {
 }
 
 ahtna_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_ahtna
 	
@@ -226,7 +226,7 @@ ahtna_culture = {
 }
 
 dan_ke_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_dan_ke
 	
@@ -240,7 +240,7 @@ dan_ke_culture = {
 }
 
 dan_ki_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_dan_ki
 	
@@ -254,7 +254,7 @@ dan_ki_culture = {
 }
 
 haen_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_haen
 	
@@ -268,7 +268,7 @@ haen_culture = {
 }
 
 gwichin_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_gwichin
 	
@@ -282,7 +282,7 @@ gwichin_culture = {
 }
 
 sahtu_culture = {  
-	language = northern_athabaskan_dialect
+	language = northern_athabaskan_language
 	
 	color = map_sahtu
 	
