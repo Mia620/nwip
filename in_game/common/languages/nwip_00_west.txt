@@ -1,0 +1,70 @@
+penutian_language = { #https://en.wikipedia.org/wiki/Penutian_languages
+	color = map_penutian
+
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+	dialects = {
+		inner_penutian_dialect = {}
+		outer_penutian_dialect = {}
+	}
+
+}
+
+hokan_language = {
+
+	color = map_hokan
+
+	male_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	female_names = {
+		#Seri
+		Zaaj_acaiila Paailc_haacot Xpanohax Hasixp Haxol_iihom Xapoo_eaah Hajhax Cyazim Sacpatix
+		Haanc Hatquisa Taaij_it Xniizc Tacata Heeme Hast_hax Soosni_itaa
+		#Words, not really Names
+		Tejueg Kuak Kabiak Nauwi Huipe Wami Waki Ethat Epang Konga Tasi
+		Cala Rimarai Hwat Akal Acit Kauwak Humok Supap Serap Apa Yesak
+		Inya Hexa Erkah Kwakwas Kwinyir Asitam Xuwaga Humuga Hopa Thetrapa
+		Pakri Ahat Inyaa Hala Aha Nyimsava Agwatheg Ahwotiga Inyaga Mecil Hauwak
+		Hamiik Minuk Seltipum Nickume Yisko That Hulaa Ehaa Kwal Xnyiil
+		Chin Huak Chepap Sarap Ikuch Sinya Hut Enya Hallai Ha
+		Sinyaok Xatk Xalyaa Axa Nyimasava Kwesam Hwetam Nilyig Seto Havik
+		Hamok Chumpap Tharap Iipa Thinyaaak Hatchoq Anya Halya Nyamasav Aqwath
+		Ahwat Anyaaily Acitdek Kowuk Homuk
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+
+	dialects = {
+		northern_hokan_dialect = {}
+		southern_hokan_dialect = {}
+	}
+
+}

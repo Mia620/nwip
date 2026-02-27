@@ -1,0 +1,29 @@
+﻿l_english:
+  # North West
+    # Salishan
+ #salishan_language: "Salishan"
+ tillamook_dialect: "Tillamook"
+ nuxalk_dialect: "Nuxalk"
+ southern_salish_dialect: "Southern Salishan"
+ northern_salish_dialect: "Northern Salishan"
+ central_salish_dialect: "Central Salishan"
+ tsamosan_dialect: "Tsamosan"
+    # Wakashan
+#wakashan_language: "Wakashan"
+ northern_wakashan_dialect: "Northern Wakashan"
+ southern_wakashan_dialect: "Southern Wakashan"
+ # West
+    # Na-dene
+ #nadene_language: "Na-dené"
+ northern_athabaskan_dialect: "Northern Athabaskan"
+ southern_athabaskan_dialect: "Southern Athabaskan"
+ pacific_athabaskan_dialect: "Pacific Athabaskan"
+ tlingit_dialect: "Tlingit"
+     # Penutian
+ #penutian_language: "Penutian"
+ inner_penutian_dialect: "Inner Penutian"
+ outer_penutian_dialect: "Outer Penutian"
+    # Hokan
+ #hokan: "Hokan"
+ northern_hokan_dialect: "Northern Hokan"
+ southern_hokan_dialect: "Southern Hokan"

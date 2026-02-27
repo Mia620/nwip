@@ -1,0 +1,86 @@
+﻿# https://en.wikipedia.org/wiki/Salishan_languages
+salishan_language = {
+	color = map_salishan
+
+	# Default Paradox's Salishan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+	dialects = {
+		tillamook_dialect = {}
+		nuxalk_dialect = {}
+		southern_salish_dialect = {}
+		northern_salish_dialect = {}
+		central_salish_dialect = {}
+		tsamosan_dialect = {}
+	}
+}
+
+wakashan_language = {
+	color = map_wakashan
+
+	# Default Paradox's Wakashan Names
+	male_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+		Tsanda Tsiri Uakusi Uetsini
+	}
+	female_names = {
+		Arameni Atzimba Auanda Erendirani Ireri Itzigueri Itzuri Janikua Lime Parhi Tamarhu
+		Tariarani Tinskani Tsipekua Xarhini
+	}
+	dynasty_names = {
+		Andarani Arhirani Atachi Atari Irepan Itsi Janitzio Orhepani Taki Tarheri Tiriapu
+	}
+	lowborn = {
+	}
+
+	dialects = {
+		northern_wakashan_dialect = {}
+		southern_wakashan_dialect = {}
+	}
+}
+
+nadene_language = {
+	color = map_denesoline
+
+	male_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Sitahle Oahtekah Ahzaah Kootzzah Moketaveto Ohtoahnesotowheo Harkkahome Munamenek Otoahnisto Mahvipah Choseta
+		Nahtan Konzhontaco Bazheech Tillaka Chacon Dasoda-Hae Cochise Delshay Goyaale Juh
+	}
+	female_names = {
+		#Navajo
+		Altsoba Anaba Dezba Doba Doli Haloke Hazhoni Kai Kaibah Manaba Nanabah
+		Nascha Nizhona Nizhoni Sakhyo Tahnazbah Atsidi Bisahalani Bizhoshi Hosteen Kilchii
+		Klah Nabahe Nantai Sani Tahoma Toh_Yah Totsoni Tsela
+
+		Dahteste Ilthgozay Gouyen Lozen Tohayea
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+	}
+
+	dialects = {
+		northern_athabaskan_dialect = {}
+		southern_athabaskan_dialect = {}
+		pacific_athabaskan_dialect = {}
+		tlingit_dialect = {}
+	}
+}
