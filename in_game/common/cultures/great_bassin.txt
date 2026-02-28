@@ -1,6 +1,6 @@
 
 nuuchi_culture = { #https://en.wikipedia.org/wiki/Ute_people
-	language = nuuchi_nuwu_language
+	language = numic_utoaztecan_language
 
 	color = map_nuuchi
 
@@ -30,7 +30,7 @@ dine_culture = { #https://en.wikipedia.org/wiki/Navajo
 }
 
 nuwuvi_culture = {
-	language = nuuchi_nuwu_language
+	language = numic_utoaztecan_language
 
 	color = map_nuwuvi
 
@@ -45,7 +45,7 @@ nuwuvi_culture = {
 }
 
 nuwuvu_culture = {
-	language = nuuchi_nuwu_language
+	language = numic_utoaztecan_language
 
 	color = map_nuwuvu
 
@@ -60,7 +60,7 @@ nuwuvu_culture = {
 }
 
 kawaiisu_culture = {
-	language = nuuchi_nuwu_language
+	language = numic_utoaztecan_language
 
 	color = map_kawaiisu
 
@@ -75,7 +75,7 @@ kawaiisu_culture = {
 }
 
 agaideka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_agaideka
 
@@ -90,7 +90,7 @@ agaideka_culture = {
 }
 
 tukudeka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_tukudeka
 
@@ -105,7 +105,7 @@ tukudeka_culture = {
 }
 
 bannock_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_bannock
 
@@ -120,7 +120,7 @@ bannock_culture = {
 }
 
 kuccuntikka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_kuccuntikka
 
@@ -135,7 +135,7 @@ kuccuntikka_culture = {
 }
 
 penkwitikka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_penkwitikka
 
@@ -150,7 +150,7 @@ penkwitikka_culture = {
 }
 
 kusiutta_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_kusiutta
 
@@ -165,7 +165,7 @@ kusiutta_culture = {
 }
 
 tetadeka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_tetadeka
 
@@ -180,7 +180,7 @@ tetadeka_culture = {
 }
 
 haivodika_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_haivodika
 
@@ -195,7 +195,7 @@ haivodika_culture = {
 }
 
 watatikka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_watatikka
 
@@ -210,7 +210,7 @@ watatikka_culture = {
 }
 
 wiyimpihtikka_culture = {
-	language = shoshoni_language
+	language = numic_utoaztecan_language
 
 	color = map_wiyimpihtikka
 
@@ -222,7 +222,7 @@ wiyimpihtikka_culture = {
 }
 
 numu_culture = {
-	language = paiute_language
+	language = numic_utoaztecan_language
 
 	color = map_numu
 
@@ -237,7 +237,7 @@ numu_culture = {
 }
 
 monachi_culture = {
-	language = paiute_language
+	language = numic_utoaztecan_language
 
 	color = map_monachi
 
@@ -252,7 +252,7 @@ monachi_culture = {
 }
 
 taaqtam_culture = {
-	language = takic_language
+	language = takic_utoaztecan_language
 
 	color = map_taaqtam
 
@@ -267,7 +267,7 @@ taaqtam_culture = {
 }
 
 timbisha_culture = {
-	language = takic_language
+	language = numic_utoaztecan_language
 
 	color = map_timbisha
 
@@ -280,7 +280,7 @@ timbisha_culture = {
 }
 
 taxliswet_culture = {
-	language = takic_language
+	language = takic_utoaztecan_language
 
 	color = map_taxliswet
 
@@ -295,7 +295,7 @@ taxliswet_culture = {
 }
 
 tongva_culture = { #https://en.wikipedia.org/wiki/Tongva
-	language = takic_language
+	language = takic_utoaztecan_language
 
 	color = map_tongva
 

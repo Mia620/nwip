@@ -688,9 +688,8 @@ mongui_culture = {
 	}
 }
 
-# TODO: Change Culture
 hohokam_culture = { #https://en.wikipedia.org/wiki/Hohokam
-	language = yuman_hokan_language
+	language = tepiman_utoaztecan_language
 
 	color = map_hohokam
 
@@ -736,9 +735,8 @@ pericu_culture = { #https://en.wikipedia.org/wiki/Peric%C3%BAes
 	}
 }
 
-# TODO: Change Culture
 seri_culture = { #https://en.wikipedia.org/wiki/Seri_people
-	language = yuman_hokan_language
+	language = comcaac_language
 
 	color = map_seri
 
@@ -785,7 +783,7 @@ hualapai_culture = { #https://en.wikipedia.org/wiki/Hualapai
 }
 
 guasave_culture = {  #https://es.wikipedia.org/wiki/Guasaves
-	language = yuman_hokan_language
+	language = tarahumaran_utoaztecan_language
 
 	color = map_guasave
 

@@ -1,6 +1,6 @@
 ﻿
 acaxee_culture = { #https://en.wikipedia.org/wiki/Acaxee 
-	language = cahita_language
+	language = tarahumaran_utoaztecan_language
 	
 	color = map_acaxee
 	
@@ -15,7 +15,7 @@ acaxee_culture = { #https://en.wikipedia.org/wiki/Acaxee
 }
 
 guarijio_culture = { #Macurawe  https://en.wikipedia.org/wiki/Guarijio_people
-	language = tarahumaran_language
+	language = tarahumaran_utoaztecan_language
 	
 	color = map_guarijio
 	
@@ -30,7 +30,7 @@ guarijio_culture = { #Macurawe  https://en.wikipedia.org/wiki/Guarijio_people
 }
 
 huichol_culture = { #Wixárikas #https://en.wikipedia.org/wiki/Huichol 
-	language = corachol_language
+	language = coracholan_utoaztecan_language
 	
 	color = map_huichol
 	
@@ -45,7 +45,7 @@ huichol_culture = { #Wixárikas #https://en.wikipedia.org/wiki/Huichol
 }
 
 naayeri_culture = { #https://en.wikipedia.org/wiki/Cora_people
-	language = corachol_language
+	language = coracholan_utoaztecan_language
 	
 	color = map_naayeri
 	
@@ -60,7 +60,7 @@ naayeri_culture = { #https://en.wikipedia.org/wiki/Cora_people
 }
 
 mayo_culture = { #Yoreme  https://en.wikipedia.org/wiki/Mayo_people
-	language = cahita_language
+	language = cahitan_utoaztecan_language
 	
 	color = map_mayo
 	
@@ -75,7 +75,7 @@ mayo_culture = { #Yoreme  https://en.wikipedia.org/wiki/Mayo_people
 }
 
 opata_culture = { #https://en.wikipedia.org/wiki/Opata_people
-	language = opata_language
+	language = opatan_utoaztecan_language
 	
 	color = map_opata
 	
@@ -90,7 +90,7 @@ opata_culture = { #https://en.wikipedia.org/wiki/Opata_people
 }
 
 pima_culture = { #Othama  https://en.wikipedia.org/wiki/Akimel_O%27odham
-	language = tepiman_language
+	language = tepiman_utoaztecan_language
 	
 	color = map_pima
 	
@@ -105,7 +105,7 @@ pima_culture = { #Othama  https://en.wikipedia.org/wiki/Akimel_O%27odham
 }
 
 raramuri_culture = { #https://en.wikipedia.org/wiki/Rar%C3%A1muri
-	language = tarahumaran_language
+	language = tarahumaran_utoaztecan_language
 	
 	color = map_raramuri
 	
@@ -120,7 +120,7 @@ raramuri_culture = { #https://en.wikipedia.org/wiki/Rar%C3%A1muri
 }
 
 yaqui_culture = { #Yoreme https://en.wikipedia.org/wiki/Yaqui
-	language = cahita_language
+	language = cahitan_utoaztecan_language
 	
 	color = map_yaqui
 	
@@ -135,7 +135,7 @@ yaqui_culture = { #Yoreme https://en.wikipedia.org/wiki/Yaqui
 }
 
 hopi_culture = { #https://en.wikipedia.org/wiki/Hopi
-	language = hopi_language
+	language = numic_utoaztecan_language
 	
 	color = map_hopi
 	
@@ -203,7 +203,7 @@ tanoan_culture = {  #https://en.wikipedia.org/wiki/Tanoan_languages
 }
 
 totorame_culture = {  #https://indigenousmexico.org/sinaloa/the-original-indigenous-people-of-sinaloa/
-	language = corachol_language
+	language = coracholan_utoaztecan_language
 	
 	color = map_totorame
 	
@@ -217,7 +217,7 @@ totorame_culture = {  #https://indigenousmexico.org/sinaloa/the-original-indigen
 }
 
 xixime_culture = {  #https://en.wikipedia.org/wiki/Xiximes
-	language = tarahumaran_language
+	language = tarahumaran_utoaztecan_language
 	
 	color = map_xixime
 	
@@ -231,7 +231,7 @@ xixime_culture = {  #https://en.wikipedia.org/wiki/Xiximes
 }
 
 tahue_culture = {  #https://es.wikipedia.org/wiki/Tahues
-	language = tarahumaran_language
+	language = tarahumaran_utoaztecan_language
 	
 	color = map_tahue
 	
@@ -245,7 +245,7 @@ tahue_culture = {  #https://es.wikipedia.org/wiki/Tahues
 }
 
 tepehuan_culture = {  #https://en.wikipedia.org/wiki/Tepehu%C3%A1n #O'dam
-	language = tepiman_language
+	language = tepiman_utoaztecan_language
 	
 	color = map_tepehuan
 	
@@ -259,7 +259,7 @@ tepehuan_culture = {  #https://en.wikipedia.org/wiki/Tepehu%C3%A1n #O'dam
 }
 
 yoli_culture = {  #https://es.wikipedia.org/wiki/Conchos
-	language = tarahumaran_language
+	language = tarahumaran_utoaztecan_language
 	
 	color = map_yoli
 	
@@ -301,7 +301,7 @@ toboso_culture = { #https://es.wikipedia.org/wiki/Tobosos
 }
 
 irritila_culture = { #https://es.wikipedia.org/wiki/Irritila
-	language = nahuatl_language
+	language = nahuan_utoaztecan_language
 	
 	color = map_irritila
 	
